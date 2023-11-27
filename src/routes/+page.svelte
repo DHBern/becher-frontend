@@ -19,17 +19,13 @@
 		</figure>
 		<!-- / -->
 		<div class="flex justify-center space-x-2">
-			<a
-				class="btn variant-filled"
-				href="https://skeleton.dev/"
-				target="_blank"
-				rel="noreferrer"
-			>
+			<a class="btn variant-filled" href="https://skeleton.dev/" target="_blank" rel="noreferrer">
 				Launch Documentation
 			</a>
 		</div>
 		<div class="space-y-2">
 			<p>Try editing the following:</p>
+			test<i class="fa-solid fa-heart"></i>test
 			<p><code class="code">/src/routes/+layout.svelte</code></p>
 			<p><code class="code">/src/routes/+page.svelte</code></p>
 		</div>
@@ -46,7 +42,8 @@
 	}
 	.img-bg {
 		@apply absolute z-[-1] rounded-full blur-[50px] transition-all;
-		animation: pulse 5s cubic-bezier(0, 0, 0, 0.5) infinite,
+		animation:
+			pulse 5s cubic-bezier(0, 0, 0, 0.5) infinite,
 			glow 5s linear infinite;
 	}
 	@keyframes glow {
