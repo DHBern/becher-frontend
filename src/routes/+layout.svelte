@@ -15,16 +15,16 @@
 <AppShell>
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
-		<AppBar>
+		<AppBar padding="px-4" slotDefault="h-full">
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">Logo</strong>
+				<strong class="text-xl uppercase py-4">Logo</strong>
 			</svelte:fragment>
-			<nav class="flex-none flex items-center space-x-4">
-				<a href="/" class="list-nav-item {classesActive('/')}  rounded-full p-2">Home</a>
-				<a href="/about" class="list-nav-item {classesActive('/about')} rounded-full p-2">About</a>
+			<nav class="flex-none flex items-center h-full">
+				<a href="/" class="list-nav-item h-full {classesActive('/')} p-4">Home</a>
+				<a href="/about" class="list-nav-item h-full {classesActive('/about')} p-4">About</a>
 			</nav>
 			<svelte:fragment slot="trail">
-				<button>
+				<button class="lg:!hidden btn-icon">
 					<i class="fa-solid fa-bars"></i>
 				</button>
 			</svelte:fragment>
