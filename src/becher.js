@@ -5,7 +5,8 @@ export const becher = {
 		'--theme-font-family-base': `'Montserrat', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'`,
 		'--theme-font-family-heading': `'Libre Baskerville', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif`,
 		'--theme-font-color-base': 'var(--color-primary-500)',
-		'--theme-font-color-dark': 'var(--color-secondary-500)',
+		// '--theme-font-color-dark': 'var(--color-secondary-500)',
+		'--theme-font-color-dark': 'black',
 		'--theme-rounded-base': '9999px',
 		'--theme-rounded-container': '8px',
 		'--theme-border-base': '1px',
@@ -84,16 +85,16 @@ export const becher = {
 		'--color-error-700': '159 19 89', // #9f1359
 		'--color-error-800': '127 15 71', // #7f0f47
 		'--color-error-900': '104 12 58', // #680c3a
-		// surface | #CCCCCC
-		'--color-surface-50': '247 247 247', // #f7f7f7
-		'--color-surface-100': '245 245 245', // #f5f5f5
-		'--color-surface-200': '242 242 242', // #f2f2f2
-		'--color-surface-300': '235 235 235', // #ebebeb
-		'--color-surface-400': '219 219 219', // #dbdbdb
-		'--color-surface-500': '204 204 204', // #CCCCCC
-		'--color-surface-600': '184 184 184', // #b8b8b8
-		'--color-surface-700': '153 153 153', // #999999
-		'--color-surface-800': '122 122 122', // #7a7a7a
-		'--color-surface-900': '100 100 100' // #646464
+		// surface | #E6E6E6
+		'--color-surface-50': '252 252 252', //
+		'--color-surface-100': '250 250 250', // #fafafa
+		'--color-surface-200': '245 245 245', // #f5f5f5
+		'--color-surface-300': '237 237 237', // #EDEDED
+		'--color-surface-400': '232 232 232', // #E8E8E8
+		'--color-surface-500': '227 227 227', // #E3E3E3
+		'--color-surface-600': '222 222 222', // #DEDEDE
+		'--color-surface-700': '214 214 214', // #D6D6D6
+		'--color-surface-800': '209 209 209', // #D1D1D1
+		'--color-surface-900': '204 204 204' // #CCCCCC
 	}
 };
