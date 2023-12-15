@@ -16,7 +16,7 @@
 
 	$: classesActive = (/** @type {string} */ href) =>
 		href === $page.url.pathname
-			? '!bg-primary-500 hover:text-primary-400'
+			? 'bg-primary-500 hover:text-primary-400 text-secondary-500'
 			: 'hover:text-primary-500';
 
 	function drawerOpen() {
