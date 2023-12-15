@@ -2,8 +2,8 @@
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 </script>
 
-<ContentContainer class="flex">
-	<div class="">
+<ContentContainer class="flex" dark>
+	<div>
 		<h1 class="h1">Ulrich Becher Digital</h1>
 		<p>
 			digitale Sammlung zum Werk Ulrich Bechers im Schweizerischen Literaturarchiv und im Deutschen
@@ -16,7 +16,13 @@
 		alt="Ulrich Becher in Basel"
 	/>
 </ContentContainer>
-<div style="background: blue; height:50px;"></div>
+<ContentContainer class="mt-4" dark>
+	<h2 class="h2">Virtueller Katalog</h2>
+</ContentContainer>
+<ContentContainer class="mt-4">
+<p>es werden 16 Elemente angezeigt. 13 aus dem SLA, 3 aus dem DEA</p>
+grid
+</ContentContainer>
 
 <style lang="postcss">
 	.featured-image {
