@@ -5,6 +5,11 @@
 	export let dark = false;
 </script>
 
-<div class="w-full p-8 {dark ? 'bg-primary-500 text-secondary-500' : ''} {className}">
-	<slot />
+<div class="w-full p-8 {dark ? 'bg-primary-500 text-secondary-500' : ''}">
+	<div class="container mx-auto {className}">
+		<slot />
+	</div>
 </div>
+
+<style lang="postcss">
+</style>

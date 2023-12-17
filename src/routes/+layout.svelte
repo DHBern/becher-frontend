@@ -42,7 +42,7 @@
 	</nav></Drawer
 >
 <!-- App Shell -->
-<AppShell slotFooter="bg-secondary-500 p-4">
+<AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<AppBar padding="px-4" slotDefault="h-full">
