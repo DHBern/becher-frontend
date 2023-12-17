@@ -5,11 +5,11 @@
 	export let dark = false;
 </script>
 
-<div class="w-full p-8 {dark ? 'bg-primary-500 text-secondary-500' : ''}">
+<section class="w-full p-8 {dark ? 'bg-primary-500 text-secondary-500' : ''}">
 	<div class="container mx-auto {className}">
 		<slot />
 	</div>
-</div>
+</section>
 
 <style lang="postcss">
 </style>
