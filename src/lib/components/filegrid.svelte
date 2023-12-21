@@ -1,6 +1,7 @@
 <script>
     import { RecursiveTreeView } from "@skeletonlabs/skeleton";
-    import { nodes } from "$lib/treeContent";
+    
+    export let nodes;
     /**
      * @type {string[]}
     */

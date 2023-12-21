@@ -1,6 +1,7 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Filegrid from '$lib/components/Filegrid.svelte';
+    import { nodes } from "$lib/treeContent";
 </script>
 
 <ContentContainer
@@ -24,7 +25,7 @@
 </ContentContainer>
 <ContentContainer dark>
 	<h2 class="h2">Virtueller Katalog</h2>
-	<Filegrid />
+	<Filegrid nodes={nodes}/>
 </ContentContainer>
 <ContentContainer>
 	<p>es werden 16 Elemente angezeigt. 13 aus dem SLA, 3 aus dem DEA</p>
