@@ -1,6 +1,9 @@
 <script>
     import { RecursiveTreeView } from "@skeletonlabs/skeleton";
     
+    /**
+     * @type {import("@skeletonlabs/skeleton").TreeViewNode[]}
+     */
     export let nodes;
     /**
      * @type {string[]}

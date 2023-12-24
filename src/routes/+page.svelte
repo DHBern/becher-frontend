@@ -1,7 +1,15 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Filegrid from '$lib/components/Filegrid.svelte';
+	import Search from '$lib/components/Search.svelte';
+	import RelatedItems from '$lib/components/RelatedItems.svelte';
     import { nodes } from "$lib/treeContent";
+
+	/**
+	 * @type {string[]} 
+	 */
+	const searchFilterArray = ["Title", "Signatur", "Datierung", "Author", "Ort", "Beschreibung", "SLA", "DEA"];
+
 </script>
 
 <ContentContainer
@@ -25,7 +33,15 @@
 </ContentContainer>
 <ContentContainer dark>
 	<h2 class="h2">Virtueller Katalog</h2>
-	<Filegrid nodes={nodes}/>
+
+	<div class="flex">
+		<Filegrid nodes={nodes}/>
+		<form class='form w-1/2'>
+			<Search />
+			<RelatedItems array={searchFilterArray}/>
+		</form>
+	</div>
+
 </ContentContainer>
 <ContentContainer>
 	<p>es werden 16 Elemente angezeigt. 13 aus dem SLA, 3 aus dem DEA</p>
