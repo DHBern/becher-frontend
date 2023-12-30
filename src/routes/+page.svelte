@@ -1,14 +1,22 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
-	import Filegrid from '$lib/components/Filegrid.svelte';
-	import Search from '$lib/components/Search.svelte';
 	import RelatedItems from '$lib/components/RelatedItems.svelte';
     import { nodes } from "$lib/treeContent";
+	import { RecursiveTreeView } from "@skeletonlabs/skeleton";
 
 	/**
 	 * @type {string[]} 
 	 */
-	const searchFilterArray = ["Title", "Signatur", "Datierung", "Author", "Ort", "Beschreibung", "SLA", "DEA"];
+	const searchFilterArray = ["Titel", "Signatur", "Datierung", "Author", "Ort", "Beschreibung", "SLA", "DEA"];
+
+    /**
+     * @type {string[]}
+    */
+    let checkedNodes;
+    /**
+     * @type {string[]}
+    */
+    let indeterminateNodes;
 
 </script>
 
@@ -32,12 +40,17 @@
 	</div>
 </ContentContainer>
 <ContentContainer dark>
-	<h2 class="h2">Virtueller Katalog</h2>
+	<h2 class="h2 mb-4">Virtueller Katalog</h2>
 
-	<div class="flex">
-		<Filegrid nodes={nodes}/>
-		<form class='form w-1/2'>
-			<Search />
+	<div class="flex flex-col sm:flex-row">
+		<div class = 'w-full sm:w-1/2 mb-4 sm:mb-0'>
+			<RecursiveTreeView selection multiple relational {nodes} bind:checkedNodes={checkedNodes} bind:indeterminateNodes={indeterminateNodes} />
+		</div>
+		<form class='w-full lg:w-1/2'>
+			<label>
+				<input class="input text-primary-500 p-6 placeholder-primary-500" type="text" placeholder="Dies ist der Suchtext..." />
+			 </label>
+			
 			<RelatedItems array={searchFilterArray}/>
 		</form>
 	</div>

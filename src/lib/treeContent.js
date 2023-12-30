@@ -1,78 +1,78 @@
 /**
  * A tree node.
  * @typedef {Object} TreeNode
- * @property {string} id
+ * @property {number} id
  * @property {string} content
  * @property {string} value
  * @property {TreeNode[]} [children]
  */
 export const nodes = [
   {
-    id: 'Werke',
+    id: '0',
     content: 'Werke',
     value: 'Werke',
     children: [
       {
-        id: 'Erzählungen',
+        id: '00',
         content: 'Erzählungen',
         value: 'Erzählungen',
       },
       {
-        id: 'Romane',
+        id: '01',
         content: 'Romane',
         value: 'Romane',
       },
       {
-        id: 'Gedichte und Versepen',
+        id: '02',
         content: 'Gedichte und Versepen',
         value: 'Gedichte und Versepen',
       },
       {
-        id: 'Dramen',
+        id: '03',
         content: 'Dramen',
         value: 'Dramen',
       },
     ],
   },
   {
-    id: 'Briefe',
+    id: '1',
     content: 'Briefe',
     value: 'Briefe',
   },
   {
-    id: 'Lebensdokumente',
+    id: '2',
     content: 'Lebensdokumente',
     value: 'Lebensdokumente',
     children: [
       {
-        id: 'Persönliche Dokumente',
+        id: '20',
         content: 'Persönliche Dokumente',
         value: 'Persönliche Dokumente',
       },
       {
-        id: 'Berufliche Dokumente',
+        id: '21',
         content: 'Berufliche Dokumente',
         value: 'Berufliche Dokumente',
         children: [
           {
-            id: 'Persönliche Dokumente',
+            id: '210',
             content: 'Persönliche Dokumente',
             value: 'Persönliche Dokumente',
           },
           {
-            id: 'Berufliche Dokumente',
+            id: '211',
             content: 'Berufliche Dokumente',
             value: 'Berufliche Dokumente',
           },
           {
-            id: 'Familie',
+            id: '212',
             content: 'Familie',
             value: 'Familie',
           },
         ],
       },
       {
-        id: 'Familie',
+        id: '22',
         content: 'Familie',
         value: 'Familie',
       },
