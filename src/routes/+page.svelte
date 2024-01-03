@@ -1,5 +1,23 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
+	import RelatedItems from '$lib/components/RelatedItems.svelte';
+    import { nodes } from "$lib/treeContent";
+	import { RecursiveTreeView } from "@skeletonlabs/skeleton";
+
+	/**
+	 * @type {string[]} 
+	 */
+	const searchFilterArray = ["Titel", "Signatur", "Datierung", "Author", "Ort", "Beschreibung", "SLA", "DEA"];
+
+    /**
+     * @type {string[]}
+    */
+    let checkedNodes;
+    /**
+     * @type {string[]}
+    */
+    let indeterminateNodes;
+
 </script>
 
 <ContentContainer
@@ -22,7 +40,21 @@
 	</div>
 </ContentContainer>
 <ContentContainer dark>
-	<h2 class="h2">Virtueller Katalog</h2>
+	<h2 class="h2 mb-4">Virtueller Katalog</h2>
+
+	<div class="flex flex-col sm:flex-row">
+		<div class = 'w-full sm:w-1/2 mb-4 sm:mb-0'>
+			<RecursiveTreeView selection multiple relational {nodes} bind:checkedNodes={checkedNodes} bind:indeterminateNodes={indeterminateNodes} />
+		</div>
+		<form class='w-full lg:w-1/2'>
+			<label>
+				<input class="input text-primary-500 p-6 placeholder-primary-500" type="text" placeholder="Dies ist der Suchtext..." />
+			 </label>
+			
+			<RelatedItems array={searchFilterArray}/>
+		</form>
+	</div>
+
 </ContentContainer>
 <ContentContainer>
 	<p>es werden 16 Elemente angezeigt. 13 aus dem SLA, 3 aus dem DEA</p>
