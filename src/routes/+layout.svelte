@@ -10,6 +10,7 @@
 	} from '@skeletonlabs/skeleton';
 	import '@fortawesome/fontawesome-free/css/solid.min.css';
 	import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
+	import { base } from '$app/paths';
 
 	initializeStores();
 	const drawerStore = getDrawerStore();
@@ -33,7 +34,7 @@
 		<!-- (optionally you can provide a label here) -->
 		<ul>
 			<li>
-				<a href="/elements/lists">
+				<a href="{base}/elements/lists">
 					<span class="badge bg-primary-500">(icon)</span>
 					<span class="flex-auto">Skeleton</span>
 				</a>
@@ -50,11 +51,15 @@
 				<strong class="text-xl uppercase py-4">Logo</strong>
 			</svelte:fragment>
 			<nav class="flex-none flex items-center h-full">
-				<a href="/" class="list-nav-item h-full p-4 {classesActive('/')}">Home</a>
-				<a href="/about" class="hidden sm:block list-nav-item h-full p-4 {classesActive('/about')}"
+				<a href="{base}/" class="list-nav-item h-full p-4 {classesActive({ base } + '/')}">Home</a>
+				<a
+					href="{base}/about"
+					class="hidden sm:block list-nav-item h-full p-4 {classesActive({ base } + '/about')}"
 					>Über das Projekt</a
 				>
-				<a href="/bio" class="hidden sm:block list-nav-item h-full p-4 {classesActive('/bio')}"
+				<a
+					href="{base}/bio"
+					class="hidden sm:block list-nav-item h-full p-4 {classesActive({ base } + '/bio')}"
 					>Biographie</a
 				>
 			</nav>
