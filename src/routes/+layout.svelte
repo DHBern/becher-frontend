@@ -27,18 +27,25 @@
 			};
 		drawerStore.open(s);
 	}
+
+	const pages = [
+		{ slug: 'Home', path: '/' },
+		{ slug: 'Über das Projekt', path: '/about' },
+		{ slug: 'Biographie', path: '/bio' }
+	];
 </script>
 
 <Drawer height="h-16"
 	><nav class="list-nav">
 		<!-- (optionally you can provide a label here) -->
 		<ul>
-			<li>
-				<a href="{base}/elements/lists">
-					<span class="badge bg-primary-500">(icon)</span>
-					<span class="flex-auto">Skeleton</span>
-				</a>
-			</li>
+			{#each pages as page}
+				<li>
+					<a href={`${base}${page.path}`}>
+						<span class="flex-auto">{page.slug}</span>
+					</a>
+				</li>
+			{/each}
 		</ul>
 	</nav></Drawer
 >
@@ -50,21 +57,16 @@
 			<svelte:fragment slot="lead">
 				<strong class="text-xl uppercase py-4">Logo</strong>
 			</svelte:fragment>
-			<nav class="flex-none flex items-center h-full">
-				<a href="{base}/" class="list-nav-item h-full p-4 {classesActive({ base } + '/')}">Home</a>
-				<a
-					href="{base}/about"
-					class="hidden sm:block list-nav-item h-full p-4 {classesActive({ base } + '/about')}"
-					>Über das Projekt</a
-				>
-				<a
-					href="{base}/bio"
-					class="hidden sm:block list-nav-item h-full p-4 {classesActive({ base } + '/bio')}"
-					>Biographie</a
-				>
+			<nav class="flex-none items-center h-full hidden md:flex">
+				{#each pages as page}
+					<a
+						href={`${base}${page.path}`}
+						class="list-nav-item h-full p-4 {classesActive(page.path)}">{page.slug}</a
+					>
+				{/each}
 			</nav>
 			<svelte:fragment slot="trail">
-				<button class="sm:!hidden btn-icon" on:click={drawerOpen}>
+				<button class="md:!hidden btn-icon" on:click={drawerOpen}>
 					<i class="fa-solid fa-bars"></i>
 				</button>
 			</svelte:fragment>
