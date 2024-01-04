@@ -1,7 +1,6 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import RelatedItems from '$lib/components/RelatedItems.svelte';
-	import { nodes } from '$lib/treeContent';
 	import { RecursiveTreeView } from '@skeletonlabs/skeleton';
 
 	/**
@@ -26,6 +25,8 @@
 	 * @type {string[]}
 	 */
 	let indeterminateNodes;
+
+	export let data;
 </script>
 
 <ContentContainer
@@ -55,7 +56,7 @@
 			selection
 			multiple
 			relational
-			{nodes}
+			nodes={data.categories}
 			bind:checkedNodes
 			bind:indeterminateNodes
 			class="mb-4 md:mb-0"
