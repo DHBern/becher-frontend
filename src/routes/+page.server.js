@@ -57,7 +57,7 @@ export async function load() {
 		categories: filteredCategories,
 		items: items.map((item) => {
 			// eslint-disable-next-line no-unused-vars
-			const { entry_type, ...rest } = item;
+			const { entry_type, key, ...rest } = item;
 			return rest;
 		})
 	};

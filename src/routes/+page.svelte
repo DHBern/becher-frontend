@@ -24,6 +24,9 @@
 	let checkedNodes;
 
 	export let data;
+	/**
+	 * @type {{date: string, signature: string, holding_institution: string, title: string, category: number}[]} filtereditems
+	 */
 	$: filtereditems = data.items.filter((item) => {
 		if (checkedNodes && checkedNodes.length > 0) {
 			return checkedNodes.includes(item.category.toString());
