@@ -1,5 +1,6 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
+	import Grid from '$lib/components/Grid.svelte';
 	import RelatedItems from '$lib/components/RelatedItems.svelte';
 	import { RecursiveTreeView } from '@skeletonlabs/skeleton';
 
@@ -21,12 +22,14 @@
 	 * @type {string[]}
 	 */
 	let checkedNodes;
-	/**
-	 * @type {string[]}
-	 */
-	let indeterminateNodes;
 
 	export let data;
+	$: filtereditems = data.items.filter((item) => {
+		if (checkedNodes && checkedNodes.length > 0) {
+			return checkedNodes.includes(item.category.toString());
+		}
+		return true;
+	});
 </script>
 
 <ContentContainer
@@ -58,7 +61,6 @@
 			relational
 			nodes={data.categories}
 			bind:checkedNodes
-			bind:indeterminateNodes
 			class="mb-4 md:mb-0"
 			width="w-auto"
 		/>
@@ -76,8 +78,13 @@
 	</div>
 </ContentContainer>
 <ContentContainer>
-	<p>es werden 16 Elemente angezeigt. 13 aus dem SLA, 3 aus dem DEA</p>
-	grid
+	<p>
+		es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
+			(i) => i.holding_institution === 'SLA'
+		).length} aus dem SLA, {filtereditems.filter((i) => i.holding_institution === 'DEA').length} aus
+		dem DEA
+	</p>
+	<Grid items={filtereditems} />
 </ContentContainer>
 
 <style lang="postcss">

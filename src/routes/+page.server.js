@@ -1,4 +1,9 @@
 import categories from './becher_categories_json.json';
+import items from './compact.json';
+
+/**
+ * @typedef {Object.<import('@skeletonlabs/skeleton').TreeViewNode, {id: number}>} TreeNodeInteger
+ */
 
 /**
  * creates a node from a category recursively
@@ -49,6 +54,11 @@ export async function load() {
 	}
 
 	return {
-		categories: filteredCategories
+		categories: filteredCategories,
+		items: items.map((item) => {
+			// eslint-disable-next-line no-unused-vars
+			const { entry_type, ...rest } = item;
+			return rest;
+		})
 	};
 }
