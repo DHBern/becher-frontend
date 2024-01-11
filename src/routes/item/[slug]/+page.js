@@ -1,4 +1,4 @@
-import itemData from '../../items/compact.json';
+import itemData from '../../compact.json';
 
 /** @type {import('./$types').PageLoad} */
 export function load({ params }) {
