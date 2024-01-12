@@ -1,0 +1,17 @@
+{
+  "date": "1936 bis 1938",
+  "signature": "SLA-UB-B-2-BECHD-24",
+  "holding_institution": "SLA",
+  "title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, Graz",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1588455",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, Brüssel; Genf; Graz; Rom; Wien; Zürich",
+      "level": 3
+    }
+  ]
+}

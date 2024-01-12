@@ -1,0 +1,17 @@
+{
+  "date": "17. Oktober 1963",
+  "signature": "SLA-UB-B-3-LIFE-BECHD-5",
+  "holding_institution": "SLA",
+  "title": "Lifezis, Hugo an Becher, Dana; Korrespondenz, Barcelona",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685689",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Lifezis, Hugo an Becher, Dana; Korrespondenz, Buenos Aires;\nBarcelona",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "22. Dezember 1936",
+  "signature": "SLA-UB-B-1-GRO-2",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich an Grosz, George; Korrespondenz, Zürich",
+  "category": 20200,
+  "entry_type": "item",
+  "key": "CH-000015-0-1586188",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe von Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Ulrich an Grosz, George; Korrespondenz, [New York?]; Zürich",
+      "level": 3
+    }
+  ]
+}

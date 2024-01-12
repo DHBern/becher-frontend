@@ -1,0 +1,17 @@
+{
+  "date": "1988",
+  "signature": "SLA-UB-B-3-FUERST-BECHD-3",
+  "holding_institution": "SLA",
+  "title": "Fürst, Reinmar an Becher, Dana; Korrespondenz, ohne Ort",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685215",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Fürst, Reinmar an Becher, Dana; Korrespondenz, Sirmione;\nBardolino",
+      "level": 3
+    }
+  ]
+}

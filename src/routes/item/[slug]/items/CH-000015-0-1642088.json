@@ -1,0 +1,17 @@
+{
+  "date": "4. August 1989",
+  "signature": "SLA-UB-B-2-MAU-3",
+  "holding_institution": "SLA",
+  "title": "Maurer, Beatrice an Becher, Ulrich; Korrespondenz, Buenos Aires;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642088",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Maurer, Beatrice an Becher, Ulrich; Korrespondenz, Buenos Aires; Magden; Surava",
+      "level": 3
+    }
+  ]
+}

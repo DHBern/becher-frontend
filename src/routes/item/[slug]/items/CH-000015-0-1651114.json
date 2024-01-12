@@ -1,0 +1,17 @@
+{
+  "date": "s.d.",
+  "signature": "SLA-UB-B-2-WUE-2",
+  "holding_institution": "SLA",
+  "title": "Würzler, Lore an Becher, Ulrich; Korrespondenz, Berlin",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1651114",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Würzler, Lore an Becher, Ulrich; Korrespondenz, Berlin; Dubrovnik",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "date": "1972",
+  "signature": "SLA-UB-A-4-i-1-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich: Biene II",
+  "category": 19994,
+  "entry_type": "item",
+  "key": "CH-000015-0-1558650",
+  "levels": [
+    { "'title":"Werke", "level":1 },
+    { "'title":"Dramen", "level":2 },
+    { "'title":"Biene gib mir Honig", "level":3 },
+    {
+      "'title": "Becher, Ulrich: Biene gib mir Honig. Manuskripte und Entwürfe",
+      "level": 4
+    }
+  ]
+}

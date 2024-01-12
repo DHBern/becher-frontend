@@ -1,0 +1,17 @@
+{
+  "date": "24. Juni 1988",
+  "signature": "SLA-UB-B-2-BACH-1",
+  "holding_institution": "SLA",
+  "title": "Bachmann, Ingeborg u. Dieter an Becher, Ulrich; Korrespondenz, Zürich;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1587816",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Bachmann, Ingeborg u. Dieter an Becher, Ulrich; Korrespondenz, Zürich",
+      "level": 3
+    }
+  ]
+}

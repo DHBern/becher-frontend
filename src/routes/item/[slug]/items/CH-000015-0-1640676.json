@@ -1,0 +1,17 @@
+{
+  "date": "Oktober 1940",
+  "signature": "SLA-UB-B-2-HERD-1",
+  "holding_institution": "SLA",
+  "title": "Herdan-Zuckmayer, Alice an Becher, Ulrich; Korrespondenz, Vermont",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640676",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Herdan-Zuckmayer, Alice an Becher, Ulrich; Korrespondenz, Vermont",
+      "level": 3
+    }
+  ]
+}

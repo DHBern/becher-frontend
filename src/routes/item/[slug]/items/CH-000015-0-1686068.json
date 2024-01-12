@@ -1,0 +1,17 @@
+{
+  "date": "1. Dezember 1991",
+  "signature": "SLA-UB-B-3-MUCKI-BECHD-5",
+  "holding_institution": "SLA",
+  "title": "Mucki an Becher, Dana; Korrespondenz, Tronzano",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1686068",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Mucki an Becher, Dana; Korrespondenz, München;\nRanzo;\nKnightsbridge",
+      "level": 3
+    }
+  ]
+}

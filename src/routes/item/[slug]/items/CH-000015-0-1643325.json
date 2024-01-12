@@ -1,0 +1,17 @@
+{
+  "date": "26. September 1940",
+  "signature": "SLA-UB-B-2-SCHL-1",
+  "holding_institution": "SLA",
+  "title": "Schlatter, Elsbeth an Becher, Ulrich; Korrespondenz, Nidau-Biel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643325",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Schlatter, Elsbeth an Becher, Ulrich; Korrespondenz, Nidau-Biel",
+      "level": 3
+    }
+  ]
+}

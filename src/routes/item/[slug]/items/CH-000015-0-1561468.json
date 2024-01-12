@@ -1,0 +1,15 @@
+{
+  "date": "1947",
+  "signature": "SLA-UB-C-3-b-2-h",
+  "holding_institution": "SLA",
+  "title": "Becher, Richard: Vereinzelte Notizblätter, Basel",
+  "category": 39993,
+  "entry_type": "file",
+  "key": "CH-000015-0-1561468",
+  "levels": [
+    { "'title":"Lebensdokumente", "level":1 },
+    { "'title":"Familie", "level":2 },
+    { "'title":"Becher, Richard (Vater)", "level":3 },
+    { "'title":"Manuskripte und Typoskripte", "level":4 }
+  ]
+}

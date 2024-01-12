@@ -1,0 +1,17 @@
+{
+  "date": "25. Juli 1980",
+  "signature": "SLA-UB-B-3-BECHM-_BECHD-2",
+  "holding_institution": "SLA",
+  "title": "Becher, Martin Roda an Becher Dana; Korrespondenz, Santa Margherita Ligure;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1684559",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Becher, Martin Roda an Becher Dana; Korrespondenz, Bern;\nParis;\nWien;\nIsola Bella;\nS. Margherita Ligure",
+      "level": 3
+    }
+  ]
+}

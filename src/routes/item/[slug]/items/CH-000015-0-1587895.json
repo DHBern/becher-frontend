@@ -1,0 +1,17 @@
+{
+  "date": "1. Juni 1952",
+  "signature": "SLA-UB-B-2-BAR-1",
+  "holding_institution": "SLA",
+  "title": "Barlog, Boleslaw an Becher, Ulrich; Korrespondenz, Berlin",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1587895",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Barlog, Boleslaw an Becher, Ulrich; Korrespondenz, Berlin; Sylt",
+      "level": 3
+    }
+  ]
+}

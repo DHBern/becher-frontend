@@ -1,0 +1,17 @@
+{
+  "date": "1. Oktober 1963",
+  "signature": "SLA-UB-B-2-ULL-5",
+  "holding_institution": "SLA",
+  "title": "Ullstein Verlag an Becher, Ulrich; Korrespondenz, Darmstadt;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643926",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Ullstein Verlag an Becher, Ulrich; Korrespondenz, Berlin; Darmstadt; Wien",
+      "level": 3
+    }
+  ]
+}

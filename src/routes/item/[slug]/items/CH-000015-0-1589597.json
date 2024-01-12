@@ -1,0 +1,17 @@
+{
+  "date": "1984",
+  "signature": "SLA-UB-B-2-BECHR-6",
+  "holding_institution": "SLA",
+  "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1589597",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Rolf an Becher, Ulrich; Korrespondenz, Samnaun;\nSt. Moritz; Piazzogna; Zürich; Zypern",
+      "level": 3
+    }
+  ]
+}

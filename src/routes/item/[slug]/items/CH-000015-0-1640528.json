@@ -1,0 +1,17 @@
+{
+  "date": "8. November 1949",
+  "signature": "SLA-UB-B-2-GUE-1",
+  "holding_institution": "SLA",
+  "title": "Guenther, Johannes von an Becher, Ulrich; Korrespondenz, Kochel am See; \nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640528",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Guenther, Johannes von an Becher, Ulrich; Korrespondenz, Kochel am See; Seeshaupt",
+      "level": 3
+    }
+  ]
+}

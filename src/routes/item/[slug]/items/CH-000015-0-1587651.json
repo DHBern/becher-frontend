@@ -1,0 +1,17 @@
+{
+  "date": "27. Dezember 1987",
+  "signature": "SLA-UB-B-2-AI-1",
+  "holding_institution": "SLA",
+  "title": "Amnesty International an Becher, Ulrich; Korrespondenz, Bielefeld;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1587651",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Amnesty International an Becher, Ulrich; Korrespondenz, Bielefeld",
+      "level": 3
+    }
+  ]
+}

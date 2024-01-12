@@ -1,0 +1,17 @@
+{
+  "date": "23. August 1936",
+  "signature": "SLA-UB-B-3-RODA-BECHD-02",
+  "holding_institution": "SLA",
+  "title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, Trenčianske Teplice;\nZürich, Luzern",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1693200",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, Woosterhouse;\nBudapest;\nBad Gleichenberg;\nNew York",
+      "level": 3
+    }
+  ]
+}

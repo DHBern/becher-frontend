@@ -1,0 +1,15 @@
+{
+  "date": "1914",
+  "signature": "SLA-UB-C-1-a-1-a",
+  "holding_institution": "SLA",
+  "title": "Weihnacht-Censur für Hans Ulrich Becher, Berlin",
+  "category": 39991,
+  "entry_type": "item",
+  "key": "CH-000015-0-1525174",
+  "levels": [
+    { "'title":"Lebensdokumente", "level":1 },
+    { "'title":"Persönliche Dokumente", "level":2 },
+    { "'title":"Schulzeit", "level":3 },
+    { "'title":"Zeugnisse und Leistungsberichte", "level":4 }
+  ]
+}

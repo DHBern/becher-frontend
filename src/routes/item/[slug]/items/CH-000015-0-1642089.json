@@ -1,0 +1,17 @@
+{
+  "date": "s.d.",
+  "signature": "SLA-UB-B-2-MAU-4",
+  "holding_institution": "SLA",
+  "title": "Maurer, Beatrice an Becher, Ulrich; Korrespondenz, ohne Ort",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642089",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Maurer, Beatrice an Becher, Ulrich; Korrespondenz, Buenos Aires; Magden; Surava",
+      "level": 3
+    }
+  ]
+}

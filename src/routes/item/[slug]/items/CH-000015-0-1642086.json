@@ -1,0 +1,17 @@
+{
+  "date": "1. Oktober 1983",
+  "signature": "SLA-UB-B-2-MAU-1",
+  "holding_institution": "SLA",
+  "title": "Maurer, Beatrice an Becher, Ulrich; Korrespondenz, Magden",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642086",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Maurer, Beatrice an Becher, Ulrich; Korrespondenz, Buenos Aires; Magden; Surava",
+      "level": 3
+    }
+  ]
+}

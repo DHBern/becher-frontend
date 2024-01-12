@@ -1,0 +1,17 @@
+{
+  "date": "2. Januar 1990",
+  "signature": "SLA-UB-B-2-PEN-1",
+  "holding_institution": "SLA",
+  "title": "P.E.N.-Zentrum Bundesrepublik Deutschland an Becher, Ulrich; Korrespondenz, Darmstadt",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642964",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "P.E.N.-Zentrum Bundesrepublik Deutschland an Becher, Ulrich; Korrespondenz, Darmstadt",
+      "level": 3
+    }
+  ]
+}

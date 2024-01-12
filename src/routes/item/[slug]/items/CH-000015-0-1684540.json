@@ -1,0 +1,17 @@
+{
+  "date": "1956",
+  "signature": "SLA-UB-B-3-BECHD-RODA-31",
+  "holding_institution": "SLA",
+  "title": "Becher, Dana an Roda Roda, Elsbeth; Korrespondenz, Iesolo;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1684540",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Becher, Dana an  Roda Roda, Alexander und Elsbeth; Korrespondenz, München;\nTherezopolis;\nRio de Janeiro;\nNew Foundland;\nBasel;\nBerlin;\nJesolo",
+      "level": 3
+    }
+  ]
+}

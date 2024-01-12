@@ -1,0 +1,17 @@
+{
+  "date": "s.d.",
+  "signature": "SLA-UB-B-3-BECHD-BECH-11",
+  "holding_institution": "SLA",
+  "title": "Becher, Dana an Becher, Richard und Elise; Korrespondenz, ohne Ort",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1675532",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Becher, Dana an Becher, Richard und Elise; Korrespondenz, Paris;\nBern;\nZuoz;\nSão Paulo;\nNew York;\nBasel;\nNizza",
+      "level": 3
+    }
+  ]
+}

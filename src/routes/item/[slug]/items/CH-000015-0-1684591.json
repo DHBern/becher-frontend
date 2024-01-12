@@ -1,0 +1,17 @@
+{
+  "date": "23. April 1981",
+  "signature": "SLA-UB-B-3-BUCH-BECHD-2",
+  "holding_institution": "SLA",
+  "title": "Buch, Eva an Becher, Dana; Korrespondenz, Jerusalem;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1684591",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Buch, Eva an Becher, Dana; Korrespondenz, New York;\nJerusalem;\nBagur",
+      "level": 3
+    }
+  ]
+}

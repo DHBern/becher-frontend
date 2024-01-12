@@ -1,0 +1,17 @@
+{
+  "date": "22. Mai 1938",
+  "signature": "SLA-UB-B-2-GUT-2",
+  "holding_institution": "SLA",
+  "title": "Gutöhrlein, Eleonore an Becher, Ulrich; Korrespondenz, Hall",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640555",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Gutöhrlein, Eleonore an Becher, Ulrich; Korrespondenz, Baden-Baden; Hall; Paris",
+      "level": 3
+    }
+  ]
+}

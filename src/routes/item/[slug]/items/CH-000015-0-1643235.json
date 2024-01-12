@@ -1,0 +1,17 @@
+{
+  "date": "30. Juli 1970",
+  "signature": "SLA-UB-B-2-ROW-24",
+  "holding_institution": "SLA",
+  "title": "Rowohlt Verlag an Becher, Ulrich; Korrespondenz, Reinbek bei Hamburg;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643235",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Rowohlt Verlag an Becher, Ulrich; Korrespondenz, Frankfurt am Main; Hamburg; Kampen\/Sylt; Reinbek bei Hamburg; St. Moritz; Wiesbaden",
+      "level": 3
+    }
+  ]
+}

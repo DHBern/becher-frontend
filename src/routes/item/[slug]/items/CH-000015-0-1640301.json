@@ -1,0 +1,17 @@
+{
+  "date": "14. September 1947",
+  "signature": "SLA-UB-B-2-GRO-19",
+  "holding_institution": "SLA",
+  "title": "Grosz, George an Becher, Ulrich; Korrespondenz, Huntington (New York);\nNew York",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640301",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Grosz, George an Becher, Ulrich; Korrespondenz, Bayside (New York); Huntington (New York)",
+      "level": 3
+    }
+  ]
+}

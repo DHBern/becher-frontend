@@ -1,0 +1,17 @@
+{
+  "date": "7. September 1989",
+  "signature": "SLA-UB-B-4-FLASCH-06",
+  "holding_institution": "SLA",
+  "title": "Naumann, Uwe an Roda Becher, Dana; Korrespondenz, Hamburg",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1697209",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Flaschenpost: Briefwechsel zwischen Uwe Naumann\/Michel Töteberg und Dana Becher",
+      "level": 3
+    }
+  ]
+}

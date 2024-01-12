@@ -1,0 +1,17 @@
+{
+  "date": "31. August 1977",
+  "signature": "SLA-UB-B-2-STAP-1",
+  "holding_institution": "SLA",
+  "title": "Stapenhorst, Fritz und Isolde an Becher, Ulrich und Dana; Korrespondenz, ohne Ort",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643698",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Stapenhorst, Fritz und Isolde an Becher, Ulrich und Dana; Korrespondenz, Icking",
+      "level": 3
+    }
+  ]
+}

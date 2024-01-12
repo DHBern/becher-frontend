@@ -1,0 +1,17 @@
+{
+  "date": "6. Oktober 1972",
+  "signature": "SLA-UB-B-3-ROWOL-BECHD-1",
+  "holding_institution": "SLA",
+  "title": "Rowohlt Verlag an Becher, Dana; Korrespondenz, Reinbek bei Hamburg;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1693397",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Rowohlt Verlag an Becher, Dana; Korrespondenz, Reinbek bei Hamburg",
+      "level": 3
+    }
+  ]
+}

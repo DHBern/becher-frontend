@@ -1,0 +1,17 @@
+{
+  "date": "4. November 1936",
+  "signature": "SLA-UB-B-2-MEN-1",
+  "holding_institution": "SLA",
+  "title": "Mendelssohn, Heinrich an Becher, Ulrich; Korrespondenz, London;\nParis",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642200",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Mendelssohn, Heinrich an Becher, Ulrich; Korrespondenz, London",
+      "level": 3
+    }
+  ]
+}

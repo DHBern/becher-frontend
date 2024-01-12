@@ -1,0 +1,17 @@
+{
+  "date": "4. Juli 1977",
+  "signature": "SLA-UB-B-4-UNBEK-24",
+  "holding_institution": "SLA",
+  "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, Zürich;\nBasel",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1698718",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien",
+      "level": 3
+    }
+  ]
+}

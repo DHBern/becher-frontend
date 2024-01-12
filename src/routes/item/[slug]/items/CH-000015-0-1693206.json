@@ -1,0 +1,17 @@
+{
+  "date": "31. Juli 1945",
+  "signature": "SLA-UB-B-3-RODA-BECHD-08",
+  "holding_institution": "SLA",
+  "title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, ohne Ort",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1693206",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, Woosterhouse;\nBudapest;\nBad Gleichenberg;\nNew York",
+      "level": 3
+    }
+  ]
+}

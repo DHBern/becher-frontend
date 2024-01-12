@@ -1,0 +1,17 @@
+{
+  "date": "4. November 1991",
+  "signature": "SLA-UB-B-3-LOEBEN-BECHD-38",
+  "holding_institution": "SLA",
+  "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, Pescara;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685876",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Loeben, Renate von an Becher, Dana; Korrespondenz, München;\nPrien",
+      "level": 3
+    }
+  ]
+}

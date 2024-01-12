@@ -1,0 +1,17 @@
+{
+  "date": "12. Juli 1965",
+  "signature": "SLA-UB-B-3-ESPE-BECHD-1",
+  "holding_institution": "SLA",
+  "title": "Espenak, Liljan an Becher, Dana; Korrespondenz, New York;\nBasel, Ascona",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685062",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Espenak, Liljan an Becher, Dana; Korrespondenz, New York;\nMannheim",
+      "level": 3
+    }
+  ]
+}

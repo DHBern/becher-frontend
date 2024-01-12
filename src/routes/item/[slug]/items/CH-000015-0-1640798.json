@@ -1,0 +1,17 @@
+{
+  "date": "s.d.",
+  "signature": "SLA-UB-B-2-KOCH-2",
+  "holding_institution": "SLA",
+  "title": "Koch, Heinrich an Becher, Ulrich; Korrespondenz, Cuxhaven; \nNorth Cherokee (Kalifornien)",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640798",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Koch, Heinrich an Becher, Ulrich; Korrespondenz, Cuxhaven; Hamburg",
+      "level": 3
+    }
+  ]
+}

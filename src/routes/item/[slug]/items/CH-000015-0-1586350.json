@@ -1,0 +1,17 @@
+{
+  "date": "11. September 1933",
+  "signature": "SLA-UB-B-1-ROD-2",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich an Roda Roda, Alexander; Korrespondenz, o.O.",
+  "category": 20200,
+  "entry_type": "item",
+  "key": "CH-000015-0-1586350",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe von Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Ulrich an Roda Roda, Alexander; Korrespondenz, Berlin; Wien",
+      "level": 3
+    }
+  ]
+}

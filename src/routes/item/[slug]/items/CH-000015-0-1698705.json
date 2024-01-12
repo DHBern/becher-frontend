@@ -1,0 +1,17 @@
+{
+  "date": "9. Dezember 1949",
+  "signature": "SLA-UB-B-4-UNBEK-11",
+  "holding_institution": "SLA",
+  "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1698705",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien",
+      "level": 3
+    }
+  ]
+}

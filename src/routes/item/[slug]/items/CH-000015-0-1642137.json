@@ -1,0 +1,17 @@
+{
+  "date": "22. Februar 1955",
+  "signature": "SLA-UB-B-2-MEI-9",
+  "holding_institution": "SLA",
+  "title": "Meininger Theater an Becher, Ulrich; Korrespondenz, Meiningen",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642137",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Meininger Theater an Becher, Ulrich; Korrespondenz, Meiningen",
+      "level": 3
+    }
+  ]
+}

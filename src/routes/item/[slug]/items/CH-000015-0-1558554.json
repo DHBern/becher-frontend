@@ -1,0 +1,18 @@
+{
+  "date": "",
+  "signature": "SLA-UB-A-4-c-1-2",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich: Wiener Moritat",
+  "category": 19994,
+  "entry_type": "item",
+  "key": "CH-000015-0-1558554",
+  "levels": [
+    { "'title":"Werke", "level":1 },
+    { "'title":"Dramen", "level":2 },
+    { "'title":"Der Pfeifer von Wien", "level":3 },
+    {
+      "'title": "Becher, Ulrich: Der Pfeifer von Wien. Typoskripte und Textbücher",
+      "level": 4
+    }
+  ]
+}

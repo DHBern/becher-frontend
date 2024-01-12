@@ -1,0 +1,17 @@
+{
+  "date": "31. März 1969",
+  "signature": "SLA-UB-B-2-WLM-1",
+  "holding_institution": "SLA",
+  "title": "Wilhelm-Lehmbruck-Museum an Becher, Ulrich; Korrespondenz, Duisburg;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1651005",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Wilhelm-Lehmbruck-Museum an Becher, Ulrich; Korrespondenz, Duisburg",
+      "level": 3
+    }
+  ]
+}

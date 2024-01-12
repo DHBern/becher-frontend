@@ -1,0 +1,17 @@
+{
+  "date": "8. März 1988",
+  "signature": "SLA-UB-B-2-SCHN-1",
+  "holding_institution": "SLA",
+  "title": "Schnitzler, Christian an Becher, Ulrich; Korrespondenz, Essen",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643647",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Schnitzler, Christian an Becher, Ulrich; Korrespondenz, Essen",
+      "level": 3
+    }
+  ]
+}

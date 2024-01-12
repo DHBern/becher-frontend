@@ -1,0 +1,17 @@
+{
+  "date": "1935 bis 1938",
+  "signature": "SLA-UB-B-2-BECHR-3",
+  "holding_institution": "SLA",
+  "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1589594",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Rolf an Becher, Ulrich; Korrespondenz, Samnaun;\nSt. Moritz; Piazzogna; Zürich; Zypern",
+      "level": 3
+    }
+  ]
+}

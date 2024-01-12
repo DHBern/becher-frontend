@@ -1,0 +1,17 @@
+{
+  "date": "18. April 1986",
+  "signature": "SLA-UB-B-4-FLASCH-02",
+  "holding_institution": "SLA",
+  "title": "Naumann, Uwe an Roda Becher, Dana; Korrespondenz, Hamburg;\nBasel",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1697205",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Flaschenpost: Briefwechsel zwischen Uwe Naumann\/Michel Töteberg und Dana Becher",
+      "level": 3
+    }
+  ]
+}

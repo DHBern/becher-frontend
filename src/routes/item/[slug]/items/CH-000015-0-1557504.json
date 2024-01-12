@@ -1,0 +1,16 @@
+{
+  "date": "21. Mai 1942",
+  "signature": "SLA-UB-C-3-b-1-a-2",
+  "holding_institution": "SLA",
+  "title": "Becher, Richard: Testament",
+  "category": 39993,
+  "entry_type": "item",
+  "key": "CH-000015-0-1557504",
+  "levels": [
+    { "'title":"Lebensdokumente", "level":1 },
+    { "'title":"Familie", "level":2 },
+    { "'title":"Becher, Richard (Vater)", "level":3 },
+    { "'title":"Persönliche Dokumente", "level":4 },
+    { "'title":"Zum Thema Tod", "level":5 }
+  ]
+}

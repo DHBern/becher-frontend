@@ -1,0 +1,17 @@
+{
+  "date": "3. Juli 1956",
+  "signature": "SLA-UB-B-2-STAD-1",
+  "holding_institution": "SLA",
+  "title": "Stadttheater Bautzen an Becher, Ulrich; Korrespondenz, Bautzen;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643688",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Stadttheater Bautzen an Becher, Ulrich; Korrespondenz, Bautzen",
+      "level": 3
+    }
+  ]
+}

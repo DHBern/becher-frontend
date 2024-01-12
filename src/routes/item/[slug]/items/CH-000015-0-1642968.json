@@ -1,0 +1,17 @@
+{
+  "date": "17. Oktober 1981",
+  "signature": "SLA-UB-B-2-PFE-1",
+  "holding_institution": "SLA",
+  "title": "Pfeiffer, Cornelius an Becher, Ulrich; Korrespondenz, München",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642968",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Pfeiffer, Cornelius an Becher, Ulrich; Korrespondenz, München",
+      "level": 3
+    }
+  ]
+}

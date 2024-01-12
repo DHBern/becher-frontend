@@ -1,0 +1,17 @@
+{
+  "date": "11. Oktober 1988",
+  "signature": "SLA-UB-B-2-MAU-2",
+  "holding_institution": "SLA",
+  "title": "Maurer, Beatrice an Becher, Ulrich; Korrespondenz, Surava;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642087",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Maurer, Beatrice an Becher, Ulrich; Korrespondenz, Buenos Aires; Magden; Surava",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "21. Juli 1964",
+  "signature": "SLA-UB-B-2-NEUM-1",
+  "holding_institution": "SLA",
+  "title": "Neumann, Robert an Becher, Ulrich; Korrespondenz, Locarno-Monti;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642844",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Neumann, Robert an Becher, Ulrich; Korrespondenz, Locarno-Monti",
+      "level": 3
+    }
+  ]
+}

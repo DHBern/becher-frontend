@@ -1,0 +1,17 @@
+{
+  "date": "5. November 1967",
+  "signature": "SLA-UB-B-3-BAECH-BECHD-2",
+  "holding_institution": "SLA",
+  "title": "Bächler, Wolfgang an Becher Dana; Korrespondenz, München;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1673154",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Bächler, Wolfgang an Becher Dana; Korrespondenz, München;\nNangis",
+      "level": 3
+    }
+  ]
+}

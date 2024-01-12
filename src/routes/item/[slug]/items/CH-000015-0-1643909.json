@@ -1,0 +1,17 @@
+{
+  "date": "21. August 1956",
+  "signature": "SLA-UB-B-2-THEB-2",
+  "holding_institution": "SLA",
+  "title": "Theater der Stadt Baden-Baden an Becher, Ulrich; Korrespondenz, Baden-Baden;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643909",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Theater der Stadt Baden-Baden an Becher, Ulrich; Korrespondenz, Baden-Baden",
+      "level": 3
+    }
+  ]
+}

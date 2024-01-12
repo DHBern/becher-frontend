@@ -1,0 +1,17 @@
+{
+  "date": "1. September 1957",
+  "signature": "SLA-UB-B-3-STAIG-BECHD-1",
+  "holding_institution": "SLA",
+  "title": "Staiger, Amy an Becher, Dana; Korrespondenz, Paris;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1693454",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Staiger, Amy an Becher, Dana.; Korrespondenz, Paris;\nCapri;\nMarbella",
+      "level": 3
+    }
+  ]
+}

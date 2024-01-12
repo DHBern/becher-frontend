@@ -1,0 +1,17 @@
+{
+  "date": "27. Dezember 1989",
+  "signature": "SLA-UB-B-2-NATM-1",
+  "holding_institution": "SLA",
+  "title": "Nationaltheater Mannheim an Becher, Ulrich; Korrespondenz, Mannheim;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642811",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Nationaltheater Mannheim an Becher, Ulrich; Korrespondenz, Mannheim",
+      "level": 3
+    }
+  ]
+}

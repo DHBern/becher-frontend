@@ -1,0 +1,17 @@
+{
+  "date": "26. Oktober 1932",
+  "signature": "SLA-UB-B-3-RODA-JAEG-4",
+  "holding_institution": "SLA",
+  "title": "Roda Roda, Elsbeth an Jäger, Helene; Korrespondenz, Berlin",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1693255",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Roda Roda, Elsbeth an Jäger, Helene; Korrespondenz, Wien;\nBerlin",
+      "level": 3
+    }
+  ]
+}

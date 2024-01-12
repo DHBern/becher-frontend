@@ -1,0 +1,17 @@
+{
+  "date": "3. Dezember 1965",
+  "signature": "SLA-UB-B-3-STEIG-BECHD-2",
+  "holding_institution": "SLA",
+  "title": "Steigmann, Maximilian an Becher, Dana.; Korrespondenz, Montevideo",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1695214",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Steigmann, Maximilian an Becher, Dana.; Korrespondenz, Montevideo",
+      "level": 3
+    }
+  ]
+}

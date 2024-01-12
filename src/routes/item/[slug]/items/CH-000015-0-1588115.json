@@ -1,0 +1,17 @@
+{
+  "date": "6. September 1945",
+  "signature": "SLA-UB-B-2-BECH-38",
+  "holding_institution": "SLA",
+  "title": "Becher, Richard an Becher, Ulrich; Korrespondenz, Rio de Janeiro",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1588115",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
+      "level": 3
+    }
+  ]
+}

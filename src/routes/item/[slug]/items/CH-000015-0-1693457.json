@@ -1,0 +1,17 @@
+{
+  "date": "16. Januar 1959",
+  "signature": "SLA-UB-B-3-STAIG-BECHD-4",
+  "holding_institution": "SLA",
+  "title": "Staiger, Amy an Becher, Dana; Korrespondenz, Capri",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1693457",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Staiger, Amy an Becher, Dana.; Korrespondenz, Paris;\nCapri;\nMarbella",
+      "level": 3
+    }
+  ]
+}

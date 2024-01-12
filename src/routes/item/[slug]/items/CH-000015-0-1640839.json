@@ -1,0 +1,17 @@
+{
+  "date": "18. Februar 1989",
+  "signature": "SLA-UB-B-2-LEI-2",
+  "holding_institution": "SLA",
+  "title": "Leinfellner, Elisabeth an Becher, Ulrich; Korrespondenz, Wien; Basel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640839",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Leinfellner, Elisabeth und Werner an Becher, Ulrich; Korrespondenz, Lincoln;\nNebraska; Wien",
+      "level": 3
+    }
+  ]
+}

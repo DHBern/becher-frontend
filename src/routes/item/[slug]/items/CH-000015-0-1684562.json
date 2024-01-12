@@ -1,0 +1,17 @@
+{
+  "date": "s.d.",
+  "signature": "SLA-UB-B-3-BECHM-_BECHD-5",
+  "holding_institution": "SLA",
+  "title": "Becher, Martin Roda an Becher Dana; Korrespondenz, Wien;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1684562",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Becher, Martin Roda an Becher Dana; Korrespondenz, Bern;\nParis;\nWien;\nIsola Bella;\nS. Margherita Ligure",
+      "level": 3
+    }
+  ]
+}

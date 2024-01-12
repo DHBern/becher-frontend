@@ -1,0 +1,17 @@
+{
+  "date": "s.d.",
+  "signature": "SLA-UB-B-2-WOT-2",
+  "holding_institution": "SLA",
+  "title": "Wotruba, Fritz an Becher, Ulrich und Dana; Korrespondenz, Paris",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1651105",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Wotruba, Fritz an Becher, Ulrich und Dana; Korrespondenz, Riva del Garda",
+      "level": 3
+    }
+  ]
+}

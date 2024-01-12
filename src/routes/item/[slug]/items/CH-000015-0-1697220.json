@@ -1,0 +1,17 @@
+{
+  "date": "10. August 1985",
+  "signature": "SLA-UB-B-4-FLASCH-10",
+  "holding_institution": "SLA",
+  "title": "Roda Becher, Dana an Töteberg, Michael; Korrespondenz",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1697220",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Flaschenpost: Briefwechsel zwischen Uwe Naumann\/Michel Töteberg und Dana Becher",
+      "level": 3
+    }
+  ]
+}

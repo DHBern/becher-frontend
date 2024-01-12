@@ -1,0 +1,17 @@
+{
+  "date": "18. September 1933",
+  "signature": "SLA-UB-B-2-RODE-2",
+  "holding_institution": "SLA",
+  "title": "Roda Roda, Elsbeth an Becher, Ulrich; Korrespondenz, Rom",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643036",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Roda Roda, Elsbeth an Becher, Ulrich; Korrespondenz, Graz; Rom",
+      "level": 3
+    }
+  ]
+}

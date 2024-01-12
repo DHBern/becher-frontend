@@ -1,0 +1,17 @@
+{
+  "date": "24. April 1958",
+  "signature": "SLA-UB-B-2-SCHM-1",
+  "holding_institution": "SLA",
+  "title": "Schmalhausen, Lotte an Becher, Ulrich und Dana; Korrespondenz, Berlin",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643327",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Schmalhausen, Lotte an Becher, Ulrich und Dana; Korrespondenz, Berlin",
+      "level": 3
+    }
+  ]
+}

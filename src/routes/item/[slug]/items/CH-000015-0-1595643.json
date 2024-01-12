@@ -1,0 +1,17 @@
+{
+  "date": "30. Dezember 1947",
+  "signature": "SLA-UB-B-2-FEU-1",
+  "holding_institution": "SLA",
+  "title": "Feuchtwanger, Lion an Becher, Ulrich; Korrespondenz, Pacific Palisades;\nCalif.",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595643",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Feuchtwanger, Lion an Becher, Ulrich; Korrespondenz, Pacific Palisades;\nCalif.",
+      "level": 3
+    }
+  ]
+}

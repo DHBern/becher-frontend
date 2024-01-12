@@ -1,0 +1,17 @@
+{
+  "date": "s.d.",
+  "signature": "SLA-UB-B-3-STAIG-BECHD-8",
+  "holding_institution": "SLA",
+  "title": "Staiger, Amy an Becher, Dana; Korrespondenz, Málaga;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1693461",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Staiger, Amy an Becher, Dana.; Korrespondenz, Paris;\nCapri;\nMarbella",
+      "level": 3
+    }
+  ]
+}

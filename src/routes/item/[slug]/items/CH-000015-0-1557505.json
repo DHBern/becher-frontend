@@ -1,0 +1,15 @@
+{
+  "date": "1950",
+  "signature": "SLA-UB-C-3-b-1-b",
+  "holding_institution": "SLA",
+  "title": "Auszug aus dem Grundbuch von der Friedrichstadt, Bd. 11, Berlin",
+  "category": 39993,
+  "entry_type": "item",
+  "key": "CH-000015-0-1557505",
+  "levels": [
+    { "'title":"Lebensdokumente", "level":1 },
+    { "'title":"Familie", "level":2 },
+    { "'title":"Becher, Richard (Vater)", "level":3 },
+    { "'title":"Persönliche Dokumente", "level":4 }
+  ]
+}

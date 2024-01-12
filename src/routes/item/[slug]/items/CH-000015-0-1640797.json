@@ -1,0 +1,17 @@
+{
+  "date": "5. August 1954",
+  "signature": "SLA-UB-B-2-KOCH-1",
+  "holding_institution": "SLA",
+  "title": "Koch, Heinrich an Becher, Ulrich; Korrespondenz, Hamburg",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640797",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Koch, Heinrich an Becher, Ulrich; Korrespondenz, Cuxhaven; Hamburg",
+      "level": 3
+    }
+  ]
+}

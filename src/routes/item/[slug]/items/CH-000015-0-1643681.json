@@ -1,0 +1,17 @@
+{
+  "date": "29. Dezember 1955",
+  "signature": "SLA-UB-B-2-STAEL-2",
+  "holding_institution": "SLA",
+  "title": "Städtische Theater Leipzig an Becher, Ulrich; Korrespondenz, Leipzig;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643681",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Städtische Theater Leipzig an Becher, Ulrich; Korrespondenz, Leipzig",
+      "level": 3
+    }
+  ]
+}

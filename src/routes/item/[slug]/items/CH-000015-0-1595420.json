@@ -1,0 +1,17 @@
+{
+  "date": "18. September 1986",
+  "signature": "SLA-UB-B-2-ECK-1",
+  "holding_institution": "SLA",
+  "title": "Eckert Budzislawski, Thomas an Becher, Ulrich; Korrespondenz, Berlin",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595420",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Eckert Budzislawski, Thomas an Becher, Ulrich; Korrespondenz, Berlin",
+      "level": 3
+    }
+  ]
+}

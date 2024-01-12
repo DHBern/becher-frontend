@@ -1,0 +1,17 @@
+{
+  "date": "22. Oktober 1973",
+  "signature": "SLA-UB-B-3-ENGEL-BECHD-4",
+  "holding_institution": "SLA",
+  "title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Schwarzach;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685053",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Bregenz;\nSchwarzach;\nMumbai;\nAugsburg",
+      "level": 3
+    }
+  ]
+}

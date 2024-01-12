@@ -1,0 +1,17 @@
+{
+  "date": "30. Mai 1985",
+  "signature": "SLA-UB-B-3-BECHD-HACK-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Dana an Hackermüller, Rotraut; Korrespondenz, Basel;\nWien",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685338",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Becher, Dana an Hackermüller, Rotraut; Korrespondenz, Basel;\nWien",
+      "level": 3
+    }
+  ]
+}

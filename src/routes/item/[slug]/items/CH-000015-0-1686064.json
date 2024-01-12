@@ -1,0 +1,17 @@
+{
+  "date": "14. Oktober 1972",
+  "signature": "SLA-UB-B-3-MUCKI-BECHD-1",
+  "holding_institution": "SLA",
+  "title": "Mucki an Becher, Dana; Korrespondenz, London",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1686064",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Mucki an Becher, Dana; Korrespondenz, München;\nRanzo;\nKnightsbridge",
+      "level": 3
+    }
+  ]
+}

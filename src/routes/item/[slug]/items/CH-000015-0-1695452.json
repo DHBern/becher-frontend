@@ -1,0 +1,17 @@
+{
+  "date": "26. Oktober 1959",
+  "signature": "SLA-UB-B-3-ZEPP-BECHD-21",
+  "holding_institution": "SLA",
+  "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, ohne Ort",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1695452",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, Barcelona;\nShanghai;\nYokohama;\nTokio;\nManila;\nBuenos Aires;\nNew York;\nMexiko-Stadt;\nSurfers Paradise;\n Wien",
+      "level": 3
+    }
+  ]
+}

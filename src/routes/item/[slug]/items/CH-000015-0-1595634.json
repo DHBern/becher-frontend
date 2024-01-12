@@ -1,0 +1,17 @@
+{
+  "date": "21. September 1970",
+  "signature": "SLA-UB-B-2-FED-1",
+  "holding_institution": "SLA",
+  "title": "Federspiel, Jürg an Becher, Ulrich und Dana; Korrespondenz, Golino",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595634",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Federspiel, Jürg an Becher, Ulrich und Dana; Korrespondenz, Golino",
+      "level": 3
+    }
+  ]
+}

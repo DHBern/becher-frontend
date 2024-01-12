@@ -1,0 +1,17 @@
+{
+  "date": "31. Juli 1964",
+  "signature": "SLA-UB-B-2-NOR-1",
+  "holding_institution": "SLA",
+  "title": "Norddeutsche Filmproduktions Gemeinschaft an Becher, Ulrich; Korrespondenz, Starnberg\/See;\nLugano",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642865",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Norddeutsche Filmproduktions Gemeinschaft an Becher, Ulrich; Korrespondenz, Hamburg; Starnberg\/See",
+      "level": 3
+    }
+  ]
+}

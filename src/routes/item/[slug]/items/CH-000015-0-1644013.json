@@ -1,0 +1,17 @@
+{
+  "date": "18. April 1988",
+  "signature": "SLA-UB-B-2-VAN-1",
+  "holding_institution": "SLA",
+  "title": "Vansant, Jacqueline an Becher, Ulrich; Korrespondenz, Clinton (New York);\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1644013",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Vansant, Jacqueline an Becher, Ulrich; Korrespondenz, Clinton;\nNew York",
+      "level": 3
+    }
+  ]
+}

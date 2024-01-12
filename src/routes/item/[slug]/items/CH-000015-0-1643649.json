@@ -1,0 +1,17 @@
+{
+  "date": "19. November 1988",
+  "signature": "SLA-UB-B-2-SCHR-1",
+  "holding_institution": "SLA",
+  "title": "Schroeder, Karl an Becher, Ulrich; Korrespondenz, Würzburg (?);\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643649",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Schroeder, Karl an Becher, Ulrich; Korrespondenz, Würzburg (?)",
+      "level": 3
+    }
+  ]
+}

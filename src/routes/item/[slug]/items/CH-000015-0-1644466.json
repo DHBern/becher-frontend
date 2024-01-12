@@ -1,0 +1,17 @@
+{
+  "date": "26. Juni 1952",
+  "signature": "SLA-UB-B-2-WAG-1",
+  "holding_institution": "SLA",
+  "title": "Wagner, Herbert H. an Becher, Ulrich; Korrespondenz, Hannover;\nBasel, Baden",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1644466",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Wagner, Herbert H. an Becher, Ulrich; Korrespondenz, Hannover",
+      "level": 3
+    }
+  ]
+}

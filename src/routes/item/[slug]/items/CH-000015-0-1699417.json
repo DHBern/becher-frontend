@@ -1,0 +1,17 @@
+{
+  "date": "25. März 1927",
+  "signature": "SLA-UB-B-4-UNBEK-40",
+  "holding_institution": "SLA",
+  "title": "Unbekannte Korrespondenzpartner; Korrespondenz, Neapel;\nBudapest",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1699417",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien",
+      "level": 3
+    }
+  ]
+}

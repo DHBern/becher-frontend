@@ -1,0 +1,17 @@
+{
+  "date": "18. März 1954",
+  "signature": "SLA-UB-B-2-HIRT-1",
+  "holding_institution": "SLA",
+  "title": "Hirt, Eva an Becher, Ulrich; Korrespondenz, Birsfelden b. Basel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640699",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Hirt, Eva an Becher, Ulrich; Korrespondenz, Birsfelden b. Basel",
+      "level": 3
+    }
+  ]
+}

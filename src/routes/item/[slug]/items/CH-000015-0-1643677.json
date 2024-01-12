@@ -1,0 +1,17 @@
+{
+  "date": "11. April 1969",
+  "signature": "SLA-UB-B-2-STA-1",
+  "holding_institution": "SLA",
+  "title": "Staatliche Hochschule für Bildende Künste Hamburg an Becher, Ulrich; Korrespondenz, Hamburg;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643677",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Staatliche Hochschule für Bildende Künste Hamburg an Becher, Ulrich; Korrespondenz, Hamburg",
+      "level": 3
+    }
+  ]
+}

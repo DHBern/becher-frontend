@@ -1,0 +1,17 @@
+{
+  "date": "18. Oktober 1935",
+  "signature": "SLA-UB-B-2-ROD-3",
+  "holding_institution": "SLA",
+  "title": "Roda Roda, Alexander an Becher, Ulrich und Dana; Korrespondenz, Graz",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643028",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Roda Roda, Alexander an Becher, Ulrich und Dana; Korrespondenz, Graz; Wien",
+      "level": 3
+    }
+  ]
+}

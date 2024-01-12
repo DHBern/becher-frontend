@@ -1,0 +1,17 @@
+{
+  "date": "11. September 1946",
+  "signature": "SLA-UB-B-2-BAY-1",
+  "holding_institution": "SLA",
+  "title": "Bayer, Joella an Becher, Ulrich; Korrespondenz, Aspen;\nColorado; New York",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1587925",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Bayer, Joella an Becher, Ulrich; Korrespondenz, Aspen;\nColorado",
+      "level": 3
+    }
+  ]
+}

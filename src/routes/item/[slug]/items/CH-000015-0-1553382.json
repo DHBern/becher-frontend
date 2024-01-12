@@ -1,0 +1,18 @@
+{
+  "date": "1946 bis 1947",
+  "signature": "SLA-UB-C-1-e-1-b",
+  "holding_institution": "SLA",
+  "title": "Mappe \"Torberg Br II\"; Unterlagen von Richard Becher, New York,",
+  "category": 39991,
+  "entry_type": "file",
+  "key": "CH-000015-0-1553382",
+  "levels": [
+    { "'title":"Lebensdokumente", "level":1 },
+    { "'title":"Persönliche Dokumente", "level":2 },
+    { "'title":"Juristische Prozesse", "level":3 },
+    {
+      "'title": "Torberg, Friedrich - Becher, Ulrich, Preses, Peter: Der Bockerer",
+      "level": 4
+    }
+  ]
+}

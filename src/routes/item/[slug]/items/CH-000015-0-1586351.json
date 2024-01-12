@@ -1,0 +1,17 @@
+{
+  "date": "1930",
+  "signature": "SLA-UB-B-1-ROD-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich an Roda Roda, Alexander; Korrespondenz, Berlin;\nGraz",
+  "category": 20200,
+  "entry_type": "item",
+  "key": "CH-000015-0-1586351",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe von Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Ulrich an Roda Roda, Alexander; Korrespondenz, Berlin; Wien",
+      "level": 3
+    }
+  ]
+}

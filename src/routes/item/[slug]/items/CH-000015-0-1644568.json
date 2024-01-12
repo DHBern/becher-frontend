@@ -1,0 +1,17 @@
+{
+  "date": "8. März 1950",
+  "signature": "SLA-UB-B-2-WEI-1",
+  "holding_institution": "SLA",
+  "title": "Willi Weismann Verlag an Becher, Ulrich; Korrespondenz, München;\nSeefeld\/Tirol",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1644568",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Willi Weismann Verlag an Becher, Ulrich; Korrespondenz, München",
+      "level": 3
+    }
+  ]
+}

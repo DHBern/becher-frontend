@@ -1,0 +1,17 @@
+{
+  "date": "24. August 1960",
+  "signature": "SLA-UB-B-2-LUS-3",
+  "holding_institution": "SLA",
+  "title": "Lustig-Prean, Karl an Becher, Ulrich; Korrespondenz, München; \nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642063",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Lustig-Prean, Karl an Becher, Ulrich; Korrespondenz, München; São Paulo",
+      "level": 3
+    }
+  ]
+}

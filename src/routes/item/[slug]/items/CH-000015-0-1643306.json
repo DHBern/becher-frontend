@@ -1,0 +1,17 @@
+{
+  "date": "22. Februar 1988",
+  "signature": "SLA-UB-B-2-SCHA-2",
+  "holding_institution": "SLA",
+  "title": "Schauspielhaus Zürich an Becher, Ulrich; Korrespondenz, Zürich;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643306",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Schauspielhaus Zürich an Becher, Ulrich; Korrespondenz, Zürich",
+      "level": 3
+    }
+  ]
+}

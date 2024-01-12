@@ -1,0 +1,18 @@
+{
+  "date": "1943 bis 1944",
+  "signature": "SLA-UB-A-3-c-1-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich: Die Ballade vom tanzenden Berg",
+  "category": 19993,
+  "entry_type": "item",
+  "key": "CH-000015-0-1558258",
+  "levels": [
+    { "'title":"Werke", "level":1 },
+    { "'title":"Gedichte und Versepen", "level":2 },
+    { "'title":"Brasilianischer Romanzero", "level":3 },
+    {
+      "'title": "Becher, Ulrich: Romanze der Begegnung mit Johann Damaszener Vanille",
+      "level": 4
+    }
+  ]
+}

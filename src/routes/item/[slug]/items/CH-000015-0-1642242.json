@@ -1,0 +1,17 @@
+{
+  "date": "7. Oktober 1976",
+  "signature": "SLA-UB-B-2-MOE-1",
+  "holding_institution": "SLA",
+  "title": "Moeller, Hans-Bernhard an Becher, Ulrich; Korrespondenz, Austin;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642242",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Moeller, Hans-Bernhard an Becher, Ulrich; Korrespondenz, Austin",
+      "level": 3
+    }
+  ]
+}

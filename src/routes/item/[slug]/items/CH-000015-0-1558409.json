@@ -1,0 +1,18 @@
+{
+  "date": "1940 bis 1968",
+  "signature": "SLA-UB-A-3-e-28-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich: Wandrers Nachtlied oder Wenn man mit den Kaltkriegern in einem Boot sitzt",
+  "category": 19993,
+  "entry_type": "item",
+  "key": "CH-000015-0-1558409",
+  "levels": [
+    { "'title":"Werke", "level":1 },
+    { "'title":"Gedichte und Versepen", "level":2 },
+    { "'title":"Weitere Gedichte und Gedichtskizzen", "level":3 },
+    {
+      "'title": "Becher, Ulrich: Wandrers Nachtlied oder Wenn man mit den Kalt-kriegern in einem Boot sitzt",
+      "level": 4
+    }
+  ]
+}

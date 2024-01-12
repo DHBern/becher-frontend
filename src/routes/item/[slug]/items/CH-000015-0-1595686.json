@@ -1,0 +1,17 @@
+{
+  "date": "14. Juli 1959",
+  "signature": "SLA-UB-B-2-FRA-1",
+  "holding_institution": "SLA",
+  "title": "Frankfurter Allgemeine Zeitung an Becher, Ulrich; Korrespondenz, Frankfurt am Main",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595686",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Frankfurter Allgemeine Zeitung an Becher, Ulrich; Korrespondenz, Frankfurt am Main",
+      "level": 3
+    }
+  ]
+}

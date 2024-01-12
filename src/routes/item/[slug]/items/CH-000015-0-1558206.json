@@ -1,0 +1,18 @@
+{
+  "date": "1944",
+  "signature": "SLA-UB-A-3-b-12-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich: Sang des portugiesischen Meeres - Praia das Maçãs",
+  "category": 19993,
+  "entry_type": "item",
+  "key": "CH-000015-0-1558206",
+  "levels": [
+    { "'title":"Werke", "level":1 },
+    { "'title":"Gedichte und Versepen", "level":2 },
+    { "'title":"Reise zum blauen Tag. Verse", "level":3 },
+    {
+      "'title": "Becher, Ulrich: Sang des portugiesischen Meeres - Praia das Maçãs",
+      "level": 4
+    }
+  ]
+}

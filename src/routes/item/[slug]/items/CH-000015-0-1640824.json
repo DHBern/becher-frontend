@@ -1,0 +1,17 @@
+{
+  "date": "24. August 1956",
+  "signature": "SLA-UB-B-2-LAP-2",
+  "holding_institution": "SLA",
+  "title": "La Page Internationale an Becher, Ulrich; Korrespondenz, Paris;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640824",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "La Page Internationale an Becher, Ulrich; Korrespondenz, Paris",
+      "level": 3
+    }
+  ]
+}

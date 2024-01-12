@@ -1,0 +1,17 @@
+{
+  "date": "22. Dezember 1950",
+  "signature": "SLA-UB-B-2-CLA-1",
+  "holding_institution": "SLA",
+  "title": "Werner Classen Verlag an Becher, Ulrich; Korrespondenz, Zürich",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1591805",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Werner Classen Verlag an Becher, Ulrich; Korrespondenz, Zürich",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "date": "April 1939",
+  "signature": "SLA-UB-C-1-e-1-c",
+  "holding_institution": "SLA",
+  "title": "Torberg, Friedrich: \"Herr Neidinger\" in die Österreichische Post; Druckbeleg und Kopien, Paris",
+  "category": 39991,
+  "entry_type": "file",
+  "key": "CH-000015-0-1553383",
+  "levels": [
+    { "'title":"Lebensdokumente", "level":1 },
+    { "'title":"Persönliche Dokumente", "level":2 },
+    { "'title":"Juristische Prozesse", "level":3 },
+    {
+      "'title": "Torberg, Friedrich - Becher, Ulrich, Preses, Peter: Der Bockerer",
+      "level": 4
+    }
+  ]
+}

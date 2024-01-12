@@ -1,0 +1,17 @@
+{
+  "date": "14. Dezember 1960",
+  "signature": "SLA-UB-B-2-FIS-1",
+  "holding_institution": "SLA",
+  "title": "S. Fischer Verlag an Becher, Ulrich; Korrespondenz, Frankfurt am Main",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595666",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "S. Fischer Verlag an Becher, Ulrich; Korrespondenz, Frankfurt am Main",
+      "level": 3
+    }
+  ]
+}

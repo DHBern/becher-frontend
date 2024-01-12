@@ -1,0 +1,17 @@
+{
+  "date": "15. Juni 1943",
+  "signature": "SLA-UB-B-4-UNBEK-07",
+  "holding_institution": "SLA",
+  "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, USA;\nRio de Janeiro",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1698701",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien",
+      "level": 3
+    }
+  ]
+}

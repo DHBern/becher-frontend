@@ -1,0 +1,17 @@
+{
+  "date": "7. Januar 1954",
+  "signature": "SLA-UB-B-2-FIL-2",
+  "holding_institution": "SLA",
+  "title": "Filmaufbau GmbH Göttingen an Becher, Ulrich; Korrespondenz",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595653",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Filmaufbau GmbH Göttingen an Becher, Ulrich; Korrespondenz, Abano; Göttingen",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "18. Dezember 1982",
+  "signature": "SLA-UB-B-3-BACH-BECHD-54",
+  "holding_institution": "SLA",
+  "title": "Bach, Susanne an Becher Dana; Korrespondenz, Rio de Janeiro",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1672880",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Bach, Susanne an Becher Dana; Korrespondenz, Bellerive sur Allier;\nParis;\nRio de Janeiro;\nIteer;\nMorro Azul;\nMünchen",
+      "level": 3
+    }
+  ]
+}

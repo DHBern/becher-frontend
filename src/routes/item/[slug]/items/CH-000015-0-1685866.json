@@ -1,0 +1,17 @@
+{
+  "date": "7. Juli 1986",
+  "signature": "SLA-UB-B-3-LOEBEN-BECHD-29",
+  "holding_institution": "SLA",
+  "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, Prien;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685866",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Loeben, Renate von an Becher, Dana; Korrespondenz, München;\nPrien",
+      "level": 3
+    }
+  ]
+}

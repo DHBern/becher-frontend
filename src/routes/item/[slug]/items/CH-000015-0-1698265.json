@@ -1,0 +1,17 @@
+{
+  "date": "23. März 1991",
+  "signature": "SLA-UB-B-4-PROM-27",
+  "holding_institution": "SLA",
+  "title": "Lange, Torsten an Roda Becher, Dana; Korrespondenz, Essen;\nBasel",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1698265",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Promotionsvorhaben von Torsten Lange, Osnabrück;\nEssen;\nBasel",
+      "level": 3
+    }
+  ]
+}

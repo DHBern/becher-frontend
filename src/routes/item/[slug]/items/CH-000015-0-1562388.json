@@ -1,0 +1,16 @@
+{
+  "date": "1939",
+  "signature": "SLA-UB-C-3-b-2-g-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Richard: Nietzsche",
+  "category": 39993,
+  "entry_type": "file",
+  "key": "CH-000015-0-1562388",
+  "levels": [
+    { "'title":"Lebensdokumente", "level":1 },
+    { "'title":"Familie", "level":2 },
+    { "'title":"Becher, Richard (Vater)", "level":3 },
+    { "'title":"Manuskripte und Typoskripte", "level":4 },
+    { "'title":"Becher, Richard: Texte und Textfragmente", "level":5 }
+  ]
+}

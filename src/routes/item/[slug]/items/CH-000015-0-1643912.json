@@ -1,0 +1,17 @@
+{
+  "date": "9. Mai 1956",
+  "signature": "SLA-UB-B-2-TEA-1",
+  "holding_institution": "SLA",
+  "title": "Teaterförlag Lars Schmidt & Co an Becher, Ulrich; Korrespondenz, Stockholm;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643912",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Teaterförlag Lars Schmidt & Co an Becher, Ulrich; Korrespondenz, Stockholm",
+      "level": 3
+    }
+  ]
+}

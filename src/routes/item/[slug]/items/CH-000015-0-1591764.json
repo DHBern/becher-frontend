@@ -1,0 +1,17 @@
+{
+  "date": "14. Januar 1938",
+  "signature": "SLA-UB-B-2-BRIT-1",
+  "holding_institution": "SLA",
+  "title": "British & Continental Plays LTD. an Becher, Ulrich; Korrespondenz, London",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1591764",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "British & Continental Plays LTD. an Becher, Ulrich; Korrespondenz, London",
+      "level": 3
+    }
+  ]
+}

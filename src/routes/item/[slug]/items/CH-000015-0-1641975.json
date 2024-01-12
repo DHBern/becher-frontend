@@ -1,0 +1,17 @@
+{
+  "date": "13. Juli 1989",
+  "signature": "SLA-UB-B-2-LEN-1",
+  "holding_institution": "SLA",
+  "title": "Lenos Verlag an Becher, Ulrich und Dana; Korrespondenz, Basel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1641975",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Lenos Verlag an Becher, Ulrich und Dana; Korrespondenz, Basel",
+      "level": 3
+    }
+  ]
+}

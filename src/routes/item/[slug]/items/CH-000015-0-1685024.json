@@ -1,0 +1,17 @@
+{
+  "date": "3. Februar 1949",
+  "signature": "SLA-UB-B-3-EISK-LESK-1",
+  "holding_institution": "SLA",
+  "title": "Eisenberg, Katharina an Leskoschek, Axl; Korrespondenz, Zürich;\nWien",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685024",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Eisenberg, Katharina an Leskoschek, Axl; Korrespondenz, Zürich",
+      "level": 3
+    }
+  ]
+}

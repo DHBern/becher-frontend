@@ -1,0 +1,17 @@
+{
+  "date": "19. März 1977",
+  "signature": "SLA-UB-B-2-KRU-1",
+  "holding_institution": "SLA",
+  "title": "Krukowski, Elizabeth an Becher, Ulrich; Korrespondenz, Middletown (Ohio);\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640806",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Krukowski, Elizabeth an Becher, Ulrich; Korrespondenz, Middletown;\nOhio",
+      "level": 3
+    }
+  ]
+}

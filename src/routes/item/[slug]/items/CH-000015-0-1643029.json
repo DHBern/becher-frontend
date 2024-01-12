@@ -1,0 +1,17 @@
+{
+  "date": "12. Februar 1936",
+  "signature": "SLA-UB-B-2-ROD-4",
+  "holding_institution": "SLA",
+  "title": "Roda Roda, Alexander an Becher, Ulrich und Dana; Korrespondenz, ohne Ort",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643029",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Roda Roda, Alexander an Becher, Ulrich und Dana; Korrespondenz, Graz; Wien",
+      "level": 3
+    }
+  ]
+}

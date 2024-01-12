@@ -1,0 +1,17 @@
+{
+  "date": "29. September 1989",
+  "signature": "SLA-UB-B-4-FLASCH-14",
+  "holding_institution": "SLA",
+  "title": "Roda Becher, Dana an Naumann, Uwe; Korrespondenz, Basel",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1697230",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Flaschenpost: Briefwechsel zwischen Uwe Naumann\/Michel Töteberg und Dana Becher",
+      "level": 3
+    }
+  ]
+}

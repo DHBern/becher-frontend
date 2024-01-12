@@ -1,0 +1,17 @@
+{
+  "date": "Dezember 1935",
+  "signature": "SLA-UB-B-1-GRO-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich an Grosz, George; Korrespondenz, o.O.",
+  "category": 20200,
+  "entry_type": "item",
+  "key": "CH-000015-0-1586187",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe von Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Ulrich an Grosz, George; Korrespondenz, [New York?]; Zürich",
+      "level": 3
+    }
+  ]
+}

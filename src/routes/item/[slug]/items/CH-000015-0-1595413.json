@@ -1,0 +1,17 @@
+{
+  "date": "26. Februar 1986",
+  "signature": "SLA-UB-B-2-DRO-1",
+  "holding_institution": "SLA",
+  "title": "Drozdowski, Piotr Joran an Becher, Ulrich; Korrespondenz, Chapel Hill;\nN.C.",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595413",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Drozdowski, Piotr Joran an Becher, Ulrich; Korrespondenz, Chapel Hill;\nN.C.",
+      "level": 3
+    }
+  ]
+}

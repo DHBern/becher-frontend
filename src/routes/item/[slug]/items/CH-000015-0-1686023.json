@@ -1,0 +1,17 @@
+{
+  "date": "1. November 1981",
+  "signature": "SLA-UB-B-3-MORR-BECHD-1",
+  "holding_institution": "SLA",
+  "title": "Morris, Katherine an Becher, Dana; Korrespondenz, Greensboro, North Carolina;\nBasel",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1686023",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Morris, Katherine an Becher, Dana; Korrespondenz, Greensboro;\nNorth Carolina",
+      "level": 3
+    }
+  ]
+}

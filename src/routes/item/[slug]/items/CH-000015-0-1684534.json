@@ -1,0 +1,17 @@
+{
+  "date": "17. Juli 1954",
+  "signature": "SLA-UB-B-3-BECHD-RODA-25",
+  "holding_institution": "SLA",
+  "title": "Becher, Dana an Roda Roda, Elsbeth; Korrespondenz, Rottach a. Tegernsee;\nBad Gleichenberg",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1684534",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Becher, Dana an  Roda Roda, Alexander und Elsbeth; Korrespondenz, München;\nTherezopolis;\nRio de Janeiro;\nNew Foundland;\nBasel;\nBerlin;\nJesolo",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "11. Juni 1958",
+  "signature": "SLA-UB-B-2-GRO-51",
+  "holding_institution": "SLA",
+  "title": "Grosz, George an Becher, Ulrich; Korrespondenz, Huntington (New York);\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640333",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Grosz, George an Becher, Ulrich; Korrespondenz, Bayside (New York); Huntington (New York)",
+      "level": 3
+    }
+  ]
+}

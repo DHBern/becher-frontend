@@ -1,0 +1,17 @@
+{
+  "date": "22. April 1986",
+  "signature": "SLA-UB-B-2-STAA-1",
+  "holding_institution": "SLA",
+  "title": "Staatliche Literaturkreditkommission des Kantons Basel-Stadt an Becher, Ulrich; Korrespondenz, Basel;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643686",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Staatliche Literaturkreditkommission des Kantons Basel-Stadt an Becher, Ulrich; Korrespondenz, Basel",
+      "level": 3
+    }
+  ]
+}

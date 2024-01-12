@@ -1,0 +1,17 @@
+{
+  "date": "30. Dezember 1968",
+  "signature": "SLA-UB-B-3-MUEH-BECHD-27",
+  "holding_institution": "SLA",
+  "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Köln",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1686751",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Buenos Aires;\nKöln;\nParis",
+      "level": 3
+    }
+  ]
+}

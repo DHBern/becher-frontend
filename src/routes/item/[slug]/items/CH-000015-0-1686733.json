@@ -1,0 +1,17 @@
+{
+  "date": "3. Februar 1965",
+  "signature": "SLA-UB-B-3-MUEH-BECHD-09",
+  "holding_institution": "SLA",
+  "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Köln",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1686733",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Buenos Aires;\nKöln;\nParis",
+      "level": 3
+    }
+  ]
+}

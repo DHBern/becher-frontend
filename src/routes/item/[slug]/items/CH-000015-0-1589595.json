@@ -1,0 +1,17 @@
+{
+  "date": "14. März 1938",
+  "signature": "SLA-UB-B-2-BECHR-4",
+  "holding_institution": "SLA",
+  "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1589595",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Rolf an Becher, Ulrich; Korrespondenz, Samnaun;\nSt. Moritz; Piazzogna; Zürich; Zypern",
+      "level": 3
+    }
+  ]
+}

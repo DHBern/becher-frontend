@@ -1,0 +1,18 @@
+{
+  "date": "1945",
+  "signature": "SLA-UB-A-1-c-2-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich: Der schwarze Hut (Druckfassung)",
+  "category": 19991,
+  "entry_type": "item",
+  "key": "CH-000015-0-1557666",
+  "levels": [
+    { "'title":"Werke", "level":1 },
+    { "'title":"Erzählungen", "level":2 },
+    {
+      "'title": "Nachtigall will zum Vater fliegen. Ein Zyklus New Yorker Novellen in vier Nächten",
+      "level": 3
+    },
+    { "'title":"Becher, Ulrich: Der schwarze Hut", "level":4 }
+  ]
+}

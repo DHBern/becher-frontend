@@ -1,0 +1,17 @@
+{
+  "date": "23. März 1945",
+  "signature": "SLA-UB-B-2-GRO-03",
+  "holding_institution": "SLA",
+  "title": "Grosz, George an Becher, Ulrich; Korrespondenz, ohne Ort",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640284",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Grosz, George an Becher, Ulrich; Korrespondenz, Bayside (New York); Huntington (New York)",
+      "level": 3
+    }
+  ]
+}

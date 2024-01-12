@@ -1,0 +1,17 @@
+{
+  "date": "14. August 1944",
+  "signature": "SLA-UB-B-1-BUD-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich an Budzislawski, Hermann; Korrespondenz, Woodstock",
+  "category": 20200,
+  "entry_type": "item",
+  "key": "CH-000015-0-1586137",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe von Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Ulrich an Budzislawski, Hermann; Korrespondenz, Tariffville; Woodstock",
+      "level": 3
+    }
+  ]
+}

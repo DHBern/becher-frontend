@@ -1,0 +1,17 @@
+{
+  "date": "20. September 1937",
+  "signature": "SLA-UB-B-2-WUE-1",
+  "holding_institution": "SLA",
+  "title": "Würzler, Lore an Becher, Ulrich; Korrespondenz, ohne Ort",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1651113",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Würzler, Lore an Becher, Ulrich; Korrespondenz, Berlin; Dubrovnik",
+      "level": 3
+    }
+  ]
+}

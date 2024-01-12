@@ -1,0 +1,17 @@
+{
+  "date": "25. Februar 1937",
+  "signature": "SLA-UB-B-2-SCHWB-1",
+  "holding_institution": "SLA",
+  "title": "Schweizerischer Landessender Beromünster an Becher, Ulrich; Korrespondenz, Zürich;\nZürich",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643655",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Schweizerischer Landessender Beromünster an Becher, Ulrich; Korrespondenz, Zürich",
+      "level": 3
+    }
+  ]
+}

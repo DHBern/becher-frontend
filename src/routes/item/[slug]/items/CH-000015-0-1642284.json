@@ -1,0 +1,17 @@
+{
+  "date": "11. Juli 1987",
+  "signature": "SLA-UB-B-2-NAS-2",
+  "holding_institution": "SLA",
+  "title": "Nassauischer Kunstverein Wiesbaden an Becher, Ulrich; Korrespondenz, Wiesbaden;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642284",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Nassauischer Kunstverein Wiesbaden an Becher, Ulrich; Korrespondenz, Wiesbaden",
+      "level": 3
+    }
+  ]
+}

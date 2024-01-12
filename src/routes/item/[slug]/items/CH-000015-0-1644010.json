@@ -1,0 +1,17 @@
+{
+  "date": "19. August 1970",
+  "signature": "SLA-UB-B-2-VDA-2",
+  "holding_institution": "SLA",
+  "title": "Verlag der Autoren an Becher, Ulrich; Korrespondenz, Frankfurt am Main;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1644010",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Verlag der Autoren an Becher, Ulrich; Korrespondenz, Frankfurt am Main",
+      "level": 3
+    }
+  ]
+}

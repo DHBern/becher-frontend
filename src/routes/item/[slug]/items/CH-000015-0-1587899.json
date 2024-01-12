@@ -1,0 +1,17 @@
+{
+  "date": "21. Februar 1980",
+  "signature": "SLA-UB-B-2-BAR-5",
+  "holding_institution": "SLA",
+  "title": "Barlog, Boleslaw an Becher, Ulrich; Korrespondenz, o.O.",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1587899",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Barlog, Boleslaw an Becher, Ulrich; Korrespondenz, Berlin; Sylt",
+      "level": 3
+    }
+  ]
+}

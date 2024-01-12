@@ -1,0 +1,17 @@
+{
+  "date": "28. Januar 1971",
+  "signature": "SLA-UB-B-2-STEI-1",
+  "holding_institution": "SLA",
+  "title": "Steigmann, Maximilian an Becher, Ulrich; Korrespondenz, Montevideo",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643729",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Steigmann, Maximilian an Becher, Ulrich; Korrespondenz, Montevideo",
+      "level": 3
+    }
+  ]
+}

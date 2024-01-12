@@ -1,0 +1,17 @@
+{
+  "date": "2. Oktober 1970",
+  "signature": "SLA-UB-B-3-NEUM-BECHD-15",
+  "holding_institution": "SLA",
+  "title": "Neumann, Robert an Becher, Dana; Korrespondenz, Locarno-Monti",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1687097",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Neumann, Robert an Becher, Dana; Korrespondenz, Kent;\nLocarno-Monti",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "14. Juni 1939",
+  "signature": "SLA-UB-B-1-GEM-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich an Gemeindeamt Bad Gleichenberg; Korrespondenz, Steinen;\nBad Gleichenberg",
+  "category": 20200,
+  "entry_type": "item",
+  "key": "CH-000015-0-1586183",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe von Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Ulrich an Gemeindeamt Bad Gleichenberg; Korrespondenz, Steinen",
+      "level": 3
+    }
+  ]
+}

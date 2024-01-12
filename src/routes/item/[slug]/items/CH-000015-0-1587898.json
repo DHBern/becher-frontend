@@ -1,0 +1,17 @@
+{
+  "date": "3. Mai 1971",
+  "signature": "SLA-UB-B-2-BAR-4",
+  "holding_institution": "SLA",
+  "title": "Barlog, Boleslaw an Becher, Ulrich; Korrespondenz, Berlin;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1587898",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Barlog, Boleslaw an Becher, Ulrich; Korrespondenz, Berlin; Sylt",
+      "level": 3
+    }
+  ]
+}

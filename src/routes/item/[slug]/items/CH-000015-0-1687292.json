@@ -1,0 +1,17 @@
+{
+  "date": "16. Juni 1933",
+  "signature": "SLA-UB-B-3-RODA-BECH-1",
+  "holding_institution": "SLA",
+  "title": "Roda Roda, Alexander und Elsbeth an Becher, Richard und Elise; Korrespondenz, Graz",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1687292",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Roda Roda, Alexander und Elsbeth an Becher, Richard und Elise; Korrespondenz, Bad Gastein;\nGraz;\nZürich;\nTarifville",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "1. September 1944",
+  "signature": "SLA-UB-B-3-BECH-STEI-1",
+  "holding_institution": "SLA",
+  "title": "Becher, Richard an Steinberg Verlag; Korrespondenz, São Paulo",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1675623",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Becher, Richard an Steinberg Verlag; Korrespondenz, São Paulo",
+      "level": 3
+    }
+  ]
+}

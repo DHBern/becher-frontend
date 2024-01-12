@@ -2,7 +2,7 @@
 	import { base } from '$app/paths';
 
 	/**
-	 * @type {{date: string, signature: string, holding_institution: string, title: string, category: number}[]}
+	 * @type {{date: string, signature: string, key: string, holding_institution: string, title: string, category: number}[]}
 	 */
 	export let items = [];
 
@@ -45,13 +45,13 @@
 </script>
 
 <div class="grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] gap-4 pt-8">
-	{#each visibleItems as item, i (item.signature)}
+	{#each visibleItems as item, i (item.key)}
 		<article
 			class="hover:scale-125 transition-transform"
 			use:viewport={i !== visibleItems.length - 1}
 			on:enterViewport={() => (visibleNumber = visibleNumber + 30)}
 		>
-			<a href="{base}/item/{item.signature}">
+			<a href="{base}/item/{item.key}">
 				<figure>
 					<div class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500">
 						<enhanced:img src="$lib/assets/placeholder.jpg?w=300" class="mx-auto"></enhanced:img>

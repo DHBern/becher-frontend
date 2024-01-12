@@ -1,0 +1,18 @@
+{
+  "date": "1940 bis 1949",
+  "signature": "SLA-UB-A-1-c-5-2",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich: Feuerwasser",
+  "category": 19991,
+  "entry_type": "item",
+  "key": "CH-000015-0-1557677",
+  "levels": [
+    { "'title":"Werke", "level":1 },
+    { "'title":"Erzählungen", "level":2 },
+    {
+      "'title": "Nachtigall will zum Vater fliegen. Ein Zyklus New Yorker Novellen in vier Nächten",
+      "level": 3
+    },
+    { "'title":"Becher, Ulrich: Feuerwasser", "level":4 }
+  ]
+}

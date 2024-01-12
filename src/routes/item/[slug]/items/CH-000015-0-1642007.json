@@ -1,0 +1,17 @@
+{
+  "date": "11. Januar 1965",
+  "signature": "SLA-UB-B-2-LIN-1",
+  "holding_institution": "SLA",
+  "title": "Link, Ania an Becher, Ulrich und Dana; Korrespondenz, Warschau",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642007",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Link, Ania an Becher, Ulrich und Dana; Korrespondenz, Warschau",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "9. Juli 1974",
+  "signature": "SLA-UB-B-2-LEG-2",
+  "holding_institution": "SLA",
+  "title": "Legrand, Jacques an Becher, Ulrich; Korrespondenz, ohne Ort",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1640831",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Legrand, Jacques an Becher, Ulrich; Korrespondenz, Saarbrücken",
+      "level": 3
+    }
+  ]
+}

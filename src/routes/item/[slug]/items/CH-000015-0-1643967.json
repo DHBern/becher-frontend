@@ -1,0 +1,17 @@
+{
+  "date": "3. April 1969",
+  "signature": "SLA-UB-B-2-UEW-11",
+  "holding_institution": "SLA",
+  "title": "Universal Edition AG Wien an Becher, Ulrich; Korrespondenz, Wien; \nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643967",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Universal Edition AG Wien an Becher, Ulrich; Korrespondenz, Wien",
+      "level": 3
+    }
+  ]
+}

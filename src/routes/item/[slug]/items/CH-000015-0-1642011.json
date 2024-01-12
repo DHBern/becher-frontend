@@ -1,0 +1,17 @@
+{
+  "date": "10. Juli 1989",
+  "signature": "SLA-UB-B-2-LIT-1",
+  "holding_institution": "SLA",
+  "title": "Literatur in Liestal an Becher, Ulrich; Korrespondenz, Läufelfingen",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642011",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Literatur in Liestal an Becher, Ulrich; Korrespondenz, Läufelfingen",
+      "level": 3
+    }
+  ]
+}

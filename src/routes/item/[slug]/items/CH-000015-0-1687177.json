@@ -1,0 +1,17 @@
+{
+  "date": "13. Mai 1964",
+  "signature": "SLA-UB-B-3-RADD-BECHD-1",
+  "holding_institution": "SLA",
+  "title": "Raddatz, Fritz J. an Becher, Dana; Korrespondenz, Reinbek bei Hamburg",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1687177",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Raddatz, Fritz J. an Becher, Dana; Korrespondenz, Reinbek bei Hamburg;\nHamburg",
+      "level": 3
+    }
+  ]
+}

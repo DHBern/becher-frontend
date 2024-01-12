@@ -1,0 +1,17 @@
+{
+  "date": "1. Februar 1934",
+  "signature": "SLA-UB-B-2-ULL-1",
+  "holding_institution": "SLA",
+  "title": "Ullstein Verlag an Becher, Ulrich; Korrespondenz, Berlin;\nBerlin",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643916",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Ullstein Verlag an Becher, Ulrich; Korrespondenz, Berlin; Darmstadt; Wien",
+      "level": 3
+    }
+  ]
+}

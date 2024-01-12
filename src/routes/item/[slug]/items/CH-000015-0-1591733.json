@@ -1,0 +1,17 @@
+{
+  "date": "1970 bis 1975",
+  "signature": "SLA-UB-B-2-BRA-2",
+  "holding_institution": "SLA",
+  "title": "Brandt, Conrad an Becher, Ulrich und Dana; Korrespondenz, München",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1591733",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Brandt, Conrad an Becher, Ulrich und Dana; Korrespondenz, München; Paris",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "11. April 1989",
+  "signature": "SLA-UB-B-4-PROM-12",
+  "holding_institution": "SLA",
+  "title": "Lange, Torsten an Roda Becher, Dana; Korrespondenz, Osnabrück;\nBasel",
+  "category": 20400,
+  "entry_type": "item",
+  "key": "CH-000015-0-1698250",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefkonvolute", "level":2 },
+    {
+      "'title": "Promotionsvorhaben von Torsten Lange, Osnabrück;\nEssen;\nBasel",
+      "level": 3
+    }
+  ]
+}

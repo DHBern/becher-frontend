@@ -1,0 +1,17 @@
+{
+  "date": "21. April 1952",
+  "signature": "SLA-UB-B-2-OFA-1",
+  "holding_institution": "SLA",
+  "title": "Office artistique international an Becher, Ulrich; Korrespondenz, Paris;\nBerlin",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642886",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Office artistique international an Becher, Ulrich; Korrespondenz, Paris",
+      "level": 3
+    }
+  ]
+}

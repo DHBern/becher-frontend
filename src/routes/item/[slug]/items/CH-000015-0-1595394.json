@@ -1,0 +1,17 @@
+{
+  "date": "28. Juli 1956",
+  "signature": "SLA-UB-B-2-DEF-1",
+  "holding_institution": "SLA",
+  "title": "Deutsche Film AG an Becher, Ulrich; Korrespondenz, Potsdam-Babelsberg",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595394",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Deutsche Film AG an Becher, Ulrich; Korrespondenz, Potsdam-Babelsberg",
+      "level": 3
+    }
+  ]
+}

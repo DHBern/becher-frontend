@@ -1,0 +1,17 @@
+{
+  "date": "23. Dezember 1952",
+  "signature": "SLA-UB-B-2-NEU-2",
+  "holding_institution": "SLA",
+  "title": "Die Neue Zeitung an Becher, Ulrich; Korrespondenz, München;\nBerlin",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1642823",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Die Neue Zeitung an Becher, Ulrich; Korrespondenz, Berlin; München",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "8. Oktober 1980",
+  "signature": "SLA-UB-B-2-SCHWR-2",
+  "holding_institution": "SLA",
+  "title": "Schweizerische Radio- und Fernsehgesellschaft an Becher, Ulrich; Korrespondenz, Basel;\nBasel",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1643658",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Schweizerische Radio- und Fernsehgesellschaft an Becher, Ulrich; Korrespondenz, Basel; Zürich",
+      "level": 3
+    }
+  ]
+}

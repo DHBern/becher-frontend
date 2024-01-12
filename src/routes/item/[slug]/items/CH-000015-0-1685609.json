@@ -1,0 +1,17 @@
+{
+  "date": "29. März 1958",
+  "signature": "SLA-UB-B-3-LESK-BECHD-03",
+  "holding_institution": "SLA",
+  "title": "Leskoschek, Axl und Marussja an Becher, Dana; Korrespondenz, Wien",
+  "category": 20300,
+  "entry_type": "item",
+  "key": "CH-000015-0-1685609",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe Dritter", "level":2 },
+    {
+      "'title": "Leskoschek, Axl und Marussja an Becher, Dana; Korrespondenz, Graz;\nZürich;\nSankt Stefan;\nWien",
+      "level": 3
+    }
+  ]
+}

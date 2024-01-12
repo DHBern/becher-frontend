@@ -1,0 +1,17 @@
+{
+  "date": "27. Juni 1966",
+  "signature": "SLA-UB-B-2-FRAR-1",
+  "holding_institution": "SLA",
+  "title": "Frankfurter Rundschau an Becher, Ulrich; Korrespondenz, Frankfurt am Main",
+  "category": 20100,
+  "entry_type": "item",
+  "key": "CH-000015-0-1595688",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe an Ulrich Becher", "level":2 },
+    {
+      "'title": "Frankfurter Rundschau an Becher, Ulrich; Korrespondenz, Frankfurt am Main",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "4. Oktober 1963",
+  "signature": "SLA-UB-B-1-BECHD-10",
+  "holding_institution": "SLA",
+  "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Basel;\nAscona",
+  "category": 20200,
+  "entry_type": "item",
+  "key": "CH-000015-0-1585476",
+  "levels": [
+    { "'title":"Briefe", "level":1 },
+    { "'title":"Briefe von Ulrich Becher", "level":2 },
+    {
+      "'title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Bad Gastein; Basel; Berlin; Mailand; Manila; Montecatini; München; Paris; Prag;\nSalzburg; Triest; Venedig; Verona; Wien",
+      "level": 3
+    }
+  ]
+}
