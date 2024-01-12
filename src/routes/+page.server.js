@@ -11,7 +11,6 @@ import items from './compact.json';
  * @returns {import('@skeletonlabs/skeleton').TreeViewNode}
  */
 const createNode = (category) => {
-	//console.log(category);
 	const subcats = [...new Set(category?.subcats?.filter((subcat) => subcat !== category.id))];
 	return {
 		content: category?.title,
@@ -47,7 +46,6 @@ export async function load() {
 					});
 				}
 			}
-			//console.log(category);
 			filteredCategories.push(createNode(category));
 			seenIds.add(category.id);
 		}
