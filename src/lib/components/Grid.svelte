@@ -25,8 +25,10 @@
 	/**
 	 *
 	 * @param element {HTMLElement}
+	 * @param abort {boolean}
 	 */
-	function viewport(element) {
+	function viewport(element, abort) {
+		if (abort) return;
 		ensureIntersectionObserver();
 
 		intersectionObserver.observe(element);
@@ -44,32 +46,19 @@
 
 <div class="grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] gap-4 pt-8">
 	{#each visibleItems as item, i (item.signature)}
-		{#if i !== visibleItems.length - 1}
-			<article class="hover:scale-125 transition-transform">
-				<a href="{base}/item/{item.signature}">
-					<figure>
-						<div class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500">
-							<enhanced:img src="$lib/assets/placeholder.jpg?w=300" class="mx-auto"></enhanced:img>
-						</div>
-						<figcaption class="bg-surface-900">{item.title} [{item.date}]</figcaption>
-					</figure>
-				</a>
-			</article>
-		{:else}
-			<article
-				class="hover:scale-125 transition-transform"
-				use:viewport
-				on:enterViewport={() => (visibleNumber = visibleNumber + 30)}
-			>
-				<a href="{base}/item/{item.signature}">
-					<figure>
-						<div class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500">
-							<enhanced:img src="$lib/assets/placeholder.jpg?w=300" class="mx-auto"></enhanced:img>
-						</div>
-						<figcaption class="bg-surface-900">{item.title} [{item.date}]</figcaption>
-					</figure>
-				</a>
-			</article>
-		{/if}
+		<article
+			class="hover:scale-125 transition-transform"
+			use:viewport={i !== visibleItems.length - 1}
+			on:enterViewport={() => (visibleNumber = visibleNumber + 30)}
+		>
+			<a href="{base}/item/{item.signature}">
+				<figure>
+					<div class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500">
+						<enhanced:img src="$lib/assets/placeholder.jpg?w=300" class="mx-auto"></enhanced:img>
+					</div>
+					<figcaption class="bg-surface-900">{item.title} [{item.date}]</figcaption>
+				</figure>
+			</a>
+		</article>
 	{/each}
 </div>
