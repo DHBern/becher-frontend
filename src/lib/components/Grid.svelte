@@ -1,5 +1,4 @@
 <script>
-	import VirtualScroll from 'svelte-virtual-scroll-list';
 	import { base } from '$app/paths';
 
 	/**
@@ -74,9 +73,3 @@
 		{/if}
 	{/each}
 </div>
-
-<style>
-	:global(.virtual-scroll-wrapper) {
-		@apply grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] gap-4 pt-8;
-	}
-</style>
