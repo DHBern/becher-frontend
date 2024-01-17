@@ -1,5 +1,6 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
+	import OneRow from '$lib/components/OneRow.svelte';
 
 	/** @type {import('./$types').PageData} */
 	export let data;
@@ -16,4 +17,7 @@
 		<dd>y</dd>
 	</dl>
 </ContentContainer>
-<ContentContainer></ContentContainer>
+<ContentContainer dark>
+	<h2 class="h2">Verwandte Katalogisate</h2>
+	<OneRow items={data.related} />
+</ContentContainer>

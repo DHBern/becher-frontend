@@ -15,7 +15,14 @@ export function load({ params }) {
 
 	return {
 		key: params.slug,
-		metadata: filePromise
+		metadata: filePromise,
+		related: itemData
+			.map((item) => {
+				// eslint-disable-next-line no-unused-vars
+				const { entry_type, ...rest } = item;
+				return rest;
+			})
+			.slice(0, 7) // TODO: implement related items
 	};
 }
 
