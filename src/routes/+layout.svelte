@@ -53,7 +53,7 @@
 <AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
-		<AppBar padding="px-4" slotDefault="h-full">
+		<AppBar padding="px-4" slotDefault="h-full" background="bg-surface-100-900-token">
 			<svelte:fragment slot="lead">
 				<strong class="text-xl uppercase py-4">Logo</strong>
 			</svelte:fragment>
