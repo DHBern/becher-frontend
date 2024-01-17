@@ -6,6 +6,9 @@
 	 */
 	export let items = [];
 
+	let className = '';
+	export { className as class };
+
 	/**
 	 * @type IntersectionObserver
 	 */
@@ -44,7 +47,7 @@
 	$: visibleItems = items.slice(0, visibleNumber);
 </script>
 
-<div class="grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] gap-4 pt-8">
+<div class="grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] gap-4 pt-8 {className}">
 	{#each visibleItems as item, i (item.key)}
 		<article
 			class="hover:scale-125 transition-transform"

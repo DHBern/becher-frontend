@@ -6,6 +6,9 @@
 	 */
 	export let items = [];
 
+	let className = '';
+	export { className as class };
+
 	/**
 	 * @type HTMLDivElement
 	 */
@@ -26,7 +29,7 @@
 	}
 </script>
 
-<div class="grid grid-cols-[auto_1fr_auto] gap-4 items-center pt-8">
+<div class="grid grid-cols-[auto_1fr_auto] gap-4 items-center pt-8 {className}">
 	{#if elemGrid?.scrollWidth !== elemGrid?.clientWidth}
 		<button type="button" class="btn-icon variant-filled" on:click={multiColumnLeft}>
 			<i class="fa-solid fa-arrow-left" />
