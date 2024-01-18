@@ -38,7 +38,6 @@
 
 <Drawer height='h-auto'>
 	<nav class="list-nav">
-		<!-- (optionally you can provide a label here) -->
 		<ul>
 			{#each pages as page}
 				<li>
@@ -48,9 +47,8 @@
 				</li>
 			{/each}
 		</ul>
-	</nav>
-</Drawer>
-
+	</nav></Drawer
+>
 <!-- App Shell -->
 <AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8" class="{isDrawerOpen ? 'pointer-events-none' : ''}">
 	<svelte:fragment slot="header">
