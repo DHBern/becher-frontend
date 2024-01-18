@@ -15,6 +15,7 @@
 	initializeStores();
 	const drawerStore = getDrawerStore();
 
+	$: isDrawerOpen = $drawerStore.open ? true : false;
 	$: classesActive = (/** @type {string} */ href) =>
 		href === $page.url.pathname
 			? 'bg-primary-500 hover:text-primary-400 text-secondary-500'
@@ -35,8 +36,8 @@
 	];
 </script>
 
-<Drawer height="h-16"
-	><nav class="list-nav">
+<Drawer height='h-auto'>
+	<nav class="list-nav">
 		<!-- (optionally you can provide a label here) -->
 		<ul>
 			{#each pages as page}
@@ -47,10 +48,11 @@
 				</li>
 			{/each}
 		</ul>
-	</nav></Drawer
->
+	</nav>
+</Drawer>
+
 <!-- App Shell -->
-<AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8">
+<AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8" class="{isDrawerOpen ? 'pointer-events-none' : ''}">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<AppBar padding="px-4" slotDefault="h-full" background="bg-surface-100-900-token">
