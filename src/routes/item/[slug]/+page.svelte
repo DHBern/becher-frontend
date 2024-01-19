@@ -4,8 +4,6 @@
 
 	/** @type {import('./$types').PageData} */
 	export let data;
-
-	$: console.log(data?.metadata);
 </script>
 
 <ContentContainer>

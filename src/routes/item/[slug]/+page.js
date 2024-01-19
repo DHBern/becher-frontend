@@ -17,6 +17,7 @@ export function load({ params }) {
 		key: params.slug,
 		metadata: filePromise,
 		related: itemData
+			.filter((i) => i.prototype)
 			.map((item) => {
 				// eslint-disable-next-line no-unused-vars
 				const { entry_type, prototype, ...rest } = item;
