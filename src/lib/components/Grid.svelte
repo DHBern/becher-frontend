@@ -59,8 +59,9 @@
 					<div
 						class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500 relative"
 					>
+						<!-- region/size/rotation/quality.format - cut 10% of the border of the image, make it 200px wide, don't turn it-->
 						<img
-							src="{item.iiif.replace('info.json', '')}full/200,/0/default.jpg"
+							src="{item.iiif.replace('info.json', '')}pct:5,5,90,90/200,/0/default.jpg"
 							alt={item.title}
 							width="200"
 						/>
