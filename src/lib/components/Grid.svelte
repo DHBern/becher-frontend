@@ -2,7 +2,7 @@
 	import { base } from '$app/paths';
 
 	/**
-	 * @type {{date: string, signature: string, key: string, ext: number, holding_institution: string, title: string, category: number}[]}
+	 * @type {{date: string, signature: string, key: string, iiif: string, ext: number, holding_institution: string, title: string, category: number}[]}
 	 */
 	export let items = [];
 
@@ -59,7 +59,11 @@
 					<div
 						class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500 relative"
 					>
-						<enhanced:img src="$lib/assets/placeholder.jpg?w=200" class="mx-auto"></enhanced:img>
+						<img
+							src="{item.iiif.replace('info.json', '')}full/200,/0/default.jpg"
+							alt={item.title}
+							width="200"
+						/>
 						{#if item.ext}
 							<p
 								class="absolute right-0 bottom-0 px-2 bg-surface-backdrop-token text-on-surface-token"

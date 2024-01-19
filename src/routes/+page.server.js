@@ -57,8 +57,9 @@ export async function load() {
 			.filter((i) => i.prototype)
 			.map((item) => {
 				// eslint-disable-next-line no-unused-vars
-				const { entry_type, prototype, ...rest } = item;
-				return rest;
+				let { entry_type, prototype, iiif, ...rest } = item;
+				iiif = iiif.replaceAll('\\', '');
+				return { ...rest, iiif };
 			})
 	};
 }
