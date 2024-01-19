@@ -26,7 +26,7 @@
 	export let data;
 
 	/**
-	 * @type {{date: string, signature: string, key: string, ext: number, holding_institution: string, title: string, category: number}[]} filtereditems
+	 * @type {{date: string, signature: string, key: string, iiif: string, ext: number, holding_institution: string, title: string, category: number}[]} filtereditems
 	 */
 	$: filtereditems = data.items.filter((item) => {
 		if (checkedNodes && checkedNodes.length > 0) {
@@ -49,7 +49,7 @@
 	</div>
 	<div class="col-start-2 row-span-2 row-start-1">
 		<enhanced:img
-			class=" relative float-right w-[150px] lg:w-[222px]"
+			class="relative float-right w-[150px] lg:w-[222px]"
 			src="$lib/assets/nachexil-basel.png?w=222"
 			alt="Ulrich Becher in Basel"
 		/>
