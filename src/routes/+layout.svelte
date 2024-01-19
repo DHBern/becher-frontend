@@ -35,8 +35,8 @@
 	];
 </script>
 
-<Drawer height="h-16"
-	><nav class="list-nav">
+<Drawer height='h-auto'>
+	<nav class="list-nav">
 		<ul>
 			{#each pages as page}
 				<li>
@@ -49,7 +49,7 @@
 	</nav>
 </Drawer>
 <!-- App Shell -->
-<AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8">
+<AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8" >
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<AppBar padding="px-4" slotDefault="h-full" background="bg-surface-100-900-token">
@@ -60,8 +60,7 @@
 				{#each pages as page}
 					<a
 						href={`${base}${page.path}`}
-						class="list-nav-item h-full p-4 {classesActive(page.path)}">{page.slug}</a
-					>
+						class="list-nav-item h-full p-4 {classesActive(page.path)}">{page.slug}</a>
 				{/each}
 			</nav>
 			<svelte:fragment slot="trail">
