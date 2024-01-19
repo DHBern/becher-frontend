@@ -2,7 +2,7 @@
 	import { base } from '$app/paths';
 
 	/**
-	 * @type {{date: string, signature: string, key: string, holding_institution: string, title: string, category: number}[]}
+	 * @type {{date: string, signature: string, key: string, ext: number, holding_institution: string, title: string, category: number}[]}
 	 */
 	export let items = [];
 
@@ -50,14 +50,23 @@
 <div class="grid grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-4 pt-8 {className}">
 	{#each visibleItems as item, i (item.key)}
 		<article
-			class="hover:scale-125 transition-transform"
+			class="hover:brightness-110"
 			use:viewport={i !== visibleItems.length - 1}
 			on:enterViewport={() => (visibleNumber = visibleNumber + 30)}
 		>
 			<a href="{base}/item/{item.key}">
 				<figure>
-					<div class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500">
+					<div
+						class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500 relative"
+					>
 						<enhanced:img src="$lib/assets/placeholder.jpg?w=200" class="mx-auto"></enhanced:img>
+						{#if item.ext}
+							<p
+								class="absolute right-0 bottom-0 px-2 bg-surface-backdrop-token text-on-surface-token"
+							>
+								{item.ext} <span class="sr-only">Seiten</span>
+							</p>
+						{/if}
 					</div>
 					<figcaption class="bg-surface-900">{item.title} [{item.date}]</figcaption>
 				</figure>
