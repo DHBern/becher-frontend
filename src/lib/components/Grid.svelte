@@ -57,13 +57,20 @@
 			<a href="{base}/item/{item.key}">
 				<figure>
 					<div
-						class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500 relative"
+						class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500 relative
+							placeholder-circle animate-pulse"
 					>
-						<!-- region/size/rotation/quality.format - cut 10% of the border of the image, make it 200px wide, don't turn it-->
+						<!-- region/size/rotation/quality.format
+							cut 10% of the border of the image, make it 200px wide, don't turn it-->
 						<img
+							class="z-20"
 							src="{item.iiif.replace('info.json', '')}pct:5,5,90,90/200,/0/default.jpg"
 							alt={item.title}
 							width="200"
+							loading="lazy"
+							on:load={(e) => {
+								e.target.parentElement.classList.remove('animate-pulse', 'placeholder-circle');
+							}}
 						/>
 						{#if item.ext}
 							<p
