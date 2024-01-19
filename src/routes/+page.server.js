@@ -53,10 +53,12 @@ export async function load() {
 
 	return {
 		categories: filteredCategories,
-		items: items.map((item) => {
-			// eslint-disable-next-line no-unused-vars
-			const { entry_type, ...rest } = item;
-			return rest;
-		})
+		items: items
+			.filter((i) => i.prototype)
+			.map((item) => {
+				// eslint-disable-next-line no-unused-vars
+				const { entry_type, prototype, ...rest } = item;
+				return rest;
+			})
 	};
 }

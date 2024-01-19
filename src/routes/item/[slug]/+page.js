@@ -19,7 +19,7 @@ export function load({ params }) {
 		related: itemData
 			.map((item) => {
 				// eslint-disable-next-line no-unused-vars
-				const { entry_type, ...rest } = item;
+				const { entry_type, prototype, ...rest } = item;
 				return rest;
 			})
 			.slice(0, 7) // TODO: implement related items
@@ -28,5 +28,5 @@ export function load({ params }) {
 
 /** @type {import('./$types').EntryGenerator} */
 export function entries() {
-	return itemData.map((item) => ({ slug: item.key }));
+	return itemData.filter((i) => i.prototype).map((item) => ({ slug: item.key }));
 }
