@@ -7,13 +7,13 @@ import items from './compact.json';
 
 /**
  * creates a node from a category recursively
- * @param {{id: number, title: string, subcats?: number[]}} category
+ * @param {{id: number, title: string, title2: string, subcats?: number[]}} category
  * @returns {import('@skeletonlabs/skeleton').TreeViewNode}
  */
 const createNode = (category) => {
 	const subcats = [...new Set(category?.subcats?.filter((subcat) => subcat !== category.id))];
 	return {
-		content: category?.title,
+		content: category?.title || category?.title2 || 'No title',
 		id: category.id.toString(),
 		children: subcats?.length
 			? subcats.map((id) =>
@@ -30,6 +30,18 @@ export async function load() {
 	/** @type {import('@skeletonlabs/skeleton').TreeViewNode[]} */
 	const filteredCategories = [];
 	const seenIds = new Set();
+	categories.sort((a, b) => {
+		// Check if 'a' has 'subcats' and 'b' does not
+		if (a.subcats && !b.subcats) {
+			return -1; // 'a' comes first
+		}
+		// Check if 'b' has 'subcats' and 'a' does not
+		else if (!a.subcats && b.subcats) {
+			return 1; // 'b' comes first
+		}
+		// If both have 'subcats' or neither have it, keep original order
+		return 0;
+	});
 
 	for (const category of categories) {
 		if (!seenIds.has(category.id)) {
