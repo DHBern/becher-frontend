@@ -47,7 +47,7 @@
 	$: visibleItems = items.slice(0, visibleNumber);
 </script>
 
-<div class="grid grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-4 pt-8 {className}">
+<div class="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] gap-4 pt-8 {className}">
 	{#each visibleItems as item, i (item.key)}
 		<article
 			class="hover:brightness-110"
