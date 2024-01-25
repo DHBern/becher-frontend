@@ -59,7 +59,6 @@
 								width="200"
 								loading="lazy"
 								on:load={(e) => {
-									console.log(e.target.parentElement.classList);
 									e.target.parentElement.classList.remove('animate-pulse', 'placeholder-circle');
 								}}
 							/>
