@@ -13,7 +13,9 @@ import items from './compact.json';
 const createNode = (category) => {
 	const subcats = [...new Set(category?.subcats?.filter((subcat) => subcat !== category.id))];
 	return {
-		content: category?.title || category?.title2 || 'No title',
+		content:
+			category?.title ||
+			(category?.title2 ? `no title, title2: ${category.title2}` : `No title2, id: ${category.id}`),
 		id: category.id.toString(),
 		children: subcats?.length
 			? subcats.map((id) =>
@@ -31,12 +33,9 @@ export async function load() {
 	const filteredCategories = [];
 	const seenIds = new Set();
 	categories.sort((a, b) => {
-		// Check if 'a' has 'subcats' and 'b' does not
 		if (a.subcats && !b.subcats) {
 			return -1; // 'a' comes first
-		}
-		// Check if 'b' has 'subcats' and 'a' does not
-		else if (!a.subcats && b.subcats) {
+		} else if (!a.subcats && b.subcats) {
 			return 1; // 'b' comes first
 		}
 		// If both have 'subcats' or neither have it, keep original order
