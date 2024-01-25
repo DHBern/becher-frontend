@@ -1,10 +1,14 @@
 {
   "date": "1947",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-UNBEK-08",
   "holding_institution": "SLA",
   "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, Zürich;\nNew York",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1698702",
   "levels": [
     { "'title":"Briefe", "level":1 },

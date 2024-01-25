@@ -1,10 +1,14 @@
 {
   "date": "29. Juni 1968",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-FUERST-BECHD-1",
   "holding_institution": "SLA",
   "title": "Fürst, Reinmar an Becher, Dana; Korrespondenz, Bardolino;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685213",
   "levels": [
     { "'title":"Briefe", "level":1 },

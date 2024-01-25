@@ -1,10 +1,14 @@
 {
   "date": "30. November 1985",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-FLASCH-01",
   "holding_institution": "SLA",
   "title": "Naumann, Uwe an Roda Becher, Dana; Korrespondenz, Hamburg",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1697202",
   "levels": [
     { "'title":"Briefe", "level":1 },

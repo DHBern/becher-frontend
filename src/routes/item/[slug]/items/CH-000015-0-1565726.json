@@ -1,10 +1,14 @@
 {
   "date": "1900 bis 1910",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-a-1",
   "holding_institution": "SLA",
   "title": "Album, rot: Reisefotografien Eltern I",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565726",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1950 bis 1960",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-b-6-c",
   "holding_institution": "SLA",
   "title": "\"Samba\", Erstaufführung DDR",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565876",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

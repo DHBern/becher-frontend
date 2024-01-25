@@ -1,10 +1,14 @@
 {
   "date": "4. September 1953",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-GUE-4",
   "holding_institution": "SLA",
   "title": "Guenther, Johannes von an Becher, Ulrich; Korrespondenz, Seeshaupt;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640531",
   "levels": [
     { "'title":"Briefe", "level":1 },

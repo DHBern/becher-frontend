@@ -1,10 +1,14 @@
 {
   "date": "s.d.",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-RUECK-69",
   "holding_institution": "SLA",
   "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1698637",
   "levels": [
     { "'title":"Briefe", "level":1 },

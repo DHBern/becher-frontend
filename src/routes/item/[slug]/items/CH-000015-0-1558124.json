@@ -1,10 +1,14 @@
 {
   "date": "1975",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-2-e-3-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: William's Ex-Casino. Synopsis",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558124",
   "levels": [
     { "'title":"Werke", "level":1 },

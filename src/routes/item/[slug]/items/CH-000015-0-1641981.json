@@ -1,10 +1,14 @@
 {
   "date": "13. Januar 1983",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-LES-1",
   "holding_institution": "SLA",
   "title": "Leselampe an Becher, Ulrich; Korrespondenz, Salzburg;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1641981",
   "levels": [
     { "'title":"Briefe", "level":1 },

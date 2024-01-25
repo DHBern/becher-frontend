@@ -1,10 +1,14 @@
 {
   "date": "26. November 1964",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-BECHD-11",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Basel;\nBerlin",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1585477",
   "levels": [
     { "'title":"Briefe", "level":1 },

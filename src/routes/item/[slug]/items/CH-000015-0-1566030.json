@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1944",
+  "ext": 1,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1be6cb08-85c5-4252-af5f-958a7c6beb61\/",
   "signature": "SLA-UB-A-3-c-3-6",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der Hahn kräht vor Mitternacht. Umschlagdeckblatt",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-3-6_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1566030",
   "levels": [
     { "'title":"Werke", "level":1 },

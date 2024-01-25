@@ -1,10 +1,14 @@
 {
   "date": "1936",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-a-13",
   "holding_institution": "SLA",
   "title": "Niemand",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537363",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

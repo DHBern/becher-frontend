@@ -1,10 +1,14 @@
 {
   "date": "1933",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-b-3-p",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Strafrechtsarbeit Nr., Findig, der Angestellte der Wach- und Schliessgesellschaft einer sächsischen Kleinstadt, will neue Kunden für seine Firma gewinnen, [Leipzig?]",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1526638",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

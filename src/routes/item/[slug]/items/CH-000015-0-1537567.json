@@ -1,10 +1,14 @@
 {
   "date": "Juli 1958",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-a-19",
   "holding_institution": "SLA",
   "title": "Der Herr kommt aus Bahia",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537567",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

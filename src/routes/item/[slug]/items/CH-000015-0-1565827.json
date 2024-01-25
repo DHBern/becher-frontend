@@ -1,10 +1,14 @@
 {
   "date": "1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-b-1-g",
   "holding_institution": "SLA",
   "title": "Schramm, Ruth: Fotografien von Ulrich Becher, München",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565827",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

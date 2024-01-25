@@ -1,10 +1,14 @@
 {
   "date": "1944 bis 1945",
+  "ext": 28,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1cdeaf19-0c73-4d67-8d36-932a9d577d05\/",
   "signature": "SLA-UB-A-1-d-4-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Katharinapolka. Abendbulletin aus der Höllenküche (2. Fassung)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-4-2_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557693",
   "levels": [
     { "'title":"Werke", "level":1 },

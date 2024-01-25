@@ -1,10 +1,14 @@
 {
   "date": "1943",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-4-4",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Fallen comrades of freedom",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558695",
   "levels": [
     { "'title":"Werke", "level":1 },

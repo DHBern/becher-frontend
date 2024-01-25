@@ -1,10 +1,14 @@
 {
   "date": "9. Januar 1952",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-SCHI-2",
   "holding_institution": "SLA",
   "title": "Schiller-Theater an Becher, Ulrich; Korrespondenz, Berlin;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643315",
   "levels": [
     { "'title":"Briefe", "level":1 },

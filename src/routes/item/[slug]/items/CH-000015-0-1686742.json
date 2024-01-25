@@ -1,10 +1,14 @@
 {
   "date": "1. Juni 1966",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-MUEH-BECHD-18",
   "holding_institution": "SLA",
   "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Köln",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1686742",
   "levels": [
     { "'title":"Briefe", "level":1 },

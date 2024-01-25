@@ -1,10 +1,14 @@
 {
   "date": "9. Mai 1974",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-RODAO-BECHD-35",
   "holding_institution": "SLA",
   "title": "Roda, Olga an Becher, Dana; Korrespondenz, Graz;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1693304",
   "levels": [
     { "'title":"Briefe", "level":1 },

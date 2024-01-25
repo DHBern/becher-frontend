@@ -1,10 +1,14 @@
 {
   "date": "1935 bis 1938",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BECHR-3",
   "holding_institution": "SLA",
   "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1589594",
   "levels": [
     { "'title":"Briefe", "level":1 },

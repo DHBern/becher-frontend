@@ -1,10 +1,14 @@
 {
   "date": "2. bis 4. Januar 1990",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-23",
   "holding_institution": "SLA",
   "title": "Zum 80. Geburtstag",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538482",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "14. März 1970",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-d-17-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Eine Zigarre am Jüngsten Tag zu Ende geraucht. National-Zeitung, Basel",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537290",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1953",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-a-14-c",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Dreitausend auf Känguruh.",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535677",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

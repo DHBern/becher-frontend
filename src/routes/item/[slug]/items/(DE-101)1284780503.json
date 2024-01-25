@@ -1,0 +1,14 @@
+{
+  "date": "1950",
+  "ext": 3,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/981bc659-c14c-40c0-bf3a-852658b69a4f\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Postkarte",
+  "category": 20200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284780503_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284780503",
+  "levels": [  ]
+}

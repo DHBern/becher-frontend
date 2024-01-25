@@ -1,10 +1,14 @@
 {
   "date": "21. August 1981",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-WAL-BECHD-1",
   "holding_institution": "SLA",
   "title": "Walter, Hans-Albert an Becher, Dana; Korrespondenz, Hofheim\/Taunus;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695394",
   "levels": [
     { "'title":"Briefe", "level":1 },

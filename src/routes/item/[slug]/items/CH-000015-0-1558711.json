@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1944",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-8-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der große Grosz und eine große Zeit",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558711",
   "levels": [
     { "'title":"Werke", "level":1 },

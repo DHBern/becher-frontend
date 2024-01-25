@@ -1,10 +1,14 @@
 {
   "date": "26. Februar 1941",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-NAT-1",
   "holding_institution": "SLA",
   "title": "Die Nation an Becher, Ulrich; Korrespondenz, Bern;\nZürich",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642789",
   "levels": [
     { "'title":"Briefe", "level":1 },

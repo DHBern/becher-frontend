@@ -1,10 +1,14 @@
 {
   "date": "1920 bis 1990",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-b-4-h",
   "holding_institution": "SLA",
   "title": "[Unbekannt]",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565851",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

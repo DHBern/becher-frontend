@@ -1,10 +1,14 @@
 {
   "date": "29. Juni 1956",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-STAE-1",
   "holding_institution": "SLA",
   "title": "Städtische Bühnen Frankfurt an Becher, Ulrich; Korrespondenz, Frankfurt am Main;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643694",
   "levels": [
     { "'title":"Briefe", "level":1 },

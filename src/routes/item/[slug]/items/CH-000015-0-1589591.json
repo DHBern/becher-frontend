@@ -1,10 +1,14 @@
 {
   "date": "2. Juni 1935",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BECHR-1",
   "holding_institution": "SLA",
   "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1589591",
   "levels": [
     { "'title":"Briefe", "level":1 },

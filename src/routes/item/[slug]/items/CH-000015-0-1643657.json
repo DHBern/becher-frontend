@@ -1,10 +1,14 @@
 {
   "date": "25. Oktober 1972",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-SCHWR-1",
   "holding_institution": "SLA",
   "title": "Schweizerische Radio- und Fernsehgesellschaft an Becher, Ulrich; Korrespondenz, Zürich;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643657",
   "levels": [
     { "'title":"Briefe", "level":1 },

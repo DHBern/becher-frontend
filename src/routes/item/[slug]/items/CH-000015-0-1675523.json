@@ -1,10 +1,14 @@
 {
   "date": "16. Mai 1934",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BECHD-BECH-02",
   "holding_institution": "SLA",
   "title": "Becher, Dana an Becher, Richard und Elise; Korrespondenz, ohne Ort",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1675523",
   "levels": [
     { "'title":"Briefe", "level":1 },

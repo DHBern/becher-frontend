@@ -1,10 +1,14 @@
 {
   "date": "22. September 1941",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BECHD-RODA-04",
   "holding_institution": "SLA",
   "title": "Becher, Dana an Roda Roda, Alexander und Elsbeth; Korrespondenz, Rio de Janeiro;\nNew York",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1675545",
   "levels": [
     { "'title":"Briefe", "level":1 },

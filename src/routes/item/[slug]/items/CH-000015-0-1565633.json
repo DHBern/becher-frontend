@@ -1,10 +1,14 @@
 {
   "date": "1953",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-e-2-f-02",
   "holding_institution": "SLA",
   "title": "Becher, Martin Roda: Vorworte",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565633",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1860 bis 1926",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-a-2",
   "holding_institution": "SLA",
   "title": "Ulrich, Martin: Notizblätter",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1555375",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "12. Oktober 1987",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-RETAY-BECHD-09",
   "holding_institution": "SLA",
   "title": "Rétay, Sándor von an Becher, Dana; Korrespondenz, Budapest;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1687264",
   "levels": [
     { "'title":"Briefe", "level":1 },

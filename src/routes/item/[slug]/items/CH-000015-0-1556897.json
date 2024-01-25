@@ -1,10 +1,14 @@
 {
   "date": "16. Februar 1891",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-a-1-a",
   "holding_institution": "SLA",
   "title": "Schulzeugnis von Ulrich, Arthur, Ingenbohl",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1556897",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

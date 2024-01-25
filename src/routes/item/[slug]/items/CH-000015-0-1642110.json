@@ -1,10 +1,14 @@
 {
   "date": "10. Dezember 1956",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-MEC-6",
   "holding_institution": "SLA",
   "title": "Mechnig, Elfriede an Becher, Ulrich; Korrespondenz, Berlin",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642110",
   "levels": [
     { "'title":"Briefe", "level":1 },

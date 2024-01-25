@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-j-4-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Elefanten ändern nichts. Schauspiel in 3 Akten",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558664",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "28. Oktober 1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-BECHM-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Martin Roda; Korrespondenz, Toskana;\nBasel",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1586015",
   "levels": [
     { "'title":"Briefe", "level":1 },

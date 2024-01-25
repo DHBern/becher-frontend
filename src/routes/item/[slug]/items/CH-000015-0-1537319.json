@@ -1,10 +1,14 @@
 {
   "date": "Dezember 1958 bis Februar 1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-a-05",
   "holding_institution": "SLA",
   "title": "Kurz nach 4",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537319",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

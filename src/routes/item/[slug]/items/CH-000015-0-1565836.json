@@ -1,10 +1,14 @@
 {
   "date": "1942 bis 1943",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-b-3-a",
   "holding_institution": "SLA",
   "title": "Fotografien von Richard und Elise Becher, Brasilien",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565836",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

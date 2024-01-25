@@ -1,10 +1,14 @@
 {
   "date": "13. August 1960",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-a-35-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Unfair zu einer blonden Schlange? Frankfurter Allgemeine Zeitung, Frankfurt",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535779",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

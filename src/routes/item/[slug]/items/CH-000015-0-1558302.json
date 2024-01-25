@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1944",
+  "ext": 1,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/701051e9-4a38-433c-86c8-2198e7006954\/",
   "signature": "SLA-UB-A-3-d-2-24",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Spanisches Sargträgerfloß. Hexameter-Sonette",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-24_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558302",
   "levels": [
     { "'title":"Werke", "level":1 },

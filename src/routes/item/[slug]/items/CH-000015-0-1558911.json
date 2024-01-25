@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-8-a-33-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Gei 2",
-  "category": 19998,
+  "category": 10800,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558911",
   "levels": [
     { "'title":"Werke", "level":1 },

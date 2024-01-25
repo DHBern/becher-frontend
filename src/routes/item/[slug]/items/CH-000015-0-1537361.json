@@ -1,10 +1,14 @@
 {
   "date": "1947",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-a-11",
   "holding_institution": "SLA",
   "title": "Reise zum blauen Tag",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537361",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

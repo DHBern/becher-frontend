@@ -1,10 +1,14 @@
 {
   "date": "7. September 1974",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BUN-1",
   "holding_institution": "SLA",
   "title": "Bunin, Nikolaj an Becher, Ulrich; Korrespondenz, Moskau",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1591772",
   "levels": [
     { "'title":"Briefe", "level":1 },

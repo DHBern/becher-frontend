@@ -1,10 +1,14 @@
 {
   "date": "10. Mai 1952",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-SCHMO-1",
   "holding_institution": "SLA",
   "title": "Schmalhausen, Otto an Becher, Ulrich; Korrespondenz, Berlin-Charlottenburg;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643329",
   "levels": [
     { "'title":"Briefe", "level":1 },

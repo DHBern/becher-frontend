@@ -1,10 +1,14 @@
 {
   "date": "1972",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-i-2-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Biene gib mir Honig. Mini-Spiel in zwei Akten",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558653",
   "levels": [
     { "'title":"Werke", "level":1 },

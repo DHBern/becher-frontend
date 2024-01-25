@@ -1,10 +1,14 @@
 {
   "date": "16. Dezember 1954",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-HIL-2",
   "holding_institution": "SLA",
   "title": "Hilpert, Heinz an Becher, Ulrich; Korrespondenz, Göttingen;\nBerlin",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640687",
   "levels": [
     { "'title":"Briefe", "level":1 },

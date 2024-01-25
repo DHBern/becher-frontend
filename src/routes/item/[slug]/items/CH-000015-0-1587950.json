@@ -1,10 +1,14 @@
 {
   "date": "28. September 1941",
+  "ext": 4,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/4135f940-9ce6-4bd8-a4a7-26e93652c9fd\/",
   "signature": "SLA-UB-B-2-BECH-13",
   "holding_institution": "SLA",
   "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, São Paulo",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BECH-13_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1587950",
   "levels": [
     { "'title":"Briefe", "level":1 },

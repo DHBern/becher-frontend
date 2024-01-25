@@ -1,10 +1,14 @@
 {
   "date": "1877 bis 1926",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-a-3-52",
   "holding_institution": "SLA",
   "title": "Ulrich, Martin: Quartheft, blau: Gott und Vaterland",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1566167",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

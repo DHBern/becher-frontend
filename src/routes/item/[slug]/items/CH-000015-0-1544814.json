@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1951",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-d-06",
   "holding_institution": "SLA",
   "title": "Dokumentation Brasilien",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1544814",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

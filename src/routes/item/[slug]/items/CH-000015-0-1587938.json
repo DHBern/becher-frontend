@@ -1,10 +1,14 @@
 {
   "date": "1. Mai 1925",
+  "ext": 7,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f91c9887-0ceb-42b4-8f52-8d0c8c09e28a\/",
   "signature": "SLA-UB-B-2-BECH-01",
   "holding_institution": "SLA",
   "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BECH-01_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1587938",
   "levels": [
     { "'title":"Briefe", "level":1 },

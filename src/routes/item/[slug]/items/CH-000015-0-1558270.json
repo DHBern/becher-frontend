@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1944",
+  "ext": 6,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/feec3909-c756-47e7-a7e1-a6e5f44ade36\/",
   "signature": "SLA-UB-A-3-c-3-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Erklärungen",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-3-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558270",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "26. Oktober 1940",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-b-03-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Tanzlied. Volksstimme Sankt Gallen, Sankt Gallen",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535811",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

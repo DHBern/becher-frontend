@@ -1,10 +1,14 @@
 {
   "date": "24. Januar 1991",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-2-a-08",
   "holding_institution": "SLA",
   "title": "Lenos Verlag: Vertrag mit den Erben von Becher, Ulrich (Becher, Dana), Basel. Zürich",
-  "category": 39992,
+  "category": 3099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1556852",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

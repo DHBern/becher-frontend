@@ -1,10 +1,14 @@
 {
   "date": "30. März 1958",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-GRO-44",
   "holding_institution": "SLA",
   "title": "Grosz, George an Becher, Ulrich; Korrespondenz, Huntington (New York);\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640326",
   "levels": [
     { "'title":"Briefe", "level":1 },

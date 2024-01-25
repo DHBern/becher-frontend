@@ -1,10 +1,14 @@
 {
   "date": "25. Dezember 1953",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-LOEW-1",
   "holding_institution": "SLA",
   "title": "Löwenstein, Helga zu an Becher, Ulrich; Korrespondenz, Berlin",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642055",
   "levels": [
     { "'title":"Briefe", "level":1 },

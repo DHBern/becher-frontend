@@ -1,10 +1,14 @@
 {
   "date": "14. Dezember 1967",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-CAS-4",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Caspar, Günter; Korrespondenz, Basel;\nBerlin",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1586163",
   "levels": [
     { "'title":"Briefe", "level":1 },

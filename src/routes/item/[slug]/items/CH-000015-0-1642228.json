@@ -1,10 +1,14 @@
 {
   "date": "14. Februar 1953",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-MEY-1",
   "holding_institution": "SLA",
   "title": "Meyer, Hedwig an Becher, Ulrich und Dana; Korrespondenz, New York; \nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642228",
   "levels": [
     { "'title":"Briefe", "level":1 },

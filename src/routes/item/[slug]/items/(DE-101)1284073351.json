@@ -1,0 +1,14 @@
+{
+  "date": "1953",
+  "ext": 3,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/4945cec8-1664-47d5-937a-8cc08a5e8e7f\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Visitenkarte",
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284073351_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284073351",
+  "levels": [  ]
+}

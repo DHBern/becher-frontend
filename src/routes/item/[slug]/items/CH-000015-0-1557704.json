@@ -1,10 +1,14 @@
 {
   "date": "1940",
+  "ext": 17,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/53d929b1-3041-443f-a261-2b7b4befb506\/",
   "signature": "SLA-UB-A-1-d-5-7",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Madame Keckes Hut (Erweiterte Fassung)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-5-7_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557704",
   "levels": [
     { "'title":"Werke", "level":1 },

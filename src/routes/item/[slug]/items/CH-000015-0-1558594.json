@@ -1,10 +1,14 @@
 {
   "date": "1951",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-e-2-7",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Feuerwasser. Deutschamerikanische Tragödie in 3 Akten (5 Bildern) und einem Epilog",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558594",
   "levels": [
     { "'title":"Werke", "level":1 },

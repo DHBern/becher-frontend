@@ -1,10 +1,14 @@
 {
   "date": "8. Februar 1962",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BERG-BECHD-1",
   "holding_institution": "SLA",
   "title": "Berger, Ludwig an Becher, Dana; Korrespondenz, Schlangenbad",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1684581",
   "levels": [
     { "'title":"Briefe", "level":1 },

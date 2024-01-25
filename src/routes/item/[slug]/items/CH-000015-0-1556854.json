@@ -1,10 +1,14 @@
 {
   "date": "8. Mai 1952",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-2-a-09",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Entwurf Vollmacht für Mechnig, Elfriede, Basel",
-  "category": 39992,
+  "category": 3099092,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1556854",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

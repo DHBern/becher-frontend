@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 5,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/351f1c92-1828-4ab1-b268-4d8950917b3f\/",
   "signature": "SLA-UB-A-3-e-5-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Sehnsucht in gestirnter Nacht",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-5-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558324",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "18. Dezember 1938",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-HERR-1",
   "holding_institution": "SLA",
   "title": "Herrmann-Neisse, Max und Leni an Becher, Ulrich; Korrespondenz, London",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640680",
   "levels": [
     { "'title":"Briefe", "level":1 },

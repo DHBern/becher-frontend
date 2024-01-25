@@ -1,10 +1,14 @@
 {
   "date": "Mai 1980",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-18",
   "holding_institution": "SLA",
   "title": "Passavant, Ruedi von: Ulrich Becher - displaced Person.Gespräch mit Ulrich Becher. Drehpunkt, Basel",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538470",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

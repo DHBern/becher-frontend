@@ -1,10 +1,14 @@
 {
   "date": "1933",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-a-03-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Blonde Dame reist nach Venedig. Die Dame",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535598",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

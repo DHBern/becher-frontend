@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 8,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/da80a20d-3c39-4a12-be6a-1399108c4194\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Telegramm",
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284075435_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284075435",
+  "levels": [  ]
+}

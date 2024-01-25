@@ -1,10 +1,14 @@
 {
   "date": "6. Dezember 1988",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-PROM-09",
   "holding_institution": "SLA",
   "title": "Lange, Torsten an Roda Becher, Dana; Korrespondenz, Osnabrück;\nBasel",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1698247",
   "levels": [
     { "'title":"Briefe", "level":1 },

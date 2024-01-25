@@ -1,10 +1,14 @@
 {
   "date": "17. bis 18. November 1971",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-12",
   "holding_institution": "SLA",
   "title": "Bechers Lesung im PEN-Club, Basel",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537699",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

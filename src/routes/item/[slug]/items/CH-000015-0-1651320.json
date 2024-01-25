@@ -1,10 +1,14 @@
 {
   "date": "12. November 1958",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BACH-BECHD-14",
   "holding_institution": "SLA",
   "title": "Bach, Susanne an Becher Dana; Korrespondenz, Wien;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1651320",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1939",
+  "ext": 1,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/5b138afa-685e-470b-b126-de8cfd5429fa\/",
   "signature": "SLA-UB-A-3-e-8-4",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Verwirrung",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-8-4_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558337",
   "levels": [
     { "'title":"Werke", "level":1 },

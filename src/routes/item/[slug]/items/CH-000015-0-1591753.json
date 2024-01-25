@@ -1,10 +1,14 @@
 {
   "date": "18. September 1967",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BREI-1",
   "holding_institution": "SLA",
   "title": "Breicha, Otto an Becher, Ulrich; Korrespondenz, Wien",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1591753",
   "levels": [
     { "'title":"Briefe", "level":1 },

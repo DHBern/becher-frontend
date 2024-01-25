@@ -1,10 +1,14 @@
 {
   "date": "8. Januar 1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-MUEH-BECHD-04",
   "holding_institution": "SLA",
   "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Buenos Aires",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1686728",
   "levels": [
     { "'title":"Briefe", "level":1 },

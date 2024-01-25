@@ -1,0 +1,14 @@
+{
+  "date": "1965",
+  "ext": 7,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/6ba5536d-91a4-481d-b244-0d43f9dd0421\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Brief",
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284049183_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284049183",
+  "levels": [  ]
+}

@@ -1,10 +1,14 @@
 {
   "date": "26. März 1944",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3dd6be2a-6b16-404a-9865-b17811060c6b\/",
   "signature": "SLA-UB-B-1-BECH-215",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Rio de Janeiro",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-215_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1553632",
   "levels": [
     { "'title":"Briefe", "level":1 },

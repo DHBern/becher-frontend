@@ -1,10 +1,14 @@
 {
   "date": "8. Februar 1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-EISK-BECHD-2",
   "holding_institution": "SLA",
   "title": "Eisenberg, Katharina an Becher, Dana; Korrespondenz, Stein",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685022",
   "levels": [
     { "'title":"Briefe", "level":1 },

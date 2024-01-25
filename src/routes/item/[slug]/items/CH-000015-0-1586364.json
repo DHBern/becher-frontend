@@ -1,10 +1,14 @@
 {
   "date": "4. Dezember 1968",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-ROW-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Rowohlt Verlag; Korrespondenz, Basel;\nReinbek",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1586364",
   "levels": [
     { "'title":"Briefe", "level":1 },

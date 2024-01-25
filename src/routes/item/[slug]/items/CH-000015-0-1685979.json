@@ -1,10 +1,14 @@
 {
   "date": "1. Juli 1958",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-MAD-MECH-1",
   "holding_institution": "SLA",
   "title": "Madame an Mechnig, Elfriede; Korrespondenz, München, Berlin;\nBerlin, Basel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685979",
   "levels": [
     { "'title":"Briefe", "level":1 },

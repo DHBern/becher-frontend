@@ -1,10 +1,14 @@
 {
   "date": "August 1937",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-a-03",
   "holding_institution": "SLA",
   "title": "Die Eroberer",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537317",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

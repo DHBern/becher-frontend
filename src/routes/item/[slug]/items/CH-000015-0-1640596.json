@@ -1,10 +1,14 @@
 {
   "date": "s.d.",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-HAB-2",
   "holding_institution": "SLA",
   "title": "Habe, Hans an Becher, Ulrich; Korrespondenz, Ascona",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640596",
   "levels": [
     { "'title":"Briefe", "level":1 },

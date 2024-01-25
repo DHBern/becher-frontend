@@ -1,10 +1,14 @@
 {
   "date": "4. Oktober 1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-a-29-b",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: In Marseille ist es wirklich nicht geheuer. Tagesspiegel, Berlin",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535759",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

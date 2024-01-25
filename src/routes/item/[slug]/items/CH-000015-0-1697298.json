@@ -1,10 +1,14 @@
 {
   "date": "16. August 1960",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-KOER-09",
   "holding_institution": "SLA",
   "title": "Bach, Jean  an Roda Becher, Dana; Kondolenzschreiben",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1697298",
   "levels": [
     { "'title":"Briefe", "level":1 },

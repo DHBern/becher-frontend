@@ -1,10 +1,14 @@
 {
   "date": "März 1962",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-e-2-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Max Frisch. Die Kultur, Wien",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537302",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

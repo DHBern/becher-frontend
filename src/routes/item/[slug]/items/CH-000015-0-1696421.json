@@ -1,10 +1,14 @@
 {
   "date": "1950 bis 1990",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-BAD-121",
   "holding_institution": "SLA",
   "title": "Badezimmer- und Küchenpost von Ulrich an Dana Becher",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1696421",
   "levels": [
     { "'title":"Briefe", "level":1 },

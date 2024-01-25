@@ -1,10 +1,14 @@
 {
   "date": "1960",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-d-1-b-2",
   "holding_institution": "SLA",
   "title": "Todesanzeige von Elsbeth Roda Roda geb. Leuckfeld von Weysen, Basel;\nBerlin;\nTorres",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1564698",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

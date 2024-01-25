@@ -1,10 +1,14 @@
 {
   "date": "22. Juli 1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-DIL-1",
   "holding_institution": "SLA",
   "title": "Dilia an Becher, Ulrich; Korrespondenz, Prag",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1595410",
   "levels": [
     { "'title":"Briefe", "level":1 },

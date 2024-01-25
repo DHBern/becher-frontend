@@ -1,10 +1,14 @@
 {
   "date": "1983",
+  "ext": 1,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/12d83888-c4f1-4274-8737-e097149ecc4f\/",
   "signature": "SLA-UB-A-1-e-4-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Titelblatt, Motti",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-4-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557735",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1958",
+  "ext": 14,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ea16a2e9-18ef-4b5d-a00b-99cf0ebddba6\/",
   "signature": "SLA-UB-A-1-d-3-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Hochmusikalische alte Dame (Harfe)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-3-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557690",
   "levels": [
     { "'title":"Werke", "level":1 },

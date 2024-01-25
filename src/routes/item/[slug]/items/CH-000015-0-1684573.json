@@ -1,10 +1,14 @@
 {
   "date": "1927",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BECHR-BECH-2",
   "holding_institution": "SLA",
   "title": "Becher, Rolf an Becher, Richard und Elise; Korrespondenz",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1684573",
   "levels": [
     { "'title":"Briefe", "level":1 },

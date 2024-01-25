@@ -1,10 +1,14 @@
 {
   "date": "25. August 1970 bis 20. November 1981",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-j-1-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Önone",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558657",
   "levels": [
     { "'title":"Werke", "level":1 },

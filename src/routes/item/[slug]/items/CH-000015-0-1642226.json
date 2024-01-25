@@ -1,10 +1,14 @@
 {
   "date": "2. Januar 1972",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-METZ-1",
   "holding_institution": "SLA",
   "title": "Metz, Reinhold an Becher, Ulrich; Korrespondenz, Karlsruhe",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642226",
   "levels": [
     { "'title":"Briefe", "level":1 },

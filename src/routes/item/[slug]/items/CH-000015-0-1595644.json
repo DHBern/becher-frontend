@@ -1,10 +1,14 @@
 {
   "date": "9. März 1948",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b0eb1529-bb2f-46d1-a3aa-2c853abacf82\/",
   "signature": "SLA-UB-B-2-FEU-2",
   "holding_institution": "SLA",
   "title": "Feuchtwanger, Lion an Becher, Ulrich; Korrespondenz, Pacific Palisades;\nCalif.",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-FEU-2_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1595644",
   "levels": [
     { "'title":"Briefe", "level":1 },

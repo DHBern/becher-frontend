@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-10-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Maschine zeugte sie!",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558723",
   "levels": [
     { "'title":"Werke", "level":1 },

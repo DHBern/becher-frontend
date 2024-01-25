@@ -1,10 +1,14 @@
 {
   "date": "18. Oktober 1956",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-UNBEK-43",
   "holding_institution": "SLA",
   "title": "Unbekannte Korrespondenzpartner; Korrespondenz",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1699420",
   "levels": [
     { "'title":"Briefe", "level":1 },

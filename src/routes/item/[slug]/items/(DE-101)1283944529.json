@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 17,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/28807c00-0231-4754-8535-a4248efe2468\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Murmeljagd, [Roman] – Joop Van Eggenk … [Incipit]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944529_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283944529",
+  "levels": [  ]
+}

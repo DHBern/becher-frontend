@@ -1,10 +1,14 @@
 {
   "date": "1975",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-UNBEK-23",
   "holding_institution": "SLA",
   "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, London;\nBasel",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1698717",
   "levels": [
     { "'title":"Briefe", "level":1 },

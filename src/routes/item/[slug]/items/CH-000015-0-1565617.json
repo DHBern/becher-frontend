@@ -1,10 +1,14 @@
 {
   "date": "1946 bis 1954",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-e-1-a",
   "holding_institution": "SLA",
   "title": "Becher, Martin Roda: Zeichnungen",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565617",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,0 +1,14 @@
+{
+  "date": "1932",
+  "ext": 3,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/0f479759-293a-4ef6-aecb-2a25e5aa711b\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Brief",
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284070115_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284070115",
+  "levels": [  ]
+}

@@ -1,10 +1,14 @@
 {
   "date": "1909 bis 1992",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-d-2-g",
   "holding_institution": "SLA",
   "title": "Roda-Becher, Dana: Die Zirkuskuppelei, Basel",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1564877",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

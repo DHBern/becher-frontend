@@ -1,10 +1,14 @@
 {
   "date": "23. Mai 1988",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-MUCKI-BECHD-3",
   "holding_institution": "SLA",
   "title": "Mucki an Becher, Dana; Korrespondenz, München;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1686066",
   "levels": [
     { "'title":"Briefe", "level":1 },

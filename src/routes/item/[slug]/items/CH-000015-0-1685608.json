@@ -1,10 +1,14 @@
 {
   "date": "2. Oktober 1957",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-LESK-BECHD-02",
   "holding_institution": "SLA",
   "title": "Leskoschek, Axl und Marussja an Becher, Dana; Korrespondenz, Zürich;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685608",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "25. Juni 1984",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-ROS-1",
   "holding_institution": "SLA",
   "title": "Rosendorfer, Herbert an Becher, Ulrich; Korrespondenz, Taufkirchen;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643040",
   "levels": [
     { "'title":"Briefe", "level":1 },

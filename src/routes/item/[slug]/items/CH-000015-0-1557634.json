@@ -1,10 +1,14 @@
 {
   "date": "s.d.",
+  "ext": 9,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c9108907-fe65-4fac-9e7e-5d0e27941366\/",
   "signature": "SLA-UB-A-1-a-7-3",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Männer machen Fehler. Filmexposé",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-7-3_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557634",
   "levels": [
     { "'title":"Werke", "level":1 },

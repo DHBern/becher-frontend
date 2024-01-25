@@ -1,10 +1,14 @@
 {
   "date": "18. April bis 3. Mai 1990",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-30",
   "holding_institution": "SLA",
   "title": "Nachrufe",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538487",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "7. September 1967",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BAE-2",
   "holding_institution": "SLA",
   "title": "Baechler, Wolfgang an Becher, Ulrich u. Dana; Korrespondenz, Westheim",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1587872",
   "levels": [
     { "'title":"Briefe", "level":1 },

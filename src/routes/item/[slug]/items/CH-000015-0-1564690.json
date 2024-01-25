@@ -1,10 +1,14 @@
 {
   "date": "18. Januar 1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-d-1-e",
   "holding_institution": "SLA",
   "title": "Diverse Dokumente, München",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1564690",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

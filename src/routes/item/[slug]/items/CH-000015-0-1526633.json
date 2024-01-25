@@ -1,10 +1,14 @@
 {
   "date": "16. Dezember 1930",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-b-3-k",
   "holding_institution": "SLA",
   "title": "Becher Ulrich: Handelsrechtliche Hausarbeit, Eine Aktiengesellschaft, die ein Baugeschäft betreibt, erwirbt einen Monat nach ihrer Eintragung von Grundmann sämtliche Anteile einer Grundstücks G.m.b.H., [Berlin?]",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1526633",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

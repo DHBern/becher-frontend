@@ -1,10 +1,14 @@
 {
   "date": "s.d.",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-WUE-3",
   "holding_institution": "SLA",
   "title": "Würzler, Lore an Becher, Ulrich; Korrespondenz, Dubrovnik",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1651115",
   "levels": [
     { "'title":"Briefe", "level":1 },

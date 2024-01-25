@@ -1,10 +1,14 @@
 {
   "date": "1931",
+  "ext": 21,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ef1fb090-fe70-461d-84ed-5748ad658c54\/",
   "signature": "SLA-UB-A-1-a-5-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Das kurze Leiden",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-5-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557628",
   "levels": [
     { "'title":"Werke", "level":1 },

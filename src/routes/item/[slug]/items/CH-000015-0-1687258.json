@@ -1,10 +1,14 @@
 {
   "date": "28. September 1956",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-RETAY-BECHD-03",
   "holding_institution": "SLA",
   "title": "Rétay, Sándor von an Becher, Dana; Korrespondenz, Budapest;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1687258",
   "levels": [
     { "'title":"Briefe", "level":1 },

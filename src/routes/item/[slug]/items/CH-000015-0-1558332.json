@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/574669c9-f439-43aa-b08a-3a756e349a77\/",
   "signature": "SLA-UB-A-3-e-7-3",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Lob des Murmeltiers",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-7-3_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558332",
   "levels": [
     { "'title":"Werke", "level":1 },

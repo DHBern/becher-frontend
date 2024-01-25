@@ -1,10 +1,14 @@
 {
   "date": "21. November 1935",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BECH-04",
   "holding_institution": "SLA",
   "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1587941",
   "levels": [
     { "'title":"Briefe", "level":1 },

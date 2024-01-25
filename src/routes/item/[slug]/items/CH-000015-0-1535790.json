@@ -1,10 +1,14 @@
 {
   "date": "26. März 1971",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-a-38-b",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der Riese Le Schek. Luzerner Neueste Nachrichten, Luzern",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535790",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "7. November 1922",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-3-f-7-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Elises Geburtstag (1922)",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558485",
   "levels": [
     { "'title":"Werke", "level":1 },

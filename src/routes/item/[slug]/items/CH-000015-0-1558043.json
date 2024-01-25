@@ -1,10 +1,14 @@
 {
   "date": "1945 bis 1969",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-2-c-2-2-3",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Murmeljagd II. Textstufe C",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558043",
   "levels": [
     { "'title":"Werke", "level":1 },

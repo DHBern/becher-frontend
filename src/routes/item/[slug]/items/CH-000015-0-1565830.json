@@ -1,10 +1,14 @@
 {
   "date": "1960",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-b-1-d",
   "holding_institution": "SLA",
   "title": "Kössler, Michael: Portraits von Ulrich Becher, Wien",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565830",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

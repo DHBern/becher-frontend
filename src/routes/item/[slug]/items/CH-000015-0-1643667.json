@@ -1,10 +1,14 @@
 {
   "date": "17. Dezember 1982",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-SES-2",
   "holding_institution": "SLA",
   "title": "Sessler Verlag an Becher, Ulrich; Korrespondenz, ohne Ort",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643667",
   "levels": [
     { "'title":"Briefe", "level":1 },

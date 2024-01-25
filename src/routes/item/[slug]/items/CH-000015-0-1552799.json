@@ -1,10 +1,14 @@
 {
   "date": "5. Oktober 1934",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-d-2",
   "holding_institution": "SLA",
   "title": "Mahnungen, St. Moritz",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1552799",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1900 bis 1910",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-a-2",
   "holding_institution": "SLA",
   "title": "Album, braun mit Kordel: Reisefotografien Eltern II, Andalusien, Cadiz, New York City, Sevilla, Teneriffa",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565729",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

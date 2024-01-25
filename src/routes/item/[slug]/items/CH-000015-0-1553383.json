@@ -1,10 +1,14 @@
 {
   "date": "April 1939",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-e-1-c",
   "holding_institution": "SLA",
   "title": "Torberg, Friedrich: \"Herr Neidinger\" in die Österreichische Post; Druckbeleg und Kopien, Paris",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1553383",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

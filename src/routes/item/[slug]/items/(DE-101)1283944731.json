@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 73,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a15fa2fa-b9e2-4a1c-9d71-e973f130f97e\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Murmeljagd, [Roman] – so einen Hund ... [Incipit]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944731_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283944731",
+  "levels": [  ]
+}

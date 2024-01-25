@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-5-b-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Filmlustspielgacks",
-  "category": 19995,
+  "category": 10500,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558676",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1919 bis 1925",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-a-4",
   "holding_institution": "SLA",
   "title": "Album, schwarzbraun, mit Kordel: Familienfotografien, Alt-Aussee (Salzkammergut), Athen, Ägypten Bethlehem, Eibsee, Feldberg (Schwarzwald), Hintersee Berchtisgaden, Jerusalem Oberhof, Oberwiesenthal (Erzgebirge) , Kairo, Konstantinopel, Telaviv,",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565732",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

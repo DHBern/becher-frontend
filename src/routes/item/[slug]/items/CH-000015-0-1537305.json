@@ -1,10 +1,14 @@
 {
   "date": "4. Dezember 1936 bis 1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-a-01",
   "holding_institution": "SLA",
   "title": "Buch der Kritiken",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537305",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

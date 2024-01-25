@@ -1,10 +1,14 @@
 {
   "date": "1928 bis 1932",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-b-3-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Hausarbeit Nr. 1, Der Anspruch der offenen Handelsgesellschaft der Brüder A u. B. gegen Schrager, [Berlin]",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1526606",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

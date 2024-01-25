@@ -1,10 +1,14 @@
 {
   "date": "17. Juni 1923",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-ULR-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Ulrich, Martin u. Maria; Korrespondenz, Wickersdorf;\nBerlin",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1586401",
   "levels": [
     { "'title":"Briefe", "level":1 },

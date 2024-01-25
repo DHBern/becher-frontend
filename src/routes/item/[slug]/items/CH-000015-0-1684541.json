@@ -1,10 +1,14 @@
 {
   "date": "20. Februar 1957",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BECHD-RODA-32",
   "holding_institution": "SLA",
   "title": "Becher, Dana an Roda Roda, Elsbeth; Korrespondenz, Lenzerheide;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1684541",
   "levels": [
     { "'title":"Briefe", "level":1 },

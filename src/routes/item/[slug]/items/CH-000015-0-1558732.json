@@ -1,10 +1,14 @@
 {
   "date": "1947",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-14-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der Dreissigjährige Krieg des George Grosz",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558732",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "8. April 1952",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-REIS-1",
   "holding_institution": "SLA",
   "title": "Reiss AG an Becher, Ulrich; Korrespondenz, Basel;\nBerlin",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643012",
   "levels": [
     { "'title":"Briefe", "level":1 },

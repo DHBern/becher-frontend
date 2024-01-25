@@ -1,10 +1,14 @@
 {
   "date": "1940 bis 1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-b-3-b",
   "holding_institution": "SLA",
   "title": "Zeitungsartikel Portugiesisch, Rio de Janeiro",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1562413",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

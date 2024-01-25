@@ -1,10 +1,14 @@
 {
   "date": "23. August bis 4. Oktober 1987",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-c-21",
   "holding_institution": "SLA",
   "title": "Schriftsteller als bildende Künstler. Nassauischer Kunstverein Wiesbaden, Wiesbaden",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1551525",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

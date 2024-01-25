@@ -1,10 +1,14 @@
 {
   "date": "11. März 1969",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-ZUCK-BECHD-1",
   "holding_institution": "SLA",
   "title": "Zuckmayer, Carl und Alice an Becher, Dana; Korrespondenz, Bern",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695490",
   "levels": [
     { "'title":"Briefe", "level":1 },

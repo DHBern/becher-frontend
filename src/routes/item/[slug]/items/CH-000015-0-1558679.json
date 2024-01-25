@@ -1,10 +1,14 @@
 {
   "date": "9. Mai 1956",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-5-b-5",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Nach dem Gedächtnis niedergeschriebene Inhaltsangabe einer Geschichte von einem harmlosen Bankdieb",
-  "category": 19995,
+  "category": 10500,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558679",
   "levels": [
     { "'title":"Werke", "level":1 },

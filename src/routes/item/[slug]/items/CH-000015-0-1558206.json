@@ -1,10 +1,14 @@
 {
   "date": "1944",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-3-b-12-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Sang des portugiesischen Meeres - Praia das Maçãs",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558206",
   "levels": [
     { "'title":"Werke", "level":1 },

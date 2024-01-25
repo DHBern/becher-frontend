@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 23,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/58d52e26-10f0-49a1-834c-22e71a8ab6ac\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Murmeljagd, [Roman] – pfahl. Aber sie ist ... [Incipit]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944693_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283944693",
+  "levels": [  ]
+}

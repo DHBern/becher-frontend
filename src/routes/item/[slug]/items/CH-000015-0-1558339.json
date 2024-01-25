@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ff73fdc4-69b7-4b4d-8c01-c7e7c4fb381d\/",
   "signature": "SLA-UB-A-3-e-9-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Bitte",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-9-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558339",
   "levels": [
     { "'title":"Werke", "level":1 },

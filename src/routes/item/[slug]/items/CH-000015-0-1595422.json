@@ -1,10 +1,14 @@
 {
   "date": "29. Dezember 1929",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-ELI-01",
   "holding_institution": "SLA",
   "title": "Eliacheff, Anatole an Becher, Ulrich; Korrespondenz",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1595422",
   "levels": [
     { "'title":"Briefe", "level":1 },

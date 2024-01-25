@@ -1,10 +1,14 @@
 {
   "date": "19. Februar 1938",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e22e964b-5a93-4244-98c1-5d7a972d3ea5\/",
   "signature": "SLA-UB-B-2-BECH-07",
   "holding_institution": "SLA",
   "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Prag;\nWien",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BECH-07_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1587944",
   "levels": [
     { "'title":"Briefe", "level":1 },

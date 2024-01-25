@@ -1,10 +1,14 @@
 {
   "date": "Oktober 1924",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-7-a-12-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Schreibheft 12",
-  "category": 19997,
+  "category": 10700,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558829",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "23. Mai 1957",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-03",
   "holding_institution": "SLA",
   "title": "Hühnerfeld, Paul: Auf der Suche nach dem alten Europa. Die Zeit, Hamburg",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537659",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

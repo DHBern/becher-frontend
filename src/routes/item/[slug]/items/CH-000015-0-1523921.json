@@ -1,10 +1,14 @@
 {
   "date": "2. September 1966 bis 25. Juli 1968",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-c-2-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Testamente",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1523921",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

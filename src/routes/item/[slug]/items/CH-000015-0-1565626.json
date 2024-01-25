@@ -1,10 +1,14 @@
 {
   "date": "1952 bis 1970",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-e-2-d",
   "holding_institution": "SLA",
   "title": "Becher, Martin Roda: Seit zwei Tagen verlässt er sein Zimmer nicht [...]",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565626",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

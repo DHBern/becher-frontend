@@ -1,10 +1,14 @@
 {
   "date": "8. September 1938",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-ALL-4",
   "holding_institution": "SLA",
   "title": "Allert de Lange an Becher, Ulrich; Korrespondenz, Amsterdam;\nPontresina",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1587676",
   "levels": [
     { "'title":"Briefe", "level":1 },

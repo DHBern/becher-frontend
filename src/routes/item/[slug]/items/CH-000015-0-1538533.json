@@ -1,10 +1,14 @@
 {
   "date": "30. Mai bis 21. Juni 1953",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-c-02",
   "holding_institution": "SLA",
   "title": "Wiener Festwochen. Das Spiel vom lieben Augustin, Wien",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538533",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

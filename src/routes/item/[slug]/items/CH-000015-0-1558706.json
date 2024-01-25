@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-6-4",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Les clous qui ne rouillent jamais (Notes sur les faits)",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558706",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "August 1939",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-b-01-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Die Luft. Volksstimme Sankt Gallen, Sankt Gallen",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535809",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

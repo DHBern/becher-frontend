@@ -1,10 +1,14 @@
 {
   "date": "20. August 1975",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-VOELK-REISS-1",
   "holding_institution": "SLA",
   "title": "Völker, Klaus an Kurt Reiss Verlag; Korrespondenz, Basel;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695374",
   "levels": [
     { "'title":"Briefe", "level":1 },

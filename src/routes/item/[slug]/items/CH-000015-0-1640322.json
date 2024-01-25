@@ -1,10 +1,14 @@
 {
   "date": "9. Juli 1957",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-GRO-40",
   "holding_institution": "SLA",
   "title": "Grosz, George an Becher, Ulrich; Korrespondenz, Huntington (New York);\nBasel, Lugano",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640322",
   "levels": [
     { "'title":"Briefe", "level":1 },

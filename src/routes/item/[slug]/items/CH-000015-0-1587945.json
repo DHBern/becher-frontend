@@ -1,10 +1,14 @@
 {
   "date": "14. März 1938",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e0469960-3652-4d8a-8110-ba6d7926ba6f\/",
   "signature": "SLA-UB-B-2-BECH-08",
   "holding_institution": "SLA",
   "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Zürich;\nKlosters",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BECH-08_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1587945",
   "levels": [
     { "'title":"Briefe", "level":1 },

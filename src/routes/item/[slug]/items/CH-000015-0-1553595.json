@@ -1,10 +1,14 @@
 {
   "date": "29. Januar 1943",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/adbd48ac-1172-4657-ae87-fe3fc4eb2533\/",
   "signature": "SLA-UB-B-1-BECH-202",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Petrópolis",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-202_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1553595",
   "levels": [
     { "'title":"Briefe", "level":1 },

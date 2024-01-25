@@ -1,10 +1,14 @@
 {
   "date": "20. Dezember 1981 bis Juni 1982",
+  "ext": 39,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-2-f-2-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Abseits vom Rodeo. Typoskript A",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-f-2-1_1M_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558135",
   "levels": [
     { "'title":"Werke", "level":1 },

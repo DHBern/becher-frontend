@@ -1,10 +1,14 @@
 {
   "date": "8. August 1969",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ebaedaa3-db2c-4fbd-b375-ce6d42321241\/",
   "signature": "SLA-UB-B-1-BECH-250",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, München",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-250_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1554349",
   "levels": [
     { "'title":"Briefe", "level":1 },

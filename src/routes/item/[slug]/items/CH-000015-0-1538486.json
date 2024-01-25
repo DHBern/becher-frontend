@@ -1,10 +1,14 @@
 {
   "date": "1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-28",
   "holding_institution": "SLA",
   "title": "Im Brennpunkt. Neues Österreich",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538486",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1954 bis 1955",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-c-05",
   "holding_institution": "SLA",
   "title": "Meininger Theater. Samba, Meiningen",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538536",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1955 bis 1980",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-e-2-i",
   "holding_institution": "SLA",
   "title": "Becher, Martin Roda: Theaterskripte",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565631",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

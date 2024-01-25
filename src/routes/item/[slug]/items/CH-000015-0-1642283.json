@@ -1,10 +1,14 @@
 {
   "date": "24. März 1987",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-NAS-1",
   "holding_institution": "SLA",
   "title": "Nassauischer Kunstverein Wiesbaden an Becher, Ulrich; Korrespondenz, Wiesbaden;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642283",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "31. Dezember 1987",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BUR-1",
   "holding_institution": "SLA",
   "title": "Burckhardt, Claudia an Becher, Ulrich; Korrespondenz, Köln",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1591784",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1948 bis 1954",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BECHD-35",
   "holding_institution": "SLA",
   "title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, Zürich",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1588461",
   "levels": [
     { "'title":"Briefe", "level":1 },

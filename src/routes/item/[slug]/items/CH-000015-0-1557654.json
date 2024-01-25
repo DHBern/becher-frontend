@@ -1,10 +1,14 @@
 {
   "date": "1936",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-1-b-5-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Hornrufe durch die Nacht. Erzählung aus den Pyrenäen. (1. Fassung)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1557654",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "15. August 1945 bis 1981",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-d-05",
   "holding_institution": "SLA",
   "title": "Dokumentation USA",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1544768",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

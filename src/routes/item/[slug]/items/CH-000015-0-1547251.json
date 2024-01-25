@@ -1,10 +1,14 @@
 {
   "date": "1957",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-3-a",
   "holding_institution": "SLA",
   "title": "Beck, Wolfgang: Zeit auf den Brettern. Bemerkungen zu Thematik und Technik des Dramatikers Ulrich Becher",
-  "category": 49993,
+  "category": 4099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1547251",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

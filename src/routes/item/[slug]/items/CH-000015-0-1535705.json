@@ -1,10 +1,14 @@
 {
   "date": "1955",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-a-19-c",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Jan Podje oder das Ende des Kalten Kriegs",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535705",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

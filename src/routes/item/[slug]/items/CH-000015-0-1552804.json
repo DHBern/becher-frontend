@@ -1,10 +1,14 @@
 {
   "date": "4. Oktober 1935 bis 6. Dezember 1982",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-d-3",
   "holding_institution": "SLA",
   "title": "Diverse Rechnungen, Basel; Berlin; Weimar; Wien; Zürich",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1552804",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "17. Dezember 1935",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-RODA-BECHD-01",
   "holding_institution": "SLA",
   "title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, Budapest;\nSemmering",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1693196",
   "levels": [
     { "'title":"Briefe", "level":1 },

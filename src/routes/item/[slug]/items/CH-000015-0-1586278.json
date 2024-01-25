@@ -1,10 +1,14 @@
 {
   "date": "23. September 1985",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-KAR-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Karter, Egon; Korrespondenz, Basel",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1586278",
   "levels": [
     { "'title":"Briefe", "level":1 },

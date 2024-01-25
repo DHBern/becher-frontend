@@ -1,10 +1,14 @@
 {
   "date": "30. Mai 1967",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-LOEBEN-BECHD-10",
   "holding_institution": "SLA",
   "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, München;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685847",
   "levels": [
     { "'title":"Briefe", "level":1 },

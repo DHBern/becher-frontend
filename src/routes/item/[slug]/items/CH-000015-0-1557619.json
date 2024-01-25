@@ -1,10 +1,14 @@
 {
   "date": "1931",
+  "ext": 12,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ee02a8a4-cf28-48d9-82c6-ec6b400e1e78\/",
   "signature": "SLA-UB-A-1-a-4-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Eskapade (1. Fassung)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-4-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557619",
   "levels": [
     { "'title":"Werke", "level":1 },

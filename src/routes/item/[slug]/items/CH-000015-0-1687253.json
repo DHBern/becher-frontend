@@ -1,10 +1,14 @@
 {
   "date": "16. März 1958",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-RETAY-BECHD-01",
   "holding_institution": "SLA",
   "title": "Rétay, Sándor von an Becher, Dana; Korrespondenz, Baja;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1687253",
   "levels": [
     { "'title":"Briefe", "level":1 },

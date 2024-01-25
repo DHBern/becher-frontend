@@ -1,10 +1,14 @@
 {
   "date": "24. November 1964",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-UNI-BECHD-2",
   "holding_institution": "SLA",
   "title": "Universal Edition an Becher, Dana; Korrespondenz, Wien",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695308",
   "levels": [
     { "'title":"Briefe", "level":1 },

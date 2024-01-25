@@ -1,10 +1,14 @@
 {
   "date": "1928 bis 1932",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-b-2-b",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Graues Notizheft: Vorlesungsaufzeichnungen aus dem Jura-Studium",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1526598",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

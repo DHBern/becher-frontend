@@ -1,10 +1,14 @@
 {
   "date": "19. Februar 1959",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-ROW-15",
   "holding_institution": "SLA",
   "title": "Rowohlt Verlag an Becher, Ulrich; Korrespondenz, St. Moritz",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643171",
   "levels": [
     { "'title":"Briefe", "level":1 },

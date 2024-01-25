@@ -1,10 +1,14 @@
 {
   "date": "13. Oktober 1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-WEI-2",
   "holding_institution": "SLA",
   "title": "Willi Weismann Verlag an Becher, Ulrich; Korrespondenz, München; \nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1644569",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "Dezember 1940",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-3-b-6-5",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Winterwunder",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558182",
   "levels": [
     { "'title":"Werke", "level":1 },

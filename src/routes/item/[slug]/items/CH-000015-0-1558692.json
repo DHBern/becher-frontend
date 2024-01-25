@@ -1,10 +1,14 @@
 {
   "date": "Juli 1939",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-4-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Gefallene Kameraden der Freiheit (1. Fassung)",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558692",
   "levels": [
     { "'title":"Werke", "level":1 },

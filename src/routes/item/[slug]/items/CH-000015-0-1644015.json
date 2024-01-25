@@ -1,10 +1,14 @@
 {
   "date": "12. September 1991",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-VAW-1",
   "holding_institution": "SLA",
   "title": "Uitgeverij Van Walraven BV an Becher, Ulrich; Korrespondenz, Apeldoorn;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1644015",
   "levels": [
     { "'title":"Briefe", "level":1 },

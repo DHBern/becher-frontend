@@ -1,10 +1,14 @@
 {
   "date": "16. Mai 1963",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-ZEPP-BECHD-50",
   "holding_institution": "SLA",
   "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695562",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "21. November 1958",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BACH-BECHD-15",
   "holding_institution": "SLA",
   "title": "Bach, Susanne an Becher Dana; Korrespondenz, Ortisei;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1651321",
   "levels": [
     { "'title":"Briefe", "level":1 },

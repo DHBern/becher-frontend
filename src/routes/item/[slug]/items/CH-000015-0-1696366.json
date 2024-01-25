@@ -1,10 +1,14 @@
 {
   "date": "1. März 1977",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-BAD-066",
   "holding_institution": "SLA",
   "title": "Badezimmer- und Küchenpost von Ulrich an Dana Becher",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1696366",
   "levels": [
     { "'title":"Briefe", "level":1 },

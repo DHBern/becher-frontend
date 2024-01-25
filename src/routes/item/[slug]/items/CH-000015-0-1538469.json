@@ -1,10 +1,14 @@
 {
   "date": "Mai 1979",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-17",
   "holding_institution": "SLA",
   "title": "Caspar, Günter: Kleine Hommage an Ulrich Becher",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538469",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

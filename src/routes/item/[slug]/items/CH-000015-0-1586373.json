@@ -1,10 +1,14 @@
 {
   "date": "5. Mai 1986",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-SLK-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Staatliche Literaturkreditkommission Basel-Stadt; Korrespondenz, Basel",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1586373",
   "levels": [
     { "'title":"Briefe", "level":1 },

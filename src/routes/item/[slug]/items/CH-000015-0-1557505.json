@@ -1,10 +1,14 @@
 {
   "date": "1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-b-1-b",
   "holding_institution": "SLA",
   "title": "Auszug aus dem Grundbuch von der Friedrichstadt, Bd. 11, Berlin",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1557505",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

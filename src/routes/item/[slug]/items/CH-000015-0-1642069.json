@@ -1,10 +1,14 @@
 {
   "date": "9. Juli 1948",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-MAN-1",
   "holding_institution": "SLA",
   "title": "Manesse Verlag an Becher, Ulrich; Korrespondenz, Zürich;\nLugano",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642069",
   "levels": [
     { "'title":"Briefe", "level":1 },

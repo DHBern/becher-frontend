@@ -1,10 +1,14 @@
 {
   "date": "1981 bis 1982",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-2-f-1-26",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Abseits vom Rodeo. Auskunft",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1884145",
   "levels": [
     { "'title":"Werke", "level":1 },

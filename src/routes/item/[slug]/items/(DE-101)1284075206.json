@@ -1,0 +1,14 @@
+{
+  "date": "1938",
+  "ext": 5,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b37497b5-f2d3-4aa6-9ae8-3d1a39525de5\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Postkarte",
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284075206_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284075206",
+  "levels": [  ]
+}

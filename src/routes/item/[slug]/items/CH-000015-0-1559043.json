@@ -1,10 +1,14 @@
 {
   "date": "24. Dezember 1943",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-8-b-5-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Uli Selbstkarikatur",
-  "category": 19998,
+  "category": 10800,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1559043",
   "levels": [
     { "'title":"Werke", "level":1 },

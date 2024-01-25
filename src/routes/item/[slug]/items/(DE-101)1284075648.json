@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 5,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/89c983bd-6c33-490b-b552-d0f21b4f554b\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Grußkarte",
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284075648_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284075648",
+  "levels": [  ]
+}

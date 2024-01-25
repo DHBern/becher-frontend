@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 199,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/8c51354d-eada-491b-a1de-5b79b61fd7f9\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Murmeljagd, [Roman] – Einst war Amanda … [Incipit]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944286_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283944286",
+  "levels": [  ]
+}

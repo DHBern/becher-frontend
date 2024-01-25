@@ -1,10 +1,14 @@
 {
   "date": "1937 bis 1962",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-d-07",
   "holding_institution": "SLA",
   "title": "Dokumentation NS-Deutschland",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1544816",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

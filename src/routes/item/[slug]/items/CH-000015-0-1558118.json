@@ -1,10 +1,14 @@
 {
   "date": "1965 bis 1966",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-2-e-2-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: William's Ex-Casino. Kapitel 3",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558118",
   "levels": [
     { "'title":"Werke", "level":1 },

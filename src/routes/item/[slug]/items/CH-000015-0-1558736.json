@@ -1,10 +1,14 @@
 {
   "date": "1947 bis 1975",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-15-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: So hätt's auch kommen können",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558736",
   "levels": [
     { "'title":"Werke", "level":1 },

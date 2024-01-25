@@ -1,10 +1,14 @@
 {
   "date": "1975 bis 1982",
+  "ext": 48,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/69baed3a-6796-430f-9b0c-efc60c5d1d7a\/",
   "signature": "SLA-UB-A-2-f-2-5",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Abseits vom Rodeo. Vorstufen",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-f-2-5_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558138",
   "levels": [
     { "'title":"Werke", "level":1 },

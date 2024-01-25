@@ -1,10 +1,14 @@
 {
   "date": "9. Juni 1964",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-UEW-09",
   "holding_institution": "SLA",
   "title": "Universal Edition AG Wien an Becher, Ulrich; Korrespondenz, Wien; \nSalzburg",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643965",
   "levels": [
     { "'title":"Briefe", "level":1 },

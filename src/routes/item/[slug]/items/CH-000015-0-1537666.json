@@ -1,10 +1,14 @@
 {
   "date": "November 1970",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-10",
   "holding_institution": "SLA",
   "title": "Dieter Bachmann\/ Gerhart Waeger: Gespräch mit Ulrich Becher. Domino, Zürich",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537666",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

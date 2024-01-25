@@ -1,10 +1,14 @@
 {
   "date": "31. Dezember 1969 bis 1. Januar 1970",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-08",
   "holding_institution": "SLA",
   "title": "Ulrich Becher sechzigjährig, München, Basel, Augsburg",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537664",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1962",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-d-08",
   "holding_institution": "SLA",
   "title": "Dokumentation Österreich",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1544817",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

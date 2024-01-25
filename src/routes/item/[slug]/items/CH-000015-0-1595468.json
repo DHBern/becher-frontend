@@ -1,10 +1,14 @@
 {
   "date": "4. Mai 1952",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-FBE-01",
   "holding_institution": "SLA",
   "title": "Felix Bloch Erben an Becher, Ulrich; Korrespondenz, Berlin",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1595468",
   "levels": [
     { "'title":"Briefe", "level":1 },

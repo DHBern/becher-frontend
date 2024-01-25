@@ -1,10 +1,14 @@
 {
   "date": "6. Januar 1961",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-05",
   "holding_institution": "SLA",
   "title": "Seiler, Alexander J.: Europa im urwald - Urwald Europa, Zürich",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537661",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "25. Januar 1962",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-SLA-1",
   "holding_institution": "SLA",
   "title": "Śląsk an Becher, Ulrich; Korrespondenz, Katowice; \nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643670",
   "levels": [
     { "'title":"Briefe", "level":1 },

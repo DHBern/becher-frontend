@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 221,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/7e3abf8c-215f-409d-a432-78fb66625816\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Das Herz des Hais, [Roman]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943492_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283943492",
+  "levels": [  ]
+}

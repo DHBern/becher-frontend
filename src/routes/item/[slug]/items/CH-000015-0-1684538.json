@@ -1,10 +1,14 @@
 {
   "date": "26. Juni 1956",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BECHD-RODA-29",
   "holding_institution": "SLA",
   "title": "Becher, Dana an Roda Roda, Elsbeth; Korrespondenz, Genf;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1684538",
   "levels": [
     { "'title":"Briefe", "level":1 },

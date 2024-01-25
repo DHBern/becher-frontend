@@ -1,10 +1,14 @@
 {
   "date": "4. September 1945",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/5e8e6394-a8ff-4bd1-b056-94f043ff354a\/",
   "signature": "SLA-UB-B-2-BECH-37",
   "holding_institution": "SLA",
   "title": "Becher, Richard an Becher, Ulrich; Korrespondenz, Rio de Janeiro",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BECH-37_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1588114",
   "levels": [
     { "'title":"Briefe", "level":1 },

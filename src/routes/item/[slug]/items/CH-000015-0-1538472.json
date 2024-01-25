@@ -1,10 +1,14 @@
 {
   "date": "17. Mai 1984",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-19",
   "holding_institution": "SLA",
   "title": "Burri, Peter: Der alte Mann und seine Zeit. Die Weltwoche, Zürich",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538472",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

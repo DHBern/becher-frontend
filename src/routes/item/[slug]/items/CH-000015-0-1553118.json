@@ -1,10 +1,14 @@
 {
   "date": "Juni 1933",
+  "ext": 3,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e37e1571-c29c-4bec-b21e-cb7933563cc6\/",
   "signature": "SLA-UB-B-1-BECH-106",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Graz",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-106_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1553118",
   "levels": [
     { "'title":"Briefe", "level":1 },

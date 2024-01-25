@@ -1,10 +1,14 @@
 {
   "date": "12. Juli 1973",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-MAR-2",
   "holding_institution": "SLA",
   "title": "Marti, Walter an Becher, Ulrich; Korrespondenz, Zürich",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642075",
   "levels": [
     { "'title":"Briefe", "level":1 },

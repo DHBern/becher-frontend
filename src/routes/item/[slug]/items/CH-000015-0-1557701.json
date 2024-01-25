@@ -1,10 +1,14 @@
 {
   "date": "1933 bis 1958",
+  "ext": 12,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/38acc37d-e84c-4954-98da-13a3bec0e125\/",
   "signature": "SLA-UB-A-1-d-5-4",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Madame Keckes Hut (3. Fassung)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-5-4_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557701",
   "levels": [
     { "'title":"Werke", "level":1 },

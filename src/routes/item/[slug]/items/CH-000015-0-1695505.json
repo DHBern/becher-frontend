@@ -1,10 +1,14 @@
 {
   "date": "1. April 1963",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-ZEPP-BECHD-48",
   "holding_institution": "SLA",
   "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, San Francisco;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695505",
   "levels": [
     { "'title":"Briefe", "level":1 },

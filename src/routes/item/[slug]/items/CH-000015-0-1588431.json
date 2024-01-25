@@ -1,10 +1,14 @@
 {
   "date": "30. November 1937",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e1fa1fa1-cc5a-4ce8-bffa-e3cb9f1dcc13\/",
   "signature": "SLA-UB-B-2-BECHD-16",
   "holding_institution": "SLA",
   "title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, o.O.;\nZürich",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BECHD-16_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1588431",
   "levels": [
     { "'title":"Briefe", "level":1 },

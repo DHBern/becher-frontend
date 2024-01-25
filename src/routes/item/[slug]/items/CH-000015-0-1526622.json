@@ -1,10 +1,14 @@
 {
   "date": "18. November 1929",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-b-3-f",
   "holding_institution": "SLA",
   "title": "Becher Ulrich: Hausarbeit 1, Strafrechtliche Hausarbeit Fall 40, [Berlin?]",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1526622",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

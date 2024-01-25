@@ -1,10 +1,14 @@
 {
   "date": "1944",
+  "ext": 14,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/89b07834-de7d-42ae-b550-469fd4fb39f7\/",
   "signature": "SLA-UB-A-1-a-4-5",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Lucys Eskapade (1. Fassung)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-4-5_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557623",
   "levels": [
     { "'title":"Werke", "level":1 },

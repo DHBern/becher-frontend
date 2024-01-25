@@ -1,10 +1,14 @@
 {
   "date": "1930 bis 1980",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-6-e",
   "holding_institution": "SLA",
   "title": "Umschläge",
-  "category": 49996,
+  "category": 4099096,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1566064",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

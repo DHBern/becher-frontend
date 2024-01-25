@@ -1,10 +1,14 @@
 {
   "date": "1955 bis 1956",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-c-06",
   "holding_institution": "SLA",
   "title": "Voksbühne Berlin. Feuerwasser, Berlin",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538537",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

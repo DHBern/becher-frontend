@@ -1,10 +1,14 @@
 {
   "date": "18. Dezember 1967",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-KEL-2",
   "holding_institution": "SLA",
   "title": "Keller, Willy an Becher, Ulrich; Korrespondenz, München",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640792",
   "levels": [
     { "'title":"Briefe", "level":1 },

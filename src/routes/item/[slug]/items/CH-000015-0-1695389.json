@@ -1,10 +1,14 @@
 {
   "date": "26. Februar 1902",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-WAGN-BECH-4",
   "holding_institution": "SLA",
   "title": "Wagner, Paul an Becher, Richard; Korrespondenz",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695389",
   "levels": [
     { "'title":"Briefe", "level":1 },

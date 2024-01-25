@@ -1,10 +1,14 @@
 {
   "date": "1951",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-b-1-c",
   "holding_institution": "SLA",
   "title": "Foto Croner, Berlin: Fotografien von Ulrich Becher, Berlin",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565828",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

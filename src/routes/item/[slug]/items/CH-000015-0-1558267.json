@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1944",
+  "ext": 39,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/260b9cf8-7f48-450d-8b58-8a8541ab2ffa\/",
   "signature": "SLA-UB-A-3-c-2-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Romanze von den tollen Hunden zu Rio",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-2-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558267",
   "levels": [
     { "'title":"Werke", "level":1 },

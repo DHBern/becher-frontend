@@ -1,10 +1,14 @@
 {
   "date": "4. September 1991 bis 15. Januar 1992",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-a-10",
   "holding_institution": "SLA",
   "title": "Abseits vom Rodeo",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1537360",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

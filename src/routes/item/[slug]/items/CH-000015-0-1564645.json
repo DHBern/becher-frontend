@@ -1,10 +1,14 @@
 {
   "date": "1948 bis 1969",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-c-2-c",
   "holding_institution": "SLA",
   "title": "Becher-Ulrich, Elise: Quartheft, ohne Umschlag: Jasper, Einführung in die Philosophie [...], Basel",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1564645",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

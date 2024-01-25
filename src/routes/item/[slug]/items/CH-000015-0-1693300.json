@@ -1,10 +1,14 @@
 {
   "date": "14. Juni 1973",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-RODAO-BECHD-31",
   "holding_institution": "SLA",
   "title": "Roda, Olga an Becher, Dana; Korrespondenz, Graz;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1693300",
   "levels": [
     { "'title":"Briefe", "level":1 },

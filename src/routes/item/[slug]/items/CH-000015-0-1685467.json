@@ -1,10 +1,14 @@
 {
   "date": "28. Oktober 1991",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-HEPP-BECHD-1",
   "holding_institution": "SLA",
   "title": "Hepp, Michael an Becher, Dana; Korrespondenz, Oldenburg;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685467",
   "levels": [
     { "'title":"Briefe", "level":1 },

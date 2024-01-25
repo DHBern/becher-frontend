@@ -1,10 +1,14 @@
 {
   "date": "1990",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-RUELL-BECHD-2",
   "holding_institution": "SLA",
   "title": "Rüll, Thomas an Becher, Dana; Korrespondenz, Paris;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1693404",
   "levels": [
     { "'title":"Briefe", "level":1 },

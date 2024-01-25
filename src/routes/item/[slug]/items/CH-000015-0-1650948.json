@@ -1,10 +1,14 @@
 {
   "date": "17. August 1953",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-WELA-1",
   "holding_institution": "SLA",
   "title": "Welt der Arbeit an Becher, Ulrich; Korrespondenz, Köln; \nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1650948",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "20. Februar 1947",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-GRO-10",
   "holding_institution": "SLA",
   "title": "Grosz, George an Becher, Ulrich; Korrespondenz, Long Island (New York)",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640291",
   "levels": [
     { "'title":"Briefe", "level":1 },

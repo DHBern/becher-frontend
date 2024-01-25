@@ -1,10 +1,14 @@
 {
   "date": "1976",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-3-b",
   "holding_institution": "SLA",
   "title": "The International Who's Who. 40. Auflage",
-  "category": 49993,
+  "category": 4099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1547250",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

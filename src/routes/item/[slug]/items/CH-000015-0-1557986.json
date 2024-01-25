@@ -1,10 +1,14 @@
 {
   "date": "1933 bis 1941",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-2-a-1-3",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der Hampelmann. Notizheft",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1557986",
   "levels": [
     { "'title":"Werke", "level":1 },

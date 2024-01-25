@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 57,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/aa157683-db40-499c-b888-241edd3b96ed\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Murmeljagd, [Roman] – Donnerstag den 2. Juni … [Incipit]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944235_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283944235",
+  "levels": [  ]
+}

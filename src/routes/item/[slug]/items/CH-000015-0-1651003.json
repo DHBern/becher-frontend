@@ -1,10 +1,14 @@
 {
   "date": "18. Dezember 1983",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-WET-2",
   "holding_institution": "SLA",
   "title": "Wetterich, Susanne an Becher, Ulrich und Dana; Korrespondenz, Stuttgart",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1651003",
   "levels": [
     { "'title":"Briefe", "level":1 },

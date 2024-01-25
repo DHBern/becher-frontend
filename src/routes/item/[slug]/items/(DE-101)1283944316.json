@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 183,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a50c69b1-e027-45fe-b019-9d858552af0b\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Murmeljagd, [Roman] – Fix-Laudon! Die Xane … [Incipit]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944316_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283944316",
+  "levels": [  ]
+}

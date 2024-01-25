@@ -1,10 +1,14 @@
 {
   "date": "27. August 1948",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-RODA-BECHD-12",
   "holding_institution": "SLA",
   "title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, Wien;\nZürich",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1693210",
   "levels": [
     { "'title":"Briefe", "level":1 },

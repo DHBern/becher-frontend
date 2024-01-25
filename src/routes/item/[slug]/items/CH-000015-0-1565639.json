@@ -1,10 +1,14 @@
 {
   "date": "Juli 1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-e-2-f-08",
   "holding_institution": "SLA",
   "title": "Becher, Martin Roda: Mann und Hirsch",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565639",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1978",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-b-1-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der Bockerer. Tragische Posse in drei Akten. Thomas Sessler, neue Edition",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558535",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "22. April 1965",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/be83d40e-ed51-4293-b160-d0c71cd93560\/",
   "signature": "SLA-UB-B-1-BECHD-20",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Montecatini;\nZürich",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECHD-20_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1585487",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1944",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/61cb7491-5c64-4017-ba5d-1b98a3c69a00\/",
   "signature": "SLA-UB-A-3-d-2-5",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Die Maikäferkaserne",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-5_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558283",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-b-1-h",
   "holding_institution": "SLA",
   "title": "Ullmann, Curt: Fotografien von Ulrich Becher beim NWDR Berlin Fernsehsender, Berlin",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565826",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

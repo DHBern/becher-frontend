@@ -1,10 +1,14 @@
 {
   "date": "2. bis 5. Januar 1985",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-20",
   "holding_institution": "SLA",
   "title": "Ulrich Becher 75. Geburtstag",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538475",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

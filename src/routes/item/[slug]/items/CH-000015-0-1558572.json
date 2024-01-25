@@ -1,10 +1,14 @@
 {
   "date": "1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-d-2-12",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Samba. Schauspiel in 3 Akten (9 Bildern)",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558572",
   "levels": [
     { "'title":"Werke", "level":1 },

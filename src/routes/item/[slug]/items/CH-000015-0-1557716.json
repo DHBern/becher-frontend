@@ -1,10 +1,14 @@
 {
   "date": "1958",
+  "ext": 7,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/daa3f833-6c7d-411e-b8de-e67d4bf32a3b\/",
   "signature": "SLA-UB-A-1-d-8-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Er wollte sie nicht haben. Eine Kurzgeschichte (Fassung A)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-8-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557716",
   "levels": [
     { "'title":"Werke", "level":1 },

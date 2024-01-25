@@ -1,10 +1,14 @@
 {
   "date": "11. März 1965",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-UNBEK-34",
   "holding_institution": "SLA",
   "title": "Unbekannte Korrespondenzpartner an Roda Becher, Dana; Korrespondenz, New York",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1699408",
   "levels": [
     { "'title":"Briefe", "level":1 },

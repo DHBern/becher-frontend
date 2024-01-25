@@ -1,10 +1,14 @@
 {
   "date": "1949 bis 1954",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-g-2-3",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Mademoiselle Löwenzorn. Dritter Akt",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558623",
   "levels": [
     { "'title":"Werke", "level":1 },

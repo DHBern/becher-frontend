@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-2-a-07",
   "holding_institution": "SLA",
   "title": "Verlag Kurt Desch: Vertrag mit Becher, Ulrich, Basel, München",
-  "category": 39992,
+  "category": 3099092,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1556851",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

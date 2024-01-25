@@ -1,10 +1,14 @@
 {
   "date": "20. November 1924",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ab18c36f-5007-4c08-b896-95543946e200\/",
   "signature": "SLA-UB-B-1-BECH-064",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Wickersdorf",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-064_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1552106",
   "levels": [
     { "'title":"Briefe", "level":1 },

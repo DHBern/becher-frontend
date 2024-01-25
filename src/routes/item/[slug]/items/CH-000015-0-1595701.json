@@ -1,10 +1,14 @@
 {
   "date": "28. Juni 1966",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-GEN-1",
   "holding_institution": "SLA",
   "title": "Genossenschaft dramatischer Schriftsteller und Komponisten in Wien an Becher, Ulrich; Korrespondenz, Wien",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1595701",
   "levels": [
     { "'title":"Briefe", "level":1 },

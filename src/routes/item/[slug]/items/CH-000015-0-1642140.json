@@ -1,10 +1,14 @@
 {
   "date": "21. Juli 1966",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-MEI-12",
   "holding_institution": "SLA",
   "title": "Meininger Theater an Becher, Ulrich; Korrespondenz, Berlin",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642140",
   "levels": [
     { "'title":"Briefe", "level":1 },

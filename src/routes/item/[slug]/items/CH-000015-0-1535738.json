@@ -1,10 +1,14 @@
 {
   "date": "5. Mai 1955",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-a-23-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Happy-End. Die Zeit, Hamburg",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535738",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

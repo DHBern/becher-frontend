@@ -1,10 +1,14 @@
 {
   "date": "8. September 1970 bis 19. Juni 1973",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-c-2-c",
   "holding_institution": "SLA",
   "title": "Testament Becher-Ulrich, Elise, Basel",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1564570",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

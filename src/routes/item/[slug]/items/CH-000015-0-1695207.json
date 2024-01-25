@@ -1,10 +1,14 @@
 {
   "date": "5. Oktober 1960",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-STEIG-BECHD-1",
   "holding_institution": "SLA",
   "title": "Steigmann, Maximilian an Becher, Dana.; Korrespondenz, Montevideo",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695207",
   "levels": [
     { "'title":"Briefe", "level":1 },

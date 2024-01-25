@@ -1,10 +1,14 @@
 {
   "date": "1958",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-h-3-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der Herr kommt aus Bahia. Schauspiel in drei Akten. Handexemplar (Makumba)",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558645",
   "levels": [
     { "'title":"Werke", "level":1 },

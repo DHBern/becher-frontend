@@ -1,10 +1,14 @@
 {
   "date": "19. Oktober 1976",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-MOE-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Moeller, Hans-Bernhard; Korrespondenz, Basel;\nAustin (Texas)",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1586329",
   "levels": [
     { "'title":"Briefe", "level":1 },

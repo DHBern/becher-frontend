@@ -1,10 +1,14 @@
 {
   "date": "30. November 1939",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-VIEN-PRE-1",
   "holding_institution": "SLA",
   "title": "Viennese Theatre Club an Preses, Peter; Korrespondenz, Washington",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695351",
   "levels": [
     { "'title":"Briefe", "level":1 },

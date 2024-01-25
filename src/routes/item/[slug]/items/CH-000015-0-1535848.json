@@ -1,10 +1,14 @@
 {
   "date": "1943",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-d-02-b",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der Graben der spriessenden Bajonette, Buenos Aires",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535848",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

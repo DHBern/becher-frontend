@@ -1,10 +1,14 @@
 {
   "date": "23. September 1975",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-SIM-1",
   "holding_institution": "SLA",
   "title": "Simoën, Jean-Claude an Becher, Ulrich; Korrespondenz, Paris;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643669",
   "levels": [
     { "'title":"Briefe", "level":1 },

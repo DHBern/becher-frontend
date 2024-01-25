@@ -1,10 +1,14 @@
 {
   "date": "s.d.",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-UNBEK-31",
   "holding_institution": "SLA",
   "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, Mithymna (Lesbos);\nBasel",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1698725",
   "levels": [
     { "'title":"Briefe", "level":1 },

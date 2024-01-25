@@ -1,10 +1,14 @@
 {
   "date": "1984",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-d-2-d",
   "holding_institution": "SLA",
   "title": "Roda-Becher, Dana: Späte Notizen",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1564873",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

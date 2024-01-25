@@ -1,10 +1,14 @@
 {
   "date": "1989",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-3-k",
   "holding_institution": "SLA",
   "title": "Naumann, Uwe\/Töteberg, Michael: Flaschenpost. Anmerkungen",
-  "category": 49993,
+  "category": 4099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1551569",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

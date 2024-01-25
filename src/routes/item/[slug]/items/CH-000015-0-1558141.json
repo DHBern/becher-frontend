@@ -1,10 +1,14 @@
 {
   "date": "19. Januar 1976",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3d954c1c-9a1f-4389-9008-4e7807baa6e9\/",
   "signature": "SLA-UB-A-2-f-3-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Abseits vom Rodeo. Zeitungsausschnitt",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-f-3-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558141",
   "levels": [
     { "'title":"Werke", "level":1 },

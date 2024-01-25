@@ -1,10 +1,14 @@
 {
   "date": "21. Januar 1992",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-PROM-32",
   "holding_institution": "SLA",
   "title": "Lange, Torsten an Roda Becher, Dana; Korrespondenz, Essen;\nBasel",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1698270",
   "levels": [
     { "'title":"Briefe", "level":1 },

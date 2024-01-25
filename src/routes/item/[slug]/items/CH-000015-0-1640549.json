@@ -1,10 +1,14 @@
 {
   "date": "1. März 1954",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-GUM-1",
   "holding_institution": "SLA",
   "title": "Gumpert, Hans an Becher, Ulrich; Korrespondenz, Berlin;\nBerlin",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640549",
   "levels": [
     { "'title":"Briefe", "level":1 },

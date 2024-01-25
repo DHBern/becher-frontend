@@ -1,10 +1,14 @@
 {
   "date": "22. Oktober bis 28. November 1992",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-c-20",
   "holding_institution": "SLA",
   "title": "Vom Unzulänglichen der Wirklichkeit. Bilder und Texte",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1547280",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

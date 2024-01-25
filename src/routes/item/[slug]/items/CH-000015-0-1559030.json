@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-8-a-92-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Christus im 20. Jahrhundert",
-  "category": 19998,
+  "category": 10800,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1559030",
   "levels": [
     { "'title":"Werke", "level":1 },

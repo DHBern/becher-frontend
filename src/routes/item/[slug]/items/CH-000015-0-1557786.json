@@ -1,10 +1,14 @@
 {
   "date": "1930",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-1-f-13-3",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Einde eines Offiziers. Eine Geschichte zwischen zwei Kriegen",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1557786",
   "levels": [
     { "'title":"Werke", "level":1 },

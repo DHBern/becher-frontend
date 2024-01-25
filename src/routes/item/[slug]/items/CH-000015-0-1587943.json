@@ -1,10 +1,14 @@
 {
   "date": "27. September 1936",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BECH-06",
   "holding_institution": "SLA",
   "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, London",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1587943",
   "levels": [
     { "'title":"Briefe", "level":1 },

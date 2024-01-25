@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-1-f-10-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Das Konzert",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1557773",
   "levels": [
     { "'title":"Werke", "level":1 },

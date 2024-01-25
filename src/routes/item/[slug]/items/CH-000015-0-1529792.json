@@ -1,10 +1,14 @@
 {
   "date": "9. Juli bis 13. August 1919",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-c-3-f",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Reisetagebuch 1919 Bad Reichenhall mit den Eltern, Bad Reichenhall",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1529792",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

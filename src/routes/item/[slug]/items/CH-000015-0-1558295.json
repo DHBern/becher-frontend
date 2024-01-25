@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1944",
+  "ext": 2,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/5065ff03-ee76-48b5-92f9-ec9970f53adf\/",
   "signature": "SLA-UB-A-3-d-2-17",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Leibisch Glass",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-17_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558295",
   "levels": [
     { "'title":"Werke", "level":1 },

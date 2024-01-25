@@ -1,10 +1,14 @@
 {
   "date": "6. April 1961",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-RUECK-34",
   "holding_institution": "SLA",
   "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher, Berlin;\nBasel",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1698472",
   "levels": [
     { "'title":"Briefe", "level":1 },

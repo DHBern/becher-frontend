@@ -1,10 +1,14 @@
 {
   "date": "Juli bis August 1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-e-2-f-06",
   "holding_institution": "SLA",
   "title": "Becher, Martin Roda: Die gemütliche Mühe des täglichen Lebens",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565637",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "4. Februar 1988",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-AMA-BECHD-1",
   "holding_institution": "SLA",
   "title": "Amato, Familie an Becher, Dana; Korrespondenz, Bellinzona; \nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1651292",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-c-1-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Wiener Moritat",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558554",
   "levels": [
     { "'title":"Werke", "level":1 },

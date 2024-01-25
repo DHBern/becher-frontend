@@ -1,10 +1,14 @@
 {
   "date": "1. September 1960",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-KOER-12",
   "holding_institution": "SLA",
   "title": "Kirchhofer, Hans an Roda Becher, Dana; Kondolenzschreiben, Basel;\nBasel",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1697301",
   "levels": [
     { "'title":"Briefe", "level":1 },

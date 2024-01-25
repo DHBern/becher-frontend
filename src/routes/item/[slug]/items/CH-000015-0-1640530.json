@@ -1,10 +1,14 @@
 {
   "date": "16. Oktober 1951",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-GUE-3",
   "holding_institution": "SLA",
   "title": "Guenther, Johannes von an Becher, Ulrich; Korrespondenz, Kochel am See; \nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1640530",
   "levels": [
     { "'title":"Briefe", "level":1 },

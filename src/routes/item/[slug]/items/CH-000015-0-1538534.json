@@ -1,10 +1,14 @@
 {
   "date": "1952 bis 1953",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-c-03",
   "holding_institution": "SLA",
   "title": "Deutsches Theater Göttingen. Feuerwasser, Göttingen",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538534",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

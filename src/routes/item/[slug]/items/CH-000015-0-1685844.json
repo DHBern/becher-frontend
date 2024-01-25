@@ -1,10 +1,14 @@
 {
   "date": "12. Oktober 1966",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-LOEBEN-BECHD-07",
   "holding_institution": "SLA",
   "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, Urfahrn am Chiemsee (Gemeinde Breitbrunn am Chiemsee);\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685844",
   "levels": [
     { "'title":"Briefe", "level":1 },

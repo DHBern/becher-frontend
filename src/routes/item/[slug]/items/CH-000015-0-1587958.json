@@ -1,10 +1,14 @@
 {
   "date": "28. September 1944",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BECH-21",
   "holding_institution": "SLA",
   "title": "Becher, Richardan Becher, Ulrich; Korrespondenz, Rio de Janeiro;\nNew York",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1587958",
   "levels": [
     { "'title":"Briefe", "level":1 },

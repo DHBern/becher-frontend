@@ -1,10 +1,14 @@
 {
   "date": "1946",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-b-2-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Der Bockerer. Dramatisches Possenspiel in 3 Akten. Handexemplar 1946",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558543",
   "levels": [
     { "'title":"Werke", "level":1 },

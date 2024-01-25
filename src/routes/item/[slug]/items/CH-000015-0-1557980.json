@@ -1,10 +1,14 @@
 {
   "date": "1977",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-1-g-2-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Hades-Telefonate: Die Götter wussten auch nicht alles",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1557980",
   "levels": [
     { "'title":"Werke", "level":1 },

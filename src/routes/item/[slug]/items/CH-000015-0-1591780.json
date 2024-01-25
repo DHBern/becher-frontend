@@ -1,10 +1,14 @@
 {
   "date": "17. Juni 1987",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BUND-1",
   "holding_institution": "SLA",
   "title": "Bundesministerium für Unterricht, Kunst und Sport an Becher, Ulrich; Korrespondenz, Wien",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1591780",
   "levels": [
     { "'title":"Briefe", "level":1 },

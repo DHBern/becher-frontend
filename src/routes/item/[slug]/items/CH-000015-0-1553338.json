@@ -1,10 +1,14 @@
 {
   "date": "17. Juni 1936",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-BECH-151",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Villars sur Ollon",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1553338",
   "levels": [
     { "'title":"Briefe", "level":1 },

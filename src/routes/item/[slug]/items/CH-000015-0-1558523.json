@@ -1,10 +1,14 @@
 {
   "date": "1934 bis 1966",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-a-2-10",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Niemand. Spiel in 11 Stationen",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558523",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "Juli 1963",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-4-d-2-7",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Skizzierung Neufassung 3. Akt",
-  "category": 19994,
+  "category": 10400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558567",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "21. Januar 1937",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-ELI-09",
   "holding_institution": "SLA",
   "title": "Eliacheff, Anatole an Becher, Ulrich; Korrespondenz",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1595441",
   "levels": [
     { "'title":"Briefe", "level":1 },

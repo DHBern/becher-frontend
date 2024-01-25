@@ -1,10 +1,14 @@
 {
   "date": "1975",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-2-f-1-06",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Abseits vom Rodeo. Fight, Verführung",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1883874",
   "levels": [
     { "'title":"Werke", "level":1 },

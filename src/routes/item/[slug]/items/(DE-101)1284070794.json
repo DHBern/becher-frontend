@@ -1,0 +1,14 @@
+{
+  "date": "1944",
+  "ext": 5,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/fc34b164-f9c6-4f80-9ef4-d7cf9f9530ae\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Brief",
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284070794_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284070794",
+  "levels": [  ]
+}

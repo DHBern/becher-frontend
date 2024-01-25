@@ -1,10 +1,14 @@
 {
   "date": "28. April 1952",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-VOR-3",
   "holding_institution": "SLA",
   "title": "Vorel, Lucy an Becher, Ulrich; Korrespondenz, Wien",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1644037",
   "levels": [
     { "'title":"Briefe", "level":1 },

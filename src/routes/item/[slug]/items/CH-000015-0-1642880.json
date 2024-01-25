@@ -1,10 +1,14 @@
 {
   "date": "11. Mai 1987",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-OES-1",
   "holding_institution": "SLA",
   "title": "Oesterreich, Hans Guenther an Becher, Ulrich; Korrespondenz, Bremen",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1642880",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "9. Juli 1988",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-SCHU-BECHD-1",
   "holding_institution": "SLA",
   "title": "Schumann, Thomas B. an Becher, Dana; Korrespondenz, ohne Ort",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1693428",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1. September 1965",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-33-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Wir können nicht von Moden leben",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558777",
   "levels": [
     { "'title":"Werke", "level":1 },

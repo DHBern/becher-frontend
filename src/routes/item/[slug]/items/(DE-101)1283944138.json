@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 29,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b668ae80-ab39-4d06-ad30-cac6a3893e9c\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Murmeljagd, [Roman] – … [unleserlich, Incipit]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944138_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283944138",
+  "levels": [  ]
+}

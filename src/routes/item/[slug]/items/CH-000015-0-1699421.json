@@ -1,10 +1,14 @@
 {
   "date": "s.d.",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-UNBEK-44",
   "holding_institution": "SLA",
   "title": "Unbekannte Korrespondenzpartner; Korrespondenz, ?;\nRio de Janeiro",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1699421",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "Juli 1950",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-3-e-2-f-05",
   "holding_institution": "SLA",
   "title": "Becher, Martin Roda: Mondscheinduften \/ Der Mann in der goldenen Schachtel",
-  "category": 39993,
+  "category": 3099093,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565636",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "2. März 1925",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-1-BECH-068",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Wickersdorf",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1552125",
   "levels": [
     { "'title":"Briefe", "level":1 },

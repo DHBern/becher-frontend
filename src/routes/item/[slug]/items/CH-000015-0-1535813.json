@@ -1,10 +1,14 @@
 {
   "date": "September 1945",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-1-b-05-a",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Ahnung und Versprechen. Freies Deutschland\/Alemania Libre, Mexiko Stadt",
-  "category": 49992,
+  "category": 4099092,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1535813",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

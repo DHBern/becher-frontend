@@ -1,10 +1,14 @@
 {
   "date": "1945",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-1-f-22-2",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Die beiden Letzten (2. Fassung)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1557818",
   "levels": [
     { "'title":"Werke", "level":1 },

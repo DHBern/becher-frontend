@@ -1,10 +1,14 @@
 {
   "date": "8. September 1965",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BOIT-BECHD-2",
   "holding_institution": "SLA",
   "title": "Boiter, Irina an Becher, Dana; Korrespondenz, ohne Ort",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1684586",
   "levels": [
     { "'title":"Briefe", "level":1 },

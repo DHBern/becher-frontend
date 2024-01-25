@@ -1,10 +1,14 @@
 {
   "date": "1943 bis 1944",
+  "ext": 1,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a5504fe3-9e0d-40a0-991b-1db5025ed2e2\/",
   "signature": "SLA-UB-A-3-d-2-11",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Zauberlehrling bei Mutter Läppche",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-11_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558289",
   "levels": [
     { "'title":"Werke", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "16. Juli bis 19. September 1961",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-e-2",
   "holding_institution": "SLA",
   "title": "Polizeidepartement Basel-Stadt - Becher, Ulrich: Alkoholisiertes Fahren",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1523918",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

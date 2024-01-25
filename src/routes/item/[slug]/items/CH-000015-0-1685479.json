@@ -1,10 +1,14 @@
 {
   "date": "1. Juni 1982",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-HORCH-BECHD-1",
   "holding_institution": "SLA",
   "title": "Horch, Franz an Becher, Dana; Korrespondenz, Wien",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685479",
   "levels": [
     { "'title":"Briefe", "level":1 },

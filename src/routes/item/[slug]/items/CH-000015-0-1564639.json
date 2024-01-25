@@ -1,10 +1,14 @@
 {
   "date": "15. Juni 1943",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-c-3-e",
   "holding_institution": "SLA",
   "title": "Leumundszeugnis von H.L. Link, Pennsylvania",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1564639",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "30. Dezember 1938",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-4-UNBEK-04",
   "holding_institution": "SLA",
   "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, Paris; \nZürich",
   "category": 20400,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1698698",
   "levels": [
     { "'title":"Briefe", "level":1 },

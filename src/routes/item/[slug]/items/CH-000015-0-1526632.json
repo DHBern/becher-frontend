@@ -1,10 +1,14 @@
 {
   "date": "7. Februar 1930",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-b-3-j",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Vierte Hausarbeit, Bei einem durch Kurzschluss ausgebrochenen Brand im Geschäftshaus des Rothe kann sich eine Angestellte, die im Lagerraum mit dem Verpacken von Warenbeschäftigt war, nicht mehr rechtzeitig retten..., [Berlin?]",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1526632",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

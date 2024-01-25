@@ -1,10 +1,14 @@
 {
   "date": "14. Oktober 1971",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-AUF-08",
   "holding_institution": "SLA",
   "title": "Aufbau-Verlag an Becher, Ulrich; Korrespondenz, Berlin;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1587785",
   "levels": [
     { "'title":"Briefe", "level":1 },

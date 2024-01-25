@@ -1,10 +1,14 @@
 {
   "date": "1941 bis 1944",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-a-6",
   "holding_institution": "SLA",
   "title": "Schwarz Album mit Kordel: Rio de Janeiro, Belgien, Brasilien",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565733",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

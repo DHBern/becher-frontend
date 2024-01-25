@@ -1,10 +1,14 @@
 {
   "date": "23. März 1954",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-THA-1",
   "holding_institution": "SLA",
   "title": "Thalia-Theater Hamburg an Becher, Ulrich; Korrespondenz, Hamburg;\nBasel",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643913",
   "levels": [
     { "'title":"Briefe", "level":1 },

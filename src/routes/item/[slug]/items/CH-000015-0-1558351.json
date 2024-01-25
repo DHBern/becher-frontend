@@ -1,10 +1,14 @@
 {
   "date": "1939",
+  "ext": 4,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/01b8ce9b-1988-4abf-ae1e-df612727b9d6\/",
   "signature": "SLA-UB-A-3-e-13-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Wirtshausbeichte - Gesungen",
-  "category": 19993,
+  "category": 10300,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-13-1_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1558351",
   "levels": [
     { "'title":"Werke", "level":1 },

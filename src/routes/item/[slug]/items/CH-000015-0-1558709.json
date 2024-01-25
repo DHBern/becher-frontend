@@ -1,10 +1,14 @@
 {
   "date": "Juni 1943",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-6-a-7-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Krieg der Mirakel II",
-  "category": 19996,
+  "category": 10600,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558709",
   "levels": [
     { "'title":"Werke", "level":1 },

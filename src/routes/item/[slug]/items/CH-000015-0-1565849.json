@@ -1,10 +1,14 @@
 {
   "date": "August 1985",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-4-b-4-e",
   "holding_institution": "SLA",
   "title": "Hackermüller, Rotraut",
-  "category": 39994,
+  "category": 3099094,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1565849",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

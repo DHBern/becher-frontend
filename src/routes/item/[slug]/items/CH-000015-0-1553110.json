@@ -1,10 +1,14 @@
 {
   "date": "25. bis 31. Dezember 1932",
+  "ext": 3,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f2909c20-7741-4a34-8bba-a60a6d7b35e8\/",
   "signature": "SLA-UB-B-1-BECH-102",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Berlin",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-102_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1553110",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 18,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/5267f94d-91aa-492c-bb79-255c8e414fe8\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Abseits vom Rodeo, [Novelle] - beiliegendes Material",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128394345X_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)128394345X",
+  "levels": [  ]
+}

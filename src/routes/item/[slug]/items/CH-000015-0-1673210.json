@@ -1,10 +1,14 @@
 {
   "date": "7. August 1956",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BECH-BECHM-1",
   "holding_institution": "SLA",
   "title": "Becher, Elise an Becher, Martin Roda; Korrespondenz, St. Moritz;\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1673210",
   "levels": [
     { "'title":"Briefe", "level":1 },

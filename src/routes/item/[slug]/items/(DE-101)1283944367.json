@@ -1,0 +1,14 @@
+{
+  "date": "1900",
+  "ext": 69,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/4ff17b7c-9ae4-4b08-8c87-fc69035001f5\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Murmeljagd, [Roman] – Geisterbahnmontag um 22 h … [Incipit]",
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944367_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1283944367",
+  "levels": [  ]
+}

@@ -1,10 +1,14 @@
 {
   "date": "12. Januar 1984",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-STAP-2",
   "holding_institution": "SLA",
   "title": "Stapenhorst, Fritz und Isolde an Becher, Ulrich und Dana; Korrespondenz, ohne Ort",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643699",
   "levels": [
     { "'title":"Briefe", "level":1 },

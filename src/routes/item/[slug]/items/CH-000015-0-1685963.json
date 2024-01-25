@@ -1,10 +1,14 @@
 {
   "date": "4. November 1936",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-LOENS-RODA-1",
   "holding_institution": "SLA",
   "title": "Loens, ? an Roda Roda, Alexander; Korrespondenz, Graz",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1685963",
   "levels": [
     { "'title":"Briefe", "level":1 },

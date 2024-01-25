@@ -1,10 +1,14 @@
 {
   "date": "22. November 1929",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-b-3-g",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: 1. Hausarbeit der Übungen im Bürgerlichen Recht, [Berlin?]",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1526627",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

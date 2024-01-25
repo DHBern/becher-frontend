@@ -1,10 +1,14 @@
 {
   "date": "23. August 1933",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-RODE-1",
   "holding_institution": "SLA",
   "title": "Roda Roda, Elsbeth an Becher, Ulrich; Korrespondenz, Graz",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1643035",
   "levels": [
     { "'title":"Briefe", "level":1 },

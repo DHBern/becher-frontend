@@ -1,10 +1,14 @@
 {
   "date": "1930 bis 1940",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-c-5-a",
   "holding_institution": "SLA",
   "title": "Schreibmaschine",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1566377",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

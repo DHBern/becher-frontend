@@ -1,10 +1,14 @@
 {
   "date": "1944",
+  "ext": 12,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/9e07fde3-bc3c-4912-8017-62724b0a78dc\/",
   "signature": "SLA-UB-A-1-a-4-8",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Lucys Eskapade (4. Fassung)",
-  "category": 19991,
+  "category": 10100,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-4-8_01.jpg\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1557626",
   "levels": [
     { "'title":"Werke", "level":1 },

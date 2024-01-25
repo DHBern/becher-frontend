@@ -1,10 +1,14 @@
 {
   "date": "20. September 1939",
+  "ext": 4,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f03efd19-8e52-4331-bba0-21adf4d247a3\/",
   "signature": "SLA-UB-B-1-BECH-185",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, Genf",
   "category": 20200,
   "entry_type": "item",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-185_01.tif\/info.json",
+  "prototype": true,
   "key": "CH-000015-0-1553554",
   "levels": [
     { "'title":"Briefe", "level":1 },

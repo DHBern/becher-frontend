@@ -1,10 +1,14 @@
 {
   "date": "4. Juni 1952",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-ZEPP-RODA-1",
   "holding_institution": "SLA",
   "title": "Zeppelin, Harro und Lisa von an Roda Roda, Elsbeth; Korrespondenz, Buenos Aires",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695477",
   "levels": [
     { "'title":"Briefe", "level":1 },

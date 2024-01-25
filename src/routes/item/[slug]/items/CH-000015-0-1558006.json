@@ -1,10 +1,14 @@
 {
   "date": "1957",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-A-2-b-3-1",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Kurz nach 4. Handexemplar",
-  "category": 19992,
+  "category": 10200,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1558006",
   "levels": [
     { "'title":"Werke", "level":1 },

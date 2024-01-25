@@ -1,10 +1,14 @@
 {
   "date": "17. März 1988",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-BACH-BECHD-69",
   "holding_institution": "SLA",
   "title": "Bach, Susanne an Becher Dana; Korrespondenz, Bad Kreuth (b. Tegernsee);\nBasel",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1673034",
   "levels": [
     { "'title":"Briefe", "level":1 },

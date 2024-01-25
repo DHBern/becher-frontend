@@ -1,10 +1,14 @@
 {
   "date": "19. Januar 1932",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-3-THIESS-BECH-1",
   "holding_institution": "SLA",
   "title": "Thiess, Frank an Becher, Richard; Korrespondenz, Berlin",
   "category": 20300,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1695258",
   "levels": [
     { "'title":"Briefe", "level":1 },

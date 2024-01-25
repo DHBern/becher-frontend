@@ -1,0 +1,14 @@
+{
+  "date": "1962",
+  "ext": 3,
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/8efe2d32-9aa0-4ebe-8eb5-227a06ae6ff8\/",
+  "signature": "",
+  "holding_institution": "DEA",
+  "title": "Postkarte",
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284044696_00000010.tif\/info.json",
+  "prototype": true,
+  "key": "(DE-101)1284044696",
+  "levels": [  ]
+}

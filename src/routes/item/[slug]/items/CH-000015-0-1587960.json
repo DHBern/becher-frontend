@@ -1,10 +1,14 @@
 {
   "date": "10. Januar 1945",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-B-2-BECH-23",
   "holding_institution": "SLA",
   "title": "Becher, Richard an Becher, Ulrich; Korrespondenz, o.O.",
   "category": 20100,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1587960",
   "levels": [
     { "'title":"Briefe", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1989 bis 1990",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-c-19",
   "holding_institution": "SLA",
   "title": "Lenos-Verlag. Verlagswerbung, Basel",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "file",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1539355",
   "levels": [
     { "'title":"Sammlungen", "level":1 },

@@ -1,10 +1,14 @@
 {
   "date": "1928 bis 1932",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-C-1-b-3-b",
   "holding_institution": "SLA",
   "title": "Becher, Ulrich: Hausarbeit Nr. 2, In erster Linie ist die Frage zu erörtern, ob ein Vertrag zwischen dem Glasermeister Heine und der Witwe Krüger zustande gekommen ist..., [Berlin]",
-  "category": 39991,
+  "category": 3099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1526608",
   "levels": [
     { "'title":"Lebensdokumente", "level":1 },

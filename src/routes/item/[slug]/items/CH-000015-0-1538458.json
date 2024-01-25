@@ -1,10 +1,14 @@
 {
   "date": "15. Dezember 1973",
+  "ext": 0,
+  "iiif-manifest": "",
   "signature": "SLA-UB-D-2-b-14",
   "holding_institution": "SLA",
   "title": "Herzog, Valentin: Ein Moby Dick in Basel. NZ am Wochenende, Basel",
-  "category": 49991,
+  "category": 4099091,
   "entry_type": "item",
+  "iiif": "",
+  "prototype": false,
   "key": "CH-000015-0-1538458",
   "levels": [
     { "'title":"Sammlungen", "level":1 },
