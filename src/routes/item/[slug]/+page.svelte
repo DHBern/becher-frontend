@@ -1,9 +1,51 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import OneRow from '$lib/components/OneRow.svelte';
+	import { onMount } from 'svelte';
+
+	/**
+	 * @type {typeof import('openseadragon').default}
+	 */
+	let OpenSeadragon;
+	/**
+	 * @type {OpenSeadragon.Viewer}
+	 */
+	let viewer;
+
+	onMount(async () => {
+		OpenSeadragon = await import('openseadragon');
+	});
 
 	/** @type {import('./$types').PageData} */
 	export let data;
+
+	/**
+	 * @param {HTMLDivElement} _node
+	 */
+	function setsource(_node) {
+		data.metadata.then(async (metadata) => {
+			if (viewer) {
+				viewer.destroy();
+			}
+
+			const iiif = // @ts-ignore
+			(await (await fetch(metadata.default['iiif-manifest'])).json()).sequences[0].canvases.map(
+				(/** @type {{ images: { resource: { service: { [x: string]: any; }; }; }[]; }} */ canvas) =>
+					canvas.images[0].resource.service['@id']
+			);
+
+			viewer = new OpenSeadragon.Viewer({
+				id: 'viewer',
+				prefixUrl: 'https://openseadragon.github.io/openseadragon/images/',
+				tileSources: iiif,
+				sequenceMode: true
+			});
+
+			return () => {
+				viewer.destroy();
+			};
+		});
+	}
 </script>
 
 <ContentContainer>
@@ -18,11 +60,7 @@
 					? 'primary'
 					: 'tertiary'}-500"
 			>
-				<enhanced:img
-					src="$lib/assets/placeholder.jpg"
-					class="max-h-[60vh] w-auto mx-auto"
-					alt="Ulrich Becher"
-				/>
+				<div use:setsource id="viewer" class="w-full h-[60vh]"></div>
 			</div>
 			<dl class="grid grid-cols-[1fr_4fr] justify-between">
 				{#each Object.entries(metadata.default) as [key, value]}
