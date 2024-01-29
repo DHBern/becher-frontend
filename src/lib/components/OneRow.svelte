@@ -13,6 +13,7 @@
 	 * @type HTMLDivElement
 	 */
 	let elemGrid;
+	let showButtons = false;
 
 	function multiColumnLeft() {
 		let x = elemGrid.scrollWidth;
@@ -27,8 +28,18 @@
 			x = elemGrid.scrollLeft + elemGrid.clientWidth;
 		elemGrid.scroll(x, 0);
 	}
-	$: showButtons = elemGrid?.scrollWidth !== elemGrid?.clientWidth;
+
+	const setButtons = (/** @type {HTMLDivElement} */ e) => {
+		const element = elemGrid || e;
+		showButtons = element.scrollWidth >= element.clientWidth + 2 * (16 + 43);
+	};
 </script>
+
+<svelte:window
+	on:resize={(e) => {
+		setButtons(elemGrid);
+	}}
+/>
 
 <div class="grid grid-cols-[auto_1fr_auto] gap-4 items-center pt-8 {className}">
 	{#if showButtons}
@@ -38,6 +49,7 @@
 	{/if}
 	<div
 		bind:this={elemGrid}
+		use:setButtons
 		class="snap-x snap-mandatory scroll-smooth flex pb-2 gap-4 overflow-x-auto"
 	>
 		{#each items as item (item.key)}
@@ -46,19 +58,20 @@
 					<figure>
 						<div
 							class="{item.holding_institution === 'SLA'
-								? 'bg-primary-500'
-								: 'bg-tertiary-500'} hover:brightness-110 relative
+								? 'bg-primary-500 text-primary-500'
+								: 'bg-tertiary-500 text-tertiary-500'} hover:brightness-110 relative
 								placeholder-circle animate-pulse"
 						>
 							<!-- region/size/rotation/quality.format
 								cut 10% of the border of the image, make it 200px wide, don't turn it-->
 							<img
-								class="z-20"
+								class="z-20 mx-auto"
 								src="{item.iiif.replace('info.json', '')}pct:5,5,90,90/200,/0/default.jpg"
 								alt={item.title}
 								width="200"
 								loading="lazy"
 								on:load={(e) => {
+									e.target.classList.add('border-4', 'border-current');
 									e.target.parentElement.classList.remove('animate-pulse', 'placeholder-circle');
 								}}
 							/>

@@ -58,19 +58,20 @@
 				<figure>
 					<div
 						class="{item.holding_institution === 'SLA'
-							? 'bg-primary-500'
-							: 'bg-tertiary-500'} relative
+							? 'bg-primary-500 text-primary-500'
+							: 'bg-tertiary-500 text-tertiary-500'} relative
 							placeholder-circle animate-pulse"
 					>
 						<!-- region/size/rotation/quality.format
 							cut 10% of the border of the image, make it 200px wide, don't turn it-->
 						<img
-							class="z-20"
+							class="z-20 mx-auto"
 							src="{item.iiif.replace('info.json', '')}pct:5,5,90,90/200,/0/default.jpg"
 							alt={item.title}
 							width="200"
 							loading="lazy"
 							on:load={(e) => {
+								e.target.classList.add('border-4', 'border-current');
 								e.target.parentElement.classList.remove('animate-pulse', 'placeholder-circle');
 							}}
 						/>
