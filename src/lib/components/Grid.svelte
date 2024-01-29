@@ -57,7 +57,9 @@
 			<a href="{base}/item/{item.key}">
 				<figure>
 					<div
-						class="bg-{item.holding_institution === 'SLA' ? 'primary' : 'tertiary'}-500 relative
+						class="{item.holding_institution === 'SLA'
+							? 'bg-primary-500'
+							: 'bg-tertiary-500'} relative
 							placeholder-circle animate-pulse"
 					>
 						<!-- region/size/rotation/quality.format
