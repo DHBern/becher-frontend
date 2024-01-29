@@ -68,7 +68,7 @@
 			class="mb-4 md:mb-0"
 			width="w-auto"
 		/>
-		<form>
+		<form class="relative">
 			<label>
 				<input
 					class="input text-primary-500 p-6 placeholder-primary-500"
@@ -78,16 +78,17 @@
 			</label>
 
 			<RelatedItems array={searchFilterArray} />
+			<p class="absolute bottom-0">
+				es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
+					(i) => i.holding_institution === 'SLA'
+				).length} aus dem <span class="bg-primary-500 text-on-primary-token px-1">SLA</span>, {filtereditems.filter(
+					(i) => i.holding_institution === 'DEA'
+				).length} aus dem <span class="bg-tertiary-500 text-on-tertiary-token px-1">DEA</span>
+			</p>
 		</form>
 	</div>
 </ContentContainer>
 <ContentContainer>
-	<p>
-		es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
-			(i) => i.holding_institution === 'SLA'
-		).length} aus dem SLA, {filtereditems.filter((i) => i.holding_institution === 'DEA').length} aus
-		dem DEA
-	</p>
 	<Grid items={filtereditems} />
 </ContentContainer>
 
