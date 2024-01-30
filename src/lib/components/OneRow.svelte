@@ -60,12 +60,12 @@
 							class="{item.holding_institution === 'SLA'
 								? 'bg-primary-500 text-primary-500'
 								: 'bg-tertiary-500 text-tertiary-500'} hover:brightness-110 relative
-								placeholder-circle animate-pulse"
+								placeholder-circle animate-pulse h-[250px]"
 						>
 							<!-- region/size/rotation/quality.format
 								cut 10% of the border of the image, make it 200px wide, don't turn it-->
 							<img
-								class="z-20 mx-auto"
+								class="z-20 mx-auto h-full object-contain"
 								src="{item.iiif.replace('info.json', '')}pct:5,5,90,90/200,/0/default.jpg"
 								alt={item.title}
 								width="200"
