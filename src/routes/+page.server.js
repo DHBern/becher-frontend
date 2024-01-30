@@ -62,8 +62,18 @@ export async function load() {
 		}
 	}
 
+	const itemstructure = [
+		{ value: 'date', label: 'Datum' },
+		{ value: 'title', label: 'Titel' },
+		{ value: 'signature', label: 'Signatur' },
+		{ value: 'holding_institution', label: 'Aufbewahrungsort' },
+		{ value: 'category', label: 'Kategorie' },
+		{ value: 'key', label: 'Schlüssel' }
+	];
+
 	return {
 		categories: filteredCategories,
+		itemstructure,
 		items: items
 			.filter((i) => i.prototype)
 			.map((item) => {

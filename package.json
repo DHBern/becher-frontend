@@ -39,6 +39,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
     "@types/openseadragon": "^3.0.10",
+    "minisearch": "^6.3.0",
     "openseadragon": "^4.1.0"
   }
 }

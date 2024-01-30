@@ -3,20 +3,7 @@
 	import Grid from '$lib/components/Grid.svelte';
 	import RelatedItems from '$lib/components/RelatedItems.svelte';
 	import { RecursiveTreeView } from '@skeletonlabs/skeleton';
-
-	/**
-	 * @type {string[]}
-	 */
-	const searchFilterArray = [
-		'Titel',
-		'Signatur',
-		'Datierung',
-		'Author',
-		'Ort',
-		'Beschreibung',
-		'SLA',
-		'DEA'
-	];
+	import MiniSearch from 'minisearch';
 
 	/**
 	 * @type {string[]}
@@ -25,6 +12,11 @@
 
 	export let data;
 
+	let miniSearch = new MiniSearch({
+		fields: ['title', 'text'], // fields to index for full-text search
+		storeFields: ['title', 'category'] // fields to return with search results
+	});
+	//miniSearch.addAll(data.items);
 	/**
 	 * @type {{date: string, signature: string, key: string, iiif: string, ext: number, holding_institution: string, title: string, category: number}[]} filtereditems
 	 */
@@ -77,7 +69,18 @@
 				/>
 			</label>
 
-			<RelatedItems array={searchFilterArray} />
+			<h3 class="h3 m-3">Suchen in</h3>
+			<div class="text-sm grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 ml-6 sm:ml-0">
+				{#each data.itemstructure.map((i) => i.label) as text}
+					<div>
+						<label class="flex items-center">
+							<input class="checkbox m-2 lg:m-5" type="checkbox" />
+							<p>{text}</p>
+						</label>
+					</div>
+				{/each}
+			</div>
+
 			<p class="md:absolute mt-3 bottom-0">
 				es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
 					(i) => i.holding_institution === 'SLA'
