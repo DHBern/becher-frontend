@@ -78,7 +78,7 @@
 			</label>
 
 			<RelatedItems array={searchFilterArray} />
-			<p class="absolute bottom-0">
+			<p class="md:absolute mt-3 bottom-0">
 				es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
 					(i) => i.holding_institution === 'SLA'
 				).length} aus dem <span class="bg-primary-500 text-on-primary-token px-1">SLA</span>, {filtereditems.filter(
