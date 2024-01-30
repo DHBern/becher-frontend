@@ -33,6 +33,14 @@
 		const element = elemGrid || e;
 		showButtons = element.scrollWidth >= element.clientWidth + 2 * (16 + 43);
 	};
+
+	const setClasses = (/** @type {HTMLImageElement} */ e) => {
+		if (e.complete) {
+			e.classList.add('border-4', 'border-current');
+			// @ts-ignore
+			e.parentElement.classList.remove('animate-pulse', 'placeholder-circle');
+		}
+	};
 </script>
 
 <svelte:window
@@ -70,9 +78,9 @@
 								alt={item.title}
 								width="200"
 								loading="lazy"
-								on:load={(e) => {
-									e.target.classList.add('border-4', 'border-current');
-									e.target.parentElement.classList.remove('animate-pulse', 'placeholder-circle');
+								use:setClasses
+								on:load={(/** @type {{ target: HTMLImageElement; }} */ e) => {
+									setClasses(e.target);
 								}}
 							/>
 							{#if item.ext}
