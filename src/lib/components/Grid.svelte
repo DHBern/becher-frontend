@@ -9,8 +9,8 @@
 	let className = '';
 	export { className as class };
 
-	const setClasses = (/** @type {HTMLImageElement} */ e) => {
-		if (e.complete) {
+	const setClasses = (/** @type {HTMLImageElement} */ e, force = false) => {
+		if (e.complete || force) {
 			e.classList.add('border-4', 'border-current');
 			// @ts-ignore
 			e.parentElement.classList.remove('animate-pulse', 'placeholder-circle');
@@ -80,7 +80,7 @@
 							loading="lazy"
 							use:setClasses
 							on:load={(/** @type {{ target: HTMLImageElement; }} */ e) => {
-								setClasses(e.target);
+								setClasses(e.target, true);
 							}}
 						/>
 						{#if item.ext}
