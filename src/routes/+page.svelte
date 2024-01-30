@@ -1,7 +1,6 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Grid from '$lib/components/Grid.svelte';
-	import RelatedItems from '$lib/components/RelatedItems.svelte';
 	import { RecursiveTreeView } from '@skeletonlabs/skeleton';
 	import MiniSearch from 'minisearch';
 
@@ -13,19 +12,45 @@
 	export let data;
 
 	let miniSearch = new MiniSearch({
-		fields: ['title', 'text'], // fields to index for full-text search
-		storeFields: ['title', 'category'] // fields to return with search results
+		fields: data.itemstructure.map((i) => i.value), // fields to index for full-text search
+		storeFields: ['key', 'category'], // fields to return with search results
+		idField: 'key' // document property to use as id field
 	});
-	//miniSearch.addAll(data.items);
+	miniSearch.addAll(data.items);
+	const searchConfig = {
+		prefix: (term) => term.length <= 6,
+		fuzzy: 0.1,
+		boost: { title: 2 }
+	};
 	/**
 	 * @type {{date: string, signature: string, key: string, iiif: string, ext: number, holding_institution: string, title: string, category: number}[]} filtereditems
 	 */
-	$: filtereditems = data.items.filter((item) => {
+	let filtereditems = data.items;
+	$: {
 		if (checkedNodes && checkedNodes.length > 0) {
-			return checkedNodes.includes(item.category.toString());
+			if (searchtext) {
+				const results = miniSearch.search(searchtext, {
+					...searchConfig,
+					filter: (result) => {
+						console.log(result);
+						return checkedNodes.includes(result.category.toString());
+					}
+				});
+				filtereditems = data.items.filter((item) => results.map((i) => i.key).includes(item.key));
+			} else {
+				filtereditems = data.items.filter((item) =>
+					checkedNodes.includes(item.category.toString())
+				);
+			}
+		} else if (searchtext) {
+			const results = miniSearch.search(searchtext, searchConfig).map((i) => i.key);
+			filtereditems = data.items.filter((item) => results.includes(item.key));
+		} else {
+			filtereditems = data.items;
 		}
-		return true;
-	});
+	}
+
+	let searchtext = '';
 </script>
 
 <ContentContainer
@@ -66,6 +91,7 @@
 					class="input text-primary-500 p-6 placeholder-primary-500"
 					type="text"
 					placeholder="Dies ist der Suchtext..."
+					bind:value={searchtext}
 				/>
 			</label>
 
