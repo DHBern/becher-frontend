@@ -3,7 +3,6 @@
 	import Grid from '$lib/components/Grid.svelte';
 	import { RecursiveTreeView, SlideToggle, RadioGroup, RadioItem } from '@skeletonlabs/skeleton';
 	import MiniSearch from 'minisearch';
-	import { fade } from 'svelte/transition';
 
 	/**
 	 * @type {string[]}
@@ -66,6 +65,7 @@
 	$: {
 		if (!advancedToggle) {
 			mode = 'Einfach';
+			searchtext = '';
 		} else {
 			mode = 'Erweitert';
 			if (Object.values(advancedFields).some((i) => !!i)) {
@@ -124,54 +124,51 @@
 			width="w-auto"
 		/>
 		<div class="relative">
-			<h3 class="h3 m-3 float-start">Suche</h3>
-			<SlideToggle
-				name="advanced-mode"
-				active="bg-tertiary-600"
-				bind:checked={advancedToggle}
-				class="float-end m-3"
-			>
-				{mode}
-			</SlideToggle>
-			<form>
-				{#if mode === 'Einfach'}
-					<label>
+			<div class="flex justify-between">
+				<h3 class="h3 mb-3">Suche</h3>
+				<SlideToggle
+					name="advanced-mode"
+					active="bg-tertiary-600"
+					bind:checked={advancedToggle}
+					class="mb-3"
+				>
+					{mode}
+				</SlideToggle>
+			</div>
+			{#if mode === 'Einfach'}
+				<label>
+					<input
+						class="input text-primary-500 p-6 placeholder-primary-500"
+						type="text"
+						placeholder="Dies ist der Suchtext..."
+						bind:value={searchtext}
+					/>
+				</label>
+			{:else}
+				{#each data.itemstructure.filter((i) => i.label !== 'Aufbewahrungsort') as item}
+					<label class="label">
+						<span>{item.label}</span>
 						<input
 							class="input text-primary-500 p-6 placeholder-primary-500"
 							type="text"
-							placeholder="Dies ist der Suchtext..."
-							bind:value={searchtext}
+							bind:value={advancedFields[item.value]}
 						/>
 					</label>
-				{:else}
-					{#each data.itemstructure.filter((i) => i.label !== 'Aufbewahrungsort') as item}
-						<label class="label">
-							<span>{item.label}</span>
-							<input
-								class="input text-primary-500 p-6 placeholder-primary-500"
-								type="text"
-								bind:value={advancedFields[item.value]}
-							/>
-						</label>
-					{/each}
-					<RadioGroup>
-						<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'DEA'}
-							>DEA</RadioItem
-						>
-						<RadioItem
-							bind:group={holdingInstitutionToggle}
-							name="holdingInstitution"
-							value={false}
-						>
-							<i class="fa-regular fa-object-group"></i>
-						</RadioItem>
-						<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'SLA'}
-							>SLA</RadioItem
-						>
-					</RadioGroup>
-				{/if}
-			</form>
-			<p class="md:absolute mt-3 bottom-0">
+				{/each}
+				<RadioGroup>
+					<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'DEA'}
+						>DEA</RadioItem
+					>
+					<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={false}>
+						<i class="fa-regular fa-object-group"></i>
+					</RadioItem>
+					<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'SLA'}
+						>SLA</RadioItem
+					>
+				</RadioGroup>
+			{/if}
+
+			<p class="mt-5">
 				es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
 					(i) => i.holding_institution === 'SLA'
 				).length} aus dem <span class="bg-primary-500 text-on-primary-token px-1">SLA</span>, {filtereditems.filter(
