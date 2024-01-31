@@ -68,7 +68,7 @@
 			searchtext = '';
 		} else {
 			mode = 'Erweitert';
-			if (Object.values(advancedFields).some((i) => !!i)) {
+			if (Object.values(advancedFields).some((i) => !!i) || holdingInstitutionToggle) {
 				searchtext = {
 					combineWith: 'AND',
 					queries: [
@@ -83,6 +83,12 @@
 						}, [])
 					]
 				};
+				if (holdingInstitutionToggle) {
+					searchtext.queries.push({
+						fields: ['holding_institution'],
+						queries: [holdingInstitutionToggle]
+					});
+				}
 			} else {
 				searchtext = MiniSearch.wildcard;
 			}
@@ -123,7 +129,7 @@
 			class="mb-4 md:mb-0"
 			width="w-auto"
 		/>
-		<div class="relative">
+		<div class="md:w-1/2">
 			<div class="flex justify-between">
 				<h3 class="h3 mb-3">Suche</h3>
 				<SlideToggle
@@ -155,7 +161,7 @@
 						/>
 					</label>
 				{/each}
-				<RadioGroup>
+				<RadioGroup active="variant-filled-secondary">
 					<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'DEA'}
 						>DEA</RadioItem
 					>
