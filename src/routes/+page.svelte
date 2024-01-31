@@ -3,6 +3,7 @@
 	import Grid from '$lib/components/Grid.svelte';
 	import { RecursiveTreeView, SlideToggle, RadioGroup, RadioItem } from '@skeletonlabs/skeleton';
 	import MiniSearch from 'minisearch';
+	import { slide } from 'svelte/transition';
 
 	/**
 	 * @type {string[]}
@@ -142,7 +143,7 @@
 				</SlideToggle>
 			</div>
 			{#if mode === 'Einfach'}
-				<label>
+				<label transition:slide>
 					<input
 						class="input text-primary-500 p-6 placeholder-primary-500"
 						type="text"
@@ -151,8 +152,8 @@
 					/>
 				</label>
 			{:else}
-				{#each data.itemstructure.filter((i) => i.label !== 'Aufbewahrungsort') as item}
-					<label class="label">
+				{#each data.itemstructure.filter((i) => i.label !== 'Aufbewahrungsort') as item, i}
+					<label class="label" transition:slide|global>
 						<span>{item.label}</span>
 						<input
 							class="input text-primary-500 p-6 placeholder-primary-500"
@@ -161,17 +162,23 @@
 						/>
 					</label>
 				{/each}
-				<RadioGroup active="variant-filled-secondary">
-					<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'DEA'}
-						>DEA</RadioItem
-					>
-					<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={false}>
-						<i class="fa-regular fa-object-group"></i>
-					</RadioItem>
-					<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'SLA'}
-						>SLA</RadioItem
-					>
-				</RadioGroup>
+				<div transition:slide|global>
+					<RadioGroup active="variant-filled-secondary">
+						<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'DEA'}
+							>DEA</RadioItem
+						>
+						<RadioItem
+							bind:group={holdingInstitutionToggle}
+							name="holdingInstitution"
+							value={false}
+						>
+							<i class="fa-regular fa-object-group"></i>
+						</RadioItem>
+						<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'SLA'}
+							>SLA</RadioItem
+						>
+					</RadioGroup>
+				</div>
 			{/if}
 
 			<p class="mt-5">
