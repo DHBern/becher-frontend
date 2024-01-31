@@ -8,15 +8,19 @@
 		Drawer,
 		initializeStores,
 		Toast,
-		getToastStore
+		getToastStore,
+		localStorageStore
 	} from '@skeletonlabs/skeleton';
 	import '@fortawesome/fontawesome-free/css/solid.min.css';
 	import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
 	import { base } from '$app/paths';
+	import { onMount } from 'svelte';
 
 	initializeStores();
 	const drawerStore = getDrawerStore();
 	const toastStore = getToastStore();
+
+	const showWarning = localStorageStore('warning', true);
 
 	$: classesActive = (/** @type {string} */ href) =>
 		href === $page.url.pathname
@@ -42,10 +46,21 @@
 		message: `Die vorliegende Anwendung hat prototypischen Charakter und
 			 stellt kein dauerhaftes Angebot dar. Die Reproduktion der
 			 dargebotenen Materialien ist ohne ausdrückliche Zusage der bestandeshaltenden Institutionen untersagt.`,
+		action: {
+			label: `<i class="fa-solid fa-trash"></i>`,
+			response: () => {
+				$showWarning = false;
+				toastStore.clear();
+			}
+		},
 		autohide: false,
 		background: 'variant-filled-warning'
 	};
-	toastStore.trigger(t);
+	onMount(() => {
+		if ($showWarning) {
+			toastStore.trigger(t);
+		}
+	});
 </script>
 
 <Drawer height="h-auto">
@@ -61,7 +76,7 @@
 		</ul>
 	</nav>
 </Drawer>
-<Toast />
+<Toast buttonAction="btn variant-ghost" />
 <!-- App Shell -->
 <AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8">
 	<svelte:fragment slot="header">
