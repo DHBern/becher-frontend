@@ -1,5 +1,6 @@
 import { error } from '@sveltejs/kit';
 import itemData from '../../compact.json';
+import structure from './structure.json';
 
 /** @type {import('./$types').PageLoad} */
 export function load({ params }) {
@@ -16,6 +17,7 @@ export function load({ params }) {
 	return {
 		key: params.slug,
 		metadata: filePromise,
+		structure,
 		related: itemData
 			.filter((i) => i.prototype)
 			.map((item) => {

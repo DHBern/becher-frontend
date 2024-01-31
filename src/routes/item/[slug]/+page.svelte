@@ -51,7 +51,33 @@
 
 <ContentContainer>
 	<div class="md:grid md:grid-cols-2 md:grid-rows-[auto_1fr] gap-4 lg:gap-6">
-		{#await data.metadata then metadata}
+		{#await data.metadata}
+			<div class="md:col-span-2 lg:col-span-1 lg:col-start-2">
+				<h1 class="h1 text-balance pb-2 md:pb-4 inline placeholder animate-pulse">
+					{data.key}
+				</h1>
+				<span class="badge placeholder animate-pulse"></span>
+			</div>
+			<div class="lg:row-span-2 lg:row-start-1 w-full h-fit">
+				<div class="w-full h-[60vh] placeholder animate-pulse"></div>
+			</div>
+			<section class="card w-full">
+				<div class="p-4 space-y-4">
+					<div class="placeholder" />
+					<div class="grid grid-cols-3 gap-8">
+						<div class="placeholder" />
+						<div class="placeholder" />
+						<div class="placeholder" />
+					</div>
+					<div class="grid grid-cols-4 gap-4">
+						<div class="placeholder" />
+						<div class="placeholder" />
+						<div class="placeholder" />
+						<div class="placeholder" />
+					</div>
+				</div>
+			</section>
+		{:then metadata}
 			{@const d = metadata?.default}
 			{@const variant = d.holding_institution === 'SLA' ? 'primary' : 'tertiary'}
 			<div class="md:col-span-2 lg:col-span-1 lg:col-start-2">
@@ -63,10 +89,10 @@
 			<div class="lg:row-span-2 lg:row-start-1 w-full h-fit bg-{variant}-500">
 				<div use:setsource id="viewer" class="w-full h-[60vh]"></div>
 			</div>
-			<dl class="grid grid-cols-[1fr_4fr] justify-between">
-				{#each Object.entries(d) as [key, value]}
-					<dt class="border-r-4 border-current pr-4 pt-4">{key}</dt>
-					<dd class="pl-2 pt-4">{value}</dd>
+			<dl class="grid grid-cols-[1fr_4fr] justify-between h-fit">
+				{#each data.structure as { label, key }}
+					<dt class="border-r-4 border-current pr-4 pt-4">{label}</dt>
+					<dd class="pl-2 pt-4">{d[key]}</dd>
 				{/each}
 			</dl>
 		{/await}

@@ -1,0 +1,22 @@
+[
+	{
+		"key": "date",
+		"label": "Datum"
+	},
+	{
+		"key": "ext",
+		"label": "Umfang"
+	},
+	{
+		"key": "signature",
+		"label": "Signatur"
+	},
+	{
+		"key": "category",
+		"label": "Kategorie"
+	},
+	{
+		"key": "key",
+		"label": "Schlüssel"
+	}
+]
