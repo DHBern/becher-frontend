@@ -91,8 +91,10 @@
 			</div>
 			<dl class="grid grid-cols-[1fr_4fr] justify-between h-fit">
 				{#each data.structure as { label, key }}
-					<dt class="border-r-4 border-current pr-4 pt-4">{label}</dt>
-					<dd class="pl-2 pt-4">{d[key]}</dd>
+					{#if d[key]}
+						<dt class="border-r-4 border-current pr-4 pt-4">{label}</dt>
+						<dd class="pl-2 pt-4">{d[key]}</dd>
+					{/if}
 				{/each}
 			</dl>
 		{/await}
