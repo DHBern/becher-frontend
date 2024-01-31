@@ -1,8 +1,9 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Grid from '$lib/components/Grid.svelte';
-	import { RecursiveTreeView } from '@skeletonlabs/skeleton';
+	import { RecursiveTreeView, SlideToggle, RadioGroup, RadioItem } from '@skeletonlabs/skeleton';
 	import MiniSearch from 'minisearch';
+	import { fade } from 'svelte/transition';
 
 	/**
 	 * @type {string[]}
@@ -13,13 +14,13 @@
 
 	let miniSearch = new MiniSearch({
 		fields: data.itemstructure.map((i) => i.value), // fields to index for full-text search
-		storeFields: ['key', 'category'], // fields to return with search results
+		storeFields: data.itemstructure.map((i) => i.value), // fields to return with search results
 		idField: 'key' // document property to use as id field
 	});
 	miniSearch.addAll(data.items);
 	const searchConfig = {
-		prefix: (term) => term.length <= 6,
-		fuzzy: 0.1,
+		prefix: (/** @type {string} */ term) => term.length <= 6,
+		fuzzy: 0.2,
 		boost: { title: 2 }
 	};
 	/**
@@ -29,28 +30,61 @@
 	$: {
 		if (checkedNodes && checkedNodes.length > 0) {
 			if (searchtext) {
-				const results = miniSearch.search(searchtext, {
-					...searchConfig,
-					filter: (result) => {
-						console.log(result);
-						return checkedNodes.includes(result.category.toString());
-					}
-				});
-				filtereditems = data.items.filter((item) => results.map((i) => i.key).includes(item.key));
+				const results = miniSearch.search(searchtext, searchConfig);
+				const keys = results.map((i) => i.key);
+				// filter all items for checked categories and search results
+				filtereditems = data.items.filter(
+					(item) => keys.includes(item.key) && checkedNodes.includes(item.category.toString())
+				);
 			} else {
 				filtereditems = data.items.filter((item) =>
+					// filter all items for checked categories
 					checkedNodes.includes(item.category.toString())
 				);
 			}
 		} else if (searchtext) {
+			console.log(miniSearch.search(searchtext, searchConfig));
 			const results = miniSearch.search(searchtext, searchConfig).map((i) => i.key);
+			// filter all items for search results
 			filtereditems = data.items.filter((item) => results.includes(item.key));
 		} else {
 			filtereditems = data.items;
 		}
 	}
 
+	/**
+	 * @type {string|{combineWith: string, queries: {fields: string[], term: string}[]}}
+	 */
 	let searchtext = '';
+	let advancedToggle = false;
+	let advancedFields = {};
+	let mode = 'Einfach';
+	$: {
+		if (!advancedToggle) {
+			mode = 'Einfach';
+		} else {
+			mode = 'Erweitert';
+			if (Object.values(advancedFields).some((i) => !!i)) {
+				searchtext = {
+					combineWith: 'AND',
+					queries: [
+						...Object.keys(advancedFields).reduce((/** @type {Object[]} */ acc, key) => {
+							if (advancedFields[key]) {
+								acc.push({
+									fields: [key],
+									queries: [advancedFields[key]]
+								});
+							}
+							return acc;
+						}, [])
+					]
+				};
+			} else {
+				searchtext = MiniSearch.wildcard;
+			}
+		}
+	}
+	let holdingInstitutionToggle = false;
 </script>
 
 <ContentContainer
@@ -85,28 +119,54 @@
 			class="mb-4 md:mb-0"
 			width="w-auto"
 		/>
-		<form class="relative">
-			<label>
-				<input
-					class="input text-primary-500 p-6 placeholder-primary-500"
-					type="text"
-					placeholder="Dies ist der Suchtext..."
-					bind:value={searchtext}
-				/>
-			</label>
-
-			<h3 class="h3 m-3">Suchen in</h3>
-			<div class="text-sm grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 ml-6 sm:ml-0">
-				{#each [...data.itemstructure.map((i) => i.label), 'DEA', 'SLA'] as text}
-					<div>
-						<label class="flex items-center">
-							<input class="checkbox m-2 lg:m-5" type="checkbox" />
-							<p>{text}</p>
+		<div class="relative">
+			<h3 class="h3 m-3 float-start">Suche</h3>
+			<SlideToggle
+				name="advanced-mode"
+				active="bg-tertiary-600"
+				bind:checked={advancedToggle}
+				class="float-end m-3"
+			>
+				{mode}
+			</SlideToggle>
+			<form>
+				{#if mode === 'Einfach'}
+					<label>
+						<input
+							class="input text-primary-500 p-6 placeholder-primary-500"
+							type="text"
+							placeholder="Dies ist der Suchtext..."
+							bind:value={searchtext}
+						/>
+					</label>
+				{:else}
+					{#each data.itemstructure.filter((i) => i.label !== 'Aufbewahrungsort') as item}
+						<label class="label">
+							<span>{item.label}</span>
+							<input
+								class="input text-primary-500 p-6 placeholder-primary-500"
+								type="text"
+								bind:value={advancedFields[item.value]}
+							/>
 						</label>
-					</div>
-				{/each}
-			</div>
-
+					{/each}
+					<RadioGroup>
+						<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'DEA'}
+							>DEA</RadioItem
+						>
+						<RadioItem
+							bind:group={holdingInstitutionToggle}
+							name="holdingInstitution"
+							value={false}
+						>
+							<i class="fa-regular fa-object-group"></i>
+						</RadioItem>
+						<RadioItem bind:group={holdingInstitutionToggle} name="holdingInstitution" value={'SLA'}
+							>SLA</RadioItem
+						>
+					</RadioGroup>
+				{/if}
+			</form>
 			<p class="md:absolute mt-3 bottom-0">
 				es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
 					(i) => i.holding_institution === 'SLA'
@@ -114,12 +174,9 @@
 					(i) => i.holding_institution === 'DEA'
 				).length} aus dem <span class="bg-tertiary-500 text-on-tertiary-token px-1">DEA</span>
 			</p>
-		</form>
+		</div>
 	</div>
 </ContentContainer>
 <ContentContainer>
 	<Grid items={filtereditems} />
 </ContentContainer>
-
-<style lang="postcss">
-</style>
