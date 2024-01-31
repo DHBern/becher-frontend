@@ -6,7 +6,9 @@
 		AppBar,
 		getDrawerStore,
 		Drawer,
-		initializeStores
+		initializeStores,
+		Toast,
+		getToastStore
 	} from '@skeletonlabs/skeleton';
 	import '@fortawesome/fontawesome-free/css/solid.min.css';
 	import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
@@ -14,6 +16,7 @@
 
 	initializeStores();
 	const drawerStore = getDrawerStore();
+	const toastStore = getToastStore();
 
 	$: classesActive = (/** @type {string} */ href) =>
 		href === $page.url.pathname
@@ -33,9 +36,19 @@
 		{ slug: 'Über das Projekt', path: '/about' },
 		{ slug: 'Biographie', path: '/bio' }
 	];
+
+	/** @type {import('@skeletonlabs/skeleton').ToastSettings} */
+	const t = {
+		message: `Die vorliegende Anwendung hat prototypischen Charakter und
+			 stellt kein dauerhaftes Angebot dar. Die Reproduktion der
+			 dargebotenen Materialien ist ohne ausdrückliche Zusage der bestandeshaltenden Institutionen untersagt.`,
+		autohide: false,
+		background: 'variant-filled-warning'
+	};
+	toastStore.trigger(t);
 </script>
 
-<Drawer height='h-auto'>
+<Drawer height="h-auto">
 	<nav class="list-nav">
 		<ul>
 			{#each pages as page}
@@ -48,8 +61,9 @@
 		</ul>
 	</nav>
 </Drawer>
+<Toast />
 <!-- App Shell -->
-<AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8" >
+<AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<AppBar padding="px-4" slotDefault="h-full" background="bg-surface-100-900-token">
@@ -60,7 +74,8 @@
 				{#each pages as page}
 					<a
 						href={`${base}${page.path}`}
-						class="list-nav-item h-full p-4 {classesActive(page.path)}">{page.slug}</a>
+						class="list-nav-item h-full p-4 {classesActive(page.path)}">{page.slug}</a
+					>
 				{/each}
 			</nav>
 			<svelte:fragment slot="trail">
