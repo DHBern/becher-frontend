@@ -31,11 +31,15 @@
 		if (checkedNodes && checkedNodes.length > 0) {
 			if (searchtext) {
 				const results = miniSearch.search(searchtext, searchConfig);
-				const keys = results.map((i) => i.key);
 				// filter all items for checked categories and search results
-				filtereditems = data.items.filter(
-					(item) => keys.includes(item.key) && checkedNodes.includes(item.category.toString())
-				);
+				filtereditems = results.reduce((/** @type {Object[]} */ acc, i) => {
+					if (checkedNodes.includes(i.category.toString())) {
+						acc.push({
+							...data.items.find((item) => item.key === i.key)
+						});
+					}
+					return acc;
+				}, []);
 			} else {
 				filtereditems = data.items.filter((item) =>
 					// filter all items for checked categories
@@ -43,10 +47,10 @@
 				);
 			}
 		} else if (searchtext) {
-			console.log(miniSearch.search(searchtext, searchConfig));
-			const results = miniSearch.search(searchtext, searchConfig).map((i) => i.key);
 			// filter all items for search results
-			filtereditems = data.items.filter((item) => results.includes(item.key));
+			filtereditems = miniSearch.search(searchtext, searchConfig).map((i) => ({
+				...data.items.find((item) => item.key === i.key)
+			}));
 		} else {
 			filtereditems = data.items;
 		}
