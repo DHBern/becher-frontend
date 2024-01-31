@@ -19,13 +19,12 @@ export function load({ params }) {
 		metadata: filePromise,
 		structure,
 		related: itemData
-			.filter((i) => i.prototype)
+			.filter((i) => i.prototype && i.key.startsWith(params.slug.slice(0, -2)))
 			.map((item) => {
 				// eslint-disable-next-line no-unused-vars
 				const { entry_type, prototype, ...rest } = item;
 				return rest;
 			})
-			.slice(0, 7) // TODO: implement related items
 	};
 }
 
