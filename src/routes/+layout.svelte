@@ -76,7 +76,10 @@
 		</ul>
 	</nav>
 </Drawer>
-<Toast buttonAction="btn variant-ghost" />
+<Toast
+	buttonAction="btn btn-icon-sm variant-ghost"
+	buttonDismiss="btn-icon btn-icon-md variant-ghost"
+/>
 <!-- App Shell -->
 <AppShell slotFooter="bg-secondary-500 p-4" slotPageContent="space-y-8">
 	<svelte:fragment slot="header">
