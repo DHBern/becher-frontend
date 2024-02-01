@@ -15,7 +15,7 @@
 	import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
 	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
-	import FooterImg1 from '../lib/assets/grafik 5.png?enhanced'
+	import FooterImg1 from '../lib/assets/grafik 5.png?enhanced';
 	import FooterImg2 from '../lib/assets/grafik 6.png?enhanced';
 
 	initializeStores();
@@ -108,26 +108,18 @@
 	<!-- Page Route Content -->
 	<slot />
 	<svelte:fragment slot="pageFooter">
-			<div class="grid grid-cols-2 place-items-center md:!grid-cols-4 gap-1 lg:ml-10 lg:mr-10">
+		<div class="grid grid-cols-2 md:!grid-cols-5 gap-1 lg:ml-10 lg:mr-10">
+			<enhanced:img src={FooterImg1} alt="Ulrich Becher in Basel" />
 
-				<enhanced:img
-					src={FooterImg1}
-					alt="Ulrich Becher in Basel"
-				/>
+			<enhanced:img src={FooterImg2} alt="Ulrich Becher in Basel" />
 
-				<enhanced:img
-					src={FooterImg2}
-					alt="Ulrich Becher in Basel"
-				/>
+			<p class="h5 md:h6 lg:h5 text-black col-span-2 justify-self-start">
+				Ein Prototyp des Deutschen Exilarchivs (DEA) und des Schweizerischen Literarurarchivs (SLA)
+			</p>
 
-				<p class="h5 md:h6 lg:h5 text-black">
-					Ein Prototyp des Deutschen Exilarchivs (DEA) und des Schweizerischen Literarurarchivs (SLA) 
-				</p>
-
-				<p class="h5 text-black">
-					Impressum
-				</p>
-
-			</div>
-		</svelte:fragment>
+			<p class="h5 text-black col-span-2 md:col-span-1 justify-self-start md:justify-self-end">
+				Impressum
+			</p>
+		</div>
+	</svelte:fragment>
 </AppShell>
