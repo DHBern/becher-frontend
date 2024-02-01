@@ -119,9 +119,14 @@
 			<enhanced:img
 				src="$lib/assets/Logo_der_Schweizerischen_Eidgenossenschaft.svg"
 				alt="Logo der Schweizerischen Eidgenossenschaft"
+				class="max-h-[80px]"
 			/>
 
-			<enhanced:img src="$lib/assets/DNB.svg" alt="Logo der Deutschen Nationalbibliothek" />
+			<enhanced:img
+				src="$lib/assets/DNB.svg"
+				alt="Logo der Deutschen Nationalbibliothek"
+				class="max-h-[80px]"
+			/>
 
 			<p class="h5 md:h6 lg:h5 text-black col-span-2 justify-self-start">
 				Ein Prototyp des Deutschen Exilarchivs (DEA) und des Schweizerischen Literarurarchivs (SLA)
