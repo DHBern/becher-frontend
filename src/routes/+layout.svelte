@@ -17,6 +17,15 @@
 	import { onMount } from 'svelte';
 	import FooterImg1 from '../lib/assets/logo_ch.png?enhanced';
 	import FooterImg2 from '../lib/assets/logo_DEA.png?enhanced';
+	import { afterNavigate } from '$app/navigation';
+
+	afterNavigate((/** @type import('@sveltejs/kit').AfterNavigate */ params) => {
+		const isNewPage = params.from?.url.pathname !== params.to?.url.pathname;
+		const elemPage = document.querySelector('#page');
+		if (isNewPage && elemPage !== null) {
+			elemPage.scrollTop = 0;
+		}
+	});
 
 	initializeStores();
 	const drawerStore = getDrawerStore();
