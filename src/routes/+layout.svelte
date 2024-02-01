@@ -33,8 +33,8 @@
 
 	const showWarning = localStorageStore('warning', true);
 
-	const classesActive = (/** @type {string} */ href, /** @type {string} */ pathname) =>
-		href === pathname
+	$: classesActive = (/** @type {string} */ href) =>
+		base + href === $page.url.pathname
 			? 'bg-primary-500 hover:text-primary-400 text-secondary-500'
 			: 'hover:text-primary-500';
 
@@ -45,14 +45,11 @@
 			};
 		drawerStore.open(s);
 	}
-	$: pages = [
-		{ slug: 'Home', path: '/', classes: classesActive('/', $page.url.pathname) },
-		{
-			slug: 'Über das Projekt',
-			path: '/about',
-			classes: classesActive('/about', $page.url.pathname)
-		},
-		{ slug: 'Biographie', path: '/bio', classes: classesActive('/bio', $page.url.pathname) }
+
+	const pages = [
+		{ slug: 'Home', path: '/' },
+		{ slug: 'Über das Projekt', path: '/about' },
+		{ slug: 'Biographie', path: '/bio' }
 	];
 
 	/** @type {import('@skeletonlabs/skeleton').ToastSettings} */
@@ -104,9 +101,10 @@
 			</svelte:fragment>
 			<nav class="flex-none items-center h-full hidden md:flex">
 				{#each pages as page}
-					<a href={`${base}${page.path}`} class="list-nav-item h-full p-4 {page.classes}">
-						{page.slug}
-					</a>
+					<a
+						href={`${base}${page.path}`}
+						class="list-nav-item h-full p-4 {classesActive(page.path)}">{page.slug}</a
+					>
 				{/each}
 			</nav>
 			<svelte:fragment slot="trail">
