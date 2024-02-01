@@ -150,7 +150,7 @@
 					/>
 				</label>
 			{:else}
-				{#each data.itemstructure.filter((i) => i.label !== 'Aufbewahrungsort') as item, i}
+				{#each data.itemstructure.filter((i) => i.label !== 'Aufbewahrungsort' && i.label !== 'Kategorie') as item, i}
 					<label class="label" transition:slide|global>
 						<span>{item.label}</span>
 						<input
