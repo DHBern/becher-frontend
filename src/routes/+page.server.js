@@ -68,7 +68,7 @@ export async function load() {
 		{ value: 'signature', label: 'Signatur' },
 		{ value: 'holding_institution', label: 'Aufbewahrungsort' },
 		{ value: 'category', label: 'Kategorie' },
-		{ value: 'key', label: 'Schlüssel' }
+		{ value: 'key', label: 'Identifikator' }
 	];
 
 	return {
