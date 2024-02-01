@@ -15,8 +15,8 @@
 	import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
 	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
-	import FooterImg1 from '../lib/assets/grafik 5.png?enhanced';
-	import FooterImg2 from '../lib/assets/grafik 6.png?enhanced';
+	import FooterImg1 from '../lib/assets/logo_ch.png?enhanced';
+	import FooterImg2 from '../lib/assets/logo_DEA.png?enhanced';
 
 	initializeStores();
 	const drawerStore = getDrawerStore();
