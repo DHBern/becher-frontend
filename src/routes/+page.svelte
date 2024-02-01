@@ -62,13 +62,8 @@
 	let searchtext = '';
 	let advancedToggle = false;
 	let advancedFields = {};
-	let mode = 'Einfach';
 	$: {
-		if (!advancedToggle) {
-			mode = 'Einfach';
-			searchtext = '';
-		} else {
-			mode = 'Erweitert';
+		if (advancedToggle) {
 			if (Object.values(advancedFields).some((i) => !!i) || holdingInstitutionToggle) {
 				searchtext = {
 					combineWith: 'AND',
@@ -138,11 +133,14 @@
 					active="bg-tertiary-600"
 					bind:checked={advancedToggle}
 					class="mb-3"
+					on:change={() => {
+						searchtext = '';
+					}}
 				>
-					{mode}
+					{advancedToggle ? 'Einfach' : 'Erweitert'}
 				</SlideToggle>
 			</div>
-			{#if mode === 'Einfach'}
+			{#if !advancedToggle}
 				<label transition:slide>
 					<input
 						class="input text-primary-500 p-6 placeholder-primary-500"
