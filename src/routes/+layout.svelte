@@ -15,8 +15,6 @@
 	import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
 	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
-	import FooterImg1 from '../lib/assets/logo_ch.png?enhanced';
-	import FooterImg2 from '../lib/assets/logo_DEA.png?enhanced';
 	import { afterNavigate } from '$app/navigation';
 
 	afterNavigate((/** @type import('@sveltejs/kit').AfterNavigate */ params) => {
@@ -118,9 +116,12 @@
 	<slot />
 	<svelte:fragment slot="pageFooter">
 		<div class="grid grid-cols-2 md:!grid-cols-5 gap-1 lg:ml-10 lg:mr-10">
-			<enhanced:img src={FooterImg1} alt="Ulrich Becher in Basel" />
+			<enhanced:img
+				src="$lib/assets/Logo_der_Schweizerischen_Eidgenossenschaft.svg"
+				alt="Logo der Schweizerischen Eidgenossenschaft"
+			/>
 
-			<enhanced:img src={FooterImg2} alt="Ulrich Becher in Basel" />
+			<enhanced:img src="$lib/assets/DNB.svg" alt="Logo der Deutschen Nationalbibliothek" />
 
 			<p class="h5 md:h6 lg:h5 text-black col-span-2 justify-self-start">
 				Ein Prototyp des Deutschen Exilarchivs (DEA) und des Schweizerischen Literarurarchivs (SLA)
