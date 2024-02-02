@@ -3,7 +3,7 @@ import itemData from '../../compact.json';
 import structure from './structure.json';
 
 /** @type {import('./$types').PageLoad} */
-export function load({ params }) {
+export async function load({ params }) {
 	const files = import.meta.glob('./items/*.json');
 	let filePromise = null;
 	try {
@@ -16,7 +16,7 @@ export function load({ params }) {
 
 	return {
 		key: params.slug,
-		metadata: filePromise,
+		metadata: (await filePromise).default,
 		structure,
 		related: itemData
 			.filter((i) => i.prototype && i.key.startsWith(params.slug.slice(0, -2)))
