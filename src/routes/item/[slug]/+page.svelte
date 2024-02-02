@@ -135,6 +135,17 @@
 						<dd class="pl-2 pt-4">{d[key]}</dd>
 					{/if}
 				{/each}
+
+				{#each Object.entries(d['links']) as link}
+					{@const [label, url] = link}
+					<dt class="border-r-4 border-current pr-4 pt-4">{label}</dt>
+					<dd class="pl-2 pt-4">
+						<a class="anchor" href={url} target="_blank" rel="noopener">{url}</a>
+						{#if label === 'gnd' || label === 'helveticarchives'}
+							<span>[{d.category_local_name}]</span>
+						{/if}
+					</dd>
+				{/each}
 			</dl>
 		{/await}
 	</div>

@@ -12,7 +12,7 @@
 		"label": "Signatur"
 	},
 	{
-		"key": "category",
+		"key": "category_global_name",
 		"label": "Kategorie"
 	},
 	{
