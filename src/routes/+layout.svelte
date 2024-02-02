@@ -116,17 +116,25 @@
 	<slot />
 	<svelte:fragment slot="pageFooter">
 		<div class="grid grid-cols-2 md:!grid-cols-5 gap-1 lg:ml-10 lg:mr-10">
-			<enhanced:img
-				src="$lib/assets/Logo_der_Schweizerischen_Eidgenossenschaft.svg"
-				alt="Logo der Schweizerischen Eidgenossenschaft"
-				class="max-h-[80px]"
-			/>
+			<a
+				href="https://www.nb.admin.ch/snl/de/home/ueber-uns/sla.html"
+				target="_blank"
+				rel="noopener"
+			>
+				<enhanced:img
+					src="$lib/assets/Logo_der_Schweizerischen_Eidgenossenschaft.svg"
+					alt="Logo der Schweizerischen Eidgenossenschaft"
+					class="max-h-[80px]"
+				/>
+			</a>
 
-			<enhanced:img
-				src="$lib/assets/DNB.svg"
-				alt="Logo der Deutschen Nationalbibliothek"
-				class="max-h-[80px]"
-			/>
+			<a href="https://www.dnb.de/DE/Ueber-uns/DEA/dea_node.html" target="_blank" rel="noopener">
+				<enhanced:img
+					src="$lib/assets/DNB.svg"
+					alt="Logo der Deutschen Nationalbibliothek"
+					class="max-h-[80px]"
+				/>
+			</a>
 
 			<p class="h5 md:h6 lg:h5 text-black col-span-2 justify-self-start">
 				Ein Prototyp des Deutschen Exilarchivs (DEA) und des Schweizerischen Literarurarchivs (SLA)
