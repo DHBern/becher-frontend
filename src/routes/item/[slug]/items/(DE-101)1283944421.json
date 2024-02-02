@@ -1,14 +1,20 @@
 {
   "date": "1900",
   "ext": 85,
+  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/9b11bd43-1e39-4dd9-9164-b1e19de9bc50\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Murmeljagd, [Roman] – Ich warf ihm meine … [Incipit]",
-  "category": 10200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Romane",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944421_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944421",
+    "gnd": "https:\/\/d-nb.info\/1283944421"
+  },
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1283944421",
   "levels": [  ]
 }

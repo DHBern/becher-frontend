@@ -1,14 +1,20 @@
 {
   "date": "1985",
   "ext": 0,
+  "category_local_name": "Selbstständige Belegexemplare",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Grußkarte",
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284203034",
+    "gnd": "https:\/\/d-nb.info\/1284203034"
+  },
+  "category": 0,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284203034",
   "levels": [  ]
 }

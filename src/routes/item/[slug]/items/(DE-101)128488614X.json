@@ -1,14 +1,20 @@
 {
   "date": "1894",
   "ext": 0,
+  "category_local_name": "Briefe Dritter",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Brief",
-  "category": 20300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe Dritter, 1930-1990",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128488614X",
+    "gnd": "https:\/\/d-nb.info\/128488614X"
+  },
+  "category": 20300,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)128488614X",
   "levels": [  ]
 }

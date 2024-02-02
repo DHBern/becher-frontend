@@ -1,14 +1,20 @@
 {
   "date": "1900",
   "ext": 0,
+  "category_local_name": "Selbstständige Belegexemplare",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Fotografie Ulrich Becher und Dana Roda Becher",
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128491562X",
+    "gnd": "https:\/\/d-nb.info\/128491562X"
+  },
+  "category": 0,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)128491562X",
   "levels": [  ]
 }

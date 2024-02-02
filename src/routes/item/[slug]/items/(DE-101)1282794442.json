@@ -1,14 +1,20 @@
 {
   "date": "",
   "ext": 0,
+  "category_local_name": "Selbstständige Belegexemplare",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Konvolut von Zeitungsausschnitten u. Ä. mit Beiträgen über Ulrich Becher, Franz Patenkindt",
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282794442",
+    "gnd": "https:\/\/d-nb.info\/1282794442"
+  },
+  "category": 0,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1282794442",
   "levels": [  ]
 }

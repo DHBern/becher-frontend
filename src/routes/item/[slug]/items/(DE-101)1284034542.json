@@ -1,14 +1,20 @@
 {
   "date": "1954",
   "ext": 3,
+  "category_local_name": "Briefe an Ulrich Becher ",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/03751315-b590-472b-8a0b-77ec851e4c7d\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Postkarte",
-  "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284034542_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284034542",
+    "gnd": "https:\/\/d-nb.info\/1284034542"
+  },
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284034542",
   "levels": [  ]
 }

@@ -1,14 +1,20 @@
 {
   "date": "1942",
   "ext": 0,
+  "category_local_name": "Sammelwerke",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "SIFF, Selective Identification of Friend and Foe, [Sammelwerk]",
-  "category": 1099094,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128395107X",
+    "gnd": "https:\/\/d-nb.info\/128395107X"
+  },
+  "category": 1099094,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)128395107X",
   "levels": [  ]
 }

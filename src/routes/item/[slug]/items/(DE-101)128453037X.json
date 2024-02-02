@@ -1,14 +1,20 @@
 {
   "date": "1984",
   "ext": 0,
+  "category_local_name": "Briefe an Ulrich Becher ",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Postkarte",
-  "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128453037X",
+    "gnd": "https:\/\/d-nb.info\/128453037X"
+  },
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)128453037X",
   "levels": [  ]
 }

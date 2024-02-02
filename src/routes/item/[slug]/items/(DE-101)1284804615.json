@@ -1,14 +1,20 @@
 {
   "date": "1963",
   "ext": 0,
+  "category_local_name": "Briefe von Ulrich Becher",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Brief",
-  "category": 20200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284804615",
+    "gnd": "https:\/\/d-nb.info\/1284804615"
+  },
+  "category": 20200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284804615",
   "levels": [  ]
 }

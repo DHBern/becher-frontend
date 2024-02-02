@@ -1,14 +1,20 @@
 {
   "date": "1941",
   "ext": 3,
+  "category_local_name": "Briefe von Ulrich Becher",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3aa0ce77-28ff-463c-b5d7-e0c806ada0f7\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Postkarte",
-  "category": 20200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284776972_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284776972",
+    "gnd": "https:\/\/d-nb.info\/1284776972"
+  },
+  "category": 20200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284776972",
   "levels": [  ]
 }

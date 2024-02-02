@@ -1,14 +1,20 @@
 {
   "date": "1900",
   "ext": 45,
+  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/bc3e296e-9f55-4c82-8182-848a0c354c8e\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Murmeljagd, [Roman] – Das Kulmhotel hinter mir ... [Incipit]",
-  "category": 10200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Romane",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944642_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944642",
+    "gnd": "https:\/\/d-nb.info\/1283944642"
+  },
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1283944642",
   "levels": [  ]
 }

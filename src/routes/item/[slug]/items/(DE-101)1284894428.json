@@ -1,14 +1,20 @@
 {
   "date": "1944",
   "ext": 0,
+  "category_local_name": "Selbstständige Belegexemplare",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Bestätigung [...], Comité de Proteção dos Interêsses Austríacos no Brasil [...]",
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894428",
+    "gnd": "https:\/\/d-nb.info\/1284894428"
+  },
+  "category": 0,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284894428",
   "levels": [  ]
 }

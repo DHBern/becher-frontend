@@ -1,14 +1,20 @@
 {
   "date": "1947",
   "ext": 5,
+  "category_local_name": "Briefe an Ulrich Becher ",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/df19aeae-bca3-434f-8381-ac5af4e179c5\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Brief",
-  "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284072622_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284072622",
+    "gnd": "https:\/\/d-nb.info\/1284072622"
+  },
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284072622",
   "levels": [  ]
 }

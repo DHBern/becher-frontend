@@ -1,14 +1,20 @@
 {
   "date": "1900",
   "ext": 81,
+  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/99449873-eda6-43c9-b250-8797b9bd6e6d\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Murmeljagd, [Roman] – Da ist kein Wind … [Incipit]",
-  "category": 10200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Romane",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944200_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944200",
+    "gnd": "https:\/\/d-nb.info\/1283944200"
+  },
+  "category": 10200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1283944200",
   "levels": [  ]
 }

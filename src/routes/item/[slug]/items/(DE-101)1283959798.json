@@ -1,14 +1,20 @@
 {
   "date": "1900",
   "ext": 0,
+  "category_local_name": "Kleine Manuskripte und Typoskripte",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Dreitausend auf Känguruh",
-  "category": 1099095,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283959798",
+    "gnd": "https:\/\/d-nb.info\/1283959798"
+  },
+  "category": 1099095,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1283959798",
   "levels": [  ]
 }

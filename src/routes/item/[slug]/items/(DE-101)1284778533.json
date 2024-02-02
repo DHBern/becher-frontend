@@ -1,14 +1,20 @@
 {
   "date": "1956",
   "ext": 3,
+  "category_local_name": "Briefe von Ulrich Becher",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/9949976f-0dcc-4ba6-b6d6-fd18ad6f908c\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Postkarte",
-  "category": 20200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284778533_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284778533",
+    "gnd": "https:\/\/d-nb.info\/1284778533"
+  },
+  "category": 20200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284778533",
   "levels": [  ]
 }

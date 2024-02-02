@@ -1,14 +1,20 @@
 {
   "date": "1936",
   "ext": 0,
+  "category_local_name": "Selbstständige Belegexemplare",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Der Führer, Olympiade 36, [Zeichnungen, Karikaturen]",
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128402539X",
+    "gnd": "https:\/\/d-nb.info\/128402539X"
+  },
+  "category": 0,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)128402539X",
   "levels": [  ]
 }

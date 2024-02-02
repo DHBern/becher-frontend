@@ -1,14 +1,20 @@
 {
   "date": "1945",
   "ext": 183,
+  "category_local_name": "Selbstständige Belegexemplare",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/48da875e-ac86-443e-8069-fec11ed42e88\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Murmeljagd, [Roman] - Den 1. Juni ... [Incipit]",
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943867_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943867",
+    "gnd": "https:\/\/d-nb.info\/1283943867"
+  },
+  "category": 0,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1283943867",
   "levels": [  ]
 }

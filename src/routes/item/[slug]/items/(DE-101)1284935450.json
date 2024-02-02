@@ -1,14 +1,20 @@
 {
   "date": "1957",
   "ext": 0,
+  "category_local_name": "Manuskripte und Typoskripte Anderer",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Kurz nach 4, Axel Eggebrecht spricht über ein Buch von Ulrich Becher, UKW, [Rundfunk-Typoskript]",
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284935450",
+    "gnd": "https:\/\/d-nb.info\/1284935450"
+  },
+  "category": 4099093,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284935450",
   "levels": [  ]
 }

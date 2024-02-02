@@ -1,14 +1,20 @@
 {
   "date": "1972",
   "ext": 0,
+  "category_local_name": "Briefe an Ulrich Becher ",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Briefkarte",
-  "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284229521",
+    "gnd": "https:\/\/d-nb.info\/1284229521"
+  },
+  "category": 20100,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284229521",
   "levels": [  ]
 }

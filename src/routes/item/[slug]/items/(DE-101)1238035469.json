@@ -1,14 +1,20 @@
 {
   "date": "",
   "ext": 0,
+  "category_local_name": "Manuskripte und Typoskripte Anderer",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Konvolut von Rundfunk-Typoskripten, ORF",
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Series",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1238035469",
+    "gnd": "https:\/\/d-nb.info\/1238035469"
+  },
+  "category": 4099093,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Series",
   "key": "(DE-101)1238035469",
   "levels": [  ]
 }

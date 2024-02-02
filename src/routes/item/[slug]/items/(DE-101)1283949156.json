@@ -1,14 +1,20 @@
 {
   "date": "1943",
   "ext": 87,
+  "category_local_name": "Lyrik",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c23894db-dbc9-4bcb-b038-97bdbf849caa\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Franz Patenkindt, [Lyrik]",
-  "category": 10300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283949156_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283949156",
+    "gnd": "https:\/\/d-nb.info\/1283949156"
+  },
+  "category": 10300,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1283949156",
   "levels": [  ]
 }

@@ -1,14 +1,20 @@
 {
   "date": "1900",
   "ext": 41,
+  "category_local_name": "Kleine Manuskripte und Typoskripte",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c7a5ee6a-1890-47fa-bad1-ce1a7a919727\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Alles, was in meinem Andenken ... [Incipit]",
-  "category": 1099095,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283952750_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283952750",
+    "gnd": "https:\/\/d-nb.info\/1283952750"
+  },
+  "category": 1099095,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1283952750",
   "levels": [  ]
 }

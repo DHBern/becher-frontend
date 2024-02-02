@@ -1,14 +1,20 @@
 {
   "date": "1981",
   "ext": 3,
+  "category_local_name": "Briefe von Ulrich Becher",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/98dc35e8-f0b2-4c9a-bd9e-70d3c51a5b26\/",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Brief",
-  "category": 20200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284773817_00000010.tif\/info.json",
   "prototype": true,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284773817",
+    "gnd": "https:\/\/d-nb.info\/1284773817"
+  },
+  "category": 20200,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284773817",
   "levels": [  ]
 }

@@ -1,14 +1,20 @@
 {
   "date": "1985",
   "ext": 0,
+  "category_local_name": "Manuskripte und Typoskripte Anderer",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "Besprechung von Ulrich Becher, Im Liliputanercafé",
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940691",
+    "gnd": "https:\/\/d-nb.info\/1284940691"
+  },
+  "category": 4099093,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284940691",
   "levels": [  ]
 }

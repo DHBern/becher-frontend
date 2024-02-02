@@ -1,14 +1,20 @@
 {
   "date": "1938",
   "ext": 0,
+  "category_local_name": "Manuskripte und Typoskripte Anderer",
   "iiif-manifest": "",
   "signature": "",
   "holding_institution": "DEA",
   "title": "[Abschied?] von Oedoen von Horváth, [...?] an seinem Grab",
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
+  "category_global_name": "",
   "iiif": "",
   "prototype": false,
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284947386",
+    "gnd": "https:\/\/d-nb.info\/1284947386"
+  },
+  "category": 4099093,
+  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
   "key": "(DE-101)1284947386",
   "levels": [  ]
 }
