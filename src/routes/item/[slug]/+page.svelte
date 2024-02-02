@@ -118,14 +118,16 @@
 			</section>
 		{:then metadata}
 			{@const d = metadata?.default}
-			{@const variant = d.holding_institution === 'SLA' ? 'primary' : 'tertiary'}
+			{@const variant =
+				d.holding_institution === 'SLA' ? 'variant-filled-primary' : 'variant-filled-tertiary'}
+			{@const bg = d.holding_institution === 'SLA' ? 'bg-primary-500' : 'bg-tertiary-500'}
 			<div class="md:col-span-2 lg:col-span-1 lg:col-start-2">
 				<h1 class="h1 text-balance pb-2 md:pb-4 inline">
 					{d.title}
 				</h1>
-				<span class="badge variant-filled-{variant}">{d.holding_institution}</span>
+				<span class="badge {variant}">{d.holding_institution}</span>
 			</div>
-			<div class="lg:row-span-2 lg:row-start-1 w-full h-fit bg-{variant}-500">
+			<div class="lg:row-span-2 lg:row-start-1 w-full h-fit {bg}">
 				<div use:setsource id="viewer" class="w-full h-[60vh]"></div>
 			</div>
 			<dl class="grid grid-cols-[1fr_4fr] justify-between h-fit">
