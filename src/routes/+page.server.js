@@ -1,5 +1,6 @@
 import categories from './becher_categories_json.json';
-import items from './compact.json';
+import items from './becher_full_json.json';
+import fullstructure from './structure.json';
 
 /**
  * @typedef {Object.<import('@skeletonlabs/skeleton').TreeViewNode, {id: number}>} TreeNodeInteger
@@ -63,6 +64,7 @@ export async function load() {
 	}
 
 	const itemstructure = [
+		//TODO: ersetzen
 		{ value: 'title', label: 'Titel' },
 		{ value: 'date', label: 'Datum' },
 		{ value: 'signature', label: 'Signatur' },
@@ -75,7 +77,7 @@ export async function load() {
 		categories: filteredCategories,
 		itemstructure,
 		items: items
-			.filter((i) => i.prototype)
+			//.filter((i) => i.prototype)
 			.map((item) => {
 				// eslint-disable-next-line no-unused-vars
 				let { entry_type, prototype, iiif, ...rest } = item;
