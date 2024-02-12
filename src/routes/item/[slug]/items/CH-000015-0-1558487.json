@@ -1,22 +1,17 @@
 {
-  "date": "1922",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-3-f-8-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Segeltörn",
+  "ext": [ "Manuskript, 4 Blatt, mit zahlreichen Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1922" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-3-f-8-1",
+  "title": "Becher, Ulrich: Segeltörn",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558487" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558487",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Geburtstagsgedichte", "level":3 },
-    { "'title":"Becher, Ulrich: Segeltörn", "level":4 }
-  ]
+  "key": "CH-000015-0-1558487"
 }

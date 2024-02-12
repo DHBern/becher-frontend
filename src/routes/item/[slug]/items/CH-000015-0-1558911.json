@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-33-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Gei 2",
+  "ext": [ "1 Blatt DinA4" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Blauer Kugelschreiber auf Papier, hs, \"Ich bin die Toleranz…\"(Gei für Geisterbahn - Titel eines Kapitels der Murmeljagd)" ],
+  "signature": "SLA-UB-A-8-a-33-1",
+  "title": "Becher, Ulrich: Gei 2",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558911" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558911",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Gei 2", "level":4 }
-  ]
+  "key": "CH-000015-0-1558911"
 }

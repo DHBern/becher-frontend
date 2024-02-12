@@ -1,22 +1,19 @@
 {
-  "date": "1950",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-b-1-b",
-  "holding_institution": "SLA",
-  "title": "Auszug aus dem Grundbuch von der Friedrichstadt, Bd. 11, Berlin",
+  "ext": [ "1 Dokument, Kopie, ca. 25 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1950" ],
+  "encl": [ "1 Mappe, schwarz-orange mit rotem Futter" ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-b-1-b",
+  "title": "Auszug aus dem Grundbuch von der Friedrichstadt, Bd. 11, Berlin",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557505" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557505",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Richard (Vater)", "level":3 },
-    { "'title":"Persönliche Dokumente", "level":4 }
-  ]
+  "key": "CH-000015-0-1557505"
 }

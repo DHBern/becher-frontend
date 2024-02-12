@@ -1,20 +1,19 @@
 {
-  "date": "5. April 1986",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-3-h",
-  "holding_institution": "SLA",
-  "title": "Naumann, Uwe\/Töteberg, Michael: Auf dem dünnen Seil der Wirklichkeit. Über den Schriftsteller Ulrich Becher. Kritisches Lexikon der Gegenwartsliteratur",
+  "ext": [ "Ts. Kop., 16 Bl + Druck, 12 Bl. (aus einem Buch) + Kop., 12 Bl. + Beil." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Naumann, Uwe", "Töteberg, Michael (1951-)" ],
+  "lang": [  ],
+  "date": [ "5. April 1986" ],
+  "encl": [ "hs. Notiz vom 04.08.1986: Liebe Bechers, hier kommt (endlich) der Lexikonartikel! Erbauliche Lektüre wünscht Ihr Uwe Naumann" ],
+  "note": [  ],
+  "signature": "SLA-UB-D-3-h",
+  "title": "Naumann, Uwe\/Töteberg, Michael: Auf dem dünnen Seil der Wirklichkeit. Über den Schriftsteller Ulrich Becher. Kritisches Lexikon der Gegenwartsliteratur",
+  "content": [ "Lexikonartikel über Ulrich Becher  im Kritischen Lexikon der Gegenwartsliteratur" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118047175" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1547260" },
+  "type": "collItem",
   "category": 4099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1547260",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sekundärliteratur", "level":2 }
-  ]
+  "key": "CH-000015-0-1547260"
 }

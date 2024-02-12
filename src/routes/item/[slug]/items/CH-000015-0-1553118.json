@@ -1,21 +1,21 @@
 {
-  "date": "Juni 1933",
-  "ext": 3,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e37e1571-c29c-4bec-b21e-cb7933563cc6\/",
-  "signature": "SLA-UB-B-1-BECH-106",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Graz",
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-106_01.tif\/info.json",
-  "prototype": true,
+  "place": [ "Graz" ],
+  "ext_num": 3,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "Juni 1933" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Nach der Bücherverbrennung im Mai 1933" ],
+  "signature": "SLA-UB-B-1-BECH-106",
+  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Graz",
+  "content": [ "UB freut sich, dass Richard Becher zuerst seine Kur absolviert und dann nach Paris geht; UB fuhr nach 14tägigem Aufenthalt bei der Dresdner Tante nach Innsbruck, von dort nach Salzburg, saß einen Tag am Wolfgangsee, einen Tag in Hellbrunn; Dana bekommt die Mandeln entfernt; Bücherverbrennung in Berlin: „dass sie gar die ausländischen Autoren zu verbrennen wagten, ist der Gipfel der Unverschämtheit (Roda ist nicht verbrannt worden)“; hat den Mai-Wechsel bereits überzogen, will aber Rodas nicht anpumpen und bittet den Vater, ihm telegraphisch aus Wien etwas überweisen zu lassen oder ihm per Eilbrief 20-40 Fränkers herüberzuschmuggeln; will in 14 Tagen kommen, um die Eltern abzuholen; gibt die Adresse von Tante Gisl in Graz an." ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553118" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1553118",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1553118"
 }

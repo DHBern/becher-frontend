@@ -1,22 +1,19 @@
 {
-  "date": "26. März 1971",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-a-38-b",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der Riese Le Schek. Luzerner Neueste Nachrichten, Luzern",
+  "ext": [ "" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Luzern" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "26. März 1971" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-1-a-38-b",
+  "title": "Becher, Ulrich: Der Riese Le Schek. Luzerner Neueste Nachrichten, Luzern",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535790" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535790",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Erzählungen", "level":3 },
-    { "'title":"Becher, Ulrich: Der Riese Le Schek", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535790"
 }

@@ -1,24 +1,21 @@
 {
-  "date": "22. Oktober 1973",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-ENGEL-BECHD-4",
-  "holding_institution": "SLA",
-  "title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Schwarzach;\nBasel",
+  "ext": [ "1 Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Schwarzach;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Engelhardt, Jürgen (20. Jhd.)" ],
+  "lang": [  ],
+  "date": [ "22. Oktober 1973" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Poststempel nur schwer lesbar." ],
+  "signature": "SLA-UB-B-3-ENGEL-BECHD-4",
+  "title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Schwarzach;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685053" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685053",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Bregenz;\nSchwarzach;\nMumbai;\nAugsburg",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1685053"
 }

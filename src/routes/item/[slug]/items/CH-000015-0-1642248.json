@@ -1,24 +1,21 @@
 {
-  "date": "1937 bis 1952",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-MOL-1",
-  "holding_institution": "SLA",
-  "title": "Molnár, Franz an Becher, Ulrich; Korrespondenz, Genf; New York",
+  "ext": [ "2 Grussschreiben, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Genf; New York" ],
+  "ext_num": 0,
+  "creator": [ "Molnár, Ferenc (1878-1952)" ],
+  "lang": [  ],
+  "date": [ "1937 bis 1952" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-MOL-1",
+  "title": "Molnár, Franz an Becher, Ulrich; Korrespondenz, Genf; New York",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118734598" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1642248" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1642248",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Molnár, Franz an Becher, Ulrich; Korrespondenz, Genf; New York",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1642248"
 }

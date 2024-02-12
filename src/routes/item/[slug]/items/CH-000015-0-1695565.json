@@ -1,24 +1,21 @@
 {
-  "date": "4. November 1963",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-ZEPP-BECHD-53",
-  "holding_institution": "SLA",
-  "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, Manila;\nBasel",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Manila;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Zeppelin, Lisa von (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "4. November 1963" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ZEPP-BECHD-53",
+  "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, Manila;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695565" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695565",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, Barcelona;\nShanghai;\nYokohama;\nTokio;\nManila;\nBuenos Aires;\nNew York;\nMexiko-Stadt;\nSurfers Paradise;\n Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1695565"
 }

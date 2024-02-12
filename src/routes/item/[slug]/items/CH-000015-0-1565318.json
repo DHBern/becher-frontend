@@ -1,22 +1,19 @@
 {
-  "date": "28. Mai 1936 bis 1983",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-3-c",
-  "holding_institution": "SLA",
-  "title": "Zeitungsartikel zu Alexander Roda Roda",
+  "ext": [ "14 Zeitungsartikel, maschinenschrifltich, 14 Blatt, teilweise Kopien" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "28. Mai 1936 bis 1983" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-3-c",
+  "title": "Zeitungsartikel zu Alexander Roda Roda",
+  "content": [ "div. Zeitungsartikel, davon 3 Artikel Nachruf auf Roda Roda" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565318" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565318",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Unterlagen zu Alexander Roda Roda", "level":4 }
-  ]
+  "key": "CH-000015-0-1565318"
 }

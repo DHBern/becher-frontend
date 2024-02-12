@@ -1,22 +1,17 @@
 {
-  "date": "1944 bis 1945",
-  "ext": 3,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e3540c6d-93e3-4f35-b5e9-c70b52e23a86\/",
-  "signature": "SLA-UB-A-1-d-4-6",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Nucciarone und der Halbidiot. Eine New-Yorker Miniatur",
+  "ext": [ "Typoskript-Durchschlag, 3 Blatt, vollständig, paginiert, wenige Korrekturen" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-4-6_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 3,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1944 bis 1945" ],
+  "note": [ "[Bemerkung] Titel auf S. 1, im unteren Teil zerrissen." ],
+  "signature": "SLA-UB-A-1-d-4-6",
+  "title": "Becher, Ulrich: Nucciarone und der Halbidiot. Eine New-Yorker Miniatur",
+  "content": [ "Episode aus der Katharinapolka um den \"Aushilfskellner Bruno\"." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557697" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557697",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Männer machen Fehler. Geschichten der Windrose", "level":3 },
-    { "'title":"Becher, Ulrich: Katharinapolka", "level":4 }
-  ]
+  "key": "CH-000015-0-1557697"
 }

@@ -1,24 +1,21 @@
 {
-  "date": "22. Februar 1988",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-SCHA-2",
-  "holding_institution": "SLA",
-  "title": "Schauspielhaus Zürich an Becher, Ulrich; Korrespondenz, Zürich;\nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Zürich;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Rüedi, Peter (1943-)" ],
+  "lang": [  ],
+  "date": [ "22. Februar 1988" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-SCHA-2",
+  "title": "Schauspielhaus Zürich an Becher, Ulrich; Korrespondenz, Zürich;\nBasel",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1016031920" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1643306" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1643306",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Schauspielhaus Zürich an Becher, Ulrich; Korrespondenz, Zürich",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1643306"
 }

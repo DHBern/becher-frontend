@@ -1,23 +1,23 @@
 {
-  "date": "9. September 1986 bis 17. Dezember 1987",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-3-a-3",
-  "holding_institution": "SLA",
-  "title": "Zu Alexander Roda Rodas Nachlass; Korrespondenz, Basel;\nWien",
+  "ext": [ "7 Briefe, maschinenschriftlich, 10 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel;\nWien" ],
+  "ext_num": 0,
+  "creator": [
+    "Schulenburg, Ulrich N. (1941-)",
+    "Tuich-Teuchmann, Maria (20. Jh.)",
+    "Zink, Helmut (20. Jh.)"
+  ],
+  "lang": [  ],
+  "date": [ "9. September 1986 bis 17. Dezember 1987" ],
+  "encl": [ "1 Visitenkarte" ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-3-a-3",
+  "title": "Zu Alexander Roda Rodas Nachlass; Korrespondenz, Basel;\nWien",
+  "content": [ "Korrespondenz zwischen Busek, Erhard; Roda Becher, Dana; Obermaier, Walter; Thomas Sessler Verlag GmbH; Tuich-Teuchmann, Maria; Zink, Helmut" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/132621185" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565540" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565540",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Unterlagen zu Alexander Roda Roda", "level":4 },
-    { "'title":"Dokumente über Alexander Roda Rodas Leben und Werk", "level":5 }
-  ]
+  "key": "CH-000015-0-1565540"
 }

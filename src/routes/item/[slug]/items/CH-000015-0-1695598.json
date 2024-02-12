@@ -1,24 +1,21 @@
 {
-  "date": "11. April 1988",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-ZEPP-BECHD-86",
-  "holding_institution": "SLA",
-  "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, Surfers Paradise (Gold Coast);\nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Surfers Paradise (Gold Coast);\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Zeppelin, Lisa von (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "11. April 1988" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ZEPP-BECHD-86",
+  "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, Surfers Paradise (Gold Coast);\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695598" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695598",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, Barcelona;\nShanghai;\nYokohama;\nTokio;\nManila;\nBuenos Aires;\nNew York;\nMexiko-Stadt;\nSurfers Paradise;\n Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1695598"
 }

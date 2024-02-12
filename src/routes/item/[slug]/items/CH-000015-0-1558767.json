@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Essays und Reden",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-6-a-28-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Streiflichter. In Memoriam Hohner-Baby",
+  "ext": [ "Fotokopie, 3 Blatt, handschriftliche Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Druckfahnen" ],
+  "signature": "SLA-UB-A-6-a-28-3",
+  "title": "Becher, Ulrich: Streiflichter. In Memoriam Hohner-Baby",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558767" },
+  "type": "work",
   "category": 10600,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558767",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Essays und Reden", "level":2 },
-    { "'title":"Artikel und Essays", "level":3 },
-    { "'title":"Becher, Ulrich: Streiflichter. In Memoriam Hohner-Baby", "level":4 }
-  ]
+  "key": "CH-000015-0-1558767"
 }

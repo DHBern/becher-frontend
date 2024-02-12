@@ -1,24 +1,21 @@
 {
-  "date": "11. September 1957",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-STAIG-BECHD-2",
-  "holding_institution": "SLA",
-  "title": "Staiger, Amy an Becher, Dana; Korrespondenz, Venedig",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Venedig" ],
+  "ext_num": 0,
+  "creator": [ "Staiger, Amy (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "11. September 1957" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-STAIG-BECHD-2",
+  "title": "Staiger, Amy an Becher, Dana; Korrespondenz, Venedig",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693455" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1693455",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Staiger, Amy an Becher, Dana.; Korrespondenz, Paris;\nCapri;\nMarbella",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1693455"
 }

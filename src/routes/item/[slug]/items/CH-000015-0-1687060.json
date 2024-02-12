@@ -1,21 +1,21 @@
 {
-  "date": "s.d.",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-MUSCHG-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Muschg, Walter an Becher, Dana; Korrespondenz, ohne Ort",
+  "ext": [ "1 Karte" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "ohne Ort" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MUSCHG-BECHD-1",
+  "title": "Muschg, Walter an Becher, Dana; Korrespondenz, ohne Ort",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1687060" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1687060",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Muschg, Walter an Becher, Dana; Korrespondenz, Basel", "level":3 }
-  ]
+  "key": "CH-000015-0-1687060"
 }

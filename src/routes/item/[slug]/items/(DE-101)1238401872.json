@@ -1,20 +1,22 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Selbstständige Belegexemplare",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Konvolut von Zeitungsausschnitten u. Ä. mit Beiträgen über Ulrich Becher, Samba",
+  "ext": [ "circa 169 Einheiten Druck, teilweise Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.04.0032",
+  "title": "Konvolut von Zeitungsausschnitten u. Ä. mit Beiträgen über Ulrich Becher, Samba",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1238401872",
     "gnd": "https:\/\/d-nb.info\/1238401872"
   },
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Series",
-  "key": "(DE-101)1238401872",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "(DE-101)1238401872"
 }

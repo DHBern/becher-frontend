@@ -1,22 +1,19 @@
 {
-  "date": "1950",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-1-g",
-  "holding_institution": "SLA",
-  "title": "Schramm, Ruth: Fotografien von Ulrich Becher, München",
+  "ext": [ "5 Fotografien, s\/w, div. Formate, 5 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "München" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1950" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-4-b-1-g",
+  "title": "Schramm, Ruth: Fotografien von Ulrich Becher, München",
+  "content": [ "Abgebildet: Becher, Ulrich" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565827" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565827",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Professionelle (Portrait-)Fotografien von Ulrich Becher", "level":4 }
-  ]
+  "key": "CH-000015-0-1565827"
 }

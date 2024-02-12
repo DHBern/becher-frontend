@@ -1,23 +1,22 @@
 {
-  "date": "1913 bis 1915",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-b-2-d-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Richard: Für Elise Becher",
+  "ext": [ "4 Gedicht, handschriftlich, 6 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Richard (1875-1956)" ],
+  "lang": [  ],
+  "date": [ "1913 bis 1915" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Vermerk auf Faszikelmappe: Geburtstagsgediht für seine Frau, wahrscheinlich von Uli vorgetragen 1915;",
+    "[Datierung] 1 Gedicht ist undatiert, auf einem steht \"Uly 3.5 Jahr\" heisst 1913"
+  ],
+  "signature": "SLA-UB-C-3-b-2-d-1",
+  "title": "Becher, Richard: Für Elise Becher",
+  "content": [ "4 Gedichte an \"Mutti\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1561550" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1561550",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Richard (Vater)", "level":3 },
-    { "'title":"Manuskripte und Typoskripte", "level":4 },
-    { "'title":"Von und für Becher, Richard: Gewidmete Gedichte", "level":5 }
-  ]
+  "key": "CH-000015-0-1561550"
 }

@@ -1,22 +1,19 @@
 {
-  "date": "1987",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-2-a",
-  "holding_institution": "SLA",
-  "title": "Roda-Becher, Dana: Buch, schwarz-rot, mit Adressen, Termine, Notizen, Basel",
+  "ext": [ "1 Buch, gebunden, ca. 300 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1987" ],
+  "encl": [ "1 Kleeblatt, 4- blättrig" ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-2-a",
+  "title": "Roda-Becher, Dana: Buch, schwarz-rot, mit Adressen, Termine, Notizen, Basel",
+  "content": [ "Buch mit Adressen, Terminen und persönlichen Notizen" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564874" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564874",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Roda-Becher, Dana: Notizen und Manuskripte", "level":4 }
-  ]
+  "key": "CH-000015-0-1564874"
 }

@@ -1,21 +1,22 @@
 {
-  "date": "1974",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-a-20",
-  "holding_institution": "SLA",
-  "title": "Biene gib mir Honig",
+  "ext": [ "5 Zeitungsartikel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1974" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-a-20",
+  "title": "Biene gib mir Honig",
+  "content": [
+    "Kritiken der Uraufführung u.d. Regie v. Emil Stöhr im Stadttheater Bern, 1974",
+    "Ankündigungen und Kritiken der Fernsehaufzeichnung der Uraufführung"
+  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537572" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1537572",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Rezensionen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537572"
 }

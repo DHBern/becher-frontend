@@ -1,22 +1,19 @@
 {
-  "date": "1987",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-2-b",
-  "holding_institution": "SLA",
-  "title": "Roda-Becher, Dana: Ringbuch, grün, Basel",
+  "ext": [ "1 Buch, handschriftlich, ca 90 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1987" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-2-b",
+  "title": "Roda-Becher, Dana: Ringbuch, grün, Basel",
+  "content": [ "Buch mit nur 1 beschriebenen Seite" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564875" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564875",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Roda-Becher, Dana: Notizen und Manuskripte", "level":4 }
-  ]
+  "key": "CH-000015-0-1564875"
 }

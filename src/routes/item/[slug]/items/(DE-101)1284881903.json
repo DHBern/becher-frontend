@@ -1,20 +1,24 @@
 {
-  "date": "1943",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086", "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Rolf Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.04.0087",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Elise Becher-Ulrich", "Richard Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215371292" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284881903",
     "gnd": "https:\/\/d-nb.info\/1284881903"
   },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284881903",
-  "levels": [  ]
+  "key": "(DE-101)1284881903"
 }

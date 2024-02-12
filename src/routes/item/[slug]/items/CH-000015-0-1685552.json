@@ -1,21 +1,21 @@
 {
-  "date": "20. Februar 1964",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-KLUGE-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Kluge, Monika an Becher, Dana; Korrespondenz, Leipzig",
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig" ],
+  "ext_num": 0,
+  "creator": [ "Kluge, Monika (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "20. Februar 1964" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-KLUGE-BECHD-1",
+  "title": "Kluge, Monika an Becher, Dana; Korrespondenz, Leipzig",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685552" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685552",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Kluge, Monika an Becher, Dana; Korrespondenz, Leipzig", "level":3 }
-  ]
+  "key": "CH-000015-0-1685552"
 }

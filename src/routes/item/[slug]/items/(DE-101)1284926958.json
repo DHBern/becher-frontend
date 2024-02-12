@@ -1,20 +1,22 @@
 {
-  "date": "1950",
-  "ext": 0,
-  "category_local_name": "Selbstständige Belegexemplare",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Du, die sich nicht ... [Incipit, Gedicht aus der Kinderzeit]",
+  "ext": [ "1 Blatt handschriftlich. Mit Umschlag mit Notiz von Ulrich Becher" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Martin Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1950" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.03.0003",
+  "title": "Du, die sich nicht ... [Incipit, Gedicht aus der Kinderzeit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284926958",
     "gnd": "https:\/\/d-nb.info\/1284926958"
   },
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284926958",
-  "levels": [  ]
+  "type": "lifeDoc",
+  "category": 303,
+  "key": "(DE-101)1284926958"
 }

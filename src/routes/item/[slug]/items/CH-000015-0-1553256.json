@@ -1,21 +1,21 @@
 {
-  "date": "15. April 1935",
-  "ext": 2,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/10d63f16-1e64-4d89-916a-b6ec940313c8\/",
-  "signature": "SLA-UB-B-1-BECH-134",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Lussingrande",
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086", "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-134_01.tif\/info.json",
-  "prototype": true,
+  "place": [ "Lussingrande" ],
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "15. April 1935" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-134",
+  "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Lussingrande",
+  "content": [  ],
+  "recipient": [ "Becher-Ulrich, Elise (1881-1973)", "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553256" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1553256",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1553256"
 }

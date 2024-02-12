@@ -1,20 +1,22 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Der Bockerer\" - \"ein Festabend des Wiener Theaters",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag. Mit Korrektur" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0051",
+  "title": "Der Bockerer\" - \"ein Festabend des Wiener Theaters",
+  "content": [  ],
+  "creator_uri": [ "" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284947874",
     "gnd": "https:\/\/d-nb.info\/1284947874"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284947874",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284947874"
 }

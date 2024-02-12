@@ -1,24 +1,21 @@
 {
-  "date": "Januar 1948",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-GRO-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Grosz, George; Korrespondenz, o.O.",
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118542672" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "o.O." ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "Januar 1948" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-GRO-3",
+  "title": "Becher, Ulrich an Grosz, George; Korrespondenz, o.O.",
+  "content": [ "Vorderseite und Hälfte der Rückseite Zhe pörfekt Bullschitters – Martin (The Sheik) Grosz nachempfunden: 1. Bulsch: ein weltbekannter Künstler (Grosz), 2. Bulsch: Ein quasi unbekannter Frylänz-Reiter (B.) „Kunst ist Scheiße“ – Die Schweizer und ihre Regenschirmanspitzerfabrik." ],
+  "recipient": [ "Grosz, George (1893-1959)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586189" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1586189",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    {
-      "'title": "Becher, Ulrich an Grosz, George; Korrespondenz, [New York?]; Zürich",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1586189"
 }

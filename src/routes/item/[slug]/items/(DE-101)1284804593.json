@@ -1,20 +1,27 @@
 {
-  "date": "1962",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "3 Blatt handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1236615867" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1962" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Regina-Palast-Hotel, München",
+    "Vorliegende Namensform Adressat: Lieber Herr Busch"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0357",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Kurt Busch" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284804593",
     "gnd": "https:\/\/d-nb.info\/1284804593"
   },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284804593",
-  "levels": [  ]
+  "key": "(DE-101)1284804593"
 }

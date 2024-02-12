@@ -1,22 +1,19 @@
 {
-  "date": "1960",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-1-d",
-  "holding_institution": "SLA",
-  "title": "Kössler, Michael: Portraits von Ulrich Becher, Wien",
+  "ext": [ "2 Fotografien, s\/w, div. Formate, davon 1 geklebt, 2 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-4-b-1-d",
+  "title": "Kössler, Michael: Portraits von Ulrich Becher, Wien",
+  "content": [ "Abgebildet: Becher, Ulrich" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565830" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565830",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Professionelle (Portrait-)Fotografien von Ulrich Becher", "level":4 }
-  ]
+  "key": "CH-000015-0-1565830"
 }

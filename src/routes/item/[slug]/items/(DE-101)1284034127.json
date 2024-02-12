@@ -1,20 +1,24 @@
 {
-  "date": "1953",
-  "ext": 3,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b82b0922-3f6c-4426-9a1a-ea33e9fd2e57\/",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Postkarte",
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284034127_00000010.tif\/info.json",
-  "prototype": true,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.01.0104",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284034127",
     "gnd": "https:\/\/d-nb.info\/1284034127"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284034127",
-  "levels": [  ]
+  "key": "(DE-101)1284034127"
 }

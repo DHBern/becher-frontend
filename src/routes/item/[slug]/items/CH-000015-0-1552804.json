@@ -1,21 +1,19 @@
 {
-  "date": "4. Oktober 1935 bis 6. Dezember 1982",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-d-3",
-  "holding_institution": "SLA",
-  "title": "Diverse Rechnungen, Basel; Berlin; Weimar; Wien; Zürich",
+  "ext": [ "6 Rechnungen, handschriftlich und maschinenschriftlich, 6 Blatt; Notiz, handschriftlich, 2 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel; Berlin; Weimar; Wien; Zürich" ],
+  "ext_num": 0,
+  "creator": [ "Kuhn, H. P. (Dr. med. dent.)" ],
+  "lang": [  ],
+  "date": [ "4. Oktober 1935 bis 6. Dezember 1982" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-1-d-3",
+  "title": "Diverse Rechnungen, Basel; Berlin; Weimar; Wien; Zürich",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552804" },
-  "category": 3099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1552804",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Finanzielles", "level":3 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1552804"
 }

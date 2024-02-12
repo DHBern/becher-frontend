@@ -1,22 +1,17 @@
 {
-  "date": "1954",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-22-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Die Kleinen",
+  "ext": [ "1 Blatt DinA4" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1954" ],
+  "note": [ "[Bemerkung] Blauer Kugelschreiber auf Durchschlagpapier, 9 Figuren mit jeweiliger Rollenbezeichnung" ],
+  "signature": "SLA-UB-A-8-a-22-1",
+  "title": "Becher, Ulrich: Die Kleinen",
+  "content": [ "Figurenkatalog des Theaterstücks Die Kleinen und die Grossen" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558887" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558887",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Die Kleinen", "level":4 }
-  ]
+  "key": "CH-000015-0-1558887"
 }

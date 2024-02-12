@@ -1,22 +1,19 @@
 {
-  "date": "1935 bis 2009",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-5-c",
-  "holding_institution": "SLA",
-  "title": "Fotografie der Becher-Skulptur von Leo Österle",
+  "ext": [ "2 Fotografien, s\/w, ca 18x13 cm, 2 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1935 bis 2009" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-4-b-5-c",
+  "title": "Fotografie der Becher-Skulptur von Leo Österle",
+  "content": [ "Fotografie einer Skulptur von Leo Österle, die Ulrich Becher zeigt" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565854" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565854",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien und Reprografien von Kunst", "level":4 }
-  ]
+  "key": "CH-000015-0-1565854"
 }

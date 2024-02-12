@@ -1,20 +1,23 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Kleine Manuskripte und Typoskripte",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Marseille, ... fast ein Mord",
+  "ext": [ "2 Blatt maschinenschriftlich. Mit Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Fragment?",
+    "Ursprünglicher, gestrichener Titel des Archivales lautet: Fast ein Mord in Marseille"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0134",
+  "title": "Marseille, ... fast ein Mord",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283983729",
     "gnd": "https:\/\/d-nb.info\/1283983729"
   },
+  "type": "work",
   "category": 1099095,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283983729",
-  "levels": [  ]
+  "key": "(DE-101)1283983729"
 }

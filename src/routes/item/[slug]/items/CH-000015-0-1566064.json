@@ -1,20 +1,22 @@
 {
-  "date": "1930 bis 1980",
-  "ext": 0,
-  "category_local_name": "Sonstiges",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-6-e",
-  "holding_institution": "SLA",
-  "title": "Umschläge",
+  "ext": [ "28 Mappen\/Umschläge" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1930 bis 1980" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Weitere Mappen finden sich bei den jeweiligen Werken",
+    "[Datierung] grob geschätzt"
+  ],
+  "signature": "SLA-UB-D-6-e",
+  "title": "Umschläge",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566064" },
+  "type": "collItem",
   "category": 4099096,
-  "entry_type": "file",
-  "key": "CH-000015-0-1566064",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sonstiges", "level":2 }
-  ]
+  "key": "CH-000015-0-1566064"
 }

@@ -1,21 +1,21 @@
 {
-  "date": "19. September 1938",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-ALL-5",
-  "holding_institution": "SLA",
-  "title": "Allert de Lange an Becher, Ulrich; Korrespondenz, Amsterdam;\nSt. Moritz",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Amsterdam;\nSt. Moritz" ],
+  "ext_num": 0,
+  "creator": [ "Landauer, Walter (1902-1944)" ],
+  "lang": [  ],
+  "date": [ "19. September 1938" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-ALL-5",
+  "title": "Allert de Lange an Becher, Ulrich; Korrespondenz, Amsterdam;\nSt. Moritz",
+  "content": [ "Rückmeldung auf Zusendung von Teilen des Manuskripts und auf Bedenken bezüglich des Preisausschreibens" ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11667198X" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587677" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1587677",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    { "'title":"Allert de Lange an Becher, Ulrich; Korrespondenz, Amsterdam", "level":3 }
-  ]
+  "key": "CH-000015-0-1587677"
 }

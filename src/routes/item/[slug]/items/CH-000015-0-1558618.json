@@ -1,25 +1,17 @@
 {
-  "date": "1954",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-4-g-1-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Mademoiselle Löwenzorn",
+  "ext": [ "Manuskript, 12 Blatt, Handschrift Ulrich Becher + 1 beschriebener Briefumschlag" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1954" ],
+  "note": [ "[Bemerkung] Schwarze Tinte, Blaustift, Kugelschreiber, Bleistift; Notizenhafte Aufzeichnungen Briefumschlag vom 19.2.1954 von Heinrich Koch, Hamburg" ],
+  "signature": "SLA-UB-A-4-g-1-1",
+  "title": "Becher, Ulrich: Mademoiselle Löwenzorn",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558618" },
+  "type": "work",
   "category": 10400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558618",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Dramen", "level":2 },
-    { "'title":"Mademoiselle Löwenzorn. Fatale Komödie in drei Akten", "level":3 },
-    {
-      "'title": "Becher, Ulrich: Mademoiselle Löwenzorn. Manuskripte und Entwürfe",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1558618"
 }

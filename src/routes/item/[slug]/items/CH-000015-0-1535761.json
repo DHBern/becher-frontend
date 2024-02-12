@@ -1,22 +1,19 @@
 {
-  "date": "1960",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-a-31-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Streit auf der Piazza.Akzente. Zeitschrift für Dichtung",
+  "ext": [ "" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Sonderdruck aus Heft 2\/1960" ],
+  "signature": "SLA-UB-D-1-a-31-a",
+  "title": "Becher, Ulrich: Streit auf der Piazza.Akzente. Zeitschrift für Dichtung",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535761" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535761",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Erzählungen", "level":3 },
-    { "'title":"Becher, Ulrich: Streit auf der Piazza", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535761"
 }

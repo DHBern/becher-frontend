@@ -1,24 +1,21 @@
 {
-  "date": "27. November 1944",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-BECHD-BECH-06",
-  "holding_institution": "SLA",
-  "title": "Becher, Dana an Becher, Richard und Elise; Korrespondenz, New York",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "New York" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "27. November 1944" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BECHD-BECH-06",
+  "title": "Becher, Dana an Becher, Richard und Elise; Korrespondenz, New York",
+  "content": [  ],
+  "recipient": [ "Becher, Richard (1875-1956)", "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1675527" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1675527",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Becher, Dana an Becher, Richard und Elise; Korrespondenz, Paris;\nBern;\nZuoz;\nSão Paulo;\nNew York;\nBasel;\nNizza",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1675527"
 }

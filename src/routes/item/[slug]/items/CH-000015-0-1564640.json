@@ -1,22 +1,19 @@
 {
-  "date": "1936 bis 1965",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-c-2-a",
-  "holding_institution": "SLA",
-  "title": "Becher-Ulrich, Elise: Quartheft, grün, Muschg, Realismus [...], Basel (vermutlich)",
+  "ext": [ "1 Quartheft, grün, handschriftlich, ca. 60 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel (vermutlich)" ],
+  "ext_num": 0,
+  "creator": [ "Becher-Ulrich, Elise (1881-1973)" ],
+  "lang": [  ],
+  "date": [ "1936 bis 1965" ],
+  "encl": [  ],
+  "note": [ "[Datierung] In dieser Zeit lehrte Muschg in Basel" ],
+  "signature": "SLA-UB-C-3-c-2-a",
+  "title": "Becher-Ulrich, Elise: Quartheft, grün, Muschg, Realismus [...], Basel (vermutlich)",
+  "content": [ "Vorlesungsmitschriften, im vorderen Teil Seiten rausgeschnitten" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564640" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564640",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher-Ulrich, Elise (Mutter)", "level":3 },
-    { "'title":"Notizen", "level":4 }
-  ]
+  "key": "CH-000015-0-1564640"
 }

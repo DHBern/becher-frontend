@@ -1,22 +1,17 @@
 {
-  "date": "1971",
-  "ext": 2,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/8c193762-3b7a-4d35-b183-3d600b44ba63\/",
-  "signature": "SLA-UB-A-1-e-2-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Miniplay X. v. Y.",
+  "ext": [ "Typoskript Durchschlag, 2 Blatt, vollständig, paginiert, mit maschinellen Ergänzungen" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-2-1_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1971" ],
+  "note": [ "[Biblio] Am 27.3.1971 veröffentlicht in der Frankfurter Rundschau unter dem Titel Miniplay X. v. Y. Ein Traum für Sigmund Freud" ],
+  "signature": "SLA-UB-A-1-e-2-1",
+  "title": "Becher, Ulrich: Miniplay X. v. Y.",
+  "content": [ "Ein Spielmacher (identifizierbar mit Ödön von Horváth) erzählt von seinem Traum, indem er \"untüchtiger Handlungsreisender\" und \"Vertreter von Juxartikel\" war." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557726" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557726",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Vom Unzulänglichen der Wirklichkeit", "level":3 },
-    { "'title":"Becher, Ulrich: Miniplay X. v. Y.", "level":4 }
-  ]
+  "key": "CH-000015-0-1557726"
 }

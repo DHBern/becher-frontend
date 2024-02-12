@@ -1,22 +1,19 @@
 {
-  "date": "1950 bis 1980",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-e-2-b",
-  "holding_institution": "SLA",
-  "title": "Becher, Martin Roda: In der Nacht, in der Nacht [...]",
+  "ext": [ "Typoskript, maschinenschriftlich mit handschriftlicher Ergänzung (von Dana Roda Bechers Hand), 1 Seite" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Martin Roda (1944-)" ],
+  "lang": [  ],
+  "date": [ "1950 bis 1980" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-3-e-2-b",
+  "title": "Becher, Martin Roda: In der Nacht, in der Nacht [...]",
+  "content": [ "Erzählung" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565624" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1565624",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Martin Roda (Sohn)", "level":3 },
-    { "'title":"Typoskripte, Texte, Fragmente", "level":4 }
-  ]
+  "key": "CH-000015-0-1565624"
 }

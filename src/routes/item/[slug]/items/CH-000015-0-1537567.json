@@ -1,21 +1,19 @@
 {
-  "date": "Juli 1958",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-a-19",
-  "holding_institution": "SLA",
-  "title": "Der Herr kommt aus Bahia",
+  "ext": [ "ca. 89 Zeitungsausschnitte und -artikel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "Juli 1958" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-a-19",
+  "title": "Der Herr kommt aus Bahia",
+  "content": [ "Ankündigungen und Kritiken der Uraufführung u.d. Regie v. Hein Hilpert im Deutschen Theater Göttingen, 1958" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537567" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1537567",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Rezensionen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537567"
 }

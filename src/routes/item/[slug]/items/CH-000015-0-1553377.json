@@ -1,22 +1,19 @@
 {
-  "date": "5. Januar 1961",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-c-3-c",
-  "holding_institution": "SLA",
-  "title": "Fahrkarte Wien - Salzburg, Salzburg; Wien",
+  "ext": [ "1 Blatt, maschinenschriftlich und handschriftlich" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "5. Januar 1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-1-c-3-c",
+  "title": "Fahrkarte Wien - Salzburg, Salzburg; Wien",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553377" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1553377",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Diverse persönliche Dokumente", "level":3 },
-    { "'title":"Reise- und Emigrationsunterlagen", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1553377"
 }

@@ -1,21 +1,19 @@
 {
-  "date": "1964 bis 1965",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-c-12",
-  "holding_institution": "SLA",
-  "title": "Stadttheater Luzern. Samba, Luzern",
+  "ext": [ "2 Programmhefte + 2 Kopien" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1964 bis 1965" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-c-12",
+  "title": "Stadttheater Luzern. Samba, Luzern",
+  "content": [ "Ankündigung \"Samba\"" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1539352" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1539352",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Programmhefte, Theaterprospekte und Verlagsvorschauen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1539352"
 }

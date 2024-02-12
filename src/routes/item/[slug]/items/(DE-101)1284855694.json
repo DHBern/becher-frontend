@@ -1,20 +1,24 @@
 {
-  "date": "1941",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Euer altes Zobel" ],
+  "signature": "DEA-B-3-1-0017.B.04.0010",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Alexander Roda Roda", "Elsbeth Roda Roda" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284855694",
     "gnd": "https:\/\/d-nb.info\/1284855694"
   },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284855694",
-  "levels": [  ]
+  "key": "(DE-101)1284855694"
 }

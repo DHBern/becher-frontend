@@ -1,20 +1,19 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Sonstiges",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-6-c",
-  "holding_institution": "SLA",
-  "title": "Expres Horoskop: Graphisches Gutachten",
+  "ext": [ "1 Blatt, handschriftlich" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-6-c",
+  "title": "Expres Horoskop: Graphisches Gutachten",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566061" },
+  "type": "collItem",
   "category": 4099096,
-  "entry_type": "file",
-  "key": "CH-000015-0-1566061",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sonstiges", "level":2 }
-  ]
+  "key": "CH-000015-0-1566061"
 }

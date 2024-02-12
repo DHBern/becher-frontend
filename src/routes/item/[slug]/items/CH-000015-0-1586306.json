@@ -1,21 +1,21 @@
 {
-  "date": "15. Juni 1966",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-LED-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Ledig-Rowohlt, Heinz; Korrespondenz, Basel",
+  "ext": [ "2 Briefe, masch. Dg., unvollst." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118570757" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "15. Juni 1966" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-LED-3",
+  "title": "Becher, Ulrich an Ledig-Rowohlt, Heinz; Korrespondenz, Basel",
+  "content": [ "\"Kurz nach 4\" Erfolg in Polen, Gesundheit" ],
+  "recipient": [ "Ledig-Rowohlt, Heinrich Maria (1908-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586306" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1586306",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Ledig-Rowohlt, Heinz; Korrespondenz, Basel", "level":3 }
-  ]
+  "key": "CH-000015-0-1586306"
 }

@@ -1,22 +1,19 @@
 {
-  "date": "2. Januar 1910 bis 2. Januar 1911",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-c-1-a",
-  "holding_institution": "SLA",
-  "title": "Köpp, Arthur: Merkblatt für Mütter und Pflegemütter, Leipzig",
+  "ext": [ "1 Heft, maschinenschriftlich mit handschriftlichen Einträgen, Kartonumschlag, circa 18 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig" ],
+  "ext_num": 0,
+  "creator": [ "Köpp, Arthur" ],
+  "lang": [  ],
+  "date": [ "2. Januar 1910 bis 2. Januar 1911" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-1-c-1-a",
+  "title": "Köpp, Arthur: Merkblatt für Mütter und Pflegemütter, Leipzig",
+  "content": [ "Dokumentationsjournal zur wöchentlichen Eintragung des Gewichtes des Kindes" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1523920" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1523920",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Diverse persönliche Dokumente", "level":3 },
-    { "'title":"Zur Geburt", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1523920"
 }

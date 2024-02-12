@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-48-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Madame de Kruif (Fragment)",
+  "ext": [ "Typoskript, 2 Blatt, unvollständig, mit handschriftlichen Ergänzungen, fragmentiert" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Totenkopfbild, das von Nahem betrachtet aus nackten Mädchenbeinen besteht -> entspr. dem Vexierbild, das in Murmeljagd das Turmzimmer von \"Grosspapa\" Henrique Kujath ziert; Figur des Marianek in einem Brief an die Eltern (25.2.1942) erwähnt (Jaroslew Marianek, Mitglied der Gruppe \"Görgen\"\neventuell eine Erzählung\/Vorstufe des Theaterstücks Samba" ],
+  "signature": "SLA-UB-A-1-f-48-2",
+  "title": "Becher, Ulrich: Madame de Kruif (Fragment)",
+  "content": [ "Verschiedene Flucht-Schicksale (Portugal\/Spanien nach Brasilien): Madame de Kruif, Schikaneder, Natalia, Juan, Parisius, Adamek wird nicht an Land gelassen, stürzt sich herunter und bricht sich das Genick" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557889" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557889",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Madame de Kruif", "level":4 }
-  ]
+  "key": "CH-000015-0-1557889"
 }

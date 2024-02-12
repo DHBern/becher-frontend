@@ -1,22 +1,17 @@
 {
-  "date": "1970 bis 1990",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-g-1-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Hades-Telefonate: Schluss Hadesgespräche",
+  "ext": [ "Manuskript, 15 Blatt Kopierbuch (restl. Blatt unbeschrieben), paginiert + 15 Blatt Kopierblätter Handschrift Dana" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1970 bis 1990" ],
+  "note": [ "[Datierung] grob geschätzt" ],
+  "signature": "SLA-UB-A-1-g-1-3",
+  "title": "Becher, Ulrich: Hades-Telefonate: Schluss Hadesgespräche",
+  "content": [ "Erhalt des Parte-Zettels Franz Futterknechts Tod durch Wotrubas Assistenten Franz Hilkesberger. Mitte August 1975 ruft Becher Wotruba an, um den gemeinsamen Venedig-Urlaub zu planen, aber anstelle des Bildhauers ist nur das Krächzen der Hausdohle am anderen Ende der Leitung zu vernehmen. Kurz darauf liest Dana von Wotrubas plötzlichem Tod in der Zeitung. 1976 Antreffen des Wotruba-Schülers Hans Kuckelhauser in Wien, der bestätigt, dass Koko auf Bechers Anruf nach Wotrubas Tod geantwortet haben muss, da er nach der Beerdigung den Hörer abgehoben vorfand." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557969" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557969",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Hades-Telefonate", "level":3 },
-    { "'title":"Becher, Ulrich: Hades-Telefonate: Kopierbücher und -blätter", "level":4 }
-  ]
+  "key": "CH-000015-0-1557969"
 }

@@ -1,20 +1,24 @@
 {
-  "date": "1962",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Postkarte",
+  "ext": [ "1 Karte maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von B. Waehlert" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1962" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Süddeutsche Zeitung, Redaktion" ],
+  "signature": "DEA-B-3-1-0017.B.01.3399",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284710106",
     "gnd": "https:\/\/d-nb.info\/1284710106"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284710106",
-  "levels": [  ]
+  "key": "(DE-101)1284710106"
 }

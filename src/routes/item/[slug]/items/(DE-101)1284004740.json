@@ -1,20 +1,20 @@
 {
-  "date": "1977",
-  "ext": 0,
-  "category_local_name": "Notizbücher",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Notizbuch zum Text Hades-Telefonate",
+  "ext": [ "1 Band (47 Blatt) handschriftlich" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1977" ],
+  "note": [ "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten" ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0019",
+  "title": "Notizbuch zum Text Hades-Telefonate",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284004740",
     "gnd": "https:\/\/d-nb.info\/1284004740"
   },
+  "type": "work",
   "category": 10700,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284004740",
-  "levels": [  ]
+  "key": "(DE-101)1284004740"
 }

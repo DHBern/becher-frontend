@@ -1,21 +1,21 @@
 {
-  "date": "2. Juni 1965",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-PERL-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Perl, ? an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "ext": [ "1 Karte" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "2. Juni 1965" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-PERL-BECHD-1",
+  "title": "Perl, ? an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1687143" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1687143",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Perl, ? an Becher, Dana; Korrespondenz, Wien", "level":3 }
-  ]
+  "key": "CH-000015-0-1687143"
 }

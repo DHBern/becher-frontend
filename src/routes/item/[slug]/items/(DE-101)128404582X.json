@@ -1,20 +1,24 @@
 {
-  "date": "1962",
-  "ext": 5,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/cd01af24-2154-47c3-a325-3af1740ac370\/",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 gefaltetes Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128404582X_00000010.tif\/info.json",
-  "prototype": true,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 4,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1962" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Grand Hotel Vereina, Klosters (Suisse)" ],
+  "signature": "DEA-B-3-1-0017.B.01.0120",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128404582X",
     "gnd": "https:\/\/d-nb.info\/128404582X"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)128404582X",
-  "levels": [  ]
+  "key": "(DE-101)128404582X"
 }

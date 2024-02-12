@@ -1,21 +1,19 @@
 {
-  "date": "1989 bis 1990",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-c-19",
-  "holding_institution": "SLA",
-  "title": "Lenos-Verlag. Verlagswerbung, Basel",
+  "ext": [ "3 Verlagspropsekte" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1989 bis 1990" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-c-19",
+  "title": "Lenos-Verlag. Verlagswerbung, Basel",
+  "content": [ "Gesamtverzeichnis 1990 (mit: Flaschenpost, Das Profil, Vom Unzulänglichen der Wirklichkeit), Verlagswerbung 1989 (Flaschenpost), Die neuen Bücher Herbst 1989 (Flaschenpost)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1539355" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1539355",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Programmhefte, Theaterprospekte und Verlagsvorschauen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1539355"
 }

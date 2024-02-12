@@ -1,22 +1,17 @@
 {
-  "date": "1926",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-83-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Abschied am Bahnhof",
+  "ext": [ "1 Blatt, DinA3" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1926" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-8-a-83-1",
+  "title": "Becher, Ulrich: Abschied am Bahnhof",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1559012" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1559012",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Abschied am Bahnhof", "level":4 }
-  ]
+  "key": "CH-000015-0-1559012"
 }

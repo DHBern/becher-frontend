@@ -1,21 +1,19 @@
 {
-  "date": "8. Mai 1952",
-  "ext": 0,
-  "category_local_name": "Berufliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-2-a-09",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Entwurf Vollmacht für Mechnig, Elfriede, Basel",
+  "ext": [ "2 Typoskript Entwürfe, maschinenschriftlich mit handschriftlichen Notizen, 2 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "8. Mai 1952" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-2-a-09",
+  "title": "Becher, Ulrich: Entwurf Vollmacht für Mechnig, Elfriede, Basel",
+  "content": [ "Entwurf einer Vollmacht für Mechnig, Elfriede; Notiz auf Mappe: \"Ms. Löwenzorn im Hintergrund\"" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556854" },
+  "type": "lifeDoc",
   "category": 3099092,
-  "entry_type": "file",
-  "key": "CH-000015-0-1556854",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Berufliche Dokumente", "level":2 },
-    { "'title":"Verlagsverträge und Vollmachten", "level":3 }
-  ]
+  "key": "CH-000015-0-1556854"
 }

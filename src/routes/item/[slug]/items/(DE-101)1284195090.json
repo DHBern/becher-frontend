@@ -1,20 +1,24 @@
 {
-  "date": "1978",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Rolf A. Leemann" ],
+  "lang": [  ],
+  "date": [ "1978" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Rolf Leemann, Dept. of Comp. Lit., FLB 2070, University of Illinois, Urbana, Ill." ],
+  "signature": "DEA-B-3-1-0017.B.01.1010",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/114059611X" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284195090",
     "gnd": "https:\/\/d-nb.info\/1284195090"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284195090",
-  "levels": [  ]
+  "key": "(DE-101)1284195090"
 }

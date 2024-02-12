@@ -1,22 +1,17 @@
 {
-  "date": "1958",
-  "ext": 5,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1d4c3cc8-2897-4fcb-a780-0e61e66d4302\/",
-  "signature": "SLA-UB-A-1-a-7-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Schreck, Joachim: Männer machen Fehler. Nachwort",
+  "ext": [ "Typoskript Durchschlag, 5 Blatt, signiert" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-7-2_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 5,
+  "creator": [ "Schreck, Joachim" ],
+  "lang": [  ],
+  "date": [ "1958" ],
+  "note": [ "[Bemerkung] Nachwort einer späteren Auflage DDR" ],
+  "signature": "SLA-UB-A-1-a-7-2",
+  "title": "Becher, Ulrich: Schreck, Joachim: Männer machen Fehler. Nachwort",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557633" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557633",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Männer machen Fehler", "level":3 },
-    { "'title":"Becher, Ulrich: Männer machen Fehler. Après-Texte", "level":4 }
-  ]
+  "key": "CH-000015-0-1557633"
 }

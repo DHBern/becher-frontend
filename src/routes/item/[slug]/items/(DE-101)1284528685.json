@@ -1,20 +1,27 @@
 {
-  "date": "1970",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von A. Blatter. Verso: Brief von Ulrich Becher an Rowohlt, 17.01.1970, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Radio der Deutschen und der Rätoromanischen Schweiz. Radiostudio Basel" ],
+  "lang": [  ],
+  "date": [ "1970" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Radio der Deutschen und der Rätoromanischen Schweiz, Schweizerische Radio- und Fernsehgesellschaft, Studio Basel",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Studio Basel, Abteilung Wort, Montagsstudio"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.3112",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1090612397" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284528685",
     "gnd": "https:\/\/d-nb.info\/1284528685"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284528685",
-  "levels": [  ]
+  "key": "(DE-101)1284528685"
 }

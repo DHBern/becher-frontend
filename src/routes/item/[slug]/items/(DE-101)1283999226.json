@@ -1,20 +1,20 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Kleine Manuskripte und Typoskripte",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Wotrubas Dohle",
+  "ext": [ "9 Blatt = 3 Einheiten handschriftlich Durchschrift, von Dana Becher, und anderes" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragmente", "Betrifft: Walter Muschg; Fritz Wotruba" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0224",
+  "title": "Wotrubas Dohle",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283999226",
     "gnd": "https:\/\/d-nb.info\/1283999226"
   },
+  "type": "work",
   "category": 1099095,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283999226",
-  "levels": [  ]
+  "key": "(DE-101)1283999226"
 }

@@ -1,22 +1,19 @@
 {
-  "date": "1930 bis 1940",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-3-d",
-  "holding_institution": "SLA",
-  "title": "Fotografien von Becher, Rolf",
+  "ext": [ "2 Fotografien, s\/w, div. Formate, 2 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1930 bis 1940" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-4-b-3-d",
+  "title": "Fotografien von Becher, Rolf",
+  "content": [ "Abgebildet: Becher, Rolf; Becher, Gretli; Becher, Thomas; Fotografie von Rolf Becher; Fotografie von Gretli Becher und Sohn Thomas" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565837" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565837",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von der Familie", "level":4 }
-  ]
+  "key": "CH-000015-0-1565837"
 }

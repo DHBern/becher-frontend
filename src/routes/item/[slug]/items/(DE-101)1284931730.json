@@ -1,20 +1,22 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Das Rezept",
+  "ext": [ "7 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Miécio Askanasy" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0001",
+  "title": "Das Rezept",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/126142041" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284931730",
     "gnd": "https:\/\/d-nb.info\/1284931730"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284931730",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284931730"
 }

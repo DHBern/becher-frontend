@@ -1,22 +1,20 @@
 {
-  "date": "1936",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-b-5-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Hornrufe durch die Nacht. Erzählung aus den Pyrenäen. (2. Fassung)",
+  "ext": [ "Typoskript-Durchschlag, 12 Blatt, unpaginiert , wenige handschriftliche Korrekturen + Typoskript-Durchschlag, 11 Blatt, paginiert, wenige handschriftliche Korrekturen" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1936" ],
+  "note": [
+    "[Bemerkung] Auf dem Titelblatt Adresse hs. hinzugefügt: (Steinen bei Schwyz)",
+    "[Biblio] Becher, Ulrich: Die Eroberer. Geschichten aus Europa. Mit einem Vorwort von Ernst Glaeser. Verlag Oprecht: Zürich 1936, S. 215-228."
+  ],
+  "signature": "SLA-UB-A-1-b-5-2",
+  "title": "Becher, Ulrich: Hornrufe durch die Nacht. Erzählung aus den Pyrenäen. (2. Fassung)",
+  "content": [ "Geschichte von Karl dem Großen und seinem Roland." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557655" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557655",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Die Eroberer. Geschichten aus Europa", "level":3 },
-    { "'title":"Becher, Ulrich: Hornrufe durch die Nacht", "level":4 }
-  ]
+  "key": "CH-000015-0-1557655"
 }

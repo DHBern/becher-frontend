@@ -1,22 +1,19 @@
 {
-  "date": "22. August 1966",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-e-3-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Strafantrag gegen Nussbaumer, Arnold, Basel",
+  "ext": [ "3 Typoskripte, Durchschlag, maschinenschriftlich, davon 1 unvollständig, 5 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "22. August 1966" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Zum Tatbestand vom 19.08.1966" ],
+  "signature": "SLA-UB-C-1-e-3-a",
+  "title": "Becher, Ulrich: Strafantrag gegen Nussbaumer, Arnold, Basel",
+  "content": [ "Strafantrag, Aussage von Martin Becher, Schreiben zum Vorfall" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556786" },
-  "category": 3099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1556786",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Juristische Prozesse", "level":3 },
-    { "'title":"Becher, Ulrich: Schadenersatzklage gegen Nussbaumer, Arnold", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1556786"
 }

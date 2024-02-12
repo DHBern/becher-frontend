@@ -1,21 +1,21 @@
 {
-  "date": "8. Oktober 1986",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-VOT-1",
-  "holding_institution": "SLA",
-  "title": "Volkstheater Wien an Becher, Ulrich; Korrespondenz, Wien;\nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Blaha, Paul (1925-2002)" ],
+  "lang": [  ],
+  "date": [ "8. Oktober 1986" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-VOT-1",
+  "title": "Volkstheater Wien an Becher, Ulrich; Korrespondenz, Wien;\nBasel",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119442264" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1644298" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1644298",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    { "'title":"Volkstheater Wien an Becher, Ulrich; Korrespondenz, Wien", "level":3 }
-  ]
+  "key": "CH-000015-0-1644298"
 }

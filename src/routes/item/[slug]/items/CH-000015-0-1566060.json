@@ -1,20 +1,19 @@
 {
-  "date": "1909 bis 1990",
-  "ext": 0,
-  "category_local_name": "Sonstiges",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-6-b",
-  "holding_institution": "SLA",
-  "title": "Teil einer Krippe",
+  "ext": [ "1 Zeichnung auf Karton" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1909 bis 1990" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-6-b",
+  "title": "Teil einer Krippe",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566060" },
+  "type": "collItem",
   "category": 4099096,
-  "entry_type": "file",
-  "key": "CH-000015-0-1566060",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sonstiges", "level":2 }
-  ]
+  "key": "CH-000015-0-1566060"
 }

@@ -1,21 +1,19 @@
 {
-  "date": "4. Dezember 1936 bis 1950",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-a-01",
-  "holding_institution": "SLA",
-  "title": "Buch der Kritiken",
+  "ext": [ "1 Buch, Stoffeinband + einige lose Bl." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "4. Dezember 1936 bis 1950" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-a-01",
+  "title": "Buch der Kritiken",
+  "content": [ "Enthält eine Sammlung eingeklebter Zeitungsrezensionen und von Publikationen Bechers sowie Fotos und Besprechungen der Inszenierungen seiner Stücke." ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537305" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1537305",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Rezensionen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537305"
 }

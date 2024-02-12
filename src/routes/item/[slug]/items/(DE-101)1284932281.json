@@ -1,20 +1,22 @@
 {
-  "date": "1956",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Wesen und Funktion der Fabel, Handlung und der Charaktere in den Bühnenwerken Ulrich Bechers, Hausarbeit zur Abschlußprüfung [...]",
+  "ext": [ "III, 103 Blatt maschinenschriftlicher Durchschlag. Mit 1 Hefter" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Wolfgang Beck" ],
+  "lang": [  ],
+  "date": [ "1956" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0003",
+  "title": "Wesen und Funktion der Fabel, Handlung und der Charaktere in den Bühnenwerken Ulrich Bechers, Hausarbeit zur Abschlußprüfung [...]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1084346028" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284932281",
     "gnd": "https:\/\/d-nb.info\/1284932281"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284932281",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284932281"
 }

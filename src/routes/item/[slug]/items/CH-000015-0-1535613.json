@@ -1,22 +1,19 @@
 {
-  "date": "12. November 1939",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-a-06-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: In einer Pension. National-Zeitung, Basel",
+  "ext": [ "1 Bl." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "12. November 1939" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] In der Unterhaltungsbeilage der Basler National-Zeitung, 20. Jg., Nr.526" ],
+  "signature": "SLA-UB-D-1-a-06-a",
+  "title": "Becher, Ulrich: In einer Pension. National-Zeitung, Basel",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535613" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535613",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Erzählungen", "level":3 },
-    { "'title":"Becher, Ulrich: In einer Pension", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535613"
 }

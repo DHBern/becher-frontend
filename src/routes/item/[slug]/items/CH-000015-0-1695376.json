@@ -1,24 +1,21 @@
 {
-  "date": "1946",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-VOS-ROS-1",
-  "holding_institution": "SLA",
-  "title": "Volksstimme an Rosenberg, Wolfgang; Korrespondenz, St. Gallen;\nBasel",
+  "ext": [ "1 Brief, masch. Dg." ],
+  "recipient_uri": [  ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "St. Gallen;\nBasel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1946" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-VOS-ROS-1",
+  "title": "Volksstimme an Rosenberg, Wolfgang; Korrespondenz, St. Gallen;\nBasel",
+  "content": [  ],
+  "recipient": [ "Rosenberg, Wolfgang" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695376" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695376",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Volksstimme an Rosenberg, Wolfgang; Korrespondenz, St. Gallen",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1695376"
 }

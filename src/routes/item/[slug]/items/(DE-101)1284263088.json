@@ -1,20 +1,27 @@
 {
-  "date": "1934",
-  "ext": 3,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a4f33d7a-727c-477a-8edf-96978b3b71a3\/",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Postkarte",
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284263088_00000010.tif\/info.json",
-  "prototype": true,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Elsbeth Roda Roda" ],
+  "lang": [  ],
+  "date": [ "1934" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Roda Roda, Berlin-Schöneberg",
+    "Vorliegende Namensform Adressat: Frau Dana Becher"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.1509",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284263088",
     "gnd": "https:\/\/d-nb.info\/1284263088"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284263088",
-  "levels": [  ]
+  "key": "(DE-101)1284263088"
 }

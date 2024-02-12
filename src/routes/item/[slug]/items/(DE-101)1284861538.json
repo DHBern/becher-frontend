@@ -1,20 +1,28 @@
 {
-  "date": "1959",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Hans W. Polak" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Paul-Zsolnay-Verlag (Wien)" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Paul-Zsolnay-Verlag, Hamburg, Wien",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Paul-Zsolnay-Verlag Wien, Lektorat",
+    "Vorliegende Namensform Adressat: Frau Elsbeth Roda Roda, c\/o America Express Company, Zürich"
+  ],
+  "signature": "DEA-B-3-1-0017.B.04.0038",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Elsbeth Roda Roda" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2017722-7" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284861538",
     "gnd": "https:\/\/d-nb.info\/1284861538"
   },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284861538",
-  "levels": [  ]
+  "key": "(DE-101)1284861538"
 }

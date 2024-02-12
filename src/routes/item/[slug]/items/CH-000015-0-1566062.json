@@ -1,20 +1,19 @@
 {
-  "date": "1900 bis 1950",
-  "ext": 0,
-  "category_local_name": "Materialien Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-5-e",
-  "holding_institution": "SLA",
-  "title": "Leskoschek, Axl von: Druck",
+  "ext": [ "1 Druckgrafik auf Durchschlagspapier, s\/w, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900 bis 1950" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-5-e",
+  "title": "Leskoschek, Axl von: Druck",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566062" },
-  "category": 4099095,
-  "entry_type": "item",
-  "key": "CH-000015-0-1566062",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Materialien Dritter", "level":2 }
-  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "CH-000015-0-1566062"
 }

@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-4-j-5-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Margaret Lunz. 1. Szene",
+  "ext": [ "Manuskript, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Handschrift Dana Becher. Rückseite Anm. und Zeichnung" ],
+  "signature": "SLA-UB-A-4-j-5-1",
+  "title": "Becher, Ulrich: Margaret Lunz. 1. Szene",
+  "content": [ "Wie der Maler den Teufel malte, weil ihm seine Frau, die Margaret Lunz, weggelaufen war." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558666" },
+  "type": "work",
   "category": 10400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558666",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Dramen", "level":2 },
-    { "'title":"Dramenentwürfe", "level":3 },
-    { "'title":"Becher, Ulrich: Margaret Lunz", "level":4 }
-  ]
+  "key": "CH-000015-0-1558666"
 }

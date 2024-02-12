@@ -1,20 +1,24 @@
 {
-  "date": "1979",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt handschriftlich (Durchschrift)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118554271" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1979" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Herrn Professor Dr. Walter Huder, Akademie der Künste, Berlin" ],
+  "signature": "DEA-B-3-1-0017.B.02.0005",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Walther Huder" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284767396",
     "gnd": "https:\/\/d-nb.info\/1284767396"
   },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284767396",
-  "levels": [  ]
+  "key": "(DE-101)1284767396"
 }

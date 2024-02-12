@@ -1,22 +1,19 @@
 {
-  "date": "1877 bis 1926",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-a-3-29",
-  "holding_institution": "SLA",
-  "title": "Ulrich, Martin: Quartheft, ohne Umschlag: [...] machtlos der ehrlosen Buben [...]",
+  "ext": [ "1 Quartheft, schwarz marmoriert, 9 Bogen, gebunden; 1 Blatt, lose eingelegt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Ulrich, Martin (1857-1926)" ],
+  "lang": [  ],
+  "date": [ "1877 bis 1926" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-a-3-29",
+  "title": "Ulrich, Martin: Quartheft, ohne Umschlag: [...] machtlos der ehrlosen Buben [...]",
+  "content": [ "Erinnerungen; Schlaf; Die gesteigerte Klugheit; Kath.-Religion u.a." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566133" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1566133",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Ulrich, Martin (Grossvater mütterlicherseits)", "level":3 },
-    { "'title":"Ulrich, Martin: Notizhefte", "level":4 }
-  ]
+  "key": "CH-000015-0-1566133"
 }

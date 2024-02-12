@@ -1,24 +1,21 @@
 {
-  "date": "s.d.",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-BECHD-RODA-39",
-  "holding_institution": "SLA",
-  "title": "Becher, Dana an Roda Roda, Elsbeth; Korrespondenz, ohne Ort",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "ohne Ort" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BECHD-RODA-39",
+  "title": "Becher, Dana an Roda Roda, Elsbeth; Korrespondenz, ohne Ort",
+  "content": [  ],
+  "recipient": [ "Roda Roda, Elsbeth (1879-1960)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1684550" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1684550",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Becher, Dana an  Roda Roda, Alexander und Elsbeth; Korrespondenz, München;\nTherezopolis;\nRio de Janeiro;\nNew Foundland;\nBasel;\nBerlin;\nJesolo",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1684550"
 }

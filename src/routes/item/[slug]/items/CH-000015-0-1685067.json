@@ -1,24 +1,21 @@
 {
-  "date": "s.d.",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-ESPE-BECHD-5",
-  "holding_institution": "SLA",
-  "title": "Espenak, Liljan an Becher, Dana; Korrespondenz, ohne Ort",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "ohne Ort" ],
+  "ext_num": 0,
+  "creator": [ "Espenak, Liljan (1905-1988)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ESPE-BECHD-5",
+  "title": "Espenak, Liljan an Becher, Dana; Korrespondenz, ohne Ort",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119352109" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685067" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685067",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Espenak, Liljan an Becher, Dana; Korrespondenz, New York;\nMannheim",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1685067"
 }

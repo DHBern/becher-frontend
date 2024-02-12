@@ -1,20 +1,19 @@
 {
-  "date": "27. März 1976",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-3-c",
-  "holding_institution": "SLA",
-  "title": "Becker, Harald A.: Ulrich Becher und die USA",
+  "ext": [ "Ts. Dg., 10 Bl., m. hs. Korr. u. Anm." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becker, Harald A." ],
+  "lang": [  ],
+  "date": [ "27. März 1976" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-3-c",
+  "title": "Becker, Harald A.: Ulrich Becher und die USA",
+  "content": [ "Seminararbeit verfasst im Rahmen eines Seminars von Dr. Bernd Moeller an der Austin University Texas" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1547252" },
+  "type": "collItem",
   "category": 4099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1547252",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sekundärliteratur", "level":2 }
-  ]
+  "key": "CH-000015-0-1547252"
 }

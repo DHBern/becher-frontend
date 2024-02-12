@@ -1,21 +1,21 @@
 {
-  "date": "15. Oktober 1991",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-LENOS-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Lenos Verlag an Becher, Dana; Korrespondenz, Basel;\nBasel",
+  "ext": [ "1 Programmflyer" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel;\nBasel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "15. Oktober 1991" ],
+  "encl": [ "1 Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LENOS-BECHD-1",
+  "title": "Lenos Verlag an Becher, Dana; Korrespondenz, Basel;\nBasel",
+  "content": [ "Programm Theater im Teufelhof" ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685581" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685581",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Lenos Verlag an Becher, Dana; Korrespondenz, Basel", "level":3 }
-  ]
+  "key": "CH-000015-0-1685581"
 }

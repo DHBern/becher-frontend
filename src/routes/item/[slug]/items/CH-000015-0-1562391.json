@@ -1,23 +1,19 @@
 {
-  "date": "1865 bis 1956",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-b-2-g-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Richard: Das Recht",
+  "ext": [ "1 Typoskript, maschinenschriftlich, 5 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Richard (1875-1956)" ],
+  "lang": [  ],
+  "date": [ "1865 bis 1956" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-b-2-g-2",
+  "title": "Becher, Richard: Das Recht",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1562391" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1562391",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Richard (Vater)", "level":3 },
-    { "'title":"Manuskripte und Typoskripte", "level":4 },
-    { "'title":"Becher, Richard: Texte und Textfragmente", "level":5 }
-  ]
+  "key": "CH-000015-0-1562391"
 }

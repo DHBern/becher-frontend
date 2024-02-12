@@ -1,0 +1,69 @@
+[
+  {
+    "type": "work",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      { "label":"Verfasser", "key":"creator" },
+      { "label":"Entstehungszeitraum", "key":"date" },
+      { "label":"Sprache", "key":"lang" },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Kategorie", "key":"category_global_name" },
+      { "label":"Identifikator", "key":"key" }
+    ]
+  },
+  {
+    "type": "letter",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      { "label":"Absender", "key":"creator" },
+      { "label":"Empfänger", "key":"recipient" },
+      { "label":"Entstehungszeitraum", "key":"date" },
+      { "label":"Adressort", "key":"place" },
+      { "label":"Sprache", "key":"lang" },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Beilage", "key":"encl" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Kategorie", "key":"category_global_name" },
+      { "label":"Identifikator", "key":"key" }
+    ]
+  },
+  {
+    "type": "lifeDoc",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      { "label":"Person", "key":"creator" },
+      { "label":"Entstehungszeitraum", "key":"date" },
+      { "label":"Entstehungsort", "key":"place" },
+      { "label":"Sprache", "key":"lang" },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Beilagen", "key":"encl" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Kategorie", "key":"category_global_name" },
+      { "label":"Identifikator", "key":"key" }
+    ]
+  },
+  {
+    "type": "collItem",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      { "label":"Person", "key":"creator" },
+      { "label":"Entstehungszeitraum", "key":"date" },
+      { "label":"Entstehungsort", "key":"place" },
+      { "label":"Sprache", "key":"lang" },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Beilagen", "key":"encl" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Kategorie", "key":"category_global_name" },
+      { "label":"Identifikator", "key":"key" }
+    ]
+  }
+]

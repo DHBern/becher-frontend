@@ -1,22 +1,17 @@
 {
-  "date": "1943 bis 1944",
-  "ext": 17,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/fb5bf728-f79c-441a-bd31-f9cbb90e5800\/",
-  "signature": "SLA-UB-A-3-d-2-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: In Franzens Namen",
+  "ext": [ "Typoskript, 1 Blatt + 6 Zeilen Manuskript" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-20_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 17,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Dicht an der von Villon adaptierten Fassung, bildet später den Beginn und den Schluss der Moritat, Rückseite Fingerübungen und 3 Zeilen Typoskript mit dem Ende der \"Serenade vom letzten Friedensabend\" A-3-b-1." ],
+  "signature": "SLA-UB-A-3-d-2-2",
+  "title": "Becher, Ulrich: In Franzens Namen",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558280" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558280",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Franz Patenkindt", "level":3 },
-    { "'title":"Becher, Ulrich: Franz Patenkindt. Vorstufen und Entwürfe", "level":4 }
-  ]
+  "key": "CH-000015-0-1558280"
 }

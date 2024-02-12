@@ -1,25 +1,17 @@
 {
-  "date": "1937",
-  "ext": 0,
-  "category_local_name": "Essays und Reden",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-6-a-2-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Kleiner Spiegel großer Zeit. Aus einem Brief an einen amerikanischen Freund",
+  "ext": [ "Typoskript, 3 Blatt, mit wenigen maschinellen Korrekturen, unpaginiert, vollständig, signiert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "note": [ "[Bemerkung] Farbband blau" ],
+  "signature": "SLA-UB-A-6-a-2-1",
+  "title": "Becher, Ulrich: Kleiner Spiegel großer Zeit. Aus einem Brief an einen amerikanischen Freund",
+  "content": [ "Kleiner Zusammenriss der in Europa vorherrschenden Missstände: \"Was Anno 1937 post Christum natum geschieht, ist das überhaupt noch Wirklichkeit? Oder ist das eine schamlos-lächerliche übertriebene Hölle, sinnärmster Lug und Trug, sinnärmster Gemeinheit, Verräterei, Ruchlosigkeit und Schrecknis, vorgeführt im Theater Grand Guignol auf dem Montmartre?\", Plädoyer für die Einigung von Christen, Sozialisten, Demokraten" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558687" },
+  "type": "work",
   "category": 10600,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558687",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Essays und Reden", "level":2 },
-    { "'title":"Artikel und Essays", "level":3 },
-    {
-      "'title": "Becher, Ulrich: Kleiner Spiegel großer Zeit. Aus einem Brief an einen amerikanischen Freund",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1558687"
 }

@@ -1,20 +1,25 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Münchner Brettlgenie, [Theater-Projekt?]",
+  "ext": [ "1 Blatt maschinenschriftlich. Mit Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Fragment",
+    "Es handelt sich um einen kurzen Dialog",
+    "Der Titel \"Münchner Brettlgenie\" wurde auf der Hauptunterlage gestrichen, nicht jedoch auf der Beilage",
+    "Weitere Titelangaben: Das Zitat (Aus dem Kapitel 'König Ödipus, Tragödie in einem Akt')"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0075",
+  "title": "Münchner Brettlgenie, [Theater-Projekt?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948087",
     "gnd": "https:\/\/d-nb.info\/1283948087"
   },
+  "type": "work",
   "category": 10400,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283948087",
-  "levels": [  ]
+  "key": "(DE-101)1283948087"
 }

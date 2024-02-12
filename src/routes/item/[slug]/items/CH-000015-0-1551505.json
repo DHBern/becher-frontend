@@ -1,21 +1,19 @@
 {
-  "date": "18. November 1991",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-a-22",
-  "holding_institution": "SLA",
-  "title": "Abseits vom Rodeo",
+  "ext": [ "1 Zeitungsartikel (Ankündigung einer Lesung)" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "18. November 1991" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-a-22",
+  "title": "Abseits vom Rodeo",
+  "content": [ "Rezensionen" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551505" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1551505",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Rezensionen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1551505"
 }

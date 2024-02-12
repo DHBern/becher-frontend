@@ -1,24 +1,21 @@
 {
-  "date": "28. April 1953",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-BACH-BECHD-09",
-  "holding_institution": "SLA",
-  "title": "Bach, Susanne an Becher Dana; Korrespondenz, Campos do Jordão",
+  "ext": [ "1 Ansichtskarte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Campos do Jordão" ],
+  "ext_num": 0,
+  "creator": [ "Bach, Susanne (1909-1997)" ],
+  "lang": [  ],
+  "date": [ "28. April 1953" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Ergänzungen in einer anderen Handschrift" ],
+  "signature": "SLA-UB-B-3-BACH-BECHD-09",
+  "title": "Bach, Susanne an Becher Dana; Korrespondenz, Campos do Jordão",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/12269886X" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1651315" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1651315",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Bach, Susanne an Becher Dana; Korrespondenz, Bellerive sur Allier;\nParis;\nRio de Janeiro;\nIteer;\nMorro Azul;\nMünchen",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1651315"
 }

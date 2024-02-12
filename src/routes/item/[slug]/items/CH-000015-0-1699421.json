@@ -1,24 +1,21 @@
 {
-  "date": "s.d.",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-UNBEK-44",
-  "holding_institution": "SLA",
-  "title": "Unbekannte Korrespondenzpartner; Korrespondenz, ?;\nRio de Janeiro",
+  "ext": [ "1 Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "?;\nRio de Janeiro" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-UNBEK-44",
+  "title": "Unbekannte Korrespondenzpartner; Korrespondenz, ?;\nRio de Janeiro",
+  "content": [  ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1699421" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1699421",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    {
-      "'title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1699421"
 }

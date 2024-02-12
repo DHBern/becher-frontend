@@ -1,21 +1,19 @@
 {
-  "date": "23. Mai 1969",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-29",
-  "holding_institution": "SLA",
-  "title": "Seelmann-Eggebert, Ulrich: Nicht nur lesen, auch spielen. Zu den Dramen von Ulrich Becher. National-Zeitung, Basel",
+  "ext": [ "1 Kopie eines Zeitungsausschnitts auf Papier geklebt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Seelmann-Eggebrecht, Ulrich" ],
+  "lang": [  ],
+  "date": [ "23. Mai 1969" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-29",
+  "title": "Seelmann-Eggebert, Ulrich: Nicht nur lesen, auch spielen. Zu den Dramen von Ulrich Becher. National-Zeitung, Basel",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551493" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1551493",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1551493"
 }

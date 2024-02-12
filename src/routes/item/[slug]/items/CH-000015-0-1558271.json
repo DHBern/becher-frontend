@@ -1,25 +1,17 @@
 {
-  "date": "1943 bis 1944",
-  "ext": 3,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/44bdbb88-e968-4c0e-adbe-6ec2e34a5802\/",
-  "signature": "SLA-UB-A-3-c-3-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der Hahn kräht vor Mitternacht",
+  "ext": [ "Typoskript, 3 Blatt" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-3-2_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 3,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Titelblatt, Seite mit Widmung für den Hund Paul, Inhaltsverzeichnis. Titelvariante entspricht einem Vers der \"Romanze vom Blumenküssertod\"." ],
+  "signature": "SLA-UB-A-3-c-3-2",
+  "title": "Becher, Ulrich: Der Hahn kräht vor Mitternacht",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558271" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558271",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Brasilianischer Romanzero", "level":3 },
-    {
-      "'title": "Becher, Ulrich: Brasilianischer Romanzero. Après-Texte und Materialien",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1558271"
 }

@@ -1,22 +1,19 @@
 {
-  "date": "1. März 1930",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-b-1-b",
-  "holding_institution": "SLA",
-  "title": "Bernard, Ludwig: Teilnahmebestätigung an nationalökonomischen Übungen, Berlin",
+  "ext": [ "1 Typoskript, maschinenschriftlich, 1 Seite" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Bernard, Ludwig" ],
+  "lang": [  ],
+  "date": [ "1. März 1930" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-1-b-1-b",
+  "title": "Bernard, Ludwig: Teilnahmebestätigung an nationalökonomischen Übungen, Berlin",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1526641" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1526641",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Studium", "level":3 },
-    { "'title":"Administrative Dokumente der Universität", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1526641"
 }

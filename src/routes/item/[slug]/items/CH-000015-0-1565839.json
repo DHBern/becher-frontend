@@ -1,22 +1,19 @@
 {
-  "date": "1930 bis 1989",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-3-f",
-  "holding_institution": "SLA",
-  "title": "Fotografien von Zeppelin, Harro von",
+  "ext": [ "6 Fotografien, s\/w, div. Formate, davon 1 Kopie, 6 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1930 bis 1989" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-4-b-3-f",
+  "title": "Fotografien von Zeppelin, Harro von",
+  "content": [ "Abgebildet: Zeppelin, Harro von; Becher, Ulrich; Roda Becher, Dana; Becher, Martin Roda" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565839" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565839",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von der Familie", "level":4 }
-  ]
+  "key": "CH-000015-0-1565839"
 }

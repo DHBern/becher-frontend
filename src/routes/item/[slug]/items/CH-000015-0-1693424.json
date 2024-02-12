@@ -1,21 +1,21 @@
 {
-  "date": "20. Juli 1950",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-SCHROE-PONG-1",
-  "holding_institution": "SLA",
-  "title": "Schroeder, Max an Ponger, Vera; Korrespondenz, Berlin;\nWien",
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [  ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin;\nWien" ],
+  "ext_num": 0,
+  "creator": [ "Schroeder, Max (1900-1958)" ],
+  "lang": [  ],
+  "date": [ "20. Juli 1950" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-SCHROE-PONG-1",
+  "title": "Schroeder, Max an Ponger, Vera; Korrespondenz, Berlin;\nWien",
+  "content": [ "über \"Samba\"" ],
+  "recipient": [ "Ponger, Vera (20. Jh.)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/133018768" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693424" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1693424",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Schroeder, Max an Ponger, Vera; Korrespondenz, Berlin", "level":3 }
-  ]
+  "key": "CH-000015-0-1693424"
 }

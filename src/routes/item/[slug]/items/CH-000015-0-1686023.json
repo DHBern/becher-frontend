@@ -1,24 +1,21 @@
 {
-  "date": "1. November 1981",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-MORR-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Morris, Katherine an Becher, Dana; Korrespondenz, Greensboro, North Carolina;\nBasel",
+  "ext": [ "1 Brief + Brasilien-Bibliografie (3 Bl.) + Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Greensboro, North Carolina;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Morris, Katherine (1950-)" ],
+  "lang": [  ],
+  "date": [ "1. November 1981" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MORR-BECHD-1",
+  "title": "Morris, Katherine an Becher, Dana; Korrespondenz, Greensboro, North Carolina;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1122067550" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1686023" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1686023",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Morris, Katherine an Becher, Dana; Korrespondenz, Greensboro;\nNorth Carolina",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1686023"
 }

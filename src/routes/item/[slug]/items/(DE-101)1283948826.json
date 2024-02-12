@@ -1,20 +1,20 @@
 {
-  "date": "1900",
-  "ext": 19,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/edfb0455-67af-47d8-82fa-50b4239acd9a\/",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brasilianischer Romanzero, [Lyrik] - beiliegendes Material",
+  "ext": [ "9 Blatt maschinenschriftlicher Durchschlag" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283948826_00000010.tif\/info.json",
-  "prototype": true,
+  "ext_num": 18,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Es handelt sich hierbei um ein Typoskript mit dem Titel: Notizen zum Romanzero" ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0002",
+  "title": "Brasilianischer Romanzero, [Lyrik] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948826",
     "gnd": "https:\/\/d-nb.info\/1283948826"
   },
+  "type": "work",
   "category": 10300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283948826",
-  "levels": [  ]
+  "key": "(DE-101)1283948826"
 }

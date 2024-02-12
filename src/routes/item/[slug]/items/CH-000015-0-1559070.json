@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-c-3-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Engel und Soldaten",
+  "ext": [ "1 Blatt, 12 x 21 cm, signiert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Aquarell, Ölfarbe und Buntstift auf Papier" ],
+  "signature": "SLA-UB-A-8-c-3-1",
+  "title": "Becher, Ulrich: Engel und Soldaten",
+  "content": [ "Von Engeln geführter Heereszug" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1559070" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1559070",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Malereien", "level":3 },
-    { "'title":"Becher, Ulrich: Engel und Soldaten", "level":4 }
-  ]
+  "key": "CH-000015-0-1559070"
 }

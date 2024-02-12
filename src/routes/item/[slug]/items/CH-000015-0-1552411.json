@@ -1,20 +1,19 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Autorenbibliothek",
-  "iiif-manifest": "",
+  "ext": [ "1 Exemplar, 480 S." ],
+  "category_global_name": "Autorenbibliothek, 1930-1990",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Grosz, George (1893-1959)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Ausstellungskatalog der Akademie der Künste zur Ausstellung vom 7.10.1962 - 30.12.1962" ],
   "signature": "SLA-UB-D-4-42",
-  "holding_institution": "SLA",
   "title": "\n                     \n                  ",
-  "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118542672" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552411" },
-  "category": 4099094,
-  "entry_type": "item",
-  "key": "CH-000015-0-1552411",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Autorenbibliothek", "level":2 }
-  ]
+  "type": "collItem",
+  "category": 40400,
+  "key": "CH-000015-0-1552411"
 }

@@ -1,21 +1,19 @@
 {
-  "date": "23. August bis 4. Oktober 1987",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-c-21",
-  "holding_institution": "SLA",
-  "title": "Schriftsteller als bildende Künstler. Nassauischer Kunstverein Wiesbaden, Wiesbaden",
+  "ext": [ "1 Katalog" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "23. August bis 4. Oktober 1987" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-c-21",
+  "title": "Schriftsteller als bildende Künstler. Nassauischer Kunstverein Wiesbaden, Wiesbaden",
+  "content": [ "Ausstellungskatalog mit Porträts von Becher, Cocteau, Ionesco, Grass u.a." ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551525" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1551525",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Programmhefte, Theaterprospekte und Verlagsvorschauen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1551525"
 }

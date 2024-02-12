@@ -1,21 +1,19 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Berufliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-2-a-07",
-  "holding_institution": "SLA",
-  "title": "Verlag Kurt Desch: Vertrag mit Becher, Ulrich, Basel, München",
+  "ext": [ "2 Typoskripte, maschinenschriftlich mit handschriftlichen Korrekturen, 3 Seiten; 1 Couvert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel, München" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-2-a-07",
+  "title": "Verlag Kurt Desch: Vertrag mit Becher, Ulrich, Basel, München",
+  "content": [ "Vertrag zum Bühnenstück \"Die Grossen und die Kleinen\", unterzeichnet; Zusatzvertrag, unterzeichnet" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556851" },
+  "type": "lifeDoc",
   "category": 3099092,
-  "entry_type": "file",
-  "key": "CH-000015-0-1556851",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Berufliche Dokumente", "level":2 },
-    { "'title":"Verlagsverträge und Vollmachten", "level":3 }
-  ]
+  "key": "CH-000015-0-1556851"
 }

@@ -1,22 +1,20 @@
 {
-  "date": "1978",
-  "ext": 0,
-  "category_local_name": "Essays und Reden",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-6-b-1-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: SIFF. Handexemplar",
+  "ext": [ "1 Druckexemplar, 146 S., handschriftliche Korrekturen und Anmerkungen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1978" ],
+  "note": [
+    "[Bemerkung] Handexemplar des Autors mit zahlreichen hs. Korrekturen und Anmerkungen.",
+    "[Biblio] Becher, Ulrich: SIFF. Selektive Identifizierung von Freund und Feind. Benziger Verlag: Zürich\/Köln 1978."
+  ],
+  "signature": "SLA-UB-A-6-b-1-1",
+  "title": "Becher, Ulrich: SIFF. Handexemplar",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558801" },
+  "type": "work",
   "category": 10600,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558801",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Essays und Reden", "level":2 },
-    { "'title":"Après-Texte", "level":3 },
-    { "'title":"Becher, Ulrich: SIFF. Après-Texte", "level":4 }
-  ]
+  "key": "CH-000015-0-1558801"
 }

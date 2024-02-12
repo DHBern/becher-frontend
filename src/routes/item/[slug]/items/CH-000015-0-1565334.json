@@ -1,23 +1,22 @@
 {
-  "date": "1872 bis 1945",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-3-b-2",
-  "holding_institution": "SLA",
-  "title": "Roda Roda, Alexander: Der Totengräber von Feldberg",
+  "ext": [ "Typoskript, maschinenschriftlich mit handschriftlichen Markierungen, 1 Seite" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Roda Roda, Alexander (1872-1945)" ],
+  "lang": [  ],
+  "date": [ "1872 bis 1945" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Verfasser unklar",
+    "[Datierung] geschätzt, Lebensdaten Roda Roda, Alexander"
+  ],
+  "signature": "SLA-UB-C-3-d-3-b-2",
+  "title": "Roda Roda, Alexander: Der Totengräber von Feldberg",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565334" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1565334",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Unterlagen zu Alexander Roda Roda", "level":4 },
-    { "'title":"Texte und Notizen von Alexander Roda Roda", "level":5 }
-  ]
+  "key": "CH-000015-0-1565334"
 }

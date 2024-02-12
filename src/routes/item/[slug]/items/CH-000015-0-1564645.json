@@ -1,22 +1,19 @@
 {
-  "date": "1948 bis 1969",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-c-2-c",
-  "holding_institution": "SLA",
-  "title": "Becher-Ulrich, Elise: Quartheft, ohne Umschlag: Jasper, Einführung in die Philosophie [...], Basel",
+  "ext": [ "1 Quartheft, ohne Umschlag, handschriftlich, 82 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Becher-Ulrich, Elise (1881-1973)" ],
+  "lang": [  ],
+  "date": [ "1948 bis 1969" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-c-2-c",
+  "title": "Becher-Ulrich, Elise: Quartheft, ohne Umschlag: Jasper, Einführung in die Philosophie [...], Basel",
+  "content": [ "Vorlesungsmitschriften" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564645" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564645",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher-Ulrich, Elise (Mutter)", "level":3 },
-    { "'title":"Notizen", "level":4 }
-  ]
+  "key": "CH-000015-0-1564645"
 }

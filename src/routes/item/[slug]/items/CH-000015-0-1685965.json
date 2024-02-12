@@ -1,21 +1,21 @@
 {
-  "date": "28. Februar 1986",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-LUFT-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Luft, Friedrich an Becher, Dana; Korrespondenz, Berlin;\nBasel",
+  "ext": [ "1 Brief, ms. + Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Luft, Friedrich (1911-1990)" ],
+  "lang": [  ],
+  "date": [ "28. Februar 1986" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LUFT-BECHD-1",
+  "title": "Luft, Friedrich an Becher, Dana; Korrespondenz, Berlin;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119008394" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685965" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685965",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Luft, Friedrich an Becher, Dana; Korrespondenz, Berlin", "level":3 }
-  ]
+  "key": "CH-000015-0-1685965"
 }

@@ -1,24 +1,29 @@
 {
-  "date": "3. August 1961",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-RUECK-51",
-  "holding_institution": "SLA",
-  "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher, Berlin;\nSt. Moritz, Basel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [
+    "https:\/\/d-nb.info\/gnd\/118507958",
+    "https:\/\/d-nb.info\/gnd\/1215371292",
+    "https:\/\/d-nb.info\/gnd\/1215308086"
+  ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin;\nSt. Moritz, Basel" ],
+  "ext_num": 0,
+  "creator": [ "Gumpert, Hans (1890-1962)" ],
+  "lang": [  ],
+  "date": [ "3. August 1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-RUECK-51",
+  "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher, Berlin;\nSt. Moritz, Basel",
+  "content": [  ],
+  "recipient": [
+    "Becher, Ulrich (1910-1990)",
+    "Becher, Rolf (1916-1998)",
+    "Becher-Ulrich, Elise (1881-1973)"
+  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1168817064" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698490" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1698490",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    {
-      "'title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1698490"
 }

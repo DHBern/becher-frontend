@@ -1,21 +1,21 @@
 {
-  "date": "14. Oktober 1971",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-AUF-08",
-  "holding_institution": "SLA",
-  "title": "Aufbau-Verlag an Becher, Ulrich; Korrespondenz, Berlin;\nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Caspar, Günter (1924-1999)" ],
+  "lang": [  ],
+  "date": [ "14. Oktober 1971" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-AUF-08",
+  "title": "Aufbau-Verlag an Becher, Ulrich; Korrespondenz, Berlin;\nBasel",
+  "content": [ "Bestätigung der Manuskript-Sendung" ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116467797" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587785" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1587785",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    { "'title":"Aufbau-Verlag an Becher, Ulrich; Korrespondenz, Berlin", "level":3 }
-  ]
+  "key": "CH-000015-0-1587785"
 }

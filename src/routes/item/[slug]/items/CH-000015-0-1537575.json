@@ -1,21 +1,19 @@
 {
-  "date": "18. März 1988 bis 24. Februar 1990",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-a-21",
-  "holding_institution": "SLA",
-  "title": "Flaschenpost. Geschichte einer Freundschaft",
+  "ext": [ "13 Zeitungsartikel + Kopien + Kopie eines Ts. von Hans Bender (4 Bl.)" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "18. März 1988 bis 24. Februar 1990" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] bezieht sich auf den Band: Ulrich Becher\/George Grosz: Flaschenpost. Geschichte einer Freundschaft. Hrsg. v. Uwe Naumann\/Michael Töteberg. Lenos Verlag, Basel 1989." ],
+  "signature": "SLA-UB-D-2-a-21",
+  "title": "Flaschenpost. Geschichte einer Freundschaft",
+  "content": [ "Rezensionen" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537575" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1537575",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Rezensionen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537575"
 }

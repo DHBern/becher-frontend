@@ -1,24 +1,21 @@
 {
-  "date": "25. August 1957",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-WOT-1",
-  "holding_institution": "SLA",
-  "title": "Wotruba, Fritz an Becher, Ulrich und Dana; Korrespondenz, Riva del Garda;\nBasel",
+  "ext": [ "1 Postkarte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Riva del Garda;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Wotruba, Fritz (1907-1975)", "Wotruba, Lucy (-1985)" ],
+  "lang": [  ],
+  "date": [ "25. August 1957" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-WOT-1",
+  "title": "Wotruba, Fritz an Becher, Ulrich und Dana; Korrespondenz, Riva del Garda;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)", "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118635263" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1651104" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1651104",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Wotruba, Fritz an Becher, Ulrich und Dana; Korrespondenz, Riva del Garda",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1651104"
 }

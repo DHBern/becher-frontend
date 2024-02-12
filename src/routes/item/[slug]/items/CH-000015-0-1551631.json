@@ -1,20 +1,19 @@
 {
-  "date": "Dezember 1936",
-  "ext": 0,
-  "category_local_name": "Materialien Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-5-c",
-  "holding_institution": "SLA",
-  "title": "Lektoratsmaterialien zu Rudolf Forsters Autobiographie",
+  "ext": [ "Ts.Dg., 6 Bl., unvollst., m. hs. Erg., unbekannte HS." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "Dezember 1936" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] vgl. Rudolf Forster: Das Spiel, mein Leben. Propyläen-Verlag, Berlin 1967." ],
+  "signature": "SLA-UB-D-5-c",
+  "title": "Lektoratsmaterialien zu Rudolf Forsters Autobiographie",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551631" },
-  "category": 4099095,
-  "entry_type": "item",
-  "key": "CH-000015-0-1551631",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Materialien Dritter", "level":2 }
-  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "CH-000015-0-1551631"
 }

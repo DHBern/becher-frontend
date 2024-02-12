@@ -1,21 +1,19 @@
 {
-  "date": "8. Februar 1955",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-02",
-  "holding_institution": "SLA",
-  "title": "Becher - wie er im Programm-Heft steht. Abendzeitung, München",
+  "ext": [ "1 Zeitungsartikel m. masch. Anm." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "München" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "8. Februar 1955" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Autor unbekannt" ],
+  "signature": "SLA-UB-D-2-b-02",
+  "title": "Becher - wie er im Programm-Heft steht. Abendzeitung, München",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537658" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1537658",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537658"
 }

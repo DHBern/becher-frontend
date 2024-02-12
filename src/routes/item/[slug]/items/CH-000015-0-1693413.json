@@ -1,21 +1,21 @@
 {
-  "date": "23. Februar 1970",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-SCHLO-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Schlocker, Georges an Becher, Dana; Korrespondenz, London;\nBasel",
+  "ext": [ "1 Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "London;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Schlocker, Georges" ],
+  "lang": [  ],
+  "date": [ "23. Februar 1970" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-SCHLO-BECHD-1",
+  "title": "Schlocker, Georges an Becher, Dana; Korrespondenz, London;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693413" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1693413",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Schlocker, Georges an Becher, Dana; Korrespondenz, London", "level":3 }
-  ]
+  "key": "CH-000015-0-1693413"
 }

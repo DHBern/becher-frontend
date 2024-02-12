@@ -1,21 +1,21 @@
 {
-  "date": "8. Februar 1959",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-SAPP-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Sapper, Theodor an Becher, Dana; Korrespondenz, Wien",
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [ "Sapper, Theodor (1905-1982)" ],
+  "lang": [  ],
+  "date": [ "8. Februar 1959" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-SAPP-BECHD-1",
+  "title": "Sapper, Theodor an Becher, Dana; Korrespondenz, Wien",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116805420" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693410" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1693410",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Sapper, Theodor an Becher, Dana; Korrespondenz, Wien", "level":3 }
-  ]
+  "key": "CH-000015-0-1693410"
 }

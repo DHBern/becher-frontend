@@ -1,21 +1,21 @@
 {
-  "date": "26. März 1937",
-  "ext": 2,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a10849f8-9e34-4367-b093-7324f214a32d\/",
-  "signature": "SLA-UB-B-1-BECH-168",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Zürich",
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-168_01.tif\/info.json",
-  "prototype": true,
+  "place": [ "Zürich" ],
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "26. März 1937" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-168",
+  "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Zürich",
+  "content": [ "UB kehrte nach sieben glücklich verbrachten Wochen aus Ersparnisgründen nach Zürich zurück und war sehr deprimiert; am ersten Sonntag kamen Oprechts und Gläsers zu Tisch; UB stürzte und seither besucht ihn Gläser „macht Witze und will mit mir eine Frühlingsfußtour durch Burgund unternehmen […] ich will keine Touren machen, nur zu Ende kommen mit dem 1. Buch. Das Ziel war oben schon so nah vor meinen Augen – heute ist es wieder so weit“; Anm. von Rolf Becher." ],
+  "recipient": [ "Becher, Richard (1875-1956)", "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553515" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1553515",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1553515"
 }

@@ -1,22 +1,19 @@
 {
-  "date": "1950 bis 1970",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-c-3-b",
-  "holding_institution": "SLA",
-  "title": "Meldezettel, Basel",
+  "ext": [ "1 Dokument, maschinenschriftlich, nicht ausgefüllt, 2 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1950 bis 1970" ],
+  "encl": [  ],
+  "note": [ "[Datierung] grob geschätzt" ],
+  "signature": "SLA-UB-C-1-c-3-b",
+  "title": "Meldezettel, Basel",
+  "content": [ "Unausgefüllter Meldezettel" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1523922" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1523922",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Diverse persönliche Dokumente", "level":3 },
-    { "'title":"Reise- und Emigrationsunterlagen", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1523922"
 }

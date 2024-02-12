@@ -1,22 +1,17 @@
 {
-  "date": "1923",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-79-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Explosion",
+  "ext": [ "1 Blatt, DinA4, signiert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1923" ],
+  "note": [ "[Bemerkung] Schwarzer Buntstift auf Papier, Lavis" ],
+  "signature": "SLA-UB-A-8-a-79-1",
+  "title": "Becher, Ulrich: Explosion",
+  "content": [ "Explosion in urbaner Umgebung" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1559004" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1559004",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Explosion", "level":4 }
-  ]
+  "key": "CH-000015-0-1559004"
 }

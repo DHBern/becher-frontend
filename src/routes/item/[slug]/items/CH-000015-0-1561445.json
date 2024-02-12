@@ -1,22 +1,19 @@
 {
-  "date": "1950 bis 1952",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-b-2-b",
-  "holding_institution": "SLA",
-  "title": "Becher, Richard: Notizbuch, Basel",
+  "ext": [ "1 Oktavheft, schwarz, 114 Seiten, darin div. Artikel und Notizen eingeklebt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Richard (1875-1956)" ],
+  "lang": [  ],
+  "date": [ "1950 bis 1952" ],
+  "encl": [  ],
+  "note": [ "[Datierung] grob geschätzt" ],
+  "signature": "SLA-UB-C-3-b-2-b",
+  "title": "Becher, Richard: Notizbuch, Basel",
+  "content": [ "Notizbuch III, 201-300" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1561445" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1561445",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Richard (Vater)", "level":3 },
-    { "'title":"Manuskripte und Typoskripte", "level":4 }
-  ]
+  "key": "CH-000015-0-1561445"
 }

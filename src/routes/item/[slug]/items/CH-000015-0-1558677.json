@@ -1,21 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Drehbücher und Filmideen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-5-b-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Film oder phantastische Legenden",
+  "ext": [ "Typoskript, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Rückseite 13 Z. aus: Ich heiße Legion (Murmeljagd)" ],
+  "signature": "SLA-UB-A-5-b-3",
+  "title": "Becher, Ulrich: Film oder phantastische Legenden",
+  "content": [ "Im Einzelnen: Hochzeit einer Prinzessin; Die Gesellschaft der Greife; Noahs Kasten." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558677" },
+  "type": "work",
   "category": 10500,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558677",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Drehbücher und Filmideen", "level":2 },
-    { "'title":"Filmideen", "level":3 }
-  ]
+  "key": "CH-000015-0-1558677"
 }

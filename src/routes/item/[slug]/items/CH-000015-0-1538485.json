@@ -1,21 +1,19 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-26",
-  "holding_institution": "SLA",
-  "title": "Pfeifer, Tadeus: Auf der Suche nach der Wirklichkeit",
+  "ext": [ "1 Kopie" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Pfeifer, Tadeus (1949-2010)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Publikationsort und -datum unbekannt" ],
+  "signature": "SLA-UB-D-2-b-26",
+  "title": "Pfeifer, Tadeus: Auf der Suche nach der Wirklichkeit",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/120541122" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538485" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1538485",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1538485"
 }

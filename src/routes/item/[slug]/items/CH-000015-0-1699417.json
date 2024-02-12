@@ -1,24 +1,21 @@
 {
-  "date": "25. März 1927",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-UNBEK-40",
-  "holding_institution": "SLA",
-  "title": "Unbekannte Korrespondenzpartner; Korrespondenz, Neapel;\nBudapest",
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [  ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Neapel;\nBudapest" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "25. März 1927" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-UNBEK-40",
+  "title": "Unbekannte Korrespondenzpartner; Korrespondenz, Neapel;\nBudapest",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1699417" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1699417",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    {
-      "'title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1699417"
 }

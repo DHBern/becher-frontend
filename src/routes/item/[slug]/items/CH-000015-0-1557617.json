@@ -1,22 +1,20 @@
 {
-  "date": "1931",
-  "ext": 36,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f1801100-e3aa-44f3-84f7-7fd0422f0c59\/",
-  "signature": "SLA-UB-A-1-a-3-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Ein junger Mann kommt zu Vater zurück",
+  "ext": [ "Typoskript, 36 Blatt, Tb. + 35 Blatt, mit handschriftlichen Korrekturen" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-3-1_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 36,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1931" ],
+  "note": [
+    "[Bemerkung] Runde Typen, hochgestellte Versalien. Typoskript wurde aus vier ungeordneten Dossiers zusammengefügt: Das langweilige Zwiegespräch - Die Orgie - Der Heimweg - Der Tagesanbruch.",
+    "[Biblio] Becher, Ulrich: Männer machen Fehler. Ernst Rowohlt Verlag: Berlin 1932, S. 57-113."
+  ],
+  "signature": "SLA-UB-A-1-a-3-1",
+  "title": "Becher, Ulrich: Ein junger Mann kommt zu Vater zurück",
+  "content": [ "Vater-Sohn-Konflikt oder die Folgen einer Moralpredigt. Junger Held prügelt sich aus Frust und Liebeskummer auf einer Fabrikhallenpartie, spürt die Dichotomie von Natur und Technik, erlebt einen kafkaesken Heimweg und den schweren Morgen danach." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557617" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557617",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Männer machen Fehler", "level":3 },
-    { "'title":"Becher, Ulrich: Ein junger Mann kommt zu Vater zurück", "level":4 }
-  ]
+  "key": "CH-000015-0-1557617"
 }

@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-9-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der Besitzer von 67 Millionen Menschen",
+  "ext": [ "1 Blatt Din A4" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Bleistift auf Papier, Spuren schwarzer Aquarellfarbe" ],
+  "signature": "SLA-UB-A-8-a-9-2",
+  "title": "Becher, Ulrich: Der Besitzer von 67 Millionen Menschen",
+  "content": [ "Hitlerkarikatur" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558861" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558861",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Der Besitzer von 67 Millionen Menschen", "level":4 }
-  ]
+  "key": "CH-000015-0-1558861"
 }

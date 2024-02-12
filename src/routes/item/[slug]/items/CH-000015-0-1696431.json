@@ -1,21 +1,21 @@
 {
-  "date": "13. Oktober 1970",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-BAD-131",
-  "holding_institution": "SLA",
-  "title": "Badezimmer- und Küchenpost von Ulrich an Dana Becher",
+  "ext": [ "1 Notiz, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "13. Oktober 1970" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-BAD-131",
+  "title": "Badezimmer- und Küchenpost von Ulrich an Dana Becher",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1696431" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1696431",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    { "'title":"Badezimmer- und Küchenpost von Ulrich an Dana Becher", "level":3 }
-  ]
+  "key": "CH-000015-0-1696431"
 }

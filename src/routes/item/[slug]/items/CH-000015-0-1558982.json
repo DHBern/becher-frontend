@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-68-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Kirche",
+  "ext": [ "1 Blatt, DinA4" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Bleistift auf Durchschlagpapier, Rückseite 2 Karikaturköpfe" ],
+  "signature": "SLA-UB-A-8-a-68-1",
+  "title": "Becher, Ulrich: Kirche",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558982" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558982",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Kirche", "level":4 }
-  ]
+  "key": "CH-000015-0-1558982"
 }

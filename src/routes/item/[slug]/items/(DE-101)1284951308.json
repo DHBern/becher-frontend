@@ -1,20 +1,22 @@
 {
-  "date": "1969",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "\"Murmeljagd\", erschienen im Rowohlt Verlag ... [Incipit, Rundfunk-Typoskript], Bayerischer Rundfunk",
+  "ext": [ "4 Blatt maschinenschriftlich vervielfältigt und anderes" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1969" ],
+  "encl": [  ],
+  "note": [ "Sendereihe: Kulturkritik" ],
+  "signature": "DEA-B-3-1-0017.D.03.0057",
+  "title": "\"Murmeljagd\", erschienen im Rowohlt Verlag ... [Incipit, Rundfunk-Typoskript], Bayerischer Rundfunk",
+  "content": [  ],
+  "creator_uri": [ "" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284951308",
     "gnd": "https:\/\/d-nb.info\/1284951308"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284951308",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284951308"
 }

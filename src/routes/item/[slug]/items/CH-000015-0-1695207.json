@@ -1,24 +1,21 @@
 {
-  "date": "5. Oktober 1960",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-STEIG-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Steigmann, Maximilian an Becher, Dana.; Korrespondenz, Montevideo",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Montevideo" ],
+  "ext_num": 0,
+  "creator": [ "Steigmann, Maximilian (1895-1974)" ],
+  "lang": [  ],
+  "date": [ "5. Oktober 1960" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-STEIG-BECHD-1",
+  "title": "Steigmann, Maximilian an Becher, Dana.; Korrespondenz, Montevideo",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216665362" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695207" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695207",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Steigmann, Maximilian an Becher, Dana.; Korrespondenz, Montevideo",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1695207"
 }

@@ -1,20 +1,23 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Kleine Manuskripte und Typoskripte",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Ein Roman - beiliegendes Material",
+  "ext": [ "7 Blatt maschinenschriftlich und anderes" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Es handelt sich hierbei um verstreute Einzelblätter, Materialsammlung und Notizen",
+    "Blatt 1 ist ein Titelblatt, das zugleich an Redaktion Constanze, Armin Schönberg, Berlin adressiert ist. Das Titelblatt gibt zusätzlich als Titel an: Der Geist des Affen"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0169",
+  "title": "Ein Roman - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283985543",
     "gnd": "https:\/\/d-nb.info\/1283985543"
   },
+  "type": "work",
   "category": 1099095,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283985543",
-  "levels": [  ]
+  "key": "(DE-101)1283985543"
 }

@@ -1,22 +1,19 @@
 {
-  "date": "1937 bis 1952",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-b-1-d",
-  "holding_institution": "SLA",
-  "title": "Aktenmappe des Rechtsanwalts Richard Becher, Berlin",
+  "ext": [ "1 Mappe, mit handschriftlichen Notizen, leer" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1937 bis 1952" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-b-1-d",
+  "title": "Aktenmappe des Rechtsanwalts Richard Becher, Berlin",
+  "content": [ "Aktenmappe" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565992" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1565992",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Richard (Vater)", "level":3 },
-    { "'title":"Persönliche Dokumente", "level":4 }
-  ]
+  "key": "CH-000015-0-1565992"
 }

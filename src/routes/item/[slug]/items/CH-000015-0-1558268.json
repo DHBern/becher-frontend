@@ -1,22 +1,20 @@
 {
-  "date": "1943 bis 1944",
-  "ext": 10,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f0a94cd8-ac51-47e4-9d9e-40cc11435742\/",
-  "signature": "SLA-UB-A-3-c-2-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Ballade von den tollen Hunden zu Rio",
+  "ext": [ "Typoskript, 5 Blatt, unvollständig + unpaginiert Durchschlag, 4 Blatt" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-2-2_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 10,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [
+    "[Bemerkung] Entspricht den S. 37-47 (bis Zeile 28) im Brasilianischen Romanzero, Zeile 23 verändert.",
+    "[Biblio] Becher, Ulrich: Brasilianischer Romanzero. Mit Holzschnitten von Axl Leskoschek. Wilhelm Frick: Wien 1950, S. 37-102."
+  ],
+  "signature": "SLA-UB-A-3-c-2-2",
+  "title": "Becher, Ulrich: Ballade von den tollen Hunden zu Rio",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558268" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558268",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Brasilianischer Romanzero", "level":3 },
-    { "'title":"Becher, Ulrich: Romanze von den tollen Hunden zu Rio", "level":4 }
-  ]
+  "key": "CH-000015-0-1558268"
 }

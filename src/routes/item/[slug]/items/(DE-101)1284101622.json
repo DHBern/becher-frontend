@@ -1,20 +1,24 @@
 {
-  "date": "1977",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Lucy Breicha. Verso maschinenschriftlicher Durchschlag des Schreibens von Ulrich Becher an Otto Breicha vom 25.06.1977" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Otto Breicha", "Kulturhaus (Graz)" ],
+  "lang": [  ],
+  "date": [ "1977" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Kulturhaus der Stadt Graz" ],
+  "signature": "DEA-B-3-1-0017.B.01.0405",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116469986", "https:\/\/d-nb.info\/gnd\/1044730-1" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284101622",
     "gnd": "https:\/\/d-nb.info\/1284101622"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284101622",
-  "levels": [  ]
+  "key": "(DE-101)1284101622"
 }

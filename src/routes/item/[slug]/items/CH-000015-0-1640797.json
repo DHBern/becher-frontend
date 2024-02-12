@@ -1,24 +1,21 @@
 {
-  "date": "5. August 1954",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-KOCH-1",
-  "holding_institution": "SLA",
-  "title": "Koch, Heinrich an Becher, Ulrich; Korrespondenz, Hamburg",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Hamburg" ],
+  "ext_num": 0,
+  "creator": [ "Koch, Heinrich" ],
+  "lang": [  ],
+  "date": [ "5. August 1954" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-KOCH-1",
+  "title": "Koch, Heinrich an Becher, Ulrich; Korrespondenz, Hamburg",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1640797" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1640797",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Koch, Heinrich an Becher, Ulrich; Korrespondenz, Cuxhaven; Hamburg",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1640797"
 }

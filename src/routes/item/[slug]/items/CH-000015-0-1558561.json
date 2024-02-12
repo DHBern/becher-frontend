@@ -1,22 +1,17 @@
 {
-  "date": "1950",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-4-d-2-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Samba. Schauspiel in 3 Akten (12 Bildern)",
+  "ext": [ "Typoskript Durchschlag, 162 Blatt, vollständig, paginiert, gelocht, handschriftliche Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1950" ],
+  "note": [ "[Bemerkung] Einschliesslich Deckblatt und Werkübersicht. Adresse auf Deckblatt: Ulrich Becher, co Vera Ponger, Continental-Verlag, Wien IV, Paulanergasse 7. Unten handschriftlich in Bleistift: \"13. III zurück von Langhoff\"." ],
+  "signature": "SLA-UB-A-4-d-2-1",
+  "title": "Becher, Ulrich: Samba. Schauspiel in 3 Akten (12 Bildern)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558561" },
+  "type": "work",
   "category": 10400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558561",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Dramen", "level":2 },
-    { "'title":"Samba. Schauspiel in drei Akten", "level":3 },
-    { "'title":"Becher, Ulrich: Samba. Typoskripte und Textbücher", "level":4 }
-  ]
+  "key": "CH-000015-0-1558561"
 }

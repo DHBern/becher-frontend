@@ -1,22 +1,22 @@
 {
-  "date": "1950 bis 1992",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-2-f",
-  "holding_institution": "SLA",
-  "title": "Roda-Becher, Dana: Ein Märchen, St. Moritz",
+  "ext": [ "Manuskript, handschriftlich, 4 Bogen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "St. Moritz" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1950 bis 1992" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Von Archivar vermerkt: \"viell. Martin?\"; Briefpapier aus St. Moritz",
+    "[Datierung] geschätzt"
+  ],
+  "signature": "SLA-UB-C-3-d-2-f",
+  "title": "Roda-Becher, Dana: Ein Märchen, St. Moritz",
+  "content": [ "Fragment einer Geschichte" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564872" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564872",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Roda-Becher, Dana: Notizen und Manuskripte", "level":4 }
-  ]
+  "key": "CH-000015-0-1564872"
 }

@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Notizbücher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-7-a-7-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Schreibheft 7",
+  "ext": [ "40 Blatt geheftet, Handschrift Ulrich Becher, Dunkelblaues Schreibheft mit Etikett: Jehova; Goethe; Becher; Hamsun" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Erzählungsentwürfe: Zwei Ärzte Reise nach China - Michael O'Connor und Richard Goldmine. Erzählung Ahasver, vgl. Josua war kein Feldherr, schwarze Tinte, Bleistift" ],
+  "signature": "SLA-UB-A-7-a-7-1",
+  "title": "Becher, Ulrich: Schreibheft 7",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558819" },
+  "type": "work",
   "category": 10700,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558819",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Literarische Notizbücher und -hefte", "level":2 },
-    { "'title":"Literarische Notizbücher und -hefte", "level":3 },
-    { "'title":"Becher, Ulrich: Schreibheft 7", "level":4 }
-  ]
+  "key": "CH-000015-0-1558819"
 }

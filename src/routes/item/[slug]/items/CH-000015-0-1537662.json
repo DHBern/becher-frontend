@@ -1,21 +1,19 @@
 {
-  "date": "11. Dezember 1961",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-06",
-  "holding_institution": "SLA",
-  "title": "Becher\/Grosz. Frankfurter Rundschau, Frankfurt",
+  "ext": [ "1 Zeitungsausschnitt (Foto)" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Frankfurt" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "11. Dezember 1961" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] zur Eröffnung der Ausstellung in der Akademie der Künste (Berlin)" ],
+  "signature": "SLA-UB-D-2-b-06",
+  "title": "Becher\/Grosz. Frankfurter Rundschau, Frankfurt",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537662" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1537662",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537662"
 }

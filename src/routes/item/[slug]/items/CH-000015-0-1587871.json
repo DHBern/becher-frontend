@@ -1,24 +1,21 @@
 {
-  "date": "17. Juni 1966",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-BAE-1",
-  "holding_institution": "SLA",
-  "title": "Baechler, Wolfgang an Becher, Ulrich u. Dana; Korrespondenz, Blotzheim;\nBasel",
+  "ext": [ "1 Brief, handmaschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Blotzheim;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Bächler, Wolfgang (1925-2007)" ],
+  "lang": [  ],
+  "date": [ "17. Juni 1966" ],
+  "encl": [ "Briefkuvert" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-BAE-1",
+  "title": "Baechler, Wolfgang an Becher, Ulrich u. Dana; Korrespondenz, Blotzheim;\nBasel",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)", "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119539055" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587871" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1587871",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Baechler, Wolfgang an Becher, Ulrich u. Dana; Korrespondenz, Blotzheim; Fieberbrunn; Westheim",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1587871"
 }

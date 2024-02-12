@@ -1,24 +1,21 @@
 {
-  "date": "7. Februar 1984",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-STAP-3",
-  "holding_institution": "SLA",
-  "title": "Stapenhorst, Fritz und Isolde an Becher, Ulrich und Dana; Korrespondenz, Icking;\nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Icking;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Stapenhorst, Fritz (20. Jh.)", "Stapenhorst, Isolde" ],
+  "lang": [  ],
+  "date": [ "7. Februar 1984" ],
+  "encl": [ "1 Briefkuvert" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-STAP-3",
+  "title": "Stapenhorst, Fritz und Isolde an Becher, Ulrich und Dana; Korrespondenz, Icking;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)", "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1643700" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1643700",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Stapenhorst, Fritz und Isolde an Becher, Ulrich und Dana; Korrespondenz, Icking",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1643700"
 }

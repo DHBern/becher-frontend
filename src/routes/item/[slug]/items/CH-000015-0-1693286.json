@@ -1,24 +1,21 @@
 {
-  "date": "18. August 1965",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-RODAO-BECHD-17",
-  "holding_institution": "SLA",
-  "title": "Roda, Olga an Becher, Dana; Korrespondenz, Graz",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Graz" ],
+  "ext_num": 0,
+  "creator": [ "Roda, Olga (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "18. August 1965" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-RODAO-BECHD-17",
+  "title": "Roda, Olga an Becher, Dana; Korrespondenz, Graz",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693286" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1693286",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Roda, Olga an Becher, Dana; Korrespondenz, Bad Gleichenberg;\nGraz",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1693286"
 }

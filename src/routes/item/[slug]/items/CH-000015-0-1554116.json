@@ -1,21 +1,21 @@
 {
-  "date": "3. Februar 1956",
-  "ext": 2,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/9e4e2100-5e78-4cc0-9d5f-a8c9d3a0aa91\/",
-  "signature": "SLA-UB-B-1-BECH-233",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, Berlin",
+  "ext": [ "1 Postkarte, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-233_01.tif\/info.json",
-  "prototype": true,
+  "place": [ "Berlin" ],
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "3. Februar 1956" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-233",
+  "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, Berlin",
+  "content": [ "Künstlerkarte: Photographie Charlie Brown und seiner Frau Rosalind (Kutschera und Nuscha Richter in \"Feuerwasser\" an der Volksbühne Ostberlin)" ],
+  "recipient": [ "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1554116" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1554116",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1554116"
 }

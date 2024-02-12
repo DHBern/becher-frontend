@@ -1,22 +1,17 @@
 {
-  "date": "1943 bis 1944",
-  "ext": 2,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d799b141-cb70-4bb4-b0b6-b82c03d9d4ea\/",
-  "signature": "SLA-UB-A-3-d-2-22",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der Ball",
+  "ext": [ "Manuskript, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-22_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Tinte preußisch-blau" ],
+  "signature": "SLA-UB-A-3-d-2-22",
+  "title": "Becher, Ulrich: Der Ball",
+  "content": [ "Enthält die letzten drei Verse, Rückseite bislang unbek. Gedicht \"denn der Fluss verwehrt ihm lächelnd, was er gern den Vorgängern gestattete\"." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558300" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558300",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Franz Patenkindt", "level":3 },
-    { "'title":"Becher, Ulrich: Franz Patenkindt. Vorstufen und Entwürfe", "level":4 }
-  ]
+  "key": "CH-000015-0-1558300"
 }

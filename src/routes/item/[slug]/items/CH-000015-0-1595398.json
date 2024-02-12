@@ -1,21 +1,21 @@
 {
-  "date": "29. November 1954",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-DES-1",
-  "holding_institution": "SLA",
-  "title": "Kurt Desch Verlag an Becher, Ulrich; Korrespondenz, München",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "München" ],
+  "ext_num": 0,
+  "creator": [ "Greuèl, Herbert (1920-)" ],
+  "lang": [  ],
+  "date": [ "29. November 1954" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-DES-1",
+  "title": "Kurt Desch Verlag an Becher, Ulrich; Korrespondenz, München",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116832827" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1595398" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1595398",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    { "'title":"Kurt Desch Verlag an Becher, Ulrich; Korrespondenz, München", "level":3 }
-  ]
+  "key": "CH-000015-0-1595398"
 }

@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-20-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Briefträger",
+  "ext": [ "Ausschnitt aus der Süddeutschen Zeitung vom 7.2.1960" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-8-a-20-1",
+  "title": "Becher, Ulrich: Briefträger",
+  "content": [ "Hitlerkarikatur mit Bildunterschrift: \"Er spukt noch immer in ihren Köpfen\" .Am Rand masch. zugefügt: \"Uls Unterschrift war viel besser: An die Schmiertanten: 'Sehnsucht nach dem Herrn?'\"" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558883" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558883",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Briefträger", "level":4 }
-  ]
+  "key": "CH-000015-0-1558883"
 }

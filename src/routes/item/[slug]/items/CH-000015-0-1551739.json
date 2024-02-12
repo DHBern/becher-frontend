@@ -1,20 +1,19 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Autorenbibliothek",
-  "iiif-manifest": "",
+  "ext": [ "1 Exemplar, 148 S." ],
+  "category_global_name": "Autorenbibliothek, 1930-1990",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
   "signature": "SLA-UB-D-4-12",
-  "holding_institution": "SLA",
   "title": "\n                     \n                  ",
-  "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551739" },
-  "category": 4099094,
-  "entry_type": "item",
-  "key": "CH-000015-0-1551739",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Autorenbibliothek", "level":2 }
-  ]
+  "type": "collItem",
+  "category": 40400,
+  "key": "CH-000015-0-1551739"
 }

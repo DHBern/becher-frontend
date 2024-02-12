@@ -1,21 +1,19 @@
 {
-  "date": "19. Juni 1955",
-  "ext": 0,
-  "category_local_name": "Berufliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-2-b-1",
-  "holding_institution": "SLA",
-  "title": "Deutscher Bühnenverein: Dramatikerpreis an Becher, Ulrich, Basel, Köln",
+  "ext": [ "1 Urkunde, handschrifltich, 3 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel, Köln" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "19. Juni 1955" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-2-b-1",
+  "title": "Deutscher Bühnenverein: Dramatikerpreis an Becher, Ulrich, Basel, Köln",
+  "content": [ "Dramatikerpreis in der Höhe von 3000 DM" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556866" },
+  "type": "lifeDoc",
   "category": 3099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1556866",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Berufliche Dokumente", "level":2 },
-    { "'title":"Urkunden und Preise", "level":3 }
-  ]
+  "key": "CH-000015-0-1556866"
 }

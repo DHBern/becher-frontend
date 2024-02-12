@@ -1,22 +1,17 @@
 {
-  "date": "1948",
-  "ext": 0,
-  "category_local_name": "Notizbücher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-7-a-4-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Schreibheft 4 (Ringbuch)",
+  "ext": [ "46 Blatt, ein Drittel davon unbeschrieben, Heft von vorn und hinten begonnen, 7 Blatt mit Zeitungsartikeln beklebt, in englisch und portugiesisch, Handschrift Ulrich Becher, Octav-Ringbuch mit brasilianischem Etikett - \"Reise blauen Tag\"" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1948" ],
+  "note": [ "[Bemerkung] Innenseite des Einbandes mit einer Liste seiner Erzählungen, anschl. Liste der Empfänger der Rezensionsexemplare und der Bücher für Freunde; Abrechnung Reise in den blauen Tag; Liste der privat verkauften Ex. und der in Kommission gegebenen; auf 2 S. Beginn des Theaterstücks Hannibal Barkas; Notizen Makumba, Notizen Feuerwasser; Notizen Stupor mundi (Schauspiel), Die Krähen vom Grossen See (Schauspiel),eingeklebte Zeitungsartikel  Handschrift Datierung Zeitungsartikel: 04.1948" ],
+  "signature": "SLA-UB-A-7-a-4-1",
+  "title": "Becher, Ulrich: Schreibheft 4 (Ringbuch)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558813" },
+  "type": "work",
   "category": 10700,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558813",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Literarische Notizbücher und -hefte", "level":2 },
-    { "'title":"Literarische Notizbücher und -hefte", "level":3 },
-    { "'title":"Becher, Ulrich: Schreibheft 4 (Ringbuch)", "level":4 }
-  ]
+  "key": "CH-000015-0-1558813"
 }

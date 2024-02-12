@@ -1,21 +1,19 @@
 {
-  "date": "23. Mai 1957",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-03",
-  "holding_institution": "SLA",
-  "title": "Hühnerfeld, Paul: Auf der Suche nach dem alten Europa. Die Zeit, Hamburg",
+  "ext": [ "2 Zeitungsartikel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Hamburg" ],
+  "ext_num": 0,
+  "creator": [ "Hühnerfeld, Paul (1926-1960)" ],
+  "lang": [  ],
+  "date": [ "23. Mai 1957" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-03",
+  "title": "Hühnerfeld, Paul: Auf der Suche nach dem alten Europa. Die Zeit, Hamburg",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117046728" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537659" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1537659",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537659"
 }

@@ -1,21 +1,19 @@
 {
-  "date": "5. Oktober 1971",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-11",
-  "holding_institution": "SLA",
-  "title": "Muschter, Christiane: Kosmopolit und zu wenig gereist. National-Zeitung, Basel",
+  "ext": [ "1 Zeitungsartikel (2 Ex)" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Muschter, Christiane (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "5. Oktober 1971" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-11",
+  "title": "Muschter, Christiane: Kosmopolit und zu wenig gereist. National-Zeitung, Basel",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537667" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1537667",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537667"
 }

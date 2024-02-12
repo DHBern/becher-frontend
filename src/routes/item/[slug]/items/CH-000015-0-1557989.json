@@ -1,22 +1,17 @@
 {
-  "date": "1933 bis 1941",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-2-a-2-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der Hampelmann. Frühe Fassung",
+  "ext": [ "Typoskript, 142 Blatt, handschriftliche Korrekturen und Skizzen" ],
   "category_global_name": "Romane",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1933 bis 1941" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-2-a-2-1",
+  "title": "Becher, Ulrich: Der Hampelmann. Frühe Fassung",
+  "content": [ "Das Konvolut enthält die Kapitel \"Konzert\" (S. 1-30) und \"Kirche\" (S. 30a-40) am Innerschweizer Seeort; Elisa als Klavierschülerin in Strassburg (S. 41-63; 75-78); Rückkehr in die Schweiz und Überfahrt nach New York (S. 80; 86-95)." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557989" },
+  "type": "work",
   "category": 10200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557989",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Romane", "level":2 },
-    { "'title":"Der Hampelmann (Romanfragment)", "level":3 },
-    { "'title":"Becher, Ulrich: Der Hampelmann. Typoskript-Konvolute", "level":4 }
-  ]
+  "key": "CH-000015-0-1557989"
 }

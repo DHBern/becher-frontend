@@ -1,22 +1,19 @@
 {
-  "date": "20. August 1955",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-d-10-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Im Gedenken an einen lächelnden Zentaur. Der Kurier, Berlin",
+  "ext": [ "Zeitungsausschnitt + ganze Zeitung" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "20. August 1955" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Artikel anlässlich des 10. Todestags Roda Rodas" ],
+  "signature": "SLA-UB-D-1-d-10-a",
+  "title": "Becher, Ulrich: Im Gedenken an einen lächelnden Zentaur. Der Kurier, Berlin",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535876" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535876",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Essays", "level":3 },
-    { "'title":"Becher, Ulrich: Im Gedenken an einen lächelnden Zentaur", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535876"
 }

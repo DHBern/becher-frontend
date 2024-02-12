@@ -1,21 +1,21 @@
 {
-  "date": "1. Oktober 1945",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-KOAR-5",
-  "holding_institution": "SLA",
-  "title": "Mann, Heinrich an Roda Becher, Dana; Kondolenzschreiben, Los Angeles",
+  "ext": [ "1 Brief, handschriftlich (Kopie)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Los Angeles" ],
+  "ext_num": 0,
+  "creator": [ "Mann, Heinrich (1871-1950)" ],
+  "lang": [  ],
+  "date": [ "1. Oktober 1945" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-KOAR-5",
+  "title": "Mann, Heinrich an Roda Becher, Dana; Kondolenzschreiben, Los Angeles",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118577131" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697247" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1697247",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    { "'title":"Kondolenzschreiben Alexander Roda Roda", "level":3 }
-  ]
+  "key": "CH-000015-0-1697247"
 }

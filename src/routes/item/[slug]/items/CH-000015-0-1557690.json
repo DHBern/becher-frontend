@@ -1,22 +1,17 @@
 {
-  "date": "1958",
-  "ext": 14,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ea16a2e9-18ef-4b5d-a00b-99cf0ebddba6\/",
-  "signature": "SLA-UB-A-1-d-3-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Hochmusikalische alte Dame (Harfe)",
+  "ext": [ "Typoskript-Durchschlag, 7 Blatt, wenige Korrekturen, paginiert, vollständig (2 Exemplare)" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-3-1_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 14,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1958" ],
+  "note": [ "[Biblio] Becher, Ulrich: Männer machen Fehler. Geschichten der Windrose. Rowohlt-Verlag 1958, S. 240-245." ],
+  "signature": "SLA-UB-A-1-d-3-1",
+  "title": "Becher, Ulrich: Hochmusikalische alte Dame (Harfe)",
+  "content": [ "Spielt in Berlin um 1907. Becher verarbeitet die Erlebnisse seiner Mutter, die als Harfenlehrerin von einem pensionierten, preußischen Oberstleutnant angestellt worden war, um seiner Gattin als Wiedergutmachung für lebenslange Unterdrückung Unterricht zu erteilen." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557690" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557690",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Männer machen Fehler. Geschichten der Windrose", "level":3 },
-    { "'title":"Becher, Ulrich: Hochmusikalische alte Dame", "level":4 }
-  ]
+  "key": "CH-000015-0-1557690"
 }

@@ -1,20 +1,20 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Sammelwerke",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Männer machen Fehler, Geschichten der Windrose, [Sammelwerk]",
+  "ext": [ "228 Blatt (453 Seiten) Druck. Mit handschriftlichen Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Umbruchexemplar" ],
+  "signature": "DEA-B-3-1-0017.A.01.04.0002",
+  "title": "Männer machen Fehler, Geschichten der Windrose, [Sammelwerk]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283950650",
     "gnd": "https:\/\/d-nb.info\/1283950650"
   },
+  "type": "work",
   "category": 1099094,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283950650",
-  "levels": [  ]
+  "key": "(DE-101)1283950650"
 }

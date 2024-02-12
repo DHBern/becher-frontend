@@ -1,24 +1,21 @@
 {
-  "date": "25. Dezember 1953",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-LOEW-1",
-  "holding_institution": "SLA",
-  "title": "Löwenstein, Helga zu an Becher, Ulrich; Korrespondenz, Berlin",
+  "ext": [ "1 Briefkarte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Löwenstein, Helga zu (1910-2004)" ],
+  "lang": [  ],
+  "date": [ "25. Dezember 1953" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-LOEW-1",
+  "title": "Löwenstein, Helga zu an Becher, Ulrich; Korrespondenz, Berlin",
+  "content": [ "Zeitungsausschnitt mit Ankündigung der Aufführung von UBs Stück \"Mademoiselle Löwenzorn\" in Berlin, Göttingen und Wien, auf Karte geklebt." ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117169269" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1642055" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1642055",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Löwenstein, Helga zu an Becher, Ulrich; Korrespondenz, Berlin",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1642055"
 }

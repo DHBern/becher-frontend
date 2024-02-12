@@ -1,24 +1,21 @@
 {
-  "date": "26. März 1959",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-BACH-BECHD-17",
-  "holding_institution": "SLA",
-  "title": "Bach, Susanne an Becher Dana; Korrespondenz, Salzburg;\nBasel",
+  "ext": [ "1 Postkarte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Salzburg;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Bach, Susanne (1909-1997)" ],
+  "lang": [  ],
+  "date": [ "26. März 1959" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BACH-BECHD-17",
+  "title": "Bach, Susanne an Becher Dana; Korrespondenz, Salzburg;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/12269886X" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1651323" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1651323",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Bach, Susanne an Becher Dana; Korrespondenz, Bellerive sur Allier;\nParis;\nRio de Janeiro;\nIteer;\nMorro Azul;\nMünchen",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1651323"
 }

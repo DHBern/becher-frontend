@@ -1,22 +1,19 @@
 {
-  "date": "1933",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-3-c",
-  "holding_institution": "SLA",
-  "title": "Becher, Dana und Becher, Ulrich: Hochzeitsfotografie",
+  "ext": [ "1 Fotografie, s\/w, ca. 10x12.5 cm, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1933" ],
+  "encl": [  ],
+  "note": [ "[Inscription] Vorderseite: Die Hochzeit der Tochter Roda Rodas" ],
+  "signature": "SLA-UB-C-4-b-3-c",
+  "title": "Becher, Dana und Becher, Ulrich: Hochzeitsfotografie",
+  "content": [ "Abgebildet: Becher, Ulrich; Roda Becher, Dana; Hochzeitsfoto" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565949" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "item",
-  "key": "CH-000015-0-1565949",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von der Familie", "level":4 }
-  ]
+  "key": "CH-000015-0-1565949"
 }

@@ -1,24 +1,21 @@
 {
-  "date": "18. November 1936",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-ELI-07",
-  "holding_institution": "SLA",
-  "title": "Eliacheff, Anatole an Becher, Ulrich; Korrespondenz",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Eliacheff, Anatole (-1961)" ],
+  "lang": [  ],
+  "date": [ "18. November 1936" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-ELI-07",
+  "title": "Eliacheff, Anatole an Becher, Ulrich; Korrespondenz",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1595439" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1595439",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Eliacheff, Anatole an Becher, Ulrich; Korrespondenz, Berlin; Lech; Paris; Rom",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1595439"
 }

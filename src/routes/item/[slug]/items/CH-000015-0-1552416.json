@@ -1,20 +1,19 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Autorenbibliothek",
-  "iiif-manifest": "",
+  "ext": [ "1 Exemplar, 188 S." ],
+  "category_global_name": "Autorenbibliothek, 1930-1990",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Turel, Adrien (1890-1957)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "[Widmung] hs. Widmung auf Titelblatt: \"für Herrn Ulrich Becher. [...] Im Namen des Turel-Archivs, Luise Turel-Welli\"" ],
   "signature": "SLA-UB-D-4-46",
-  "holding_institution": "SLA",
   "title": "\n                     \n                  ",
-  "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118624636" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552416" },
-  "category": 4099094,
-  "entry_type": "item",
-  "key": "CH-000015-0-1552416",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Autorenbibliothek", "level":2 }
-  ]
+  "type": "collItem",
+  "category": 40400,
+  "key": "CH-000015-0-1552416"
 }

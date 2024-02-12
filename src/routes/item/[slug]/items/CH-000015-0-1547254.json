@@ -1,20 +1,19 @@
 {
-  "date": "15. August 1978",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-3-e",
-  "holding_institution": "SLA",
-  "title": "Bowen, Wayne: Social comment in three plays by Ulrich Becher. Niemand - Samba - Feuerwasser",
+  "ext": [ "Ts. Dg., 31 Bl." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Bowen, Wayne (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "15. August 1978" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-3-e",
+  "title": "Bowen, Wayne: Social comment in three plays by Ulrich Becher. Niemand - Samba - Feuerwasser",
+  "content": [ "Seminararbeit" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1547254" },
+  "type": "collItem",
   "category": 4099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1547254",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sekundärliteratur", "level":2 }
-  ]
+  "key": "CH-000015-0-1547254"
 }

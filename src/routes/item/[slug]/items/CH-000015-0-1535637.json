@@ -1,22 +1,19 @@
 {
-  "date": "Februar 1953",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-a-09-e",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Kariokischer Karneval. Die Schau, Wien",
+  "ext": [ "" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "Februar 1953" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] S. 7, Die Schau. Halbmonatsschrift für Kultur und Politik, Nr. 4" ],
+  "signature": "SLA-UB-D-1-a-09-e",
+  "title": "Becher, Ulrich: Kariokischer Karneval. Die Schau, Wien",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535637" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535637",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Erzählungen", "level":3 },
-    { "'title":"Becher, Ulrich: Nur ein kleiner Dreh", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535637"
 }

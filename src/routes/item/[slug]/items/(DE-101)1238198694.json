@@ -1,20 +1,22 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Selbstständige Belegexemplare",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Konvolut von Zeitungsausschnitten u. Ä. mit Beiträgen über Ulrich Becher, Der Herr kommt aus Bahia",
+  "ext": [ "circa 18 Einheiten Druck, teilweise Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.04.0016",
+  "title": "Konvolut von Zeitungsausschnitten u. Ä. mit Beiträgen über Ulrich Becher, Der Herr kommt aus Bahia",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1238198694",
     "gnd": "https:\/\/d-nb.info\/1238198694"
   },
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Series",
-  "key": "(DE-101)1238198694",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "(DE-101)1238198694"
 }

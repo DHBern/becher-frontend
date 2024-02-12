@@ -1,24 +1,21 @@
 {
-  "date": "4. April 1969",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-ENGEL-BECHD-2",
-  "holding_institution": "SLA",
-  "title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Mumbai;\nBasel",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Mumbai;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Engelhardt, Jürgen (20. Jhd.)" ],
+  "lang": [  ],
+  "date": [ "4. April 1969" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ENGEL-BECHD-2",
+  "title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Mumbai;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685051" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685051",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Bregenz;\nSchwarzach;\nMumbai;\nAugsburg",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1685051"
 }

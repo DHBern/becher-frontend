@@ -1,20 +1,22 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Selbstständige Belegexemplare",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Konvolut von Zeitschriften-Beiträgen von Martin Roda Becher, in Heften",
+  "ext": [ "17 Seiten insgesamt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [ "Martin Roda Becher" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.03.0009",
+  "title": "Konvolut von Zeitschriften-Beiträgen von Martin Roda Becher, in Heften",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-123712817X",
     "gnd": "https:\/\/d-nb.info\/123712817X"
   },
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Series",
-  "key": "(DE-101)123712817X",
-  "levels": [  ]
+  "type": "lifeDoc",
+  "category": 303,
+  "key": "(DE-101)123712817X"
 }

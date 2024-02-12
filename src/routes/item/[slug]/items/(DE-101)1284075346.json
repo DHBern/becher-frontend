@@ -1,20 +1,27 @@
 {
-  "date": "1947",
-  "ext": 3,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b5649e2c-2c4a-4e79-b67d-192bddc52315\/",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284075346_00000010.tif\/info.json",
-  "prototype": true,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Rolf Becher" ],
+  "lang": [  ],
+  "date": [ "1947" ],
+  "encl": [  ],
+  "note": [
+    "Vorliegende Namensform Verfasser: Brietze",
+    "Vorliegende Namensform Adressat: Brietze"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.0268",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215371292" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284075346",
     "gnd": "https:\/\/d-nb.info\/1284075346"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284075346",
-  "levels": [  ]
+  "key": "(DE-101)1284075346"
 }

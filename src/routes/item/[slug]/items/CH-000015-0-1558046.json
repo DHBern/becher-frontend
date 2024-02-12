@@ -1,23 +1,17 @@
 {
-  "date": "1945 bis 1969",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-2-c-2-2-6",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich:  Murmeljagd II. Textstufe F",
+  "ext": [ "Typoskript Durchschlag, 88 Blatt (S. 6-80, 23a-e,m + 4x 2 S. Anm. an Lekt.), paginiert, handschriftliche und maschinelle Korrekturen+ Typoskript, 32 Blatt, (S. 36-40, 53-80), wenige Korekturen. + Typoskript Durchschlag, 35 Blatt (S. 15, 35-38, 52-80, 73 doppelt)" ],
   "category_global_name": "Romane",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1945 bis 1969" ],
+  "note": [ "[Bemerkung] Namen der Druckfassung (Xane, ten Breukaa,...)" ],
+  "signature": "SLA-UB-A-2-c-2-2-6",
+  "title": "Becher, Ulrich:  Murmeljagd II. Textstufe F",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558046" },
+  "type": "work",
   "category": 10200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558046",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Romane", "level":2 },
-    { "'title":"Murmeljagd", "level":3 },
-    { "'title":"Becher, Ulrich: Murmeljagd. Typoskripte", "level":4 },
-    { "'title":"Becher, Ulrich: Murmeljagd II. Licht im See", "level":5 }
-  ]
+  "key": "CH-000015-0-1558046"
 }

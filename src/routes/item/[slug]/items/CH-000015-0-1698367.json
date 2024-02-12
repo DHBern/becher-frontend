@@ -1,24 +1,21 @@
 {
-  "date": "21. Januar 1958",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-RUECK-11",
-  "holding_institution": "SLA",
-  "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher, Basel;\nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [  ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel;\nBasel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "21. Januar 1958" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-RUECK-11",
+  "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher, Basel;\nBasel",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698367" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1698367",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    {
-      "'title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1698367"
 }

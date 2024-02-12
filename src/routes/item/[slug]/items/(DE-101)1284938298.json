@@ -1,20 +1,22 @@
 {
-  "date": "1976",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Ulrich Becher, William's Ex-Casino, NDR II, [Rundfunk-Typoskript]",
+  "ext": [ "2 Blatt maschinenschriftlich mit Korrekturen, Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hanns-Jochen Kaffsack" ],
+  "lang": [  ],
+  "date": [ "1976" ],
+  "encl": [  ],
+  "note": [ "Sendereihe: Taschenbücher und Krimis", "Dasselbe: 2 Blatt" ],
+  "signature": "DEA-B-3-1-0017.D.03.0020",
+  "title": "Ulrich Becher, William's Ex-Casino, NDR II, [Rundfunk-Typoskript]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1078425116" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284938298",
     "gnd": "https:\/\/d-nb.info\/1284938298"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284938298",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284938298"
 }

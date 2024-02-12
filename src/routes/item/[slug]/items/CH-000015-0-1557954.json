@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-76-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Ödipus",
+  "ext": [ "Manuskript, 1 Notizblatt" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Rückseite Mrs. Elsbeth Roda Roda, Siehlporte Platz, Zurich Switzerland Fragment, nicht klar ob zu f-76-1 gehörend" ],
+  "signature": "SLA-UB-A-1-f-76-2",
+  "title": "Becher, Ulrich: Ödipus",
+  "content": [ "\"Theben-nah lauert die Sphinx noch immer, nur Sage der Sagel bleibt des Oedipus Sieg[.] Stets räkelt am Weg scih das Vieh\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557954" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557954",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Ödipus und Iokaste", "level":4 }
-  ]
+  "key": "CH-000015-0-1557954"
 }

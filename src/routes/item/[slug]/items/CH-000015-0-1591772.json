@@ -1,21 +1,21 @@
 {
-  "date": "7. September 1974",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-BUN-1",
-  "holding_institution": "SLA",
-  "title": "Bunin, Nikolaj an Becher, Ulrich; Korrespondenz, Moskau",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Moskau" ],
+  "ext_num": 0,
+  "creator": [ "Bunin, Nikolaj (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "7. September 1974" ],
+  "encl": [ "Briefkuvert" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-BUN-1",
+  "title": "Bunin, Nikolaj an Becher, Ulrich; Korrespondenz, Moskau",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1591772" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1591772",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    { "'title":"Bunin, Nikolaj an Becher, Ulrich; Korrespondenz, Moskau", "level":3 }
-  ]
+  "key": "CH-000015-0-1591772"
 }

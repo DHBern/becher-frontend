@@ -1,22 +1,20 @@
 {
-  "date": "1965",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-66-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Alp 39. Kurzgeschichte",
+  "ext": [ "Typoskript, 2 Blatt, paginiert, vollständig" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1965" ],
+  "note": [
+    "[Bemerkung] Handlung entspr. Zarli Zuan-Episode in Murmeljagd",
+    "[Biblio] 1965 veröffentlicht"
+  ],
+  "signature": "SLA-UB-A-1-f-66-1",
+  "title": "Becher, Ulrich: Alp 39. Kurzgeschichte",
+  "content": [ "Politischer Flüchtling aus Österreich wohnt Mitte Juni in Pontresina dem Selbstmord des Druckereibesitzers Zarli Zuan bei, als er den Gastwirt Caduff-Bonnard zum Nachtfischen nahe des Landungsstegs bei der Villa Muongia. Erklärt wiederkehrende Alpträume mitden Umständen der Zeit und der Umgebung (\"Alpdruck kommt von Alp\")" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557931" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557931",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Alp 39", "level":4 }
-  ]
+  "key": "CH-000015-0-1557931"
 }

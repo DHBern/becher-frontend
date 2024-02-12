@@ -1,21 +1,21 @@
 {
-  "date": "3. November 1947",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-BECH-225",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, New York",
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "New York" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "3. November 1947" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-225",
+  "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, New York",
+  "content": [ "UB wünscht Eltern baldige Genesung und hofft, sich endlich als Autor durchsetzen zu können; Grosz, Mehring; Arbeit am Roman \"Murmeljagd\"." ],
+  "recipient": [ "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553644" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1553644",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1553644"
 }

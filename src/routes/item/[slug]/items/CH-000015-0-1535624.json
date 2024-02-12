@@ -1,22 +1,19 @@
 {
-  "date": "1978",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-a-09-d",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Nur ein kleiner Dreh",
+  "ext": [ "1 Bl., Kopie eines Zeitungsartikels mit masch. Anmerkung für Verlag von SIFF" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1978" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Für SIFF" ],
+  "signature": "SLA-UB-D-1-a-09-d",
+  "title": "Becher, Ulrich: Nur ein kleiner Dreh",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535624" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535624",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Erzählungen", "level":3 },
-    { "'title":"Becher, Ulrich: Nur ein kleiner Dreh", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535624"
 }

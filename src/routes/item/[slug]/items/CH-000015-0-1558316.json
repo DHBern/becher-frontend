@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 1,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/811597d0-3dc0-459b-a294-02e2ee987f98\/",
-  "signature": "SLA-UB-A-3-e-1-8",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Flucht in die Schweiz",
+  "ext": [ "Typoskript, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-1-8_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] bis auf den Austausch von Teufel durch Fliegengott gleich wie Heimkehr" ],
+  "signature": "SLA-UB-A-3-e-1-8",
+  "title": "Becher, Ulrich: Flucht in die Schweiz",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558316" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558316",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Weitere Gedichte und Gedichtskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Heimkehr in die Alpenfeste", "level":4 }
-  ]
+  "key": "CH-000015-0-1558316"
 }

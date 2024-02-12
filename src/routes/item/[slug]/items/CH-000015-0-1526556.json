@@ -1,22 +1,19 @@
 {
-  "date": "1932",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-b-1-a",
-  "holding_institution": "SLA",
-  "title": "Universität Leipzig: Androhung der Exmatrikulation, Leipzig",
+  "ext": [ "1 Brief, maschinenschriftlich, 1 Seite" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1932" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-1-b-1-a",
+  "title": "Universität Leipzig: Androhung der Exmatrikulation, Leipzig",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1526556" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1526556",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Studium", "level":3 },
-    { "'title":"Administrative Dokumente der Universität", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1526556"
 }

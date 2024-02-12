@@ -1,22 +1,19 @@
 {
-  "date": "1948",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-1-j",
-  "holding_institution": "SLA",
-  "title": "CEP Bilderdienst: Fotografien von Ulrich Becher",
+  "ext": [ "1 Fotografie, s\/w, ca 16x11.5 cm, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1948" ],
+  "encl": [  ],
+  "note": [ "[Inscription] Rückseitig: Foto:Schriftsteller Ulrich Becher Autor von \"Bockerer\" \/ \"Abend\" Heute Kopfbild" ],
+  "signature": "SLA-UB-C-4-b-1-j",
+  "title": "CEP Bilderdienst: Fotografien von Ulrich Becher",
+  "content": [ "Abgebildet: Becher, Ulrich mit Pfeife" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566023" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1566023",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Professionelle (Portrait-)Fotografien von Ulrich Becher", "level":4 }
-  ]
+  "key": "CH-000015-0-1566023"
 }

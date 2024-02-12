@@ -1,22 +1,17 @@
 {
-  "date": "1943 bis 1944",
-  "ext": 2,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/2a087e08-5b36-45f9-aa06-184641d4eb00\/",
-  "signature": "SLA-UB-A-3-d-2-26",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Die Schröder, Krupps",
+  "ext": [ "Typoskript, 8 Zeilen" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-26_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Abgeschnittene S. von hellblauem Briefpapier, Rückseite mit Stempelaufdruck der Adresse: Ulrich Becher, 316 West 88 Str., New York 24, N.Y." ],
+  "signature": "SLA-UB-A-3-d-2-26",
+  "title": "Becher, Ulrich: Die Schröder, Krupps",
+  "content": [ "Stammen aus dem letzten Gesang, nicht identisch mit dem Abdruck." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558304" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558304",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Franz Patenkindt", "level":3 },
-    { "'title":"Becher, Ulrich: Franz Patenkindt. Vorstufen und Entwürfe", "level":4 }
-  ]
+  "key": "CH-000015-0-1558304"
 }

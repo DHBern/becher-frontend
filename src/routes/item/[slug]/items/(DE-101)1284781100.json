@@ -1,20 +1,27 @@
 {
-  "date": "1951",
-  "ext": 3,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/164fee78-4a82-447d-9ba3-3266c2992ac1\/",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Postkarte",
+  "ext": [ "1 Karte maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284781100_00000010.tif\/info.json",
-  "prototype": true,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1951" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Ulrich Becher co Schillertheater Berlin",
+    "Vorliegende Namensform Adressat: Herrn Dr. Richard Becher"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0111",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Richard Becher", "Elise Becher-Ulrich" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284781100",
     "gnd": "https:\/\/d-nb.info\/1284781100"
   },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284781100",
-  "levels": [  ]
+  "key": "(DE-101)1284781100"
 }

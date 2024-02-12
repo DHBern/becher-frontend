@@ -1,24 +1,21 @@
 {
-  "date": "s.d.",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-UNBEK-39",
-  "holding_institution": "SLA",
-  "title": "Unbekannte Korrespondenzpartner von Roda Becher, Dana; Korrespondenz",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [  ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-UNBEK-39",
+  "title": "Unbekannte Korrespondenzpartner von Roda Becher, Dana; Korrespondenz",
+  "content": [ "Brieffragment aus Dana Roda Bechers Feder" ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1699413" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1699413",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    {
-      "'title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1699413"
 }

@@ -1,22 +1,19 @@
 {
-  "date": "1970",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-4-b",
-  "holding_institution": "SLA",
-  "title": "Rohwohlt, Heinrich, Miller, Henry",
+  "ext": [ "2 Fotografien, s\/w, ca. 14x10 cm, davon 1 Fotokopie" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1970" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-4-b-4-b",
+  "title": "Rohwohlt, Heinrich, Miller, Henry",
+  "content": [ "Abgebildet: Becher, Ulrich mit Miller, Henry und Ledig-Rohwohlt, Heinrich Maria" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565846" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565846",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von Freunden und Bekannten", "level":4 }
-  ]
+  "key": "CH-000015-0-1565846"
 }

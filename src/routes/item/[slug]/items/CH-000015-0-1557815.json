@@ -1,22 +1,17 @@
 {
-  "date": "1953",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-21-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Moment in Genua",
+  "ext": [ "Typoskript, 3 Blatt, unvollständig, handschriftliche Korrekturen, paginiert, Ausstreichungen und Ergänzungen" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "note": [ "[Bemerkung] Rückseite (Blatt 2-3):Publikation von Kirche und Theater, Ev. Pressehaus Bethel, 06.06.1953, mit Hinweis auf \"Feuerwasser\", Gutachten fehlt. Autorenangabe: Ulysse Taverna\nS. 1 wurde aus anderem Dossier hinzugefügt, die ersten drei Zeilen auf S. 1 stammen aus: Verhör eines Passlosen. Rückseite 1 zur Hälfte Typoskript [Murmeljagd], Rückseite 2 und 3" ],
+  "signature": "SLA-UB-A-1-f-21-1",
+  "title": "Becher, Ulrich: Moment in Genua",
+  "content": [ "Spielt in den frühen fünfziger Jahren; Ex-Emigrant beobachtet im Zug eine engl. Kleinbürgerfamilie, die dem deutschen Wirtschaftswunder-Trend folgt und zum Campingurlaub nach Italien fährt." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557815" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557815",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Moment in Genua", "level":4 }
-  ]
+  "key": "CH-000015-0-1557815"
 }

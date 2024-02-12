@@ -1,20 +1,27 @@
 {
-  "date": "1976",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Guy Stern", "University of Cincinnati" ],
+  "lang": [  ],
+  "date": [ "1976" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: University of Cincinnati, Cincinnati, Ohio, Office of University Dean for Graduate Education & Research",
+    "Vorliegende Namensform Verfasser: Professor Dr. Guy Stern and Professor Dr. Dorothy Wartenberg"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.1793",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/115830324", "https:\/\/d-nb.info\/gnd\/18190-0" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284310825",
     "gnd": "https:\/\/d-nb.info\/1284310825"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284310825",
-  "levels": [  ]
+  "key": "(DE-101)1284310825"
 }

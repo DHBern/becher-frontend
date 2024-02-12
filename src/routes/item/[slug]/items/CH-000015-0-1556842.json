@@ -1,21 +1,19 @@
 {
-  "date": "10. bis 12. Juni 1936",
-  "ext": 0,
-  "category_local_name": "Berufliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-2-a-02",
-  "holding_institution": "SLA",
-  "title": "Verlag Oprecht: Vertrag mit Becher, Ulrich, Zürich",
+  "ext": [ "1 Typoskript, maschinenschriftlich, 2 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Zürich" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "10. bis 12. Juni 1936" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-2-a-02",
+  "title": "Verlag Oprecht: Vertrag mit Becher, Ulrich, Zürich",
+  "content": [ "Vertrag zum Buch \"Die Eroberer. Geschichten aus Europa\", unterzeichnet" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556842" },
+  "type": "lifeDoc",
   "category": 3099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1556842",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Berufliche Dokumente", "level":2 },
-    { "'title":"Verlagsverträge und Vollmachten", "level":3 }
-  ]
+  "key": "CH-000015-0-1556842"
 }

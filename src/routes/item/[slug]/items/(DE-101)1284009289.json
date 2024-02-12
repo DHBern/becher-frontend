@@ -1,20 +1,23 @@
 {
-  "date": "1981",
-  "ext": 0,
-  "category_local_name": "Notizbücher",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Notizbuch zum Text Önone",
+  "ext": [ "1 Band (74 Blatt) handschriftlich, auch von Dana Becher" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1981" ],
+  "note": [
+    "Enthält auch Notizen zu den Texten: Krise im Speisewagen; Abseits vom Rodeo; Graben-Bajonette",
+    "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0051",
+  "title": "Notizbuch zum Text Önone",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284009289",
     "gnd": "https:\/\/d-nb.info\/1284009289"
   },
+  "type": "work",
   "category": 10700,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284009289",
-  "levels": [  ]
+  "key": "(DE-101)1284009289"
 }

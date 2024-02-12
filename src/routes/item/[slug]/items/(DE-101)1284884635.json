@@ -1,20 +1,24 @@
 {
-  "date": "1956",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Johannes Hoffmann" ],
+  "lang": [  ],
+  "date": [ "1956" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Johannes Hoffmann, Ministerpräsident a.D." ],
+  "signature": "DEA-B-3-1-0017.B.04.0098",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Elise Becher-Ulrich" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118944959" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284884635",
     "gnd": "https:\/\/d-nb.info\/1284884635"
   },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284884635",
-  "levels": [  ]
+  "key": "(DE-101)1284884635"
 }

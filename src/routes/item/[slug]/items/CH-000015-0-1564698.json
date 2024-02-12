@@ -1,23 +1,32 @@
 {
-  "date": "1960",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-1-b-2",
-  "holding_institution": "SLA",
-  "title": "Todesanzeige von Elsbeth Roda Roda geb. Leuckfeld von Weysen, Basel;\nBerlin;\nTorres",
+  "ext": [ "1 Bogen, maschinenschriftlich, mit handschriftlichen Ergänzungen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel;\nBerlin;\nTorres" ],
+  "ext_num": 0,
+  "creator": [
+    "Becher, Ulrich (1910-1990)",
+    "Roda Becher, Dana (1909-1992)",
+    "Becher, Martin Roda (1944-)",
+    "Zeppelin, Harro von (1901-)",
+    "Zeppelin, Marius von (20.\/21. Jh.)",
+    "Zeppelin, Andres von (20. Jh.)",
+    "Zeppelin, Elisabeth von (20.\/21.Jh.)"
+  ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-1-b-2",
+  "title": "Todesanzeige von Elsbeth Roda Roda geb. Leuckfeld von Weysen, Basel;\nBerlin;\nTorres",
+  "content": [  ],
+  "creator_uri": [
+    "https:\/\/d-nb.info\/gnd\/118507958",
+    "https:\/\/d-nb.info\/gnd\/139244077",
+    "https:\/\/d-nb.info\/gnd\/121205207",
+    "https:\/\/d-nb.info\/gnd\/139357556"
+  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564698" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564698",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Persönliche Dokumente", "level":4 },
-    { "'title":"Familiäre Dokumente", "level":5 }
-  ]
+  "key": "CH-000015-0-1564698"
 }

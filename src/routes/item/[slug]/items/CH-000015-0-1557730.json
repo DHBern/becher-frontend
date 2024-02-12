@@ -1,22 +1,17 @@
 {
-  "date": "1964",
-  "ext": 38,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/4898012d-d7b5-4996-925b-bcc3bc9077f8\/",
-  "signature": "SLA-UB-A-1-e-3-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der obligate Ausfall (2. Fassung)",
+  "ext": [ "Typoskript, 12. Blatt, paginiert, unvollständig (S. 13 fehlt) + Durchschlag, 26 Blatt, vollständig (doppelt)" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-3-2_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 38,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1964" ],
+  "note": [ "[Biblio] Am 6.6.1964 in der Stuttgarter Zeitung veröffentlicht. Becher, Ulrich: Vom Unzulänglichen der Wirklichkeit. 10 nicht so nette Geschichten. Basel 1983, S. 235-249" ],
+  "signature": "SLA-UB-A-1-e-3-2",
+  "title": "Becher, Ulrich: Der obligate Ausfall (2. Fassung)",
+  "content": [ "Der Nahe bei Florenz wohnhafte Schweizer Zay, angehender Professor an der Universität Basel, muss beinahe täglich einen eigenartigen \"Angriff\" einer Hundemeute über sich ergehen lassen. Während er gewöhnlich mit seinem Bergstock und Steinen die Hunde abwehrt, merkt er eines Tages, als er Stock und Steine vergessen hatte, dass die Hunde es gar nicht auf ihn abgesehen haben." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557730" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557730",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Vom Unzulänglichen der Wirklichkeit", "level":3 },
-    { "'title":"Becher, Ulrich: Der obligate Ausfall", "level":4 }
-  ]
+  "key": "CH-000015-0-1557730"
 }

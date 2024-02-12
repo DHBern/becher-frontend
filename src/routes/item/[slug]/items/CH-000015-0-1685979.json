@@ -1,21 +1,21 @@
 {
-  "date": "1. Juli 1958",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-MAD-MECH-1",
-  "holding_institution": "SLA",
-  "title": "Madame an Mechnig, Elfriede; Korrespondenz, München, Berlin;\nBerlin, Basel",
+  "ext": [ "1 Briefumschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1026358825" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "München, Berlin;\nBerlin, Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1. Juli 1958" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MAD-MECH-1",
+  "title": "Madame an Mechnig, Elfriede; Korrespondenz, München, Berlin;\nBerlin, Basel",
+  "content": [  ],
+  "recipient": [ "Mechnig, Elfriede (1901-1986)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685979" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685979",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Madame an Mechnig, Elfriede; Korrespondenz, München", "level":3 }
-  ]
+  "key": "CH-000015-0-1685979"
 }

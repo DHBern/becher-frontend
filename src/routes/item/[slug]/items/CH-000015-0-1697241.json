@@ -1,21 +1,21 @@
 {
-  "date": "21. August 1945",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-KOAR-1",
-  "holding_institution": "SLA",
-  "title": "Weinmann, Herbert P. an Roda Becher, Dana; Kondolenzschreiben, New York",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "New York" ],
+  "ext_num": 0,
+  "creator": [ "Weinmann, Herbert P. (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "21. August 1945" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-KOAR-1",
+  "title": "Weinmann, Herbert P. an Roda Becher, Dana; Kondolenzschreiben, New York",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697241" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1697241",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    { "'title":"Kondolenzschreiben Alexander Roda Roda", "level":3 }
-  ]
+  "key": "CH-000015-0-1697241"
 }

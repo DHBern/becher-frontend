@@ -1,21 +1,21 @@
 {
-  "date": "1930",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-ULRIM-BECHB-1",
-  "holding_institution": "SLA",
-  "title": "Ulrich, Martin an Becher, Benno; Korrespondenz, Berlin",
+  "ext": [ "1 Karte, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215294387" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Ulrich, Martin (1857-1926)" ],
+  "lang": [  ],
+  "date": [ "1930" ],
+  "encl": [ "Blatt m. hs. Notizen und einer Zeichnung, gehört wohl nicht zu der Karte" ],
+  "note": [ "[Datierung] s.d." ],
+  "signature": "SLA-UB-B-3-ULRIM-BECHB-1",
+  "title": "Ulrich, Martin an Becher, Benno; Korrespondenz, Berlin",
+  "content": [  ],
+  "recipient": [ "Becher, Benno (19.\/20. Jh.)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695301" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695301",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Ulrich, Martin an Becher, Benno; Korrespondenz, Berlin", "level":3 }
-  ]
+  "key": "CH-000015-0-1695301"
 }

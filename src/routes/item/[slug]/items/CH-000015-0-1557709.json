@@ -1,22 +1,17 @@
 {
-  "date": "1958",
-  "ext": 1,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f2407fdc-f3c0-4857-b8b5-bdfe63370ac0\/",
-  "signature": "SLA-UB-A-1-d-6-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Happy-End (Fragment)",
+  "ext": [ "Typoskript Einzelblatt" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-6-1_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1958" ],
+  "note": [ "[Bemerkung] Verm. älteres Typoskript, mit Titel, hier heisst Grosz noch Theodosius Boem, Baron d'Ertinger noch Altkammer (vgl. Namensgebung in Nachtigall will zum Vater fliegen und Der schwarze Hut)." ],
+  "signature": "SLA-UB-A-1-d-6-1",
+  "title": "Becher, Ulrich: Happy-End (Fragment)",
+  "content": [ "Die Geschichte spielt 1947 in Greenwich Village und erzählt die unvergängliche Liebe zwischen einem chilenischen Pianisten und einer Pragerin, die Ermordung des Betteldichters Bodenheim und zeigt Grosz mit seinem Freundeskreis." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557709" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557709",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Männer machen Fehler. Geschichten der Windrose", "level":3 },
-    { "'title":"Becher, Ulrich: Happy-End", "level":4 }
-  ]
+  "key": "CH-000015-0-1557709"
 }

@@ -1,22 +1,22 @@
 {
-  "date": "1952",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-6-d",
-  "holding_institution": "SLA",
-  "title": "\"Feuerwasser. Deutschamerkanische Chronik\"",
+  "ext": [ "3 Fotografien, s\/w, ca. 24x17.5 cm, 3 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1952" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Auf Mappe vermerkt \"Feuerwasser\", Fotografien sind nicht beschriftet.",
+    "[Datierung] Erstaufführung war am 29.11.1952 im Deutschen Theater in Göttingen, unklar ob es sich um diese Fotografien handelt"
+  ],
+  "signature": "SLA-UB-C-4-b-6-d",
+  "title": "\"Feuerwasser. Deutschamerkanische Chronik\"",
+  "content": [ "Fotografien einer Aufführung, vermutlich \"Feuerwasser\"" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565877" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565877",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von Theateraufführungen", "level":4 }
-  ]
+  "key": "CH-000015-0-1565877"
 }

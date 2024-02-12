@@ -1,22 +1,17 @@
 {
-  "date": "1933 bis 1958",
-  "ext": 12,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/38acc37d-e84c-4954-98da-13a3bec0e125\/",
-  "signature": "SLA-UB-A-1-d-5-4",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Madame Keckes Hut (3. Fassung)",
+  "ext": [ "Typoskript, 9 Blatt (S. 10 fehlt), handschriftliche Korrekturen + Typoskript, 9 Blatt (S. 10 fehlt), handschriftliche Korrekturen, unvollständig" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-5-4_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 12,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1933 bis 1958" ],
+  "note": [ "[Bemerkung] Ohne Titel" ],
+  "signature": "SLA-UB-A-1-d-5-4",
+  "title": "Becher, Ulrich: Madame Keckes Hut (3. Fassung)",
+  "content": [ "Absinthgeschwängerter Traum des Dieners Vigneau und Verwandlung von Frau und Hut, einer jeglichen Modernität abholde Dame und ein Paris zw. den Kriegen." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557701" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557701",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Männer machen Fehler. Geschichten der Windrose", "level":3 },
-    { "'title":"Becher, Ulrich: Madame Keckes Hut", "level":4 }
-  ]
+  "key": "CH-000015-0-1557701"
 }

@@ -1,20 +1,20 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Kleine Manuskripte und Typoskripte",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Letzte Liebe, Novelle",
+  "ext": [ "10 Blatt maschinenschriftlicher Durchschlag mit Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0126",
+  "title": "Letzte Liebe, Novelle",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283983362",
     "gnd": "https:\/\/d-nb.info\/1283983362"
   },
+  "type": "work",
   "category": 1099095,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283983362",
-  "levels": [  ]
+  "key": "(DE-101)1283983362"
 }

@@ -1,21 +1,19 @@
 {
-  "date": "1900 bis 1924",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-a-7",
-  "holding_institution": "SLA",
-  "title": "Heft, ohne Umschlag: Fotoalbum für Ulrich Becher",
+  "ext": [ "1 Heft, ohne Umschlag, mit handschriftlichen Notizen, 74 Seiten; darin 94 Fotografien, s\/w, geklebt, div. Formate" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900 bis 1924" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-4-a-7",
+  "title": "Heft, ohne Umschlag: Fotoalbum für Ulrich Becher",
+  "content": [ "Abgebildet: Ulrich, Martin; Ulrich, Anna Maria; Becher-Ulrich, Elise; Becher, Ulrich; Becher, Richard; Becher, Rolf u.a." ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565736" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565736",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Alben", "level":3 }
-  ]
+  "key": "CH-000015-0-1565736"
 }

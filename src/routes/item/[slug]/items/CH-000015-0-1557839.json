@@ -1,22 +1,17 @@
 {
-  "date": "1950 bis 1958",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-30-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der Bärenhecht",
+  "ext": [ "Typoskript, 1 Blatt, vollständig, Korrekturen handschriftlich und maschinell" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1950 bis 1958" ],
+  "note": [ "[Bemerkung] auf Vorder- und Rückseite Köpfe mit Rotstift gezeichnet, Name: Leo Mausum (Mausoleum?);\nSpielt in Basel - womöglich nach 1954" ],
+  "signature": "SLA-UB-A-1-f-30-1",
+  "title": "Becher, Ulrich: Der Bärenhecht",
+  "content": [ "Über die Grenzen einer Freundschaft oder von den vergeblichen Versuchen einen Hecht mit Freund Gou in Sankt Merian zu verspeisen." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557839" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557839",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Der Bärenhecht", "level":4 }
-  ]
+  "key": "CH-000015-0-1557839"
 }

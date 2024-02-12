@@ -1,28 +1,17 @@
 {
-  "date": "1945",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-c-6-4",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Nachtigall will zum Vater fliegen. Umschlagmappe",
+  "ext": [ "1 grüne Mappe mit handschriftlicher Beschriftung" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1945" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-1-c-6-4",
+  "title": "Becher, Ulrich: Nachtigall will zum Vater fliegen. Umschlagmappe",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557674" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557674",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    {
-      "'title": "Nachtigall will zum Vater fliegen. Ein Zyklus New Yorker Novellen in vier Nächten",
-      "level": 3
-    },
-    {
-      "'title": "Becher, Ulrich: New Yorker Novellen. Après-Texte und Materialien",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1557674"
 }

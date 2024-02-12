@@ -1,24 +1,21 @@
 {
-  "date": "29. Oktober 1923",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-ULR-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Ulrich, Martin u. Maria; Korrespondenz, Wickersdorf;\nBerlin",
+  "ext": [ "1 Postkarte, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wickersdorf;\nBerlin" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "29. Oktober 1923" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-ULR-3",
+  "title": "Becher, Ulrich an Ulrich, Martin u. Maria; Korrespondenz, Wickersdorf;\nBerlin",
+  "content": [ "Dank für Paket" ],
+  "recipient": [ "Ulrich, Martin (1857-1926)", "Ulrich-Rickenbach, Maria Elisabetha (1859-?)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586403" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1586403",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    {
-      "'title": "Becher, Ulrich an Ulrich, Martin u. Maria; Korrespondenz, Wickersdorf",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1586403"
 }

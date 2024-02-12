@@ -1,21 +1,19 @@
 {
-  "date": "1952 bis 1953",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-c-03",
-  "holding_institution": "SLA",
-  "title": "Deutsches Theater Göttingen. Feuerwasser, Göttingen",
+  "ext": [ "Programmheft (4 Exemplare)" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1952 bis 1953" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-c-03",
+  "title": "Deutsches Theater Göttingen. Feuerwasser, Göttingen",
+  "content": [ "Ankündigung \"Feuerwasser\" von Ulrich Becher" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538534" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1538534",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Programmhefte, Theaterprospekte und Verlagsvorschauen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1538534"
 }

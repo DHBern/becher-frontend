@@ -1,20 +1,24 @@
 {
-  "date": "1939",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich" ],
+  "recipient_uri": [  ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1939" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Charlotte Sara. Im Auftrag geschrieben von Dr. Blume, Amtsgerichtsrat" ],
+  "signature": "DEA-B-3-1-0017.B.04.0091",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284883329",
     "gnd": "https:\/\/d-nb.info\/1284883329"
   },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284883329",
-  "levels": [  ]
+  "key": "(DE-101)1284883329"
 }

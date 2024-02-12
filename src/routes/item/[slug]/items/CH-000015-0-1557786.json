@@ -1,22 +1,17 @@
 {
-  "date": "1930",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-13-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Einde eines Offiziers. Eine Geschichte zwischen zwei Kriegen",
+  "ext": [ "Titelblatt Typoskript, darauf viele hs. Notizen, Zeichnung" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1930" ],
+  "note": [ "[Biblio] 1950 unter Abänderungen und Erweiterungen unter dem Titel \"Die Schlacht von Jemeljan\" publiziert. Am 24.\/25.10.1959 in der Süddeutschen Zeitung unter dem Titel \"Die Schlacht bei Jemeljan\" erschienen." ],
+  "signature": "SLA-UB-A-1-f-13-3",
+  "title": "Becher, Ulrich: Einde eines Offiziers. Eine Geschichte zwischen zwei Kriegen",
+  "content": [ "Wie die unstillbare Kriegssehnsucht eines jungen Offiziers nach dem 1. Weltkrieg eine Straßenbahn im rechten Augenblick zum Feind mutieren lässt." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557786" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557786",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Die Schlacht von Jemeljan", "level":4 }
-  ]
+  "key": "CH-000015-0-1557786"
 }

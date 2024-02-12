@@ -1,21 +1,21 @@
 {
-  "date": "16. Dezember 1972",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-ZANKL-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Zankl, Horst an Becher, Dana; Korrespondenz, Zürich;\nBasel",
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Zürich;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Zankl, Horst (1944-1987)" ],
+  "lang": [  ],
+  "date": [ "16. Dezember 1972" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ZANKL-BECHD-1",
+  "title": "Zankl, Horst an Becher, Dana; Korrespondenz, Zürich;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1047467887" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695414" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695414",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Zankl, Horst an Becher, Dana; Korrespondenz, Zürich", "level":3 }
-  ]
+  "key": "CH-000015-0-1695414"
 }

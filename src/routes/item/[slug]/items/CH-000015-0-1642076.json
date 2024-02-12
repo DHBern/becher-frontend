@@ -1,21 +1,21 @@
 {
-  "date": "26. März 1975",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-MAR-3",
-  "holding_institution": "SLA",
-  "title": "Marti, Walter an Becher, Ulrich; Korrespondenz, ohne Ort",
+  "ext": [ "1 Briefkarte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/118731262" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "ohne Ort" ],
+  "ext_num": 0,
+  "creator": [ "Marti, Walter (1923-1999)", "Stäuble, Eduard (1924-2009)" ],
+  "lang": [  ],
+  "date": [ "26. März 1975" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-MAR-3",
+  "title": "Marti, Walter an Becher, Ulrich; Korrespondenz, ohne Ort",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)", "Marti, Walter (1923-1999)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118731262", "https:\/\/d-nb.info\/gnd\/118135201" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1642076" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1642076",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    { "'title":"Marti, Walter an Becher, Ulrich; Korrespondenz, Zürich", "level":3 }
-  ]
+  "key": "CH-000015-0-1642076"
 }

@@ -1,22 +1,22 @@
 {
-  "date": "1952",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-6-b",
-  "holding_institution": "SLA",
-  "title": "\"Samba\", Schlossparktheater Berlin, Berlin",
+  "ext": [ "9 Fotografien, s\/w, teilweise verso beschriftet, div. Formate, 9 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1952" ],
+  "encl": [  ],
+  "note": [
+    "[Datierung] Erstaufführung \"Samba\"",
+    "[Inscription] beigelegte Information: Deutsche Erstaufführung von \"Samba\" (Berlin, Schlossparktheater 1952) - Szenenbild mit Peter Mosbacher und Hanna Rucker"
+  ],
+  "signature": "SLA-UB-C-4-b-6-b",
+  "title": "\"Samba\", Schlossparktheater Berlin, Berlin",
+  "content": [ "Abgebildet: Mosbacher, Peter; Rucker, Hanna; Forster, Rudolf;  Held, Martin u.a.; Fotografien von Szenen aus dem Theater" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565873" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565873",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von Theateraufführungen", "level":4 }
-  ]
+  "key": "CH-000015-0-1565873"
 }

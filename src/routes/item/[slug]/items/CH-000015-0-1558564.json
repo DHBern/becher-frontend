@@ -1,22 +1,17 @@
 {
-  "date": "1949",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-4-d-2-4",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Samba. Spiel in 3 Akten. Frühe Fassung",
+  "ext": [ "Typoskript, 140 Blatt, handschriftliche Korrekturen und Anmerkungen, paginiert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1949" ],
+  "note": [ "[Bemerkung] Konvolut aus verschiedenen frühen Bild-Fassungen, z. T. recto\/verso." ],
+  "signature": "SLA-UB-A-4-d-2-4",
+  "title": "Becher, Ulrich: Samba. Spiel in 3 Akten. Frühe Fassung",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558564" },
+  "type": "work",
   "category": 10400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558564",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Dramen", "level":2 },
-    { "'title":"Samba. Schauspiel in drei Akten", "level":3 },
-    { "'title":"Becher, Ulrich: Samba. Typoskripte und Textbücher", "level":4 }
-  ]
+  "key": "CH-000015-0-1558564"
 }

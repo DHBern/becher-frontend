@@ -1,22 +1,17 @@
 {
-  "date": "1967",
-  "ext": 0,
-  "category_local_name": "Essays und Reden",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-6-a-25-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Aus der Spielmacherschule geplaudert",
+  "ext": [ "Typoskript Durchschlag, 33 Blatt (S. 16 fehlt), unterschiedlich paginiert, unterschiedliche Typoskripte" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1967" ],
+  "note": [ "[Biblio] Veröffentlicht als Nachwort: Spiele der Zeit 2, Aufbau-Verlag Berlin\/Weimar 1968, S. 311-332." ],
+  "signature": "SLA-UB-A-6-a-25-1",
+  "title": "Becher, Ulrich: Aus der Spielmacherschule geplaudert",
+  "content": [ "Zu seinen Erfahrungen als \"Spielemacher\", den einzelnen Stücken und deren Rezeption." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558757" },
+  "type": "work",
   "category": 10600,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558757",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Essays und Reden", "level":2 },
-    { "'title":"Artikel und Essays", "level":3 },
-    { "'title":"Becher, Ulrich: Aus der Spielmacherschule geplaudert", "level":4 }
-  ]
+  "key": "CH-000015-0-1558757"
 }

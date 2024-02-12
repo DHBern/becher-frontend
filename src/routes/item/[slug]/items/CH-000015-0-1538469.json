@@ -1,21 +1,19 @@
 {
-  "date": "Mai 1979",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-17",
-  "holding_institution": "SLA",
-  "title": "Caspar, Günter: Kleine Hommage an Ulrich Becher",
+  "ext": [ "Ts. Dg., 9 Bl., m. hs. Korr." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Caspar, Günter (1924-1999)" ],
+  "lang": [  ],
+  "date": [ "Mai 1979" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-17",
+  "title": "Caspar, Günter: Kleine Hommage an Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116467797" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538469" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1538469",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1538469"
 }

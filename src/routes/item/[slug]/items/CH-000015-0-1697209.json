@@ -1,24 +1,21 @@
 {
-  "date": "7. September 1989",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-FLASCH-06",
-  "holding_institution": "SLA",
-  "title": "Naumann, Uwe an Roda Becher, Dana; Korrespondenz, Hamburg",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Hamburg" ],
+  "ext_num": 0,
+  "creator": [ "Naumann, Uwe" ],
+  "lang": [  ],
+  "date": [ "7. September 1989" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-FLASCH-06",
+  "title": "Naumann, Uwe an Roda Becher, Dana; Korrespondenz, Hamburg",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)", "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697209" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1697209",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    {
-      "'title": "Flaschenpost: Briefwechsel zwischen Uwe Naumann\/Michel Töteberg und Dana Becher",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1697209"
 }

@@ -1,22 +1,19 @@
 {
-  "date": "25. Juni 1944",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-b-1-c",
-  "holding_institution": "SLA",
-  "title": "Listen mit Bezug zu Ulrich Bechers Werk, Brasilien",
+  "ext": [ "Manuskripte, handschriftlich, 1 Bogen; 1 Couvert, handschriftlich beschriftet" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "25. Juni 1944" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-b-1-c",
+  "title": "Listen mit Bezug zu Ulrich Bechers Werk, Brasilien",
+  "content": [ "Listen mit Texten von Ulrich Becher, datiert auf den 25.06.1944, betitelt mit \"Uli übergibt\"" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565701" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565701",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Richard (Vater)", "level":3 },
-    { "'title":"Persönliche Dokumente", "level":4 }
-  ]
+  "key": "CH-000015-0-1565701"
 }

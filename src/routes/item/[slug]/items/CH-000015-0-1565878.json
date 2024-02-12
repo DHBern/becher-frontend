@@ -1,22 +1,22 @@
 {
-  "date": "1948",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-6-e",
-  "holding_institution": "SLA",
-  "title": "\"Der Bockerer\", Theater",
+  "ext": [ "3 Fotografien, s\/w, div. Formate, 3 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1948" ],
+  "encl": [  ],
+  "note": [
+    "[Datierung] Erstaufführung 02.10.1948, Neues Theater in der Scala, Wien; bei den Fotografien handelt es sich kaum um diese Aufnahmen",
+    "[Inscription] Rückseitig: Beleg u. Honorar an Gisela Badura, Tübingen, Wilhelmstrasse 9, DER BOCKERER von Peter Preses u. Ulrich Becher Zusz: Walter Pohl"
+  ],
+  "signature": "SLA-UB-C-4-b-6-e",
+  "title": "\"Der Bockerer\", Theater",
+  "content": [ "Abgebildet: Ulrich Becher u.a.; drei identische Fotografien in unterscheidlichen Formaten" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565878" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565878",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von Theateraufführungen", "level":4 }
-  ]
+  "key": "CH-000015-0-1565878"
 }

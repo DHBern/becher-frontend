@@ -1,20 +1,24 @@
 {
-  "date": "1900",
-  "ext": 3,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/887c9ef3-288b-42bc-aa18-e1ad5c6c7a9a\/",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Postkarte",
+  "ext": [ "1 Karte maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284779289_00000010.tif\/info.json",
-  "prototype": true,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Ahn ten Mizzi Schimmelpanse, ... Schriftenschteller und Pfilosopf Machtin Rodda Becher" ],
+  "signature": "DEA-B-3-1-0017.B.02.0096",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Martin Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284779289",
     "gnd": "https:\/\/d-nb.info\/1284779289"
   },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284779289",
-  "levels": [  ]
+  "key": "(DE-101)1284779289"
 }

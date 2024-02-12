@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-3-e-22-7",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: An Kalypso (Titelblatt)",
+  "ext": [ "Typoskript, 1 Blatt, signiert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Rückseite Teil eines anderen Gedichts: \"Als sie Père Dupérieux zerknallten, der das Leben für seinen kinderreichen Nachbarn hingegeben…\"" ],
+  "signature": "SLA-UB-A-3-e-22-7",
+  "title": "Becher, Ulrich: An Kalypso (Titelblatt)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558388" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558388",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Weitere Gedichte und Gedichtskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: An Kalypso", "level":4 }
-  ]
+  "key": "CH-000015-0-1558388"
 }

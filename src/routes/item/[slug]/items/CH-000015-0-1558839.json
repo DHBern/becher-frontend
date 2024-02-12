@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Notizbücher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-7-a-16-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Schreibheft 16",
+  "ext": [ "92 Blatt, fast vollständig beschrieben, schwarzes Schreibheft mit rotem Rand, kariert + eingelegte Zettel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Alfredo tanzt (vgl. Altweibersommer\/ Sein Traum), Schulische Aufzeichnungen (Englischunterricht), 1. S. Aufzeichnungen zu Columbus, Rohrspatz und Pudelklopps;  Innenseite Einband, hs. vermerkt: \"Novelle: Alfredo tanzt, angefangen am 6. Oder 7. September\", grüne, blauschwarze Tinte, Bleistift" ],
+  "signature": "SLA-UB-A-7-a-16-1",
+  "title": "Becher, Ulrich: Schreibheft 16",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558839" },
+  "type": "work",
   "category": 10700,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558839",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Literarische Notizbücher und -hefte", "level":2 },
-    { "'title":"Literarische Notizbücher und -hefte", "level":3 },
-    { "'title":"Becher, Ulrich: Schreibheft 16", "level":4 }
-  ]
+  "key": "CH-000015-0-1558839"
 }

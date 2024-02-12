@@ -1,21 +1,19 @@
 {
-  "date": "1930 bis 1981",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-d-09",
-  "holding_institution": "SLA",
-  "title": "Nachrufe",
+  "ext": [ "ca. 15 Zeitungsartikel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1930 bis 1981" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-d-09",
+  "title": "Nachrufe",
+  "content": [ "Nachrufe von Jules Pascin, Hermann Ungar, Masaryk, Julius und Ethel Rosenberg, Heinrich Mann, Max Hermann-Neisse, Hans Frölicher, Erwin Piscator, Walter Muschg, Ludwig Berger, Fratellini, Hans Habe, Ludwig Winter" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1545521" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1545521",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Allgemeine Pressedokumentation", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1545521"
 }

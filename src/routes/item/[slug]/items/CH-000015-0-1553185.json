@@ -1,21 +1,21 @@
 {
-  "date": "10. Juli 1934",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-BECH-119",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Graz",
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Graz" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "10. Juli 1934" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Datierung gemäss Briefband \"Ich lebe in der Apokalypse\"" ],
+  "signature": "SLA-UB-B-1-BECH-119",
+  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Graz",
+  "content": [ "Warnt Eltern vor einer Rückreise nach Deutschland: \"Es ist selbstverständlich nicht anzunehmen, dass Dir etwas geschieht. Doch bei der immer wieder sich vollkommenen Willkürherrschaft braucht Dich nur ein geärgerter Prozessgegner, den Du vor Jahren besiegt hast und der jetzt, wie viele heruntergekommene Individuen, irgendeine einflussreiche Stellung innehat, zu denunzieren – um unsere Familie zu ruinieren.\"" ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553185" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1553185",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1553185"
 }

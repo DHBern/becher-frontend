@@ -1,25 +1,20 @@
 {
-  "date": "Juli 1939",
-  "ext": 0,
-  "category_local_name": "Essays und Reden",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-6-a-4-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Gefallene Kameraden der Freiheit (2. Fassung)",
+  "ext": [ "Typoskript, 4 Blatt, vollständig, mit handschriftlichen Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "Juli 1939" ],
+  "note": [
+    "[Bemerkung] entspricht bis auf wenige Änderungen der abgedruckten Fassung",
+    "[Biblio] Das Andere Deutschland. Jg. 6 1943, Nr. 66 (01.06.1943), S. 1; Kleines Mutter-Lesebuch"
+  ],
+  "signature": "SLA-UB-A-6-a-4-2",
+  "title": "Becher, Ulrich: Gefallene Kameraden der Freiheit (2. Fassung)",
+  "content": [ "Zum Gedenken an die Schriftsteller, die dem 1. oder 2. Weltkrieg zum Opfer fielen, Selbstmord begangen, oder im Exil starben." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558693" },
+  "type": "work",
   "category": 10600,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558693",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Essays und Reden", "level":2 },
-    { "'title":"Artikel und Essays", "level":3 },
-    {
-      "'title": "Becher, Ulrich: Gefallene Kameraden der Freiheit - Zum Gedenken an die ersten Bücherverbrennungen in Europa",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1558693"
 }

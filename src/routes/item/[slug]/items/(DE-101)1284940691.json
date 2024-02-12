@@ -1,20 +1,22 @@
 {
-  "date": "1985",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Besprechung von Ulrich Becher, Im Liliputanercafé",
+  "ext": [ "6 Blatt maschinenschriftlich mit Korrekturen, Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Uwe Naumann" ],
+  "lang": [  ],
+  "date": [ "1985" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0032",
+  "title": "Besprechung von Ulrich Becher, Im Liliputanercafé",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116900709" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940691",
     "gnd": "https:\/\/d-nb.info\/1284940691"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284940691",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284940691"
 }

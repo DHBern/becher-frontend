@@ -1,21 +1,19 @@
 {
-  "date": "30. Mai bis 21. Juni 1953",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-c-02",
-  "holding_institution": "SLA",
-  "title": "Wiener Festwochen. Das Spiel vom lieben Augustin, Wien",
+  "ext": [ "2 Flyer, 1 Programmheft, 1 Einladung" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "30. Mai bis 21. Juni 1953" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-c-02",
+  "title": "Wiener Festwochen. Das Spiel vom lieben Augustin, Wien",
+  "content": [ "Ankündigung und Programmheft für die Aufführung von \"Das Spiel vom lieben Augustin\" von ulrich becher und Peter Preses an den Wiener Festwochen" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538533" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1538533",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Programmhefte, Theaterprospekte und Verlagsvorschauen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1538533"
 }

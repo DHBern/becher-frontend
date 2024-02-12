@@ -1,24 +1,21 @@
 {
-  "date": "29. März 1990",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-LOEBEN-BECHD-35",
-  "holding_institution": "SLA",
-  "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Loeben, Renate von (1919-2012)" ],
+  "lang": [  ],
+  "date": [ "29. März 1990" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LOEBEN-BECHD-35",
+  "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216278423" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685873" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685873",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Loeben, Renate von an Becher, Dana; Korrespondenz, München;\nPrien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1685873"
 }

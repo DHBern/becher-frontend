@@ -1,22 +1,19 @@
 {
-  "date": "1909 bis 1992",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-2-c",
-  "holding_institution": "SLA",
-  "title": "Roda-Becher, Dana: Quartheft, ohne Umschlag: Briefentwürfe, Korrekturen, Geschichten, Basel",
+  "ext": [ "1 Heft, handschriftlich, 62 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1909 bis 1992" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Lebensdaten" ],
+  "signature": "SLA-UB-C-3-d-2-c",
+  "title": "Roda-Becher, Dana: Quartheft, ohne Umschlag: Briefentwürfe, Korrekturen, Geschichten, Basel",
+  "content": [ "Briefentwürfe, Texte, Korrekturen, Notizen; z.T. Einträge mit Ulrich Bechers Handschrift" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564876" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564876",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Roda-Becher, Dana: Notizen und Manuskripte", "level":4 }
-  ]
+  "key": "CH-000015-0-1564876"
 }

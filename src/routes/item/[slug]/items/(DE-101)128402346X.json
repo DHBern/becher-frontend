@@ -1,20 +1,20 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Ohne Titel, [Zeichnung, Porträt eines Mannes]",
+  "ext": [ "1 Blatt, 20,3 x 13,4 cm. Aufgeklebt auf Karton, 30,0 x 24,0 cm" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.03.0020",
+  "title": "Ohne Titel, [Zeichnung, Porträt eines Mannes]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128402346X",
     "gnd": "https:\/\/d-nb.info\/128402346X"
   },
+  "type": "work",
   "category": 10800,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)128402346X",
-  "levels": [  ]
+  "key": "(DE-101)128402346X"
 }

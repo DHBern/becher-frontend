@@ -1,21 +1,21 @@
 {
-  "date": "29. Dezember 1967",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-SCHOE-BECHD-2",
-  "holding_institution": "SLA",
-  "title": "Schönherr, Ludwig an Becher, Dana; Korrespondenz, Bensheim",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Bensheim" ],
+  "ext_num": 0,
+  "creator": [ "Schönherr, Ludwig (1967-1988)" ],
+  "lang": [  ],
+  "date": [ "29. Dezember 1967" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-SCHOE-BECHD-2",
+  "title": "Schönherr, Ludwig an Becher, Dana; Korrespondenz, Bensheim",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1061439488" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693419" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1693419",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Schönherr, Ludwig an Becher, Dana; Korrespondenz, Bensheim", "level":3 }
-  ]
+  "key": "CH-000015-0-1693419"
 }

@@ -1,20 +1,22 @@
 {
-  "date": "1969",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Ulrich Becher, Murmeljagd",
+  "ext": [ "1 Blatt maschinenschriftlich, Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Peter Vodosek" ],
+  "lang": [  ],
+  "date": [ "1969" ],
+  "encl": [  ],
+  "note": [ "Reproduktion von: Abschrift" ],
+  "signature": "DEA-B-3-1-0017.D.03.0048",
+  "title": "Ulrich Becher, Murmeljagd",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123142962" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284946347",
     "gnd": "https:\/\/d-nb.info\/1284946347"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284946347",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284946347"
 }

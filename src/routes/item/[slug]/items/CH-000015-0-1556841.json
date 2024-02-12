@@ -1,21 +1,19 @@
 {
-  "date": "18. Februar 1931",
-  "ext": 0,
-  "category_local_name": "Berufliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-2-a-01",
-  "holding_institution": "SLA",
-  "title": "Ernst Rowolt Verlag: Vertrag mit Becher, Ulrich, Berlin",
+  "ext": [ "1 Typoskript, maschinenschriftlich, 1 Bogen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "18. Februar 1931" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] In sehr schlechter Zustand" ],
+  "signature": "SLA-UB-C-2-a-01",
+  "title": "Ernst Rowolt Verlag: Vertrag mit Becher, Ulrich, Berlin",
+  "content": [ "Vertrag zu Novellenband \"Männer machen Fehler\", unterzeichnet" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556841" },
+  "type": "lifeDoc",
   "category": 3099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1556841",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Berufliche Dokumente", "level":2 },
-    { "'title":"Verlagsverträge und Vollmachten", "level":3 }
-  ]
+  "key": "CH-000015-0-1556841"
 }

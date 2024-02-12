@@ -1,20 +1,20 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Feuerwasser, deutschamerikanische Tragödie, [Theaterstück] - beiliegendes Material",
+  "ext": [ "11 Blatt maschinenschriftlicher Durchschlag und handschriftlich, auch von Dana Becher" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Es handelt sich hierbei um Notizen und ähnliches" ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0020",
+  "title": "Feuerwasser, deutschamerikanische Tragödie, [Theaterstück] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128394622X",
     "gnd": "https:\/\/d-nb.info\/128394622X"
   },
+  "type": "work",
   "category": 10400,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)128394622X",
-  "levels": [  ]
+  "key": "(DE-101)128394622X"
 }

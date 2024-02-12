@@ -1,21 +1,19 @@
 {
-  "date": "1961",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-c-18",
-  "holding_institution": "SLA",
-  "title": "Rowohlt Verlagswerbung. Herz des Hais",
+  "ext": [ "1 Bl." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-c-18",
+  "title": "Rowohlt Verlagswerbung. Herz des Hais",
+  "content": [ "Rowohlt-Nachrichten: \"Herz des Hais\" wurde zum Thema einer Fasnachtclique gemacht" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1539354" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1539354",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Programmhefte, Theaterprospekte und Verlagsvorschauen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1539354"
 }

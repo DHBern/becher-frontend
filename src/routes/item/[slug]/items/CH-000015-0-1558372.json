@@ -1,22 +1,17 @@
 {
-  "date": "1930 bis 1931",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-3-e-21-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Die Luft",
+  "ext": [ "Typoskript Durchschlag, 2 Blatt (S. 3-4), unvollständig, paginiert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1930 bis 1931" ],
+  "note": [ "[Bemerkung] Alternative Fassung von e-21-1: Varianten, Korrekturen teilweise übernommen, anderes Typoskript" ],
+  "signature": "SLA-UB-A-3-e-21-2",
+  "title": "Becher, Ulrich: Die Luft",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558372" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558372",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Weitere Gedichte und Gedichtskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Die Luft", "level":4 }
-  ]
+  "key": "CH-000015-0-1558372"
 }

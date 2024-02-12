@@ -1,22 +1,19 @@
 {
-  "date": "18. November 1929",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-b-3-f",
-  "holding_institution": "SLA",
-  "title": "Becher Ulrich: Hausarbeit 1, Strafrechtliche Hausarbeit Fall 40, [Berlin?]",
+  "ext": [ "1 Typoskript, maschinenschriftlich mit handschrifltichen Korrekturen und Bemerkungen von Hand Dritter, 15 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "[Berlin?]" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "18. November 1929" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Bewertung: 3-" ],
+  "signature": "SLA-UB-C-1-b-3-f",
+  "title": "Becher Ulrich: Hausarbeit 1, Strafrechtliche Hausarbeit Fall 40, [Berlin?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1526622" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1526622",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Studium", "level":3 },
-    { "'title":"Hausarbeiten zum Studium der Rechtswissenschaften", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1526622"
 }

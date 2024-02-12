@@ -1,21 +1,19 @@
 {
-  "date": "1919 bis 1925",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-a-4",
-  "holding_institution": "SLA",
-  "title": "Album, schwarzbraun, mit Kordel: Familienfotografien, Alt-Aussee (Salzkammergut), Athen, Ägypten Bethlehem, Eibsee, Feldberg (Schwarzwald), Hintersee Berchtisgaden, Jerusalem Oberhof, Oberwiesenthal (Erzgebirge) , Kairo, Konstantinopel, Telaviv,",
+  "ext": [ "1 Album, schwarz-braun, mit Kordel, gebunden, 36 Seiten; darin 161 Fotografien teilweise mit handschriftlicher Beschriftung, geklebt, s\/w, div. FormateS\/W" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Alt-Aussee (Salzkammergut), Athen, Ägypten Bethlehem, Eibsee, Feldberg (Schwarzwald), Hintersee Berchtisgaden, Jerusalem Oberhof, Oberwiesenthal (Erzgebirge) , Kairo, Konstantinopel, Telaviv," ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1919 bis 1925" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] 4 Fotografien fehlen; Vermutlich von Elise und Richard Becher angelegt." ],
+  "signature": "SLA-UB-C-4-a-4",
+  "title": "Album, schwarzbraun, mit Kordel: Familienfotografien, Alt-Aussee (Salzkammergut), Athen, Ägypten Bethlehem, Eibsee, Feldberg (Schwarzwald), Hintersee Berchtisgaden, Jerusalem Oberhof, Oberwiesenthal (Erzgebirge) , Kairo, Konstantinopel, Telaviv,",
+  "content": [ "Abgebildet: Becher, Richard; Becher-Ulrich, Elise; Becher, Ulrich; Becher, Rolf u.a.; 161 Reisefotografien mit Beschriftung" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565732" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565732",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Alben", "level":3 }
-  ]
+  "key": "CH-000015-0-1565732"
 }

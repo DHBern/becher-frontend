@@ -1,21 +1,21 @@
 {
-  "date": "28. Oktober 1991",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-HEPP-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Hepp, Michael an Becher, Dana; Korrespondenz, Oldenburg;\nBasel",
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Oldenburg;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Hepp, Michael (1949-2003)" ],
+  "lang": [  ],
+  "date": [ "28. Oktober 1991" ],
+  "encl": [ "" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-HEPP-BECHD-1",
+  "title": "Hepp, Michael an Becher, Dana; Korrespondenz, Oldenburg;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123562104" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685467" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685467",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Hepp, Michael an Becher, Dana; Korrespondenz, Oldenburg", "level":3 }
-  ]
+  "key": "CH-000015-0-1685467"
 }

@@ -1,24 +1,21 @@
 {
-  "date": "11. September 1933",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-ROD-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Roda Roda, Alexander; Korrespondenz, o.O.",
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "o.O." ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "11. September 1933" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-ROD-2",
+  "title": "Becher, Ulrich an Roda Roda, Alexander; Korrespondenz, o.O.",
+  "content": [ "Meinungsverschiedenheit" ],
+  "recipient": [ "Roda Roda, Alexander (1872-1945)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586350" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1586350",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    {
-      "'title": "Becher, Ulrich an Roda Roda, Alexander; Korrespondenz, Berlin; Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1586350"
 }

@@ -1,22 +1,17 @@
 {
-  "date": "1964",
-  "ext": 45,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/be748482-4303-4f5b-ae51-90f18f3608d6\/",
-  "signature": "SLA-UB-A-1-e-3-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Ausfall. Kap. Albergo Roma",
+  "ext": [ "Manuskript, 48 Blatt, Handschrift Dana und Ulrich Becher, aus 3 versch. Notizheften" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-3-3_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 45,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1964" ],
+  "note": [ "[Bemerkung] Wohl urspr. als längere Erz. gedacht: weitere Kap., die in losem Zusammenhang mit e-3-1 und-2 stehen\n" ],
+  "signature": "SLA-UB-A-1-e-3-3",
+  "title": "Becher, Ulrich: Ausfall. Kap. Albergo Roma",
+  "content": [ "Hochzeitsreise nach Florenz, Überlegungen über das Ge-mälde \"Der Untergang des Buzentaurus\" und Erinnerungen an die Hundemeute von Lupignano, die Zay, Profes-sor an der Universität Basel, einst jagten, als er in der Nähe von Florenz wohnte." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557731" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557731",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Vom Unzulänglichen der Wirklichkeit", "level":3 },
-    { "'title":"Becher, Ulrich: Der obligate Ausfall", "level":4 }
-  ]
+  "key": "CH-000015-0-1557731"
 }

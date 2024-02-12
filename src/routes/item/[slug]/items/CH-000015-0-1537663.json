@@ -1,21 +1,19 @@
 {
-  "date": "1965",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-07",
-  "holding_institution": "SLA",
-  "title": "Feigenwinter, Felix: Basler Schriftsteller (5): Ulrich Becher",
+  "ext": [ "1 Zeitungsartikel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Feigenwinter, Felix (1939-)" ],
+  "lang": [  ],
+  "date": [ "1965" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-07",
+  "title": "Feigenwinter, Felix: Basler Schriftsteller (5): Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/104664906X" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537663" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1537663",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537663"
 }

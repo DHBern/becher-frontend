@@ -1,20 +1,19 @@
 {
-  "date": "1987",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-3-j",
-  "holding_institution": "SLA",
-  "title": "Naumann, Uwe\/Töteberg, Michael: Ulrich Becher. Ein Porträt.",
+  "ext": [ "Ts., Kop., 13 Bl." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Naumann, Uwe", "Töteberg, Michael (1951-)" ],
+  "lang": [  ],
+  "date": [ "1987" ],
+  "encl": [  ],
+  "note": [ "[Datierung] o.D." ],
+  "signature": "SLA-UB-D-3-j",
+  "title": "Naumann, Uwe\/Töteberg, Michael: Ulrich Becher. Ein Porträt.",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118047175" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1547265" },
+  "type": "collItem",
   "category": 4099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1547265",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sekundärliteratur", "level":2 }
-  ]
+  "key": "CH-000015-0-1547265"
 }

@@ -1,21 +1,19 @@
 {
-  "date": "17. bis 18. November 1971",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-12",
-  "holding_institution": "SLA",
-  "title": "Bechers Lesung im PEN-Club, Basel",
+  "ext": [ "3 Zeitungsartikel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "17. bis 18. November 1971" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-12",
+  "title": "Bechers Lesung im PEN-Club, Basel",
+  "content": [ "3 Artikel zu Bechers Lesung im PEN-Club als \"Lückebüsser\" für Günter Bruno Fuchs" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537699" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1537699",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537699"
 }

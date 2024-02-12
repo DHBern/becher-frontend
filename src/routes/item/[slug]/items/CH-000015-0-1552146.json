@@ -1,21 +1,21 @@
 {
-  "date": "2. September 1927",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-BECH-080",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Wickersdorf",
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wickersdorf" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "2. September 1927" ],
+  "encl": [ "1 hs. Zettel" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-080",
+  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Wickersdorf",
+  "content": [ "Geburtstagsgruß für den Vater - ohne Gedicht, weil momentan mit seiner großen Arbeit beschäftigt; UB versucht Ärger des Vaters wegen eines zerrissenen Schecks zu beschwichtigen; \"Übrigens werde ich vielleicht doch Jura studieren. Einen Lateinkurs könnte man eventuell innerhalb dreier Monate absolvieren“." ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552146" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1552146",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1552146"
 }

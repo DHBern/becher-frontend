@@ -1,22 +1,17 @@
 {
-  "date": "1943 bis 1944",
-  "ext": 2,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b915c44c-8035-4a7a-a20c-4a1f2ed3a456\/",
-  "signature": "SLA-UB-A-3-d-2-8",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Fuhrmann Pottschuss",
+  "ext": [ "Manuskript, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-8_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Diese Passage ist in der publizierten Ausgabe nicht mehr vorhanden. Bleistift \"Porzellane Sparbüchsen war sein großer Tick\", gegenläufig Typoskript einer geänderten Version vom Gedicht \"Serenade vom letzten Friedensabend\" A-3-b-1 \"Stille ziehn die Wolken durch die Zeit\". Rückseite mit aufgezeichnetem Berliner Stadtplan mit allen im Werk erwähnten Plätzen und Straßen." ],
+  "signature": "SLA-UB-A-3-d-2-8",
+  "title": "Becher, Ulrich: Fuhrmann Pottschuss",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558286" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558286",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Franz Patenkindt", "level":3 },
-    { "'title":"Becher, Ulrich: Franz Patenkindt. Vorstufen und Entwürfe", "level":4 }
-  ]
+  "key": "CH-000015-0-1558286"
 }

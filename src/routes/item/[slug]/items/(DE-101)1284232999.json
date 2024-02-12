@@ -1,20 +1,24 @@
 {
-  "date": "1977",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (Xerox, Rundschreiben)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Adolf Muschg" ],
+  "lang": [  ],
+  "date": [ "1977" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: An die 1976 von der Schweizerischen Schillerstiftung Ausgezeichneten" ],
+  "signature": "DEA-B-3-1-0017.B.01.1305",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118585894" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284232999",
     "gnd": "https:\/\/d-nb.info\/1284232999"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284232999",
-  "levels": [  ]
+  "key": "(DE-101)1284232999"
 }

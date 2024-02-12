@@ -1,20 +1,22 @@
 {
-  "date": "1977",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Männer machen Fehler, Vier Stücke für zwei Männer",
+  "ext": [ "I, 11 Blatt maschinenschriftlich, Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "", "" ],
+  "lang": [  ],
+  "date": [ "1977" ],
+  "encl": [  ],
+  "note": [ "Reproduktion von: Exposé, Fragment" ],
+  "signature": "DEA-B-3-1-0017.D.03.0058",
+  "title": "Männer machen Fehler, Vier Stücke für zwei Männer",
+  "content": [  ],
+  "creator_uri": [ "", "" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284951723",
     "gnd": "https:\/\/d-nb.info\/1284951723"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284951723",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284951723"
 }

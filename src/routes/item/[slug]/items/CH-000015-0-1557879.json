@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-44-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Bernhard Graf Krosigk",
+  "ext": [ "Typoskript, 3 Blatt, unvollständig, unpaginiert, handschriftliche Korrekturen und Anmerkungen, ohne Titel" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] vgl. Der schwarze Hut. General Krosigk!" ],
+  "signature": "SLA-UB-A-1-f-44-1",
+  "title": "Becher, Ulrich: Bernhard Graf Krosigk",
+  "content": [ "Der reiche Bernhard Graf Krosigk, \"gewerbsmässiger Nichtstuer\", wandert aus purem Idealismus nach Amerika aus und engagiert einen Ghostwriter, um zwei Pamphlets zu verfassen, die Hitler, Stalin und Freud angreifen. Wird als am. Staatsbürger eingezogen, besticht aber Ämter und einen Arzt, um sich dem Militärdienst zu entziehen. Als der Korruptionsskandal auffliegt, begeht er Selbstmord." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557879" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557879",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Bernhard Graf Krosigk", "level":4 }
-  ]
+  "key": "CH-000015-0-1557879"
 }

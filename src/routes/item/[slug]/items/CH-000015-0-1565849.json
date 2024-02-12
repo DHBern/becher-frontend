@@ -1,22 +1,22 @@
 {
-  "date": "August 1985",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-4-e",
-  "holding_institution": "SLA",
-  "title": "Hackermüller, Rotraut",
+  "ext": [ "1 Fotografie, s\/w, ca. 12x8.5 cm, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "August 1985" ],
+  "encl": [  ],
+  "note": [
+    "[Datierung] geschätzt",
+    "[Inscription] Rückseitig: Rotraut Hackermüller mit Enkel Daniel 8\/85"
+  ],
+  "signature": "SLA-UB-C-4-b-4-e",
+  "title": "Hackermüller, Rotraut",
+  "content": [ "Abgebildet: Hackermüller, Rotraut" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565849" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565849",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von Freunden und Bekannten", "level":4 }
-  ]
+  "key": "CH-000015-0-1565849"
 }

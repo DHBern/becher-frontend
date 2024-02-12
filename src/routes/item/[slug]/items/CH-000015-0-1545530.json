@@ -1,21 +1,19 @@
 {
-  "date": "1935 bis 1970",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-d-12",
-  "holding_institution": "SLA",
-  "title": "Politik und Zeitgeschehen",
+  "ext": [ "ca. 10 Zeitungsartikel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1935 bis 1970" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-d-12",
+  "title": "Politik und Zeitgeschehen",
+  "content": [ "z.B. zur Niederwerfung Serbiens 1915, Wahl de Gaulles (1967), Chrustschow, etc" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1545530" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1545530",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Allgemeine Pressedokumentation", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1545530"
 }

@@ -1,20 +1,25 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Tragikomödien der Zwischenwelt",
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag mit Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Friedrich Heer" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [
+    "Reproduktion von: Abschrift, Zusammenstellung",
+    "Betrifft: Ulrich Becher: Theaterstücke, im Allgemeinen"
+  ],
+  "signature": "DEA-B-3-1-0017.D.03.0016",
+  "title": "Tragikomödien der Zwischenwelt",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118547666" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284937216",
     "gnd": "https:\/\/d-nb.info\/1284937216"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284937216",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284937216"
 }

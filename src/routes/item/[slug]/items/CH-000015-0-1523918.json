@@ -1,21 +1,19 @@
 {
-  "date": "16. Juli bis 19. September 1961",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-e-2",
-  "holding_institution": "SLA",
-  "title": "Polizeidepartement Basel-Stadt - Becher, Ulrich: Alkoholisiertes Fahren",
+  "ext": [ "1 Typoskript, maschinenschriftlich, Kopie, 13 Seiten; 1 Formular, 2 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "16. Juli bis 19. September 1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-1-e-2",
+  "title": "Polizeidepartement Basel-Stadt - Becher, Ulrich: Alkoholisiertes Fahren",
+  "content": [ "Dossier zum Vorfall wegen betrunkenen Fahrens, Examen médical d'une personne suspecte d'ivresse" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1523918" },
-  "category": 3099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1523918",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Juristische Prozesse", "level":3 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1523918"
 }

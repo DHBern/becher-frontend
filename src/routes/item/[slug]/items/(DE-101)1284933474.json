@@ -1,20 +1,22 @@
 {
-  "date": "1981",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Im Gespräch, Stück in 3 Akten",
+  "ext": [ "13 Blatt maschinenschriftlich Kopie" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Georg Biron" ],
+  "lang": [  ],
+  "date": [ "1981" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0007",
+  "title": "Im Gespräch, Stück in 3 Akten",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/120526891" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284933474",
     "gnd": "https:\/\/d-nb.info\/1284933474"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284933474",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284933474"
 }

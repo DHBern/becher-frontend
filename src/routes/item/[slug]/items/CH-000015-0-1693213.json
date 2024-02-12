@@ -1,24 +1,21 @@
 {
-  "date": "30. Juni 1945",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-RODA-BECHD-15",
-  "holding_institution": "SLA",
-  "title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, New York",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "New York" ],
+  "ext_num": 0,
+  "creator": [ "Roda Roda, Alexander (1872-1945)", "Roda Roda, Elsbeth (1879-1960)" ],
+  "lang": [  ],
+  "date": [ "30. Juni 1945" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-RODA-BECHD-15",
+  "title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, New York",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693213" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1693213",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, Woosterhouse;\nBudapest;\nBad Gleichenberg;\nNew York",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1693213"
 }

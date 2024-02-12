@@ -1,24 +1,21 @@
 {
-  "date": "6. April 1948",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-UNBEK-09",
-  "holding_institution": "SLA",
-  "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, New York",
+  "ext": [ "1 Gedicht, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "New York" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "6. April 1948" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-UNBEK-09",
+  "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, New York",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698703" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1698703",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    {
-      "'title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1698703"
 }

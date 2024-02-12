@@ -1,21 +1,19 @@
 {
-  "date": "1952 bis 1966",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-d-04",
-  "holding_institution": "SLA",
-  "title": "Dokumentation Schweiz",
+  "ext": [ "ca. 13 Zeitungsartikel + 2 Bl. Kopien" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1952 bis 1966" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-d-04",
+  "title": "Dokumentation Schweiz",
+  "content": [ "Pressedokumentation: Orte im Engadin, Militärübungen, Basler Fasnacht, Haltung der Schweiz im 2. Weltkrieg" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1544767" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1544767",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Allgemeine Pressedokumentation", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1544767"
 }

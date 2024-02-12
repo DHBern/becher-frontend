@@ -1,25 +1,17 @@
 {
-  "date": "1950 bis 1951",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-4-e-1-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Feuerwasser. Notizzettel",
+  "ext": [ "Manuskript, 3 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1950 bis 1951" ],
+  "note": [ "[Bemerkung] Drei Einzelblätter", "[Datierung] siehe auch Novellenentwurf von 1945" ],
+  "signature": "SLA-UB-A-4-e-1-1",
+  "title": "Becher, Ulrich: Feuerwasser. Notizzettel",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558584" },
+  "type": "work",
   "category": 10400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558584",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Dramen", "level":2 },
-    {
-      "'title": "Feuerwasser. Deutschamerikanische Chronik in drei Akten und einem Epilog",
-      "level": 3
-    },
-    { "'title":"Becher, Ulrich: Feuerwasser. Manuskripte und Entwürfe", "level":4 }
-  ]
+  "key": "CH-000015-0-1558584"
 }

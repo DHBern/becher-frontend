@@ -1,21 +1,19 @@
 {
-  "date": "Dezember 1958 bis Februar 1959",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-a-05",
-  "holding_institution": "SLA",
-  "title": "Kurz nach 4",
+  "ext": [ "32 Zeitungsausschnitte +8  Kopien von ZA + 1 Benachrichtigung des Aufbau-Verlags vom 03.10.1967 mit Verweis auf eine beiliegende Besprechung + Entwurf für Buchbinde mit zahlr. Rezensionen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "Dezember 1958 bis Februar 1959" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-a-05",
+  "title": "Kurz nach 4",
+  "content": [ "enthält zahlreiche Rezensionen und Ankündigungen in versch. Zeitungen 1957 (Erstaufl.), Kopie einer frz. Rezension in \"Nouvelles Littéraires\", Ankündigung zur Neuauflage 1975, Rezensionen der Neuauflage" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537319" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1537319",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Rezensionen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537319"
 }

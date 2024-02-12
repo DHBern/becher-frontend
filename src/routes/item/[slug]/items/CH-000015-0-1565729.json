@@ -1,21 +1,19 @@
 {
-  "date": "1900 bis 1910",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-a-2",
-  "holding_institution": "SLA",
-  "title": "Album, braun mit Kordel: Reisefotografien Eltern II, Andalusien, Cadiz, New York City, Sevilla, Teneriffa",
+  "ext": [ "1 Album, braun mit Kordel, gebunden, 37 Seiten; darin 123 Fotografien\/Postkarten, geklebt, mit Trennfolien unterteilt, div. Formate, davon 3 Fotografien lose eingelegt; 1 Zeichnung, s\/w, lose eingelegt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Andalusien, Cadiz, New York City, Sevilla, Teneriffa" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900 bis 1910" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] 2 Fotografien fehlen; Vermutlich von Elise und Richard Becher angelegt." ],
+  "signature": "SLA-UB-C-4-a-2",
+  "title": "Album, braun mit Kordel: Reisefotografien Eltern II, Andalusien, Cadiz, New York City, Sevilla, Teneriffa",
+  "content": [ "Abgebildet: Becher, Richard; Becher-Ulrich, Elise; Fotografien und Postkarten aus bereisten Orten" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565729" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565729",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Alben", "level":3 }
-  ]
+  "key": "CH-000015-0-1565729"
 }

@@ -1,23 +1,22 @@
 {
-  "date": "1900 bis 1930",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-2-b-1",
-  "holding_institution": "SLA",
-  "title": "Diverse Fotografien: von früher",
+  "ext": [ "10 Fotografien, s\/w, div. Formate, 10 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900 bis 1930" ],
+  "encl": [  ],
+  "note": [
+    "[Datierung] geschätzt",
+    "[Inscription] 1 Bild rückseitig beschriftet: Mahatma und Sir George in Ahrenshoop geknipst vom Otz"
+  ],
+  "signature": "SLA-UB-C-4-b-2-b-1",
+  "title": "Diverse Fotografien: von früher",
+  "content": [ "Abgebildet: Ulrich Becher, Richard Becher, George Grosz; Div. Fotografien, u.a. Ulrich Becher am Strand (um 1930) und beim Skifahren in St. Moritz (1930er Jahre); Fotografie von Richard Becher (?) beim Wandern" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566026" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1566026",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien aus dem Leben von Ulrich Becher", "level":4 },
-    { "'title":"Diverse Fotografien aus dem Leben von Ulrich Becher", "level":5 }
-  ]
+  "key": "CH-000015-0-1566026"
 }

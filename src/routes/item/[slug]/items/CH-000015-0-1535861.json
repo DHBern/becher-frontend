@@ -1,22 +1,19 @@
 {
-  "date": "1. Januar 1947",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-d-06-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: George Grosz' Dreissigjähriger Krieg. La otra Alemania, Buenos Aires",
+  "ext": [ "" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Buenos Aires" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1. Januar 1947" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] S.14-15, La otra Alemania, Nr. 133" ],
+  "signature": "SLA-UB-D-1-d-06-a",
+  "title": "Becher, Ulrich: George Grosz' Dreissigjähriger Krieg. La otra Alemania, Buenos Aires",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535861" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535861",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Essays", "level":3 },
-    { "'title":"Becher, Ulrich: George Grosz' Dreissigjähriger Krieg", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535861"
 }

@@ -1,24 +1,21 @@
 {
-  "date": "24. Mai 1966",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-LIFE-BECHD-6",
-  "holding_institution": "SLA",
-  "title": "Lifezis, Hugo an Becher, Dana; Korrespondenz, Barcelona",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Barcelona" ],
+  "ext_num": 0,
+  "creator": [ "Lifezis, Hugo (1895-1970)" ],
+  "lang": [  ],
+  "date": [ "24. Mai 1966" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LIFE-BECHD-6",
+  "title": "Lifezis, Hugo an Becher, Dana; Korrespondenz, Barcelona",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/130228141" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685690" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685690",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Lifezis, Hugo an Becher, Dana; Korrespondenz, Buenos Aires;\nBarcelona",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1685690"
 }

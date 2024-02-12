@@ -1,24 +1,21 @@
 {
-  "date": "22. April 1965",
-  "ext": 2,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/be83d40e-ed51-4293-b160-d0c71cd93560\/",
-  "signature": "SLA-UB-B-1-BECHD-20",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Montecatini;\nZürich",
+  "ext": [ "1 Karte, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECHD-20_01.tif\/info.json",
-  "prototype": true,
+  "place": [ "Montecatini;\nZürich" ],
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "22. April 1965" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECHD-20",
+  "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Montecatini;\nZürich",
+  "content": [ "medizinischer Bericht" ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1585487" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1585487",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    {
-      "'title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Bad Gastein; Basel; Berlin; Mailand; Manila; Montecatini; München; Paris; Prag;\nSalzburg; Triest; Venedig; Verona; Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1585487"
 }

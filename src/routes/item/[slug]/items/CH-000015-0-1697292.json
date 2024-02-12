@@ -1,21 +1,21 @@
 {
-  "date": "5. August 1960",
-  "ext": 0,
-  "category_local_name": "Briefkonvolute",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-4-KOER-03",
-  "holding_institution": "SLA",
-  "title": "Kurowski-Schmitz, Aenne an Roda Becher, Dana; Kondolenzschreiben, Basel;\nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "B-4 Briefkonvolute, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Kurowski-Schmitz, Aenne (1894-1968)" ],
+  "lang": [  ],
+  "date": [ "5. August 1960" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-KOER-03",
+  "title": "Kurowski-Schmitz, Aenne an Roda Becher, Dana; Kondolenzschreiben, Basel;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1248131681" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697292" },
+  "type": "letter",
   "category": 20400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1697292",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefkonvolute", "level":2 },
-    { "'title":"Kondolenzschreiben Elsbeth Roda Roda", "level":3 }
-  ]
+  "key": "CH-000015-0-1697292"
 }

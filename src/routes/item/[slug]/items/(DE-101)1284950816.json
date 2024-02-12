@@ -1,20 +1,22 @@
 {
-  "date": "1960",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Johannes Weidenheim [...] Ulrich Becher, Kurz nach vier, Ulrich Becher, Männer machen Fehler [..., Rundfunk-Typoskript], Berliner Welle",
+  "ext": [ "6 Blatt maschinenschriftlich vervielfältigt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [ "Sendereihe: Westdeutsche Bücher - kritisch betrachtet" ],
+  "signature": "DEA-B-3-1-0017.D.03.0056",
+  "title": "Johannes Weidenheim [...] Ulrich Becher, Kurz nach vier, Ulrich Becher, Männer machen Fehler [..., Rundfunk-Typoskript], Berliner Welle",
+  "content": [  ],
+  "creator_uri": [ "" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284950816",
     "gnd": "https:\/\/d-nb.info\/1284950816"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284950816",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284950816"
 }

@@ -1,20 +1,27 @@
 {
-  "date": "1956",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Postkarte",
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [  ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1956" ],
+  "encl": [  ],
+  "note": [
+    "Vorliegende Namensform Verfasser: M. Marz...?",
+    "Vorliegende Namensform Adressat: Frau Roda Roda"
+  ],
+  "signature": "DEA-B-3-1-0017.B.04.0149",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284889033",
     "gnd": "https:\/\/d-nb.info\/1284889033"
   },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284889033",
-  "levels": [  ]
+  "key": "(DE-101)1284889033"
 }

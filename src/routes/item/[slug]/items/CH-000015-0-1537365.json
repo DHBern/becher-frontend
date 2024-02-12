@@ -1,21 +1,24 @@
 {
-  "date": "14. August 1950 bis Juni 1953",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-a-15",
-  "holding_institution": "SLA",
-  "title": "Der Pfeifer von Wien",
+  "ext": [ "12 Teitungsausschnitte u. Zeitungsartikel + Ts.\/Dg. 4 Bl." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "14. August 1950 bis Juni 1953" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-a-15",
+  "title": "Der Pfeifer von Wien",
+  "content": [
+    "4 Zeitungsausschnitte zur Ankündigung des Stücks",
+    "Rezension der Aufführung im Wiener Volkstheater (Die Presse, 1950)",
+    "Pressedokumentation der Aufführung an den Wiener Festwochen 1953; unter dem Titel \"Das Spiel vom lieben Augustin\"",
+    "Presseberichte für den Tagesanzeiger Zürich,  für die schweizer Presse und die Wiener Theaternotiz"
+  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537365" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1537365",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Rezensionen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537365"
 }

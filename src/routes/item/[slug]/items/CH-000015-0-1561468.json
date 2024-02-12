@@ -1,22 +1,19 @@
 {
-  "date": "1947",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-b-2-h",
-  "holding_institution": "SLA",
-  "title": "Becher, Richard: Vereinzelte Notizblätter, Basel",
+  "ext": [ "Notizen, handschriftlich und maschinenschriftlich, 4 Blätter" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Richard (1875-1956)" ],
+  "lang": [  ],
+  "date": [ "1947" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-b-2-h",
+  "title": "Becher, Richard: Vereinzelte Notizblätter, Basel",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1561468" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1561468",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Richard (Vater)", "level":3 },
-    { "'title":"Manuskripte und Typoskripte", "level":4 }
-  ]
+  "key": "CH-000015-0-1561468"
 }

@@ -1,20 +1,22 @@
 {
-  "date": "1975",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Lesezeichen, Südfunk, [Rundfunk-Typoskript]",
+  "ext": [ "I, 4 Blatt maschinenschriftlich, Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Marianne Viefhaus" ],
+  "lang": [  ],
+  "date": [ "1975" ],
+  "encl": [  ],
+  "note": [ "Marianne Viefhaus-Mildenberger hat lediglich einen Teil des Typoskripts verfasst, zu Ulrich Becher: New Yorker Novellen" ],
+  "signature": "DEA-B-3-1-0017.D.03.0047",
+  "title": "Lesezeichen, Südfunk, [Rundfunk-Typoskript]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117041548" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284945987",
     "gnd": "https:\/\/d-nb.info\/1284945987"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284945987",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284945987"
 }

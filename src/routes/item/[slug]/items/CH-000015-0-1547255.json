@@ -1,20 +1,19 @@
 {
-  "date": "1986",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-3-f",
-  "holding_institution": "SLA",
-  "title": "Kelzenberg, Ute: Die Todesdarstellung in den Romanen Ulrich Bechers",
+  "ext": [ "gebundenes Ts., ca. 131 Bl." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Kelzenberg, Ute (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "1986" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-3-f",
+  "title": "Kelzenberg, Ute: Die Todesdarstellung in den Romanen Ulrich Bechers",
+  "content": [ "Mgaisterarbeit vorgelegt von Ute Kelzenberg im Sommersemester 1986 an der Philosophischen Fakultät der Universität zu Köln" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1547255" },
+  "type": "collItem",
   "category": 4099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1547255",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sekundärliteratur", "level":2 }
-  ]
+  "key": "CH-000015-0-1547255"
 }

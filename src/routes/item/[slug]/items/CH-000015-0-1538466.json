@@ -1,21 +1,19 @@
 {
-  "date": "4. Juli 1977",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-16",
-  "holding_institution": "SLA",
-  "title": "Aboutille, Mario C.: Dieser Becher ist immer voll. Tat, Zürich",
+  "ext": [ "1 Exemplar der Tat, Artikel auf S. 23" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Zürich" ],
+  "ext_num": 0,
+  "creator": [ "Aboutille, Mario C. (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "4. Juli 1977" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-16",
+  "title": "Aboutille, Mario C.: Dieser Becher ist immer voll. Tat, Zürich",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538466" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1538466",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1538466"
 }

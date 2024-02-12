@@ -1,21 +1,19 @@
 {
-  "date": "1965 bis 1980",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-e-4",
-  "holding_institution": "SLA",
-  "title": "Diverses, Basel",
+  "ext": [ "1 Heft, geklebt, maschinenschriftlich; 1 Brief, maschinenschriftlich, 1 Seite; 1 Notiz, handschriftlich, 1 Seite" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1965 bis 1980" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-e-4",
+  "title": "Diverses, Basel",
+  "content": [ "\"Begegnungen Basel 1980\" und Rechnung der Eignungsprüfung Abteilung Schauspiel und Theater der Schweizerischen Theaterschule" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565646" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565646",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Becher, Martin Roda (Sohn)", "level":3 }
-  ]
+  "key": "CH-000015-0-1565646"
 }

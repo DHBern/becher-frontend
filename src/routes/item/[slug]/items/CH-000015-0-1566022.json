@@ -1,22 +1,22 @@
 {
-  "date": "1950 bis 1980",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-1-i",
-  "holding_institution": "SLA",
-  "title": "Wyss, Kurt: Fotografien von Ulrich Becher, Berlin",
+  "ext": [ "2 Fotografien, s\/w, div. Formate, 3 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1950 bis 1980" ],
+  "encl": [  ],
+  "note": [
+    "[Datierung] geschätzt",
+    "[Inscription] Rückseitig: Foto: kurz[sic!] Wyss aufgenommen mitte juni vom bildredaktor der basler nationalzeitung, der kürzlich picasso besuchte und fotografierte, und am tag nach der aufnahme des umseitig abgebildeten den genfer papstbesuch aufnahm. becher und papst sind auf einem zelluloidstreifen vereinigt, der fotograf: \"es war entschieden langweiliger, den papst aufzunehmen als Sie.\" über der schulter ein kleines, vom knaben ub gemaltes aquarell. Dies bild ich für mama, um ihren luzerner aufenthalt zu erheitern. love ul \/ wie sieht der mann aus? sagen wir mal: eine mischung aus Einstein und Gabriele d'Annunzio."
+  ],
+  "signature": "SLA-UB-C-4-b-1-i",
+  "title": "Wyss, Kurt: Fotografien von Ulrich Becher, Berlin",
+  "content": [ "Abgebildet: Becher, Ulrich" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566022" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1566022",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Professionelle (Portrait-)Fotografien von Ulrich Becher", "level":4 }
-  ]
+  "key": "CH-000015-0-1566022"
 }

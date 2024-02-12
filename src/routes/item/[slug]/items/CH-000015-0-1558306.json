@@ -1,22 +1,17 @@
 {
-  "date": "1943 bis 1944",
-  "ext": 1,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b2d5676e-74bd-4dc5-9d34-ece0f2f93a0d\/",
-  "signature": "SLA-UB-A-3-d-2-28",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Herr Leibisch Glass",
+  "ext": [ "Manuskript, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-28_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] 3 Zeichnungen" ],
+  "signature": "SLA-UB-A-3-d-2-28",
+  "title": "Becher, Ulrich: Herr Leibisch Glass",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558306" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558306",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Franz Patenkindt", "level":3 },
-    { "'title":"Becher, Ulrich: Franz Patenkindt. Vorstufen und Entwürfe", "level":4 }
-  ]
+  "key": "CH-000015-0-1558306"
 }

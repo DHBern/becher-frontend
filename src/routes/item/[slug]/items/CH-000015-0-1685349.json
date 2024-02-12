@@ -1,21 +1,21 @@
 {
-  "date": "15. Dezember 1987",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-HACK-BECHD-4",
-  "holding_institution": "SLA",
-  "title": "Hackermüller, Rotraut an Becher, Dana; Korrespondenz, ohne Ort",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "ohne Ort" ],
+  "ext_num": 0,
+  "creator": [ "Hackermüller, Rotraut (1943-)" ],
+  "lang": [  ],
+  "date": [ "15. Dezember 1987" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Rotraut Hackermüller schrieb Roda Roda-Biografie" ],
+  "signature": "SLA-UB-B-3-HACK-BECHD-4",
+  "title": "Hackermüller, Rotraut an Becher, Dana; Korrespondenz, ohne Ort",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1041985452" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685349" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685349",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Hackermüller, Rotraut an Becher, Dana; Korrespondenz, Wien", "level":3 }
-  ]
+  "key": "CH-000015-0-1685349"
 }

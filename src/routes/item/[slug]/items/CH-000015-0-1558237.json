@@ -1,22 +1,17 @@
 {
-  "date": "1941",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-3-b-20-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Mahnsonette",
+  "ext": [ "Typoskript, halbes Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "note": [ "[Bemerkung] Enthält die erste Strophe." ],
+  "signature": "SLA-UB-A-3-b-20-1",
+  "title": "Becher, Ulrich: Mahnsonette",
+  "content": [ "\"Ist dieser Tage Schimpf und Schurkerei...\" - \"Aus dem Haus der Stille prügelte der Herr hundert Krämerseelen...\" - \"Trug Einer Schuld an diesem großen Sterben?\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558237" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558237",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Reise zum blauen Tag. Verse", "level":3 },
-    { "'title":"Becher, Ulrich: Mahnsonette", "level":4 }
-  ]
+  "key": "CH-000015-0-1558237"
 }

@@ -1,20 +1,22 @@
 {
-  "date": "1936",
-  "ext": 0,
-  "category_local_name": "Selbstständige Belegexemplare",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Novelle oder Erzählung?",
+  "ext": [ "1 Blatt Druck" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ernst Glaeser" ],
+  "lang": [  ],
+  "date": [ "1936" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Ulrich Becher: Die Eroberer; auch das Vorwort bzw. Geleitwort von Ernst Glaeser \"Die Kunst der Novelle\"" ],
+  "signature": "DEA-B-3-1-0017.D.04.0010",
+  "title": "Novelle oder Erzählung?",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118539604" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284954722",
     "gnd": "https:\/\/d-nb.info\/1284954722"
   },
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284954722",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "(DE-101)1284954722"
 }

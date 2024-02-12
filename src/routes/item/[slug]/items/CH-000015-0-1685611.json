@@ -1,24 +1,21 @@
 {
-  "date": "7. Juni 1962",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-LESK-BECHD-05",
-  "holding_institution": "SLA",
-  "title": "Leskoschek, Axl und Marussja an Becher, Dana; Korrespondenz, Wien",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [ "Leskoschek, Axl (1899-1976)", "Leskoschek, Marussja" ],
+  "lang": [  ],
+  "date": [ "7. Juni 1962" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LESK-BECHD-05",
+  "title": "Leskoschek, Axl und Marussja an Becher, Dana; Korrespondenz, Wien",
+  "content": [ "Maschinenschriftlicher Brief von Axl Leskoschek mit handschriftlicher Ergänzung von Marussia Leskoschek" ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119232383" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685611" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685611",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Leskoschek, Axl und Marussja an Becher, Dana; Korrespondenz, Graz;\nZürich;\nSankt Stefan;\nWien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1685611"
 }

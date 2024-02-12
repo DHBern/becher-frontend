@@ -1,21 +1,21 @@
 {
-  "date": "19. Juli 1966",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-WOT-BECHD-2",
-  "holding_institution": "SLA",
-  "title": "Wotruba, Fritz und Lucy an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "ext": [ "1 Brief" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Wotruba, Fritz (1907-1975)", "Wotruba, Lucy (-1985)" ],
+  "lang": [  ],
+  "date": [ "19. Juli 1966" ],
+  "encl": [ "1 Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-WOT-BECHD-2",
+  "title": "Wotruba, Fritz und Lucy an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118635263" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695413" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695413",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Wotruba, Fritz und Lucy an Becher, Dana; Korrespondenz, Wien", "level":3 }
-  ]
+  "key": "CH-000015-0-1695413"
 }

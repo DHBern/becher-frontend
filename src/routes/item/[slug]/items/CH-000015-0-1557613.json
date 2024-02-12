@@ -1,22 +1,20 @@
 {
-  "date": "1931",
-  "ext": 1,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/19254c29-a375-4729-92a3-7fd1edf8f74b\/",
-  "signature": "SLA-UB-A-1-a-1-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Vom Unzulänglichen der Wirklichkeit (Fragment)",
+  "ext": [ "Typoskript Einzelblatt, Durchschlag, S. 8" ],
   "category_global_name": "Erzählungen",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-1-3_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1931" ],
+  "note": [
+    "[Bemerkung] Andere Type als A-1-a-1-1 und A-1-a-1-2",
+    "[Biblio] Becher, Ulrich: Männer machen Fehler. Ernst Rowohlt Verlag: Berlin 1932, S. 5-20."
+  ],
+  "signature": "SLA-UB-A-1-a-1-3",
+  "title": "Becher, Ulrich: Vom Unzulänglichen der Wirklichkeit (Fragment)",
+  "content": [ "Nebel im Hafen von Southampton, Whiskytraum angesichts eines amerikanischen Luxusdampfers." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557613" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557613",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Männer machen Fehler", "level":3 },
-    { "'title":"Becher, Ulrich: Vom Unzulänglichen der Wirklichkeit", "level":4 }
-  ]
+  "key": "CH-000015-0-1557613"
 }

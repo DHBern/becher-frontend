@@ -1,22 +1,19 @@
 {
-  "date": "8. Juni 1931",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-b-3-n",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Hausarbeit 2, Uebungen im BGB für Vorgerückte: Die Ehe des Leidig mit der Schmidt ist nichtig, § 1312, 1 BGB, Leipzig",
+  "ext": [ "1 Typoskript, maschinenschriftlich mit handschriftlichen Korrekturen und Anmerkungen von Hand Dritter, 5 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "8. Juni 1931" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Bewertung: befriedigend 3" ],
+  "signature": "SLA-UB-C-1-b-3-n",
+  "title": "Becher, Ulrich: Hausarbeit 2, Uebungen im BGB für Vorgerückte: Die Ehe des Leidig mit der Schmidt ist nichtig, § 1312, 1 BGB, Leipzig",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1526636" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1526636",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Studium", "level":3 },
-    { "'title":"Hausarbeiten zum Studium der Rechtswissenschaften", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1526636"
 }

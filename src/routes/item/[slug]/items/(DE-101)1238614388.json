@@ -1,20 +1,22 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Selbstständige Belegexemplare",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
+  "ext": [ "22 Blatt" ],
+  "category_global_name": "Autorenbibliothek, 1930-1990",
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.05.0003",
   "title": "Konvolut von unbeschriebenen Ansichtskarten, Briefkarten, Postkarten u. Ä.",
-  "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "content": [  ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1238614388",
     "gnd": "https:\/\/d-nb.info\/1238614388"
   },
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Series",
-  "key": "(DE-101)1238614388",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40400,
+  "key": "(DE-101)1238614388"
 }

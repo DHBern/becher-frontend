@@ -1,24 +1,21 @@
 {
-  "date": "24. April 1961",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-MILL-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Miller, Henry an Becher, Dana; Korrespondenz, Montpellier",
+  "ext": [ "Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Montpellier" ],
+  "ext_num": 0,
+  "creator": [ "Miller, Henry (1891-1980)" ],
+  "lang": [  ],
+  "date": [ "24. April 1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MILL-BECHD-1",
+  "title": "Miller, Henry an Becher, Dana; Korrespondenz, Montpellier",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)", "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118582518" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1686010" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1686010",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Miller, Henry an Becher, Dana; Korrespondenz, Lausanne;\nMontpellier",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1686010"
 }

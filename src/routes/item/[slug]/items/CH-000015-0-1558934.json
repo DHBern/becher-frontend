@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-44-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der plumpe Riese, der das Gewalt heisst",
+  "ext": [ "1 Blatt DinA4" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Nasskopie, monochrome Farbgebung" ],
+  "signature": "SLA-UB-A-8-a-44-1",
+  "title": "Becher, Ulrich: Der plumpe Riese, der das Gewalt heisst",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558934" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558934",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Der plumpe Riese, der das Gewalt heisst", "level":4 }
-  ]
+  "key": "CH-000015-0-1558934"
 }

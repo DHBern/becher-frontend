@@ -1,22 +1,19 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-a-1-e",
-  "holding_institution": "SLA",
-  "title": "Formular der American and Foreign Teachers Agency, New York",
+  "ext": [ "1 Formular, maschinenschriftlich mit handschriftlichen Antworten, 2 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "New York" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-a-1-e",
+  "title": "Formular der American and Foreign Teachers Agency, New York",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556905" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1556905",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Ulrich, Martin (Grossvater mütterlicherseits)", "level":3 },
-    { "'title":"Persönliche und familiäre Dokumente", "level":4 }
-  ]
+  "key": "CH-000015-0-1556905"
 }

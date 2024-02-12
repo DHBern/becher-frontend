@@ -1,20 +1,23 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Niemand, [Theaterstück]",
+  "ext": [ "1 Heft (II, 88 gezählte Blatt) maschinenschriftlicher Durchschlag" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: als niemand kam"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0051",
+  "title": "Niemand, [Theaterstück]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283947188",
     "gnd": "https:\/\/d-nb.info\/1283947188"
   },
+  "type": "work",
   "category": 10400,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283947188",
-  "levels": [  ]
+  "key": "(DE-101)1283947188"
 }

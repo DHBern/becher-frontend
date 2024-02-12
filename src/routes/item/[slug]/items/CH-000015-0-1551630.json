@@ -1,20 +1,19 @@
 {
-  "date": "Dezember 1936",
-  "ext": 0,
-  "category_local_name": "Materialien Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-5-b",
-  "holding_institution": "SLA",
-  "title": "Mann, Thomas: Ein Briefwechsel. Antwort an den Dekan der Bonner Universität zur Aberkennung der Doktorwürde",
+  "ext": [ "Ts.Dg., 11 Bl." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Mann, Thomas (1875-1955)" ],
+  "lang": [  ],
+  "date": [ "Dezember 1936" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Als Broschüre im Oprecht-Verlag und im Bermann Fischer-Verlag, Stockholm, erschienen" ],
+  "signature": "SLA-UB-D-5-b",
+  "title": "Mann, Thomas: Ein Briefwechsel. Antwort an den Dekan der Bonner Universität zur Aberkennung der Doktorwürde",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118577166" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551630" },
-  "category": 4099095,
-  "entry_type": "item",
-  "key": "CH-000015-0-1551630",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Materialien Dritter", "level":2 }
-  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "CH-000015-0-1551630"
 }

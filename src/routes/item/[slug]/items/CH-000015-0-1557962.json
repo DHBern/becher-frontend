@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-80-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Ankunft in Genf (Fragment)",
+  "ext": [ "Typoskript, 2 Blatt, unvollständig, mit zahlreichen handschriftlichen Korrekturen und Ergänzungen" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-1-f-80-1",
+  "title": "Becher, Ulrich: Ankunft in Genf (Fragment)",
+  "content": [ "\"Ich werde den 21. März des Jahres 1941 nicht vergessen. Ein Zufall wollte, dass ich am Vorabend nach Genf gekommen war, weil ich folgenden Morgen in Sachen eines Erbschaftsstreits zu plädieren hatte…\", geisterhafte Atmosphäre im Zug und nach der Ankunft in Genf. Kein Vergleich zu der fröhlichen, internationalen Stadt, die der autobiographisch gefärbte Erzähler während seines Studiums gekannt hatte." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557962" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557962",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Ankunft in Genf", "level":4 }
-  ]
+  "key": "CH-000015-0-1557962"
 }

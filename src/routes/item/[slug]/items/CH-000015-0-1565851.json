@@ -1,22 +1,19 @@
 {
-  "date": "1920 bis 1990",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-4-h",
-  "holding_institution": "SLA",
-  "title": "[Unbekannt]",
+  "ext": [ "Negative, 7 Streifen, farbig; 3 Fotografien, s\/w und farbig, div. Formate, 3 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1920 bis 1990" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-4-b-4-h",
+  "title": "[Unbekannt]",
+  "content": [ "Negative und Fotografien von unbekannten Personen, darunter u.U. die junge Roda Becher, Dana" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565851" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565851",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien von Freunden und Bekannten", "level":4 }
-  ]
+  "key": "CH-000015-0-1565851"
 }

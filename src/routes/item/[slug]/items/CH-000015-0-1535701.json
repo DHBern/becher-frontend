@@ -1,22 +1,19 @@
 {
-  "date": "24. Dezember 1954",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-a-17-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Drei Sternenjäger. National-Zeitung, Basel",
+  "ext": [ "" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "24. Dezember 1954" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Basler National-Zeitung, Nr. 596, gekürzte Version der \"Drei Reiter\"" ],
+  "signature": "SLA-UB-D-1-a-17-a",
+  "title": "Becher, Ulrich: Drei Sternenjäger. National-Zeitung, Basel",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535701" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535701",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Erzählungen", "level":3 },
-    { "'title":"Becher, Ulrich: Drei Sternenjäger", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535701"
 }

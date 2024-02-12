@@ -1,23 +1,19 @@
 {
-  "date": "20. Oktober 1988",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-3-a-2",
-  "holding_institution": "SLA",
-  "title": "Zu Alexander Roda Rodas Werk, Basel;\nBerlin;\nWien",
+  "ext": [ "1 Brief, maschinenschriftlich, 1 Seite; 1 Beleg, maschinenschriftlich, 1 Seite" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel;\nBerlin;\nWien" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "20. Oktober 1988" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-3-a-2",
+  "title": "Zu Alexander Roda Rodas Werk, Basel;\nBerlin;\nWien",
+  "content": [ "Brief betrf. Nebenrechtsverwertung" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565536" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565536",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Unterlagen zu Alexander Roda Roda", "level":4 },
-    { "'title":"Dokumente über Alexander Roda Rodas Leben und Werk", "level":5 }
-  ]
+  "key": "CH-000015-0-1565536"
 }

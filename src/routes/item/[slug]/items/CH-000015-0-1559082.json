@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-c-9-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der Musiksaal",
+  "ext": [ "1 Blatt, 65 x 48 cm" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Aquarell und Lavis auf Papier" ],
+  "signature": "SLA-UB-A-8-c-9-1",
+  "title": "Becher, Ulrich: Der Musiksaal",
+  "content": [ "Saal singender Menschen" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1559082" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1559082",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Malereien", "level":3 },
-    { "'title":"Becher, Ulrich: Der Musiksaal", "level":4 }
-  ]
+  "key": "CH-000015-0-1559082"
 }

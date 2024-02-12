@@ -1,25 +1,17 @@
 {
-  "date": "1943 bis 1944",
-  "ext": 5,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/31c83d0d-eb64-4449-8a5c-d8c61968c04e\/",
-  "signature": "SLA-UB-A-3-c-1-4",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Romanze der Begegnung mit Johann Damaszener Vanille",
+  "ext": [ "Typoskript, 2 Blatt + Typoskript-Durchschlag, 3 Blatt, unvollständig, unpaginiert" ],
   "category_global_name": "",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-1-4_01.jpg\/info.json",
-  "prototype": true,
+  "ext_num": 5,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Biblio] Becher, Ulrich: Brasilianischer Romanzero. Mit Holzschnitten von Axl Leskoschek. Wilhelm Frick: Wien 1950, S. 7-33." ],
+  "signature": "SLA-UB-A-3-c-1-4",
+  "title": "Becher, Ulrich: Romanze der Begegnung mit Johann Damaszener Vanille",
+  "content": [ "Entspricht den S. 7-10 des Ersten Sanges der \"Romanze der Begegnung mit Johann Damaszener Vanille\"." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558261" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558261",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Brasilianischer Romanzero", "level":3 },
-    {
-      "'title": "Becher, Ulrich: Romanze der Begegnung mit Johann Damaszener Vanille",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1558261"
 }

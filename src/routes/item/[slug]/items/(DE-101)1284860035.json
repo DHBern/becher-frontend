@@ -1,20 +1,24 @@
 {
-  "date": "1961",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118558846" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Otto Hahn" ],
+  "lang": [  ],
+  "date": [ "1961" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Herrn Robert Jungk, c\/o Rowohlt Verlag GmbH, Reinbek bei Hamburg" ],
+  "signature": "DEA-B-3-1-0017.B.04.0029",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Robert Jungk" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118544853" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284860035",
     "gnd": "https:\/\/d-nb.info\/1284860035"
   },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284860035",
-  "levels": [  ]
+  "key": "(DE-101)1284860035"
 }

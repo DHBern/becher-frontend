@@ -1,22 +1,19 @@
 {
-  "date": "März 1962",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-e-2-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Max Frisch. Die Kultur, Wien",
+  "ext": [ "" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "März 1962" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-1-e-2-a",
+  "title": "Becher, Ulrich: Max Frisch. Die Kultur, Wien",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537302" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1537302",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Max Frisch", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1537302"
 }

@@ -1,21 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Drehbücher und Filmideen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-5-b-4",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Sein ganzes Leben an Donnerstagen. His Whole Live on Thursdays",
+  "ext": [ "Typoskript, 1 Blatt, unvollständig" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-5-b-4",
+  "title": "Becher, Ulrich: Sein ganzes Leben an Donnerstagen. His Whole Live on Thursdays",
+  "content": [ "Schluss von McMahon und Williams, diese haben einen Sarg mit Schnapsschrank und Ventilator bestellt, doch nach der Beerdigung ist Mc plötzlich tot." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558678" },
+  "type": "work",
   "category": 10500,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558678",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Drehbücher und Filmideen", "level":2 },
-    { "'title":"Filmideen", "level":3 }
-  ]
+  "key": "CH-000015-0-1558678"
 }

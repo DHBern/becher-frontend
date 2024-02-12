@@ -1,22 +1,23 @@
 {
-  "date": "1927",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-a-2-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Sport und Mode, [Wickersdorf ?]",
+  "ext": [ "1 Manuskript, handschriftlich mit handschriftlichen Korrekturen und Bemerkungen der Lehrperson, 1 Bogen, unvollständig" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "[Wickersdorf ?]" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1927" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Aufsatz mit Skizzen von Becher, Ulrich",
+    "[Datierung] geschätzt",
+    "[Darin] Skizzen von Becher, Ulrich"
+  ],
+  "signature": "SLA-UB-C-1-a-2-a",
+  "title": "Becher, Ulrich: Sport und Mode, [Wickersdorf ?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1525185" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1525185",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Schulzeit", "level":3 },
-    { "'title":"Aufsätze", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1525185"
 }

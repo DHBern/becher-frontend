@@ -1,20 +1,28 @@
 {
-  "date": "1952",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von H. M. Brenner" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Verlag Ullstein" ],
+  "lang": [  ],
+  "date": [ "1952" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Ullstein Verlag Wien",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Ullstein Verlag Wien, Verlagssekretariat",
+    "Vorliegende Namensform Adressat: Herrn Ulrich Becher, c\/o Schillertheater, Berlin-Charlottenburg"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.3642",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123472-9" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284745619",
     "gnd": "https:\/\/d-nb.info\/1284745619"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284745619",
-  "levels": [  ]
+  "key": "(DE-101)1284745619"
 }

@@ -1,21 +1,19 @@
 {
-  "date": "1956 bis 1958",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-c-10",
-  "holding_institution": "SLA",
-  "title": "Theater Budweis\/Brünn. Mademoiselle Löwenzorn, Budweis, Brünn",
+  "ext": [ "2 Programmhefte, 1 Plakat" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1956 bis 1958" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-c-10",
+  "title": "Theater Budweis\/Brünn. Mademoiselle Löwenzorn, Budweis, Brünn",
+  "content": [ "Mademoiselle Löwenzorn in der Tschechischen Republik; Theaterprogramme und -Plakat" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538540" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1538540",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Programmhefte, Theaterprospekte und Verlagsvorschauen", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1538540"
 }

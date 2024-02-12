@@ -1,21 +1,21 @@
 {
-  "date": "23. August 1968",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-HENS-1",
-  "holding_institution": "SLA",
-  "title": "Hensel, Georg an Becher, Ulrich; Korrespondenz, Darmstadt",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Darmstadt" ],
+  "ext_num": 0,
+  "creator": [ "Hensel, Georg (1923-1996)" ],
+  "lang": [  ],
+  "date": [ "23. August 1968" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-HENS-1",
+  "title": "Hensel, Georg an Becher, Ulrich; Korrespondenz, Darmstadt",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119138832" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1640671" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1640671",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    { "'title":"Hensel, Georg an Becher, Ulrich; Korrespondenz, Darmstadt", "level":3 }
-  ]
+  "key": "CH-000015-0-1640671"
 }

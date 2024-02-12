@@ -1,20 +1,22 @@
 {
-  "date": "1975",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Ulrich Becher, Kurz nach 4, Bayerisches Fernsehen, [Rundfunk-Typoskript]",
+  "ext": [ "I, 6 Blatt maschinenschriftlich. Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Vera Botterbusch" ],
+  "lang": [  ],
+  "date": [ "1975" ],
+  "encl": [  ],
+  "note": [ "Sendereihe: Bücher beim Wort genommen" ],
+  "signature": "DEA-B-3-1-0017.D.03.0008",
+  "title": "Ulrich Becher, Kurz nach 4, Bayerisches Fernsehen, [Rundfunk-Typoskript]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1023739267" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284933660",
     "gnd": "https:\/\/d-nb.info\/1284933660"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284933660",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284933660"
 }

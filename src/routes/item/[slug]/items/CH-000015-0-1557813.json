@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-20-4",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Vorstufe (Heimkehr in die alte Welt)",
+  "ext": [ "Typoskript, 1 Blatt + Durchschlag 1 Blatt (unvollständig: S. 5). Auf Durchschlag Text handschriftlich weitergeführt. Halbes Blatt Typoskript, mit handschriftlichen Korrekturen" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Becher-Signaturen (wie f-20-1)" ],
+  "signature": "SLA-UB-A-1-f-20-4",
+  "title": "Becher, Ulrich: Vorstufe (Heimkehr in die alte Welt)",
+  "content": [ "Rückkehr aus dem Exil auf der Queen Elizabeth, erwähnt werden der österreichische Lyriker Adalbert E., der Weinberg des Herrn, Brissago, Paris und den Einzug nach Basel unter fasnächtlichem Trommeln und Pfeifen." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557813" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557813",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Heimkehr in die alte Welt", "level":4 }
-  ]
+  "key": "CH-000015-0-1557813"
 }

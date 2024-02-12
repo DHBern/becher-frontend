@@ -1,21 +1,19 @@
 {
-  "date": "1930 bis 1990",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-c-4",
-  "holding_institution": "SLA",
-  "title": "Visitenkarten, Autogrammkarte, Wohnungsprospekt, Auflistungen, Berlin; Biel; München; Nizza; Wien; Zürich;",
+  "ext": [ "23 Dokumente, handschriftlich und maschinenschriftlich mit handschriftlichen Skizzen und Notizen, handschriftlich Ulrich Becher, 23 Seiten, davon 1 Kopie; 1 Couvert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin; Biel; München; Nizza; Wien; Zürich;" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1930 bis 1990" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-1-c-4",
+  "title": "Visitenkarten, Autogrammkarte, Wohnungsprospekt, Auflistungen, Berlin; Biel; München; Nizza; Wien; Zürich;",
+  "content": [ "Div. Visitenkarten mit Notizen, Namenlisten für Belegexemplare und Korrespondenzen, Adressbeschriebe, Autogrammkarte, Wohnprospekt" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553378" },
-  "category": 3099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1553378",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Diverse persönliche Dokumente", "level":3 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1553378"
 }

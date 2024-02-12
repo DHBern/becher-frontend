@@ -1,21 +1,19 @@
 {
-  "date": "November 1970",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-10",
-  "holding_institution": "SLA",
-  "title": "Dieter Bachmann\/ Gerhart Waeger: Gespräch mit Ulrich Becher. Domino, Zürich",
+  "ext": [ "1 Ex. Domino, Nr. 95, Schweizer Bücherzeitung + Beilage" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Zürich" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "November 1970" ],
+  "encl": [ "Herausgetrenntes Interview (Zweitexemplar) mit Annotationen" ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-10",
+  "title": "Dieter Bachmann\/ Gerhart Waeger: Gespräch mit Ulrich Becher. Domino, Zürich",
+  "content": [ "Gespräch mit Ulrich Becher auf der Frankfurter Buchmesse" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537666" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1537666",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537666"
 }

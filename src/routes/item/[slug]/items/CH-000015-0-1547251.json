@@ -1,20 +1,19 @@
 {
-  "date": "1957",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-3-a",
-  "holding_institution": "SLA",
-  "title": "Beck, Wolfgang: Zeit auf den Brettern. Bemerkungen zu Thematik und Technik des Dramatikers Ulrich Becher",
+  "ext": [ "1 Heft" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Beck, Wolfgang (1933-1994)" ],
+  "lang": [  ],
+  "date": [ "1957" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-3-a",
+  "title": "Beck, Wolfgang: Zeit auf den Brettern. Bemerkungen zu Thematik und Technik des Dramatikers Ulrich Becher",
+  "content": [ "Eine Studie erschienen in der Beilage zu Heft 3\/ 1957 der Zeitschrift Theater der Zeit, S. 8-31." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1084346028" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1547251" },
+  "type": "collItem",
   "category": 4099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1547251",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Sekundärliteratur", "level":2 }
-  ]
+  "key": "CH-000015-0-1547251"
 }

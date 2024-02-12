@@ -1,21 +1,20 @@
 {
-  "date": "8. November 1942",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-3-a-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Das Märchen vom Räuber, der Schutzmann wurde. Eine Moritat",
+  "ext": [ "Heft A 5, 44 Blatt, Typoskript + Zeichnungen, handgeheftet" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "8. November 1942" ],
+  "note": [
+    "[Bemerkung] \"Erstmals gesungen auf dem familiären Jahrmarkt des 8. November 1942.\" NS-Karikaturen von Ulrich Becher.",
+    "[Biblio] Becher, Ulrich: Das Märchen vom Räuber, der Schutzmann wurde. Eine Moritat. Heft 1 der Notbücherei deutscher Antifaschisten, Rio de Janeiro 1943."
+  ],
+  "signature": "SLA-UB-A-3-a-1",
+  "title": "Becher, Ulrich: Das Märchen vom Räuber, der Schutzmann wurde. Eine Moritat",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558144" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558144",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Das Märchen vom Räuber, der Schutzmann wurde. Eine Moritat", "level":3 }
-  ]
+  "key": "CH-000015-0-1558144"
 }

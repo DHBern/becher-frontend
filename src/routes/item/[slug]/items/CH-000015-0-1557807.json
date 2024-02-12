@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-19-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Die unsichtbaren Hügel",
+  "ext": [ "Typoskript, 1 Blatt und Typoskript Durchschlag, 3 Blatt" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] davon 1 S. Titelblatt, auf einer S. am Kopf mit Rotstift: Neues Vorwort zu \"Unsichtbare Hügel\" Ulrich Becher. 2 Blatt Durchschlag des Vorworts" ],
+  "signature": "SLA-UB-A-1-f-19-1",
+  "title": "Becher, Ulrich: Die unsichtbaren Hügel",
+  "content": [ "Die unsichtbaren Hügel New Yorks" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557807" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557807",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Auch Neuyork ist auf Hügeln erbaut", "level":4 }
-  ]
+  "key": "CH-000015-0-1557807"
 }

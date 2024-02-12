@@ -1,25 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-4-h-2-9",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Der Herr kommt aus Bahia (Makumba)",
+  "ext": [ "Typoskript Durchschlag, 24 Blatt, mit wenigen handschriftlichen Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Prosaversion von Der Herr kommt aus Bahia, 3 Fassungen" ],
+  "signature": "SLA-UB-A-4-h-2-9",
+  "title": "Becher, Ulrich: Der Herr kommt aus Bahia (Makumba)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558643" },
+  "type": "work",
   "category": 10400,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558643",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Dramen", "level":2 },
-    { "'title":"Der Herr kommt aus Bahia \/ Makumba", "level":3 },
-    {
-      "'title": "Becher, Ulrich: Der Herr kommt aus Bahia \/ Makumba. Typoskripte und Textbücher",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1558643"
 }

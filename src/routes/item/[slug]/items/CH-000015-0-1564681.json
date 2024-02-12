@@ -1,22 +1,19 @@
 {
-  "date": "1924 bis 1928",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-1-a",
-  "holding_institution": "SLA",
-  "title": "Zeugnisse, München, Frankreich",
+  "ext": [ "1 Zeugnisfragment, zerrissen, maschinenschriftlich, 2 Seiten; 1 Zeugnis, maschinenschriftlich, 1 Bogen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "München, Frankreich" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1924 bis 1928" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-1-a",
+  "title": "Zeugnisse, München, Frankreich",
+  "content": [ "Zeugnisfragment einer französischen Matur, ohne Name; Zeugnis von Dana Roda Becher des Mädchengymnasiums in München" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564681" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "file",
-  "key": "CH-000015-0-1564681",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Persönliche Dokumente", "level":4 }
-  ]
+  "key": "CH-000015-0-1564681"
 }

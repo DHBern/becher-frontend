@@ -1,21 +1,21 @@
 {
-  "date": "s.d.",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-FUL-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Fulda, Jorge; Korrespondenz, o.O.",
+  "ext": [ "1 Postkarte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/121554068X" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "o.O." ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Nicht abgeschickt" ],
+  "signature": "SLA-UB-B-1-FUL-1",
+  "title": "Becher, Ulrich an Fulda, Jorge; Korrespondenz, o.O.",
+  "content": [  ],
+  "recipient": [ "Fulda, Jorge (1905-1985)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586179" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1586179",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Fulda, Jorge; Korrespondenz, o.O.", "level":3 }
-  ]
+  "key": "CH-000015-0-1586179"
 }

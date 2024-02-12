@@ -1,21 +1,21 @@
 {
-  "date": "2. März 1971",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-LIEP-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Liepmann, Ruth an Becher, Dana; Korrespondenz, Zürich;\nBasel",
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Zürich;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Liepman, Ruth (1909-2001)" ],
+  "lang": [  ],
+  "date": [ "2. März 1971" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Rückseite: Badezimmerpost von Ulrich an Dana Becher" ],
+  "signature": "SLA-UB-B-3-LIEP-BECHD-1",
+  "title": "Liepmann, Ruth an Becher, Dana; Korrespondenz, Zürich;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119134144" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685659" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685659",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Liepmann, Ruth an Becher, Dana; Korrespondenz, Zürich", "level":3 }
-  ]
+  "key": "CH-000015-0-1685659"
 }

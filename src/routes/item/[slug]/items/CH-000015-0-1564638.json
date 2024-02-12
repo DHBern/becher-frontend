@@ -1,22 +1,19 @@
 {
-  "date": "14. Februar 1941",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-c-3-d",
-  "holding_institution": "SLA",
-  "title": "Quittung für \"Auswanderung, Fahrkarten, Visen etc.\", Zürich",
+  "ext": [ "1 Blatt, handschriftlich" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "14. Februar 1941" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-1-c-3-d",
+  "title": "Quittung für \"Auswanderung, Fahrkarten, Visen etc.\", Zürich",
+  "content": [ "Quittung für die Auswanderungsgebühren, Fahrkarten und Visa, insgesamt 2000.00 CHF" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564638" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564638",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Diverse persönliche Dokumente", "level":3 },
-    { "'title":"Reise- und Emigrationsunterlagen", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1564638"
 }

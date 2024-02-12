@@ -1,20 +1,20 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Der Bockerer, [Theaterstück] - beiliegendes Material",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift Peter Preses" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Peter Preses" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Es handelt sich hierbei um eine Erklärung, auch im Namen von Ulrich Becher, zur Entstehung und Verwendung des Titels \"Der Neidinger\". Die Erklärung betrifft auch einen Einwand von Friedrich Torberg gegen den Titel" ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0016",
+  "title": "Der Bockerer, [Theaterstück] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116282614" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283946092",
     "gnd": "https:\/\/d-nb.info\/1283946092"
   },
+  "type": "work",
   "category": 10400,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283946092",
-  "levels": [  ]
+  "key": "(DE-101)1283946092"
 }

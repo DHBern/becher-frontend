@@ -1,22 +1,19 @@
 {
-  "date": "26. Oktober 1940",
-  "ext": 0,
-  "category_local_name": "Druckbelege",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-1-b-03-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Tanzlied. Volksstimme Sankt Gallen, Sankt Gallen",
+  "ext": [ "" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Sankt Gallen" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "26. Oktober 1940" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-1-b-03-a",
+  "title": "Becher, Ulrich: Tanzlied. Volksstimme Sankt Gallen, Sankt Gallen",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535811" },
-  "category": 4099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1535811",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Druckbelege", "level":2 },
-    { "'title":"Gedichte", "level":3 },
-    { "'title":"Becher, Ulrich: Tanzlied", "level":4 }
-  ]
+  "type": "collItem",
+  "category": 40100,
+  "key": "CH-000015-0-1535811"
 }

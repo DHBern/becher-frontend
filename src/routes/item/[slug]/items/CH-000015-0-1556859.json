@@ -1,21 +1,19 @@
 {
-  "date": "1930 bis 1960",
-  "ext": 0,
-  "category_local_name": "Berufliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-2-a-10",
-  "holding_institution": "SLA",
-  "title": "Verlag Buchdruckerei Volksstimme St. Gallen: Vollmacht für Becher-Ulrich, Elisabeth, St. Gallen",
+  "ext": [ "1 Typoskript, maschinenschriftlich, 1 Seite" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "St. Gallen" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1930 bis 1960" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-2-a-10",
+  "title": "Verlag Buchdruckerei Volksstimme St. Gallen: Vollmacht für Becher-Ulrich, Elisabeth, St. Gallen",
+  "content": [ "Vollmacht für Becher-Ulrich, Elisabeth über Angelegenheiten zum Buch \"Reise zum blauen Tag\", Vollmacht nicht unterzeichnet" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556859" },
+  "type": "lifeDoc",
   "category": 3099092,
-  "entry_type": "item",
-  "key": "CH-000015-0-1556859",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Berufliche Dokumente", "level":2 },
-    { "'title":"Verlagsverträge und Vollmachten", "level":3 }
-  ]
+  "key": "CH-000015-0-1556859"
 }

@@ -1,20 +1,22 @@
 {
-  "date": "1979",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Hein Kohn zum Abschied, Worte anlässlich seiner Feuerbestattung",
+  "ext": [ "3 Blatt maschinenschriftlich, Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "J. M. Ph. Uitman" ],
+  "lang": [  ],
+  "date": [ "1979" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0045",
+  "title": "Hein Kohn zum Abschied, Worte anlässlich seiner Feuerbestattung",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237929989" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128494476X",
     "gnd": "https:\/\/d-nb.info\/128494476X"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)128494476X",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)128494476X"
 }

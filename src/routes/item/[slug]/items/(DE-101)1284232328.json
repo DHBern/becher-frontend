@@ -1,20 +1,24 @@
 {
-  "date": "1954",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Herbert Müller-Ali" ],
+  "lang": [  ],
+  "date": [ "1954" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Ottomar Lang, Chefdramaturg, Meininger Theater, Theater des Bezirkes Suhl, Intendant Fritz Diez, Sondergenehmigung von Bloch für \"Samba\"" ],
+  "signature": "DEA-B-3-1-0017.B.01.1295",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216304858" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284232328",
     "gnd": "https:\/\/d-nb.info\/1284232328"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284232328",
-  "levels": [  ]
+  "key": "(DE-101)1284232328"
 }

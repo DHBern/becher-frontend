@@ -1,22 +1,22 @@
 {
-  "date": "1928 bis 1932",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-b-3-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Hausarbeit Nr. 1, Der Anspruch der offenen Handelsgesellschaft der Brüder A u. B. gegen Schrager, [Berlin]",
+  "ext": [ "1 Manuskript, handschriftlich, mit handschriftlichen Korrektur von Hand Dritter, 1 Bogen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "[Berlin]" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1928 bis 1932" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Bewertung: noch ausreichend",
+    "[Datierung] undatiert; geschätzt: Zeit seines Studiums"
+  ],
+  "signature": "SLA-UB-C-1-b-3-a",
+  "title": "Becher, Ulrich: Hausarbeit Nr. 1, Der Anspruch der offenen Handelsgesellschaft der Brüder A u. B. gegen Schrager, [Berlin]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1526606" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1526606",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Studium", "level":3 },
-    { "'title":"Hausarbeiten zum Studium der Rechtswissenschaften", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1526606"
 }

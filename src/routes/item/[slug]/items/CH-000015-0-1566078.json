@@ -1,22 +1,22 @@
 {
-  "date": "1912 bis 1913",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-a-3-13",
-  "holding_institution": "SLA",
-  "title": "Ulrich, Martin: Quartheft, blau: Die Zukunft der Religion [...] (II)",
+  "ext": [ "1 Quartheft, blau, handschriftlich, 10 Bogen, gebunden; 9 Blatt, lose eingelegt; 1 Brief, eingelegt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Ulrich, Martin (1857-1926)" ],
+  "lang": [  ],
+  "date": [ "1912 bis 1913" ],
+  "encl": [  ],
+  "note": [
+    "[Datierung] entsprechend eingelegtem Briefentwürfen",
+    "[Darin] 2 Briefentwurf (Berlin 1912 und 1913)"
+  ],
+  "signature": "SLA-UB-C-3-a-3-13",
+  "title": "Ulrich, Martin: Quartheft, blau: Die Zukunft der Religion [...] (II)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566078" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1566078",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Ulrich, Martin (Grossvater mütterlicherseits)", "level":3 },
-    { "'title":"Ulrich, Martin: Notizhefte", "level":4 }
-  ]
+  "key": "CH-000015-0-1566078"
 }

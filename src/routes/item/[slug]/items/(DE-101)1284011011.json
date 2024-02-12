@@ -1,20 +1,24 @@
 {
-  "date": "1978",
-  "ext": 0,
-  "category_local_name": "Notizbücher",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Notizbuch zum Text Vom Unzulänglichen der Wirklichkeit",
+  "ext": [ "1 Band (141 Blatt) handschriftlich, auch von Dana Becher" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1978" ],
+  "note": [
+    "Beginnt mit Notizen zu den Texten: Die nicht so netten Geschichten; SIFF, Selektive Identifizierung von Freund und Feind; Die kleine Kirke",
+    "Enthält auch Notizen zum Text: Die kleine Kirke",
+    "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0067",
+  "title": "Notizbuch zum Text Vom Unzulänglichen der Wirklichkeit",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284011011",
     "gnd": "https:\/\/d-nb.info\/1284011011"
   },
+  "type": "work",
   "category": 10700,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284011011",
-  "levels": [  ]
+  "key": "(DE-101)1284011011"
 }

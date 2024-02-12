@@ -1,22 +1,20 @@
 {
-  "date": "1935",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-8-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Bruch in Arosa (1. Fassung)",
+  "ext": [ "Typoskript Durchschlag, 14 Blatt, paginiert, zahlreiche handschriftliche Ergänzungen und Korrekturen" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1935" ],
+  "note": [
+    "[Bemerkung] vollständiges Manuskript im Notizbuch (Sig.); Titel durchgestrichen. Typoskript zusammengestellt aus vier anderen Dossiers, Stimmigkeit sehr wahrscheinlich aufgrund des Papiers und der Vielzahl der Ergänzungen mit schwarzer Tinte",
+    "[Biblio] Publiziert in der Zürcher Illustrierten, Bd. 11 (1935), Heft 18, S. 534-538."
+  ],
+  "signature": "SLA-UB-A-1-f-8-1",
+  "title": "Becher, Ulrich: Bruch in Arosa (1. Fassung)",
+  "content": [ "Das tragische Ende einer geheimgehaltenen Liebesbeziehung und wie es aufgrund mangelnder Gelegenheiten nach einem Skiunfall dazu kam." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557767" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557767",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Bruch in Arosa", "level":4 }
-  ]
+  "key": "CH-000015-0-1557767"
 }

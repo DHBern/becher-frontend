@@ -1,24 +1,21 @@
 {
-  "date": "29. September 1966",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-JENNY-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Jenny, Beat an Becher, Dana; Korrespondenz, Cambridge;\nBasel",
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Cambridge;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Jenny, Beat Rudolf (1926-)" ],
+  "lang": [  ],
+  "date": [ "29. September 1966" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-JENNY-BECHD-1",
+  "title": "Jenny, Beat an Becher, Dana; Korrespondenz, Cambridge;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1056558113" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685510" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685510",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Jenny, Beat an Becher, Dana; Korrespondenz, New Haven;\nCambridge",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1685510"
 }

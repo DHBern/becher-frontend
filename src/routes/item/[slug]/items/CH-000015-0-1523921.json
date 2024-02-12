@@ -1,22 +1,19 @@
 {
-  "date": "2. September 1966 bis 25. Juli 1968",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-c-2-a",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Testamente",
+  "ext": [ "2 Dokumente, handschriftlich und maschinenschriftlich mit Unterschrift, 2 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "2. September 1966 bis 25. Juli 1968" ],
+  "encl": [ "1 Couvert, beschriftet \"Testament\"" ],
+  "note": [  ],
+  "signature": "SLA-UB-C-1-c-2-a",
+  "title": "Becher, Ulrich: Testamente",
+  "content": [ "2 kurze Testamente über Vererbungen und Beisetzung" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1523921" },
-  "category": 3099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1523921",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Diverse persönliche Dokumente", "level":3 },
-    { "'title":"Zum Tod", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1523921"
 }

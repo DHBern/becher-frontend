@@ -1,22 +1,19 @@
 {
-  "date": "1910 bis 1920",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-b-2-a",
-  "holding_institution": "SLA",
-  "title": "Baby- und Kinderfotografien von Ulrich Becher, Wien",
+  "ext": [ "9 Fotografien, s\/w, teilweise geklebt, davon 2 Fotokopien, div. Formate, 9 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1910 bis 1920" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-4-b-2-a",
+  "title": "Baby- und Kinderfotografien von Ulrich Becher, Wien",
+  "content": [ "Abgebildet: Becher, Ulrich; Becher-Ulrich, Elise; Becher, Rolf; Fotografien z.T. ganze Seiten aus einem Album entnommen" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565835" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565835",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Einzelfotografien und Konvolute", "level":3 },
-    { "'title":"Fotografien aus dem Leben von Ulrich Becher", "level":4 }
-  ]
+  "key": "CH-000015-0-1565835"
 }

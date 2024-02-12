@@ -1,24 +1,21 @@
 {
-  "date": "26. April 1962",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-BECHM-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Martin Roda; Korrespondenz, Paris;\nBasel",
+  "ext": [ "1 Karte, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Paris;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)", "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "26. April 1962" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECHM-2",
+  "title": "Becher, Ulrich an Becher, Martin Roda; Korrespondenz, Paris;\nBasel",
+  "content": [ "Grüsse aus Paris" ],
+  "recipient": [ "Becher, Martin Roda (1944-)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586026" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1586026",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    {
-      "'title": "Becher, Ulrich an Becher, Martin Roda; Korrespondenz, Baden b. Wien; Paris; [Toskana]",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1586026"
 }

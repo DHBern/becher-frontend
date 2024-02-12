@@ -1,24 +1,21 @@
 {
-  "date": "2. Oktober 1957",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-TUCH-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Gerold-Tucholsky, Mary an Becher, Dana; Korrespondenz, Rottach-Egern; \nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Rottach-Egern; \nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Gerold-Tucholsky, Mary (1898-1987)" ],
+  "lang": [  ],
+  "date": [ "2. Oktober 1957" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-TUCH-BECHD-1",
+  "title": "Gerold-Tucholsky, Mary an Becher, Dana; Korrespondenz, Rottach-Egern; \nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118984888" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695267" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695267",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Gerold-Tucholsky, Mary an Becher, Dana; Korrespondenz, Rottach-Egern",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1695267"
 }

@@ -1,22 +1,17 @@
 {
-  "date": "1945",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-3-e-25-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Zum 52. Geburtstag von Böff",
+  "ext": [ "Typoskript, 1 Blatt, recto-verso" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1945" ],
+  "note": [ "[Bemerkung] ohne Titel, mit Zeichnungen, Grosz am 26.07.1893 in Berlin geboren" ],
+  "signature": "SLA-UB-A-3-e-25-1",
+  "title": "Becher, Ulrich: Zum 52. Geburtstag von Böff",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558402" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558402",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Weitere Gedichte und Gedichtskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Zum 52. Geburtstag von Böff", "level":4 }
-  ]
+  "key": "CH-000015-0-1558402"
 }

@@ -1,20 +1,24 @@
 {
-  "date": "1957",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Briefkarte",
+  "ext": [ "1 Karte Druck. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Max Brauer", "Hamburg" ],
+  "lang": [  ],
+  "date": [ "1957" ],
+  "encl": [  ],
+  "note": [ "Adressstempel auf Umschlag: Senat der Freien und Hansestadt Hamburg" ],
+  "signature": "DEA-B-3-1-0017.B.01.0389",
+  "title": "Briefkarte",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118673378", "https:\/\/d-nb.info\/gnd\/4023118-5" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284091945",
     "gnd": "https:\/\/d-nb.info\/1284091945"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284091945",
-  "levels": [  ]
+  "key": "(DE-101)1284091945"
 }

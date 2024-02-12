@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-16-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Martins erste Zeichnungen (zusammen mit Uli)",
+  "ext": [ "1 Blatt Din A4" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Bleistift und Buntstift auf dünnem Papier, oben Ulrich Becher hs.: \"Schreiben an Kürschner , Keller Rio, Lifzis Buenos, Peter Wien, Buch an Fontana\"; unten hs. Nachricht von Mrs. M.: \"Mr. Becher! Ihre Mutter war bei Ihnen um 2 Uhr nachmittags\"" ],
+  "signature": "SLA-UB-A-8-a-16-1",
+  "title": "Becher, Ulrich: Martins erste Zeichnungen (zusammen mit Uli)",
+  "content": [ "Tierabbildungen" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558875" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558875",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Martins erste Zeichnungen (zusammen mit Uli)", "level":4 }
-  ]
+  "key": "CH-000015-0-1558875"
 }

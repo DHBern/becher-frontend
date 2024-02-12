@@ -1,21 +1,21 @@
 {
-  "date": "25. September 1969",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-BECH-249",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, München",
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "München" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "25. September 1969" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Brief auf der Rücks. von 2 zusammengeklebten S. mit der Annonce der Murmeljagd von Rowohlt im Börsenblatt des Deutschen Buchhandels, Nr. 52 (01.07.1969)" ],
+  "signature": "SLA-UB-B-1-BECH-249",
+  "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, München",
+  "content": [ "Möglichkeit einer Verfilmung von Herz des Hais" ],
+  "recipient": [ "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1554348" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1554348",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1554348"
 }

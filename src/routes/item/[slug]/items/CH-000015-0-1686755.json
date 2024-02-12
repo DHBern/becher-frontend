@@ -1,24 +1,21 @@
 {
-  "date": "25. November 1979",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-MUEH-BECHD-31",
-  "holding_institution": "SLA",
-  "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Köln;\nBasel",
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Köln;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Mühsam, Joachim (1907-2000)" ],
+  "lang": [  ],
+  "date": [ "25. November 1979" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MUEH-BECHD-31",
+  "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Köln;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117165077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1686755" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1686755",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Buenos Aires;\nKöln;\nParis",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1686755"
 }

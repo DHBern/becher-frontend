@@ -1,22 +1,17 @@
 {
-  "date": "1939 bis 1946",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-3-b-24-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Ein Tag - noch ungeboren",
+  "ext": [ "Typoskript, 3 Blatt, unvollständig handschriftliche Korrekturen und Ergänzungen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1939 bis 1946" ],
+  "note": [ "[Bemerkung] S. 1 beschädigt, enthält auf Vorderseite Vers 1, Rückseite Ende von Vers 2. S. 2 Verse 1 und 2. S. 3 Verse 1 und 2." ],
+  "signature": "SLA-UB-A-3-b-24-2",
+  "title": "Becher, Ulrich: Ein Tag - noch ungeboren",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558251" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558251",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Reise zum blauen Tag. Verse", "level":3 },
-    { "'title":"Becher, Ulrich: Der blaue Tag oder drei Brüder", "level":4 }
-  ]
+  "key": "CH-000015-0-1558251"
 }

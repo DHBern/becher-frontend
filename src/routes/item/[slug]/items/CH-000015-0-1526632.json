@@ -1,22 +1,19 @@
 {
-  "date": "7. Februar 1930",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-b-3-j",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Vierte Hausarbeit, Bei einem durch Kurzschluss ausgebrochenen Brand im Geschäftshaus des Rothe kann sich eine Angestellte, die im Lagerraum mit dem Verpacken von Warenbeschäftigt war, nicht mehr rechtzeitig retten..., [Berlin?]",
+  "ext": [ "1 Typoskript, maschinenschriftlich mit handschriftlichen Korrekturen und Anmerkungen von Hand Dritter, 8 Seiten" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "[Berlin?]" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "7. Februar 1930" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Bewertung: 3+ ; es fehlt Seite 2, resp. die Seiten sind falsch nummeriert" ],
+  "signature": "SLA-UB-C-1-b-3-j",
+  "title": "Becher, Ulrich: Vierte Hausarbeit, Bei einem durch Kurzschluss ausgebrochenen Brand im Geschäftshaus des Rothe kann sich eine Angestellte, die im Lagerraum mit dem Verpacken von Warenbeschäftigt war, nicht mehr rechtzeitig retten..., [Berlin?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1526632" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1526632",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Studium", "level":3 },
-    { "'title":"Hausarbeiten zum Studium der Rechtswissenschaften", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1526632"
 }

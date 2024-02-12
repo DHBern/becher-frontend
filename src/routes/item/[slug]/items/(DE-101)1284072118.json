@@ -1,20 +1,24 @@
 {
-  "date": "1945",
-  "ext": 5,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c4ef98e5-aa57-48a5-a26e-0e90aca98a22\/",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Brief",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift.  Mit handschriftlichem Zusatz von Elise Becher-Ulrich. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284072118_00000010.tif\/info.json",
-  "prototype": true,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 4,
+  "creator": [ "Richard Becher" ],
+  "lang": [  ],
+  "date": [ "1945" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Hotel Central, Rio de Janeiro, Brasil" ],
+  "signature": "DEA-B-3-1-0017.B.01.0217",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284072118",
     "gnd": "https:\/\/d-nb.info\/1284072118"
   },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284072118",
-  "levels": [  ]
+  "key": "(DE-101)1284072118"
 }

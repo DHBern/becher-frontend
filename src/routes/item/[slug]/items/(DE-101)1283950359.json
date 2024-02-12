@@ -1,20 +1,20 @@
 {
-  "date": "1931",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "An die Mörder, Konvolut von einzelnen Gedichten, [Lyrik] - beiliegendes Material",
+  "ext": [ "7 Blatt handschriftlich und maschinenschriftlich. Mit Zeichnungen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1931" ],
+  "note": [ "Es handelt sich hierbei um verschiedene Gedicht-Fragmente" ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0024",
+  "title": "An die Mörder, Konvolut von einzelnen Gedichten, [Lyrik] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283950359",
     "gnd": "https:\/\/d-nb.info\/1283950359"
   },
+  "type": "work",
   "category": 10300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283950359",
-  "levels": [  ]
+  "key": "(DE-101)1283950359"
 }

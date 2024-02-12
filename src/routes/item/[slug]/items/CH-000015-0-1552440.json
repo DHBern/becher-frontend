@@ -1,21 +1,21 @@
 {
-  "date": "März 1929",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-BECH-091",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Genf",
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Genf" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "März 1929" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-091",
+  "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Genf",
+  "content": [ "Provisorische Unterkunft neben der Universität, die einen „Miniatureindruck im Verhältnis zur Berliner“ mache; UB erkannte Guggenheim sofort „von unserer Gesellschaft her – begrüsste ihn und er wird mich bald mal einladen\"; UB bittet, ihm dringend seine Sachen nachzuschicken, auch die Photos der Sisters G. (Frl. Luise, weiß, wo sie sind), Pinsel und Farben „Rolf schicke bitte zu Grosz (Nassauische 4) hinüber, da mir Grosz noch eine Flasche von seinem Spezialmalölmischung gibt […] frage Aaron (Bleibtreu 1083) nach meinen Papieren, er soll sie gleich schicken“." ],
+  "recipient": [ "Becher, Richard (1875-1956)", "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552440" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1552440",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    { "'title":"Becher, Ulrich an Becher, Richard und Elise; Korrespondenz", "level":3 }
-  ]
+  "key": "CH-000015-0-1552440"
 }

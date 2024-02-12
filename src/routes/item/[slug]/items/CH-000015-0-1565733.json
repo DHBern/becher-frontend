@@ -1,21 +1,19 @@
 {
-  "date": "1941 bis 1944",
-  "ext": 0,
-  "category_local_name": "Fotografien",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-4-a-6",
-  "holding_institution": "SLA",
-  "title": "Schwarz Album mit Kordel: Rio de Janeiro, Belgien, Brasilien",
+  "ext": [ "1 Album, schwarz mit Kordel, gebunden, 50 Seiten; darin 43 Fotografien, geklebt, s\/w, div. Formate, 2 Einladungskarten, 1 Programmheft, 1 Fotografie, s\/w, lose eingelegt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Brasilien" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1941 bis 1944" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Exil in Brasilien, Rio de Janeiro" ],
+  "signature": "SLA-UB-C-4-a-6",
+  "title": "Schwarz Album mit Kordel: Rio de Janeiro, Belgien, Brasilien",
+  "content": [ "Abgebildet: Becher, Richard; Becher-Ulrich, Elise u.a." ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565733" },
+  "type": "lifeDoc",
   "category": 3099094,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565733",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Fotografien", "level":2 },
-    { "'title":"Alben", "level":3 }
-  ]
+  "key": "CH-000015-0-1565733"
 }

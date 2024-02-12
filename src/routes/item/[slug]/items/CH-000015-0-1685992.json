@@ -1,21 +1,21 @@
 {
-  "date": "30. Januar 1956",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-MECHN-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Mechnig, Elfriede an Becher, Dana; Korrespondenz, Berlin;\nBasel",
+  "ext": [ "Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Mechnig, Elfriede (1901-1986)" ],
+  "lang": [  ],
+  "date": [ "30. Januar 1956" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MECHN-BECHD-1",
+  "title": "Mechnig, Elfriede an Becher, Dana; Korrespondenz, Berlin;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1026358825" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685992" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1685992",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    { "'title":"Mechnig, Elfriede an Becher, Dana; Korrespondenz, Berlin", "level":3 }
-  ]
+  "key": "CH-000015-0-1685992"
 }

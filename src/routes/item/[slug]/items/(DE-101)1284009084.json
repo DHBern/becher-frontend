@@ -1,20 +1,23 @@
 {
-  "date": "1980",
-  "ext": 0,
-  "category_local_name": "Notizbücher",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Notizbuch zum Text Der obligate Ausfall",
+  "ext": [ "1 Band (57 Blatt) handschriftlich, auch von Dana Becher" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1980" ],
+  "note": [
+    "Enthält auch Notizen zu den Texten: Stammgast im Liliputanercafé; Auf die Spitze getrieben; Abseits vom Rodeo",
+    "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0049",
+  "title": "Notizbuch zum Text Der obligate Ausfall",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284009084",
     "gnd": "https:\/\/d-nb.info\/1284009084"
   },
+  "type": "work",
   "category": 10700,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284009084",
-  "levels": [  ]
+  "key": "(DE-101)1284009084"
 }

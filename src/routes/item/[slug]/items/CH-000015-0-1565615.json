@@ -1,21 +1,17 @@
 {
-  "date": "1930 bis 1990",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-h-3",
-  "holding_institution": "SLA",
-  "title": "Listen, Aufstellungen, Titelblätter",
+  "ext": [ "Manuskript + Typoskript, 16 Blatt" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1930 bis 1990" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-1-h-3",
+  "title": "Listen, Aufstellungen, Titelblätter",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565615" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "file",
-  "key": "CH-000015-0-1565615",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Fragmente und Materialien", "level":3 }
-  ]
+  "key": "CH-000015-0-1565615"
 }

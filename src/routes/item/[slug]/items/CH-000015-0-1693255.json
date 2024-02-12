@@ -1,24 +1,21 @@
 {
-  "date": "26. Oktober 1932",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-RODA-JAEG-4",
-  "holding_institution": "SLA",
-  "title": "Roda Roda, Elsbeth an Jäger, Helene; Korrespondenz, Berlin",
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [  ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Roda Roda, Elsbeth (1879-1960)" ],
+  "lang": [  ],
+  "date": [ "26. Oktober 1932" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-RODA-JAEG-4",
+  "title": "Roda Roda, Elsbeth an Jäger, Helene; Korrespondenz, Berlin",
+  "content": [  ],
+  "recipient": [ "Jäger, Helene (20. Jh.)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693255" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1693255",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Roda Roda, Elsbeth an Jäger, Helene; Korrespondenz, Wien;\nBerlin",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1693255"
 }

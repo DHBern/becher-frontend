@@ -1,20 +1,22 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Selbstständige Belegexemplare",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Konvolut von Zeitungsausschnitten mit Beiträgen über Martin Roda Becher",
+  "ext": [ "48 Blatt = circa 45 Einheiten Druck. Teilweise Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Martin Roda Becher als Schriftsteller und als Sportler (Fechten)" ],
+  "signature": "DEA-B-3-1-0017.D.01.03.0011",
+  "title": "Konvolut von Zeitungsausschnitten mit Beiträgen über Martin Roda Becher",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282767518",
     "gnd": "https:\/\/d-nb.info\/1282767518"
   },
-  "category": 0,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1282767518",
-  "levels": [  ]
+  "type": "lifeDoc",
+  "category": 303,
+  "key": "(DE-101)1282767518"
 }

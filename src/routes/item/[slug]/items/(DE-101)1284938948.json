@@ -1,20 +1,22 @@
 {
-  "date": "1974",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Ulrich Becher, New Yorker Novellen, Hessischer Rundfunk, [Rundfunk-Typoskript]",
+  "ext": [ "3 Blatt maschinenschriftlich mit Korrekturen, Xerox" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Karl Heinz Kramberg" ],
+  "lang": [  ],
+  "date": [ "1974" ],
+  "encl": [  ],
+  "note": [ "Sendereihe: Kulturelles Wort" ],
+  "signature": "DEA-B-3-1-0017.D.03.0023",
+  "title": "Ulrich Becher, New Yorker Novellen, Hessischer Rundfunk, [Rundfunk-Typoskript]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118913530" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284938948",
     "gnd": "https:\/\/d-nb.info\/1284938948"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284938948",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284938948"
 }

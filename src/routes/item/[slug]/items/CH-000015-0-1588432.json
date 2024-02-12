@@ -1,24 +1,21 @@
 {
-  "date": "8. Dezember 1937",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-BECHD-17",
-  "holding_institution": "SLA",
-  "title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, o.O.",
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "o.O." ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "8. Dezember 1937" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-BECHD-17",
+  "title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, o.O.",
+  "content": [ "Besorgnis über die wenigen Briefe von UB, \"kein sehr inhaltsreicher Brief ist das\"" ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1588432" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1588432",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, Brüssel; Genf; Graz; Rom; Wien; Zürich",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1588432"
 }

@@ -1,21 +1,19 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-24",
-  "holding_institution": "SLA",
-  "title": "Laudatio auf Ulrich Becher",
+  "ext": [ "Ts., 2 Bl. m. hs. Korr. u. Erg. + Ms., 2 Bl., unbekannte Handschrift" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "[Datierung] s.d." ],
+  "signature": "SLA-UB-D-2-b-24",
+  "title": "Laudatio auf Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551488" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1551488",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1551488"
 }

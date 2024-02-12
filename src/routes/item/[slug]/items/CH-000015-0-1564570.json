@@ -1,22 +1,19 @@
 {
-  "date": "8. September 1970 bis 19. Juni 1973",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-c-2-c",
-  "holding_institution": "SLA",
-  "title": "Testament Becher-Ulrich, Elise, Basel",
+  "ext": [ "1 Brief, maschinenschriftlich, 1 Seite; 1 Testament, Kopie, handschriftlich, gestempelt, 1 Seite" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "8. September 1970 bis 19. Juni 1973" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Datum Testament: 08.09.1970; Datum Korrespondenz 19.06.1973" ],
+  "signature": "SLA-UB-C-1-c-2-c",
+  "title": "Testament Becher-Ulrich, Elise, Basel",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564570" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564570",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Diverse persönliche Dokumente", "level":3 },
-    { "'title":"Zum Tod", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1564570"
 }

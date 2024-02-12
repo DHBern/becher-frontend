@@ -1,21 +1,19 @@
 {
-  "date": "9. Mai bis 27. Oktober 1972",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-13",
-  "holding_institution": "SLA",
-  "title": "Lesungen 1972, Basel",
+  "ext": [ "3 Zeitungsartikel (Kopien)" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "9. Mai bis 27. Oktober 1972" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] verschiedene Artikel in den Basler Nachrichten, Basler National-Zeitung, Berner Tageblatt" ],
+  "signature": "SLA-UB-D-2-b-13",
+  "title": "Lesungen 1972, Basel",
+  "content": [ "3 Artikel zu Bechers Lesungen im Literarischen Forum Basel und auf Einladung des Benziger Verlags im Zähriger Forum" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538455" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1538455",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1538455"
 }

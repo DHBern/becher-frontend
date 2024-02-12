@@ -1,22 +1,19 @@
 {
-  "date": "1914",
-  "ext": 0,
-  "category_local_name": "Persönliche Dokumente",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-1-a-1-a",
-  "holding_institution": "SLA",
-  "title": "Weihnacht-Censur für Hans Ulrich Becher, Berlin",
+  "ext": [ "1 Dokument, Überformat, handschriftlich, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1914" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Dokument hat Risse und starke Falzspuren" ],
+  "signature": "SLA-UB-C-1-a-1-a",
+  "title": "Weihnacht-Censur für Hans Ulrich Becher, Berlin",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1525174" },
-  "category": 3099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1525174",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Persönliche Dokumente", "level":2 },
-    { "'title":"Schulzeit", "level":3 },
-    { "'title":"Zeugnisse und Leistungsberichte", "level":4 }
-  ]
+  "type": "lifeDoc",
+  "category": 30100,
+  "key": "CH-000015-0-1525174"
 }

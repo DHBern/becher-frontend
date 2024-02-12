@@ -1,24 +1,21 @@
 {
-  "date": "13. Dezember 1966",
-  "ext": 0,
-  "category_local_name": "Briefe von Ulrich Becher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-1-BECHD-30",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "ext": [ "1 Telegramm, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "13. Dezember 1966" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECHD-30",
+  "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "content": [ "Gesundheit, Reisepläne" ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1585497" },
+  "type": "letter",
   "category": 20200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1585497",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe von Ulrich Becher", "level":2 },
-    {
-      "'title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Bad Gastein; Basel; Berlin; Mailand; Manila; Montecatini; München; Paris; Prag;\nSalzburg; Triest; Venedig; Verona; Wien",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1585497"
 }

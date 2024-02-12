@@ -1,20 +1,20 @@
 {
-  "date": "1939",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Lieder der Nachtwache, Gedichte aus dem Zweiten Krieg, [Lyrik]",
+  "ext": [ "78 Blatt maschinenschriftlich und maschinenschriftlicher Durchschlag, unvollständig" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1939" ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0015",
+  "title": "Lieder der Nachtwache, Gedichte aus dem Zweiten Krieg, [Lyrik]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283949660",
     "gnd": "https:\/\/d-nb.info\/1283949660"
   },
+  "type": "work",
   "category": 10300,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283949660",
-  "levels": [  ]
+  "key": "(DE-101)1283949660"
 }

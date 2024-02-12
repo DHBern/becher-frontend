@@ -1,22 +1,17 @@
 {
-  "date": "1915",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-1-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Zeichenheft 1915",
+  "ext": [ "10 Blatt, Blaues Zeichenheft mit Kinderzeichnungen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1915" ],
+  "note": [ "[Bemerkung] Bunstift auf Papier, Datierung auf S. 1" ],
+  "signature": "SLA-UB-A-8-a-1-1",
+  "title": "Becher, Ulrich: Zeichenheft 1915",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558844" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558844",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Zeichenheft 1915", "level":4 }
-  ]
+  "key": "CH-000015-0-1558844"
 }

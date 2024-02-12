@@ -1,22 +1,19 @@
 {
-  "date": "1909 bis 1992",
-  "ext": 0,
-  "category_local_name": "Familie",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-C-3-d-2-g",
-  "holding_institution": "SLA",
-  "title": "Roda-Becher, Dana: Die Zirkuskuppelei, Basel",
+  "ext": [ "Manuskript, handschriftlich, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1909 bis 1992" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Vermerkt: Zu \"geniale Versakrobatik\"", "[Datierung] geschätzt" ],
+  "signature": "SLA-UB-C-3-d-2-g",
+  "title": "Roda-Becher, Dana: Die Zirkuskuppelei, Basel",
+  "content": [ "Gedicht" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564877" },
+  "type": "lifeDoc",
   "category": 3099093,
-  "entry_type": "item",
-  "key": "CH-000015-0-1564877",
-  "levels": [
-    { "'title":"Lebensdokumente", "level":1 },
-    { "'title":"Familie", "level":2 },
-    { "'title":"Roda Becher, Dana (Frau)", "level":3 },
-    { "'title":"Roda-Becher, Dana: Notizen und Manuskripte", "level":4 }
-  ]
+  "key": "CH-000015-0-1564877"
 }

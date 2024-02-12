@@ -1,22 +1,17 @@
 {
-  "date": "",
-  "ext": 0,
-  "category_local_name": "Notizbücher",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-7-a-15-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Schreibheft 15",
+  "ext": [ "30 Blatt, vollständig beschrieben, schwarzes Schreibheft mit blauem Rand" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Alfredo (vgl. Altweibersommer\/ Sein Traum), schwarzblaue Tinte, Bleistift" ],
+  "signature": "SLA-UB-A-7-a-15-1",
+  "title": "Becher, Ulrich: Schreibheft 15",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558836" },
+  "type": "work",
   "category": 10700,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558836",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Literarische Notizbücher und -hefte", "level":2 },
-    { "'title":"Literarische Notizbücher und -hefte", "level":3 },
-    { "'title":"Becher, Ulrich: Schreibheft 15", "level":4 }
-  ]
+  "key": "CH-000015-0-1558836"
 }

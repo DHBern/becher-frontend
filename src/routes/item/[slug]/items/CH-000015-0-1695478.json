@@ -1,24 +1,21 @@
 {
-  "date": "25. März 1991",
-  "ext": 0,
-  "category_local_name": "Briefe Dritter",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-3-ZEPPM-BECHD-1",
-  "holding_institution": "SLA",
-  "title": "Zeppelin, Marius von an Becher, Dana; Korrespondenz, Lower Hutt, Neuseeland;\nBasel",
+  "ext": [ "1 Brief, hs. + Beil." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Lower Hutt, Neuseeland;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Zeppelin, Marius von (20.\/21. Jh.)" ],
+  "lang": [  ],
+  "date": [ "25. März 1991" ],
+  "encl": [ "Umschlag, 2 Fotos" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ZEPPM-BECHD-1",
+  "title": "Zeppelin, Marius von an Becher, Dana; Korrespondenz, Lower Hutt, Neuseeland;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695478" },
+  "type": "letter",
   "category": 20300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1695478",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe Dritter", "level":2 },
-    {
-      "'title": "Zeppelin, Marius von an Becher, Dana; Korrespondenz, Lower Hutt;\nNeuseeland",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1695478"
 }

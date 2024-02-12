@@ -1,21 +1,17 @@
 {
-  "date": "9. Mai 1956",
-  "ext": 0,
-  "category_local_name": "Drehbücher und Filmideen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-5-b-5",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Nach dem Gedächtnis niedergeschriebene Inhaltsangabe einer Geschichte von einem harmlosen Bankdieb",
+  "ext": [ "Typoskript, 1 Blatt" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "9. Mai 1956" ],
+  "note": [ "[Bemerkung] Blatt mit Wasserzeichen. Beilage zum Schreiben an Elsbeth Roda Roda c\/o American Express Company, Zürich. Stempel Ecke unten links: Diehl-Film Gräfelfing b. München Killerstr. 7" ],
+  "signature": "SLA-UB-A-5-b-5",
+  "title": "Becher, Ulrich: Nach dem Gedächtnis niedergeschriebene Inhaltsangabe einer Geschichte von einem harmlosen Bankdieb",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558679" },
+  "type": "work",
   "category": 10500,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558679",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Drehbücher und Filmideen", "level":2 },
-    { "'title":"Filmideen", "level":3 }
-  ]
+  "key": "CH-000015-0-1558679"
 }

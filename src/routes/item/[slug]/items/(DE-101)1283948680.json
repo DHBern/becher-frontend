@@ -1,20 +1,24 @@
 {
-  "date": "1900",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Viermal große Zeiten, [Theater-Projekt]",
+  "ext": [ "21 Blatt maschinenschriftlich und anderes. Auch handschriftlich Durchschrift von Dana Becher" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Fragment",
+    "Es handelt sich hierbei um ein Titelblatt bzw. um eine Inhaltsangabe und um verstreute Einzelblätter folgender Teilkapitel: Die Stimme des Kaisers; Meldemanngasse 27; Auf die Spitze getrieben; Der eingebildete Gesunde; Der unbeschränkte U-Boot-Krieg",
+    "Alternativer Titel: 5x große Zeiten"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0087",
+  "title": "Viermal große Zeiten, [Theater-Projekt]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948680",
     "gnd": "https:\/\/d-nb.info\/1283948680"
   },
+  "type": "work",
   "category": 10400,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1283948680",
-  "levels": [  ]
+  "key": "(DE-101)1283948680"
 }

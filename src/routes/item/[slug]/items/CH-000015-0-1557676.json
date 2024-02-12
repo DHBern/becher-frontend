@@ -1,25 +1,17 @@
 {
-  "date": "1940 bis 1949",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-c-5-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Feuerwasser",
+  "ext": [ "Typoskript und Manuskript, 20 Blatt, handschriftliche Korrekturen, paginiert" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1940 bis 1949" ],
+  "note": [ "[Bemerkung] Erzählfragment. Ursprünglich als fünfte Nacht und Novelle vorgesehen. Später zum gleichnamigen Drama umgearbeitet. Zusammenhängendes Konvolut. Rückseite Typoskript Deckblatt von Der Hahn kräht vor Mitternacht - Ein brasilianischer Romancero und handschriftliche Korrekturenangaben" ],
+  "signature": "SLA-UB-A-1-c-5-1",
+  "title": "Becher, Ulrich: Feuerwasser",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557676" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557676",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    {
-      "'title": "Nachtigall will zum Vater fliegen. Ein Zyklus New Yorker Novellen in vier Nächten",
-      "level": 3
-    },
-    { "'title":"Becher, Ulrich: Feuerwasser", "level":4 }
-  ]
+  "key": "CH-000015-0-1557676"
 }

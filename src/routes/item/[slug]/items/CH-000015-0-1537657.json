@@ -1,21 +1,19 @@
 {
-  "date": "26. April 1947",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-01",
-  "holding_institution": "SLA",
-  "title": "Berendsohn, Walter A.: Die humanistische Front. Tat, Zürich",
+  "ext": [ "1 Zeitungsartikel m. hs. Anm." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Zürich" ],
+  "ext_num": 0,
+  "creator": [ "Berendsohn, Walter A. (1884-1984)" ],
+  "lang": [  ],
+  "date": [ "26. April 1947" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-01",
+  "title": "Berendsohn, Walter A.: Die humanistische Front. Tat, Zürich",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118509284" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537657" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1537657",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1537657"
 }

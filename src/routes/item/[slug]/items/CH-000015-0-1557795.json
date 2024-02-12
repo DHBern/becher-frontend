@@ -1,22 +1,20 @@
 {
-  "date": "1953",
-  "ext": 0,
-  "category_local_name": "Erzählungen",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-1-f-15-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Die Spezialität der Kublitzkaja (2. Fassung)",
+  "ext": [ "Typoskript, 5 Blatt, Kopie; vollständig + 1 Zettel" ],
   "category_global_name": "Erzählungen",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "note": [
+    "[Bemerkung] Korr. vom Typoskript f-15-1 ausgeführt; handschriftliche Korrekturen der femininen russ. Namensendung nicht durchgängig, komprimierte Fassung. Adresse Briefkopf: Sekretariat Mechnig, Berlin-Friedenau, Niedstr. 5 (Bechers Bekannte und Handlungsbevollmächtigte in Berlin und gleichzeitige Sekretärin von Erich Kästner)",
+    "[Biblio] Veröffentlicht unter dem Titel \"Die Spezialität der Kublitzka\" in der Stuttgarter Zeitung, 10.10.1953, \"Fräulein Kublitzkas Spezialität\" in der Abendpost, Nr. 18-22 am 23.1.1955, \"Jan Podje oder das Ende des Kalten Kriegs\" (Ort und Datum der Publikation unbekannt)"
+  ],
+  "signature": "SLA-UB-A-1-f-15-2",
+  "title": "Becher, Ulrich: Die Spezialität der Kublitzkaja (2. Fassung)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557795" },
+  "type": "work",
   "category": 10100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1557795",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Erzählungen", "level":2 },
-    { "'title":"Weitere Erzählungen und Erzählskizzen", "level":3 },
-    { "'title":"Becher, Ulrich: Die Spezialität der Kublitzkaja", "level":4 }
-  ]
+  "key": "CH-000015-0-1557795"
 }

@@ -1,22 +1,17 @@
 {
-  "date": "1952",
-  "ext": 0,
-  "category_local_name": "Zeichnungen und anderes",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-8-a-18-1",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Roda Roda",
+  "ext": [ "1 Blatt Din A4, signiert" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1952" ],
+  "note": [ "[Bemerkung] Bleistift und schwarzer Filzstift auf Papier, in Mappe eingelegt, mit Druckangaben" ],
+  "signature": "SLA-UB-A-8-a-18-1",
+  "title": "Becher, Ulrich: Roda Roda",
+  "content": [ "Karikatur von Roda Roda" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558879" },
+  "type": "work",
   "category": 10800,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558879",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Bildwerk", "level":2 },
-    { "'title":"Skizzen, Entwürfe, Zeichnungen, Karikaturen", "level":3 },
-    { "'title":"Becher, Ulrich: Roda Roda", "level":4 }
-  ]
+  "key": "CH-000015-0-1558879"
 }

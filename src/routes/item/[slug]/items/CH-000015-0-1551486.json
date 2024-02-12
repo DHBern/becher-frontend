@@ -1,21 +1,19 @@
 {
-  "date": "21. April 1985",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-b-21",
-  "holding_institution": "SLA",
-  "title": "Naumann, Uwe\/ Töteberg, Michael: Auf dem dünnen Seil der Wirklichkeit. Radiosendung",
+  "ext": [ "1 Bl. m. hs. Notiz + Kop." ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "21. April 1985" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-b-21",
+  "title": "Naumann, Uwe\/ Töteberg, Michael: Auf dem dünnen Seil der Wirklichkeit. Radiosendung",
+  "content": [ "Kopie des Radioprogramms, Sendung in Radio bremen 2" ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551486" },
-  "category": 4099091,
-  "entry_type": "item",
-  "key": "CH-000015-0-1551486",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Zeitungsporträts und Artikel über UB", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1551486"
 }

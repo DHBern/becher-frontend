@@ -1,24 +1,21 @@
 {
-  "date": "10. Dezember 1935",
-  "ext": 0,
-  "category_local_name": "Briefe an Ulrich Becher ",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-B-2-BECHR-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz",
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Rolf (1916-1998)" ],
+  "lang": [  ],
+  "date": [ "10. Dezember 1935" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-BECHR-2",
+  "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz",
+  "content": [ "Reisepläne der Eltern, Zeitgeschehen: \"Und das geht immer so weiter, nur weil damals ein paar Trottel einem Mann aus Braunau die Deutsche Staatbürgerschaft gegeben haben.\"" ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215371292" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1589593" },
+  "type": "letter",
   "category": 20100,
-  "entry_type": "item",
-  "key": "CH-000015-0-1589593",
-  "levels": [
-    { "'title":"Briefe", "level":1 },
-    { "'title":"Briefe an Ulrich Becher", "level":2 },
-    {
-      "'title": "Becher, Rolf an Becher, Ulrich; Korrespondenz, Samnaun;\nSt. Moritz; Piazzogna; Zürich; Zypern",
-      "level": 3
-    }
-  ]
+  "key": "CH-000015-0-1589593"
 }

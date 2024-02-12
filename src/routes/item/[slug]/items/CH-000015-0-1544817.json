@@ -1,21 +1,19 @@
 {
-  "date": "1943 bis 1962",
-  "ext": 0,
-  "category_local_name": "Pressedokumentation",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-D-2-d-08",
-  "holding_institution": "SLA",
-  "title": "Dokumentation Österreich",
+  "ext": [ "5 Zeitungsartikel" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1943 bis 1962" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-D-2-d-08",
+  "title": "Dokumentation Österreich",
+  "content": [  ],
+  "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1544817" },
-  "category": 4099091,
-  "entry_type": "file",
-  "key": "CH-000015-0-1544817",
-  "levels": [
-    { "'title":"Sammlungen", "level":1 },
-    { "'title":"Pressedokumentation", "level":2 },
-    { "'title":"Allgemeine Pressedokumentation", "level":3 }
-  ]
+  "type": "collItem",
+  "category": 40200,
+  "key": "CH-000015-0-1544817"
 }

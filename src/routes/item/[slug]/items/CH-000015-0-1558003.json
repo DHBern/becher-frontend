@@ -1,22 +1,17 @@
 {
-  "date": "1956",
-  "ext": 0,
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-2-b-2-4",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Kurz nach 4",
+  "ext": [ "Typoskript, 5 Blatt, handschriftliche Korrekturen" ],
   "category_global_name": "Romane",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1956" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-2-b-2-4",
+  "title": "Becher, Ulrich: Kurz nach 4",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558003" },
+  "type": "work",
   "category": 10200,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558003",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Romane", "level":2 },
-    { "'title":"Kurz nach 4", "level":3 },
-    { "'title":"Becher, Ulrich: Kurz nach 4. Vorstufen", "level":4 }
-  ]
+  "key": "CH-000015-0-1558003"
 }

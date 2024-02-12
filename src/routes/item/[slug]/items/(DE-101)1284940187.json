@@ -1,20 +1,22 @@
 {
-  "date": "1960",
-  "ext": 0,
-  "category_local_name": "Manuskripte und Typoskripte Anderer",
-  "iiif-manifest": "",
-  "signature": "",
-  "holding_institution": "DEA",
-  "title": "Ulrich Becher, Maenner machen Fehler",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Peter M. Lindt" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [ "Reproduktion von: Abschrift" ],
+  "signature": "DEA-B-3-1-0017.D.03.0029",
+  "title": "Ulrich Becher, Maenner machen Fehler",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117015474" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940187",
     "gnd": "https:\/\/d-nb.info\/1284940187"
   },
-  "category": 4099093,
-  "entry_type": "http:\/\/purl.org\/ontology\/bibo\/Document",
-  "key": "(DE-101)1284940187",
-  "levels": [  ]
+  "type": "collItem",
+  "category": 40500,
+  "key": "(DE-101)1284940187"
 }

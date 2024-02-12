@@ -1,25 +1,17 @@
 {
-  "date": "1939 bis 1946",
-  "ext": 0,
-  "category_local_name": "Lyrik",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-3-b-21-3",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Sonett von meiner Altleutebank (Sonett der Ungeduld)",
+  "ext": [ "Typoskript, 1 Blatt, A 5, mit handschriftlichen Korrekturen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1939 bis 1946" ],
+  "note": [ "[Bemerkung] Papier orange, entspricht dem durchgestrichenen Teil 2 des Typoskript Sonette der Ungeduld (A-3-b-21-1)." ],
+  "signature": "SLA-UB-A-3-b-21-3",
+  "title": "Becher, Ulrich: Sonett von meiner Altleutebank (Sonett der Ungeduld)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558241" },
+  "type": "work",
   "category": 10300,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558241",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Gedichte und Versepen", "level":2 },
-    { "'title":"Reise zum blauen Tag. Verse", "level":3 },
-    {
-      "'title": "Becher, Ulrich: Sonette der Ungeduld (Sonett von meiner Altleutebank)",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1558241"
 }

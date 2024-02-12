@@ -1,25 +1,17 @@
 {
-  "date": "Mai 1936",
-  "ext": 0,
-  "category_local_name": "Essays und Reden",
-  "iiif-manifest": "",
-  "signature": "SLA-UB-A-6-a-1-2",
-  "holding_institution": "SLA",
-  "title": "Becher, Ulrich: Antwort an Ulrich Becher (Rudolf Breitscheid)",
+  "ext": [ "1 Blatt Kopie des Zeitungsartikels, mit handschriftlichen Anmerkungen" ],
   "category_global_name": "",
-  "iiif": "",
-  "prototype": false,
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "Mai 1936" ],
+  "note": [ "[Bemerkung] Handschriftliche Anmerkung von Dana Becher: \"Rudolf Breitscheid, exilierter SPD-Führer, Mai 36 in der Pariser Wochenschrift 'Europa'. Sommer 40 von der Gestapo verhaftet, 43 im Kazet Buchenwald umgebracht.\"" ],
+  "signature": "SLA-UB-A-6-a-1-2",
+  "title": "Becher, Ulrich: Antwort an Ulrich Becher (Rudolf Breitscheid)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558685" },
+  "type": "work",
   "category": 10600,
-  "entry_type": "item",
-  "key": "CH-000015-0-1558685",
-  "levels": [
-    { "'title":"Werke", "level":1 },
-    { "'title":"Essays und Reden", "level":2 },
-    { "'title":"Artikel und Essays", "level":3 },
-    {
-      "'title": "Becher, Ulrich: Einigt euch um Gottes Willen. Aufruf an die Christen und Sozialisten des Abendlandes",
-      "level": 4
-    }
-  ]
+  "key": "CH-000015-0-1558685"
 }
