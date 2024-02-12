@@ -12,8 +12,10 @@
 
 	export let data;
 
+	const uniqueKeys = [...new Set(data.allFields.map((i) => i.key))];
+
 	let miniSearch = new MiniSearch({
-		fields: data.allFields, // fields to index for full-text search
+		fields: uniqueKeys, // fields to index for full-text search
 		storeFields: ['key'], // fields to return with search results
 		idField: 'key' // document property to use as id field
 	});
@@ -150,13 +152,18 @@
 					/>
 				</label>
 			{:else}
-				{#each data.itemstructure.filter((i) => i.label !== 'Aufbewahrungsort' && i.label !== 'Kategorie') as item, i}
+				{#each uniqueKeys.filter((i) => i !== 'category_global_name') as item}
 					<label class="label" transition:slide|global>
-						<span>{item.label}</span>
+						<span>
+							{data.allFields
+								.filter((f) => f.key === item)
+								.map((i) => i.label)
+								.join(', ')}
+						</span>
 						<input
 							class="input text-primary-500 p-6 placeholder-primary-500"
 							type="text"
-							bind:value={advancedFields[item.value]}
+							bind:value={advancedFields[item]}
 						/>
 					</label>
 				{/each}
