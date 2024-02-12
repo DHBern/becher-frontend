@@ -13,8 +13,8 @@
 	export let data;
 
 	let miniSearch = new MiniSearch({
-		fields: data.itemstructure.map((i) => i.value), // fields to index for full-text search
-		storeFields: data.itemstructure.map((i) => i.value), // fields to return with search results
+		fields: data.allFields, // fields to index for full-text search
+		storeFields: ['key'], // fields to return with search results
 		idField: 'key' // document property to use as id field
 	});
 	miniSearch.addAll(data.items);

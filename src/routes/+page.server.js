@@ -63,26 +63,15 @@ export async function load() {
 		}
 	}
 
-	const itemstructure = [
-		//TODO: ersetzen
-		{ value: 'title', label: 'Titel' },
-		{ value: 'date', label: 'Datum' },
-		{ value: 'signature', label: 'Signatur' },
-		{ value: 'holding_institution', label: 'Aufbewahrungsort' },
-		{ value: 'category', label: 'Kategorie' },
-		{ value: 'key', label: 'Identifikator' }
-	];
-
 	return {
 		categories: filteredCategories,
-		itemstructure,
-		items: items
-			//.filter((i) => i.prototype)
-			.map((item) => {
-				// eslint-disable-next-line no-unused-vars
-				let { entry_type, prototype, iiif, ...rest } = item;
-				iiif = iiif.replaceAll('\\', '');
-				return { ...rest, iiif };
-			})
+		itemstructure: fullstructure,
+		allFields: [...new Set(fullstructure.flatMap((i) => i.fields.map((inner) => inner.key)))],
+		items: items.map((item) => {
+			// eslint-disable-next-line no-unused-vars
+			let { entry_type, prototype, iiif, ...rest } = item;
+			iiif = iiif.replaceAll('\\', '');
+			return { ...rest, iiif };
+		})
 	};
 }
