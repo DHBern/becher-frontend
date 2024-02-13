@@ -55,7 +55,7 @@ function getUniqueFields(data) {
 }
 
 /** @type {import('./$types').PageServerLoad} */
-export async function load({ url }) {
+export async function load() {
 	/** @type {import('@skeletonlabs/skeleton').TreeViewNode[]} */
 	const filteredCategories = [];
 	const seenIds = new Set();
@@ -90,12 +90,7 @@ export async function load({ url }) {
 	}
 
 	const filteredItems = items
-		.filter((item) => {
-			if (url.searchParams.get('dev')) {
-				return true;
-			}
-			return item.prototype;
-		})
+		.filter((item) => item.prototype) // Filter out items that don't belong in the prototype
 		.map((item) => {
 			// eslint-disable-next-line no-unused-vars
 			let { entry_type, prototype, iiif, ...rest } = item;
