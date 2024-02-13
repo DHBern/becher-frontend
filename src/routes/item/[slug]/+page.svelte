@@ -101,21 +101,42 @@
 					{#if d[key]}
 						<dt class="border-r-4 border-current pr-4 pt-4">
 							{label}
-							{#if d[`${key}_uri`]}
-								<a
-									title="nähere Informationen"
-									class="anchor"
-									href={d[`${key}_uri`]}
-									target="_blank"
-									rel="noopener"
-								>
-									<i class="fa-solid fa-circle-info"></i>
-									<span class="sr-only"> nähere Informationen </span>
-								</a>
-							{/if}
 						</dt>
 						<dd class="pl-2 pt-4">
-							{@html Array.isArray(d[key]) ? d[key].join('<br/>') : d[key]}
+							{#if Array.isArray(d[key])}
+								{#each d[key] as item, i}
+									{item}
+									{#if d[`${key}_uri`]?.[i]}
+										&nbsp;<a
+											title="nähere Informationen"
+											class="anchor"
+											href={d[`${key}_uri`][i]}
+											target="_blank"
+											rel="noopener"
+										>
+											<i class="fa-solid fa-circle-info"></i>
+											<span class="sr-only">nähere Informationen</span>
+										</a>
+									{/if}
+									{#if i !== d[key].length - 1}
+										<br />
+									{/if}
+								{/each}
+							{:else}
+								{d[key]}
+								{#if d[`${key}_uri`]}
+									&nbsp;<a
+										title="nähere Informationen"
+										class="anchor"
+										href={d[`${key}_uri`]}
+										target="_blank"
+										rel="noopener"
+									>
+										<i class="fa-solid fa-circle-info"></i>
+										<span class="sr-only">nähere Informationen</span>
+									</a>
+								{/if}
+							{/if}
 						</dd>
 					{/if}
 				{/each}
