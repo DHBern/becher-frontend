@@ -97,10 +97,12 @@
 				<div id="viewer" class="w-full h-[60vh]"></div>
 			</div>
 			<dl class="grid grid-cols-[1fr_4fr] justify-between h-fit">
-				{#each data.structure as { label, key }}
+				{#each data.structure.find((s) => s.type === d.type)?.fields || [] as { label, key }}
 					{#if d[key]}
 						<dt class="border-r-4 border-current pr-4 pt-4">{label}</dt>
-						<dd class="pl-2 pt-4">{d[key]}</dd>
+						<dd class="pl-2 pt-4">
+							{@html Array.isArray(d[key]) ? d[key].join('<br/>') : d[key]}
+						</dd>
 					{/if}
 				{/each}
 

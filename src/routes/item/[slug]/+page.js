@@ -1,5 +1,5 @@
 import itemData from '../../becher_full_json.json';
-import structure from './structure.json';
+import structure from '../../structure.json';
 
 /** @type {import('./$types').PageLoad} */
 export async function load({ params }) {
