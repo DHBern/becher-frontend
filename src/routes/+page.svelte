@@ -88,7 +88,8 @@
 					});
 				}
 			} else {
-				searchtext = MiniSearch.wildcard;
+				// searchtext = MiniSearch.wildcard; TODO: start a new search with wildcard whenever searchtext is empty
+				searchtext = '';
 			}
 		}
 	}
