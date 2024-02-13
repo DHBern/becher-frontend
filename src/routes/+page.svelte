@@ -51,14 +51,10 @@
 			if (searchtext) {
 				asyncSearch(searchtext, searchConfig).then((results) => {
 					// filter all items for checked categories and search results
-					filtereditems = results.reduce((/** @type {Object[]} */ acc, i) => {
-						if (checkedNodes.includes(i.category.toString())) {
-							acc.push({
-								...data.items.find((item) => item.key === i.key)
-							});
-						}
-						return acc;
-					}, []);
+					filtereditems = results.filter(
+						(/** @type {{ category: { toString: () => string; }; }} */ i) =>
+							checkedNodes.includes(i.category.toString())
+					);
 				});
 			} else {
 				filtereditems = data.items.filter((item) =>
