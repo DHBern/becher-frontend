@@ -15,7 +15,7 @@
 	const uniqueKeys = [...new Set(data.allFields.map((i) => i.key))];
 
 	let miniSearch = new MiniSearch({
-		fields: uniqueKeys, // fields to index for full-text search
+		fields: [...uniqueKeys, 'holding_institution'], // fields to index for full-text search
 		storeFields: ['key', 'date', 'ext', 'title', 'iiif', 'holding_institution'], // fields to return with search results
 		idField: 'key' // document property to use as id field
 	});
