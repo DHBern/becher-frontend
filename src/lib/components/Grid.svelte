@@ -83,11 +83,11 @@
 								setClasses(e.target, true);
 							}}
 						/>
-						{#if item.ext}
+						{#if item.ext_num}
 							<p
 								class="absolute right-0 bottom-0 px-2 bg-surface-backdrop-token text-on-surface-token"
 							>
-								{item.ext} <span class="sr-only">Seiten</span>
+								{item.ext_num} <span class="sr-only">Seiten</span>
 							</p>
 						{/if}
 					</div>
