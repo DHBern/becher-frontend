@@ -15,7 +15,7 @@
 	let viewer;
 
 	onMount(async () => {
-		OpenSeadragon = await import('openseadragon');
+		OpenSeadragon = (await import('openseadragon')).default;
 		viewer = new OpenSeadragon.Viewer({
 			id: 'viewer',
 			prefixUrl: `${assets}/openseadragon-svg-icons/icons/`,
