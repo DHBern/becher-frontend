@@ -16,7 +16,7 @@
 
 	let miniSearch = new MiniSearch({
 		fields: uniqueKeys, // fields to index for full-text search
-		storeFields: ['key'], // fields to return with search results
+		storeFields: ['key', 'date', 'ext', 'title', 'iiif', 'holding_institution'], // fields to return with search results
 		idField: 'key' // document property to use as id field
 	});
 	miniSearch.addAll(data.items);
@@ -25,6 +25,23 @@
 		fuzzy: 0.2,
 		boost: { title: 2 }
 	};
+
+	/**
+	 * @type {string|@import('minisearch').Query}
+	 */
+	let searchtext = '';
+	let advancedToggle = false;
+	let advancedFields = {};
+
+	const asyncSearch = (
+		/** @type {import("minisearch").Query} */ query,
+		/** @type {import("minisearch").SearchOptions | undefined} */ config
+	) => {
+		return new Promise((resolve) => {
+			resolve(miniSearch.search(query, config));
+		});
+	};
+
 	/**
 	 * @type {{date: string, signature: string, key: string, iiif: string, ext: number, holding_institution: string, title: string, category: number}[]} filtereditems
 	 */
@@ -32,16 +49,17 @@
 	$: {
 		if (checkedNodes && checkedNodes.length > 0) {
 			if (searchtext) {
-				const results = miniSearch.search(searchtext, searchConfig);
-				// filter all items for checked categories and search results
-				filtereditems = results.reduce((/** @type {Object[]} */ acc, i) => {
-					if (checkedNodes.includes(i.category.toString())) {
-						acc.push({
-							...data.items.find((item) => item.key === i.key)
-						});
-					}
-					return acc;
-				}, []);
+				asyncSearch(searchtext, searchConfig).then((results) => {
+					// filter all items for checked categories and search results
+					filtereditems = results.reduce((/** @type {Object[]} */ acc, i) => {
+						if (checkedNodes.includes(i.category.toString())) {
+							acc.push({
+								...data.items.find((item) => item.key === i.key)
+							});
+						}
+						return acc;
+					}, []);
+				});
 			} else {
 				filtereditems = data.items.filter((item) =>
 					// filter all items for checked categories
@@ -50,20 +68,14 @@
 			}
 		} else if (searchtext) {
 			// filter all items for search results
-			filtereditems = miniSearch.search(searchtext, searchConfig).map((i) => ({
-				...data.items.find((item) => item.key === i.key)
-			}));
+			asyncSearch(searchtext, searchConfig).then((results) => {
+				filtereditems = results;
+			});
 		} else {
 			filtereditems = data.items;
 		}
 	}
 
-	/**
-	 * @type {string|{combineWith: string, queries: {fields: string[], term: string}[]}}
-	 */
-	let searchtext = '';
-	let advancedToggle = false;
-	let advancedFields = {};
 	$: {
 		if (advancedToggle) {
 			if (Object.values(advancedFields).some((i) => !!i) || holdingInstitutionToggle) {
@@ -88,7 +100,6 @@
 					});
 				}
 			} else {
-				// searchtext = MiniSearch.wildcard; TODO: start a new search with wildcard whenever searchtext is empty
 				searchtext = '';
 			}
 		}
