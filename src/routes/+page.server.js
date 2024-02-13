@@ -55,7 +55,7 @@ function getUniqueFields(data) {
 }
 
 /** @type {import('./$types').PageServerLoad} */
-export async function load() {
+export async function load({ url }) {
 	/** @type {import('@skeletonlabs/skeleton').TreeViewNode[]} */
 	const filteredCategories = [];
 	const seenIds = new Set();
@@ -89,15 +89,24 @@ export async function load() {
 		}
 	}
 
-	return {
-		categories: filteredCategories,
-		itemstructure: fullstructure,
-		allFields: getUniqueFields(fullstructure),
-		items: items.map((item) => {
+	const filteredItems = items
+		.filter((item) => {
+			if (url.searchParams.get('dev')) {
+				return true;
+			}
+			return item.prototype;
+		})
+		.map((item) => {
 			// eslint-disable-next-line no-unused-vars
 			let { entry_type, prototype, iiif, ...rest } = item;
 			iiif = iiif.replaceAll('\\', '');
 			return { ...rest, iiif };
-		})
+		});
+
+	return {
+		categories: filteredCategories,
+		itemstructure: fullstructure,
+		allFields: getUniqueFields(fullstructure),
+		items: filteredItems
 	};
 }
