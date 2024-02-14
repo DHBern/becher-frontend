@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Notizbücher",
   "ext": [ "18 Blatt = circa 13 Einheiten handschriftlich, auch von Dana Becher. Mit Zeichnungen" ],
   "category_global_name": "",
   "ext_num": -1,
@@ -19,6 +20,7 @@
     "gnd": "https:\/\/d-nb.info\/1284013758"
   },
   "type": "work",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 10700,
   "key": "(DE-101)1284013758",

@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Persönliche Dokumente",
   "ext": [ "10 Briefentwürfe, maschinenschriftlich und handschriftlich, 13 Seiten; 6 Briefe, 5 maschinenschriftlich, 1 handschriftlich, 5 Seiten; 5 Typoskript, maschinenschriftlich, 5 Blatt; 1 Mappe, handschriftlich beschrieben, mit eingeklebtem Couvert, ungeöffnet; Notizen, handschriftlich, 1 Blatt" ],
   "category_global_name": "",
   "place": [ "New York," ],
@@ -19,6 +20,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/116282614" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553382" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 30100,
   "key": "CH-000015-0-1553382",

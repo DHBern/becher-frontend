@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Druckbelege",
   "ext": [ "" ],
   "category_global_name": "",
   "place": [ "Mexiko (Stadt)" ],
@@ -14,6 +15,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535855" },
   "type": "collItem",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 40100,
   "key": "CH-000015-0-1535855",

@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Beiträge über Ulrich Becher in Zeitschriften, Zeitungen etc.",
   "ext": [ "Ts., 2 Bl. (3 Ex) + ca. 25 Zeitungsausschnitte auf Papier geklebt oder kopiert" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,6 +18,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118619977" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537306" },
   "type": "collItem",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 40200,
   "key": "CH-000015-0-1537306",

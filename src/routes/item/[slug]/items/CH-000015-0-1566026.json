@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Fotografien",
   "ext": [ "10 Fotografien, s\/w, div. Formate, 10 Blatt" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,6 +18,7 @@
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566026" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 3099094,
   "key": "CH-000015-0-1566026",

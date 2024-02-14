@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Familie",
   "ext": [ "" ],
   "category_global_name": "",
   "place": [  ],
@@ -14,6 +15,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564644" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 3099093,
   "key": "CH-000015-0-1564644",

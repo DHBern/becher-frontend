@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Briefe von Ulrich Becher",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11745625X", "https:\/\/d-nb.info\/gnd\/116469986" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
@@ -19,6 +20,7 @@
     "gnd": "https:\/\/d-nb.info\/1284789489"
   },
   "type": "letter",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 20200,
   "key": "(DE-101)1284789489",

@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Familie",
   "ext": [ "Ca. 20 Zeitungsartikel, lose, 7 Notizblätter, 1 Couvert; Div. Notizblätter; 1 Heft mit Zeitungsartikel, blau, A4, desolater Zustand, darin ca. 4 eingelegte Artikel und 5 Notizblätter" ],
   "category_global_name": "",
   "place": [  ],
@@ -14,6 +15,7 @@
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1562412" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 3099093,
   "key": "CH-000015-0-1562412",

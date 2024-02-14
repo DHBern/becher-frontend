@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Fotografien",
   "ext": [ "3 Fotografien, s\/w, ca. 24x17.5 cm, 3 Blatt" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,6 +18,7 @@
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565877" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 3099094,
   "key": "CH-000015-0-1565877",

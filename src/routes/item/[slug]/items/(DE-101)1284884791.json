@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Briefe Dritter",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (Breitenstein?)" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
@@ -23,6 +24,7 @@
     "gnd": "https:\/\/d-nb.info\/1284884791"
   },
   "type": "letter",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 20300,
   "key": "(DE-101)1284884791",

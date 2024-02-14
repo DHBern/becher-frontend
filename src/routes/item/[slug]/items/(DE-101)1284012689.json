@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Notizbücher",
   "ext": [ "1 Heft (65 Blatt, wenig beschrieben) handschriftlich. Mit Zeichnungen" ],
   "category_global_name": "",
   "ext_num": -1,
@@ -15,6 +16,7 @@
     "gnd": "https:\/\/d-nb.info\/1284012689"
   },
   "type": "work",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 10700,
   "key": "(DE-101)1284012689",

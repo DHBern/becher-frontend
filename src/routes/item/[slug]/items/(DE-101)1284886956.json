@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Briefe Dritter",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "recipient_uri": [  ],
   "category_global_name": "Briefe Dritter, 1930-1990",
@@ -19,6 +20,7 @@
     "gnd": "https:\/\/d-nb.info\/1284886956"
   },
   "type": "letter",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 20300,
   "key": "(DE-101)1284886956",

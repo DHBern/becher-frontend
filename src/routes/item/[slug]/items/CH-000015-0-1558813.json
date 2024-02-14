@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Notizbücher",
   "ext": [ "46 Blatt, ein Drittel davon unbeschrieben, Heft von vorn und hinten begonnen, 7 Blatt mit Zeitungsartikeln beklebt, in englisch und portugiesisch, Handschrift Ulrich Becher, Octav-Ringbuch mit brasilianischem Etikett - \"Reise blauen Tag\"" ],
   "category_global_name": "",
   "ext_num": 0,
@@ -12,6 +13,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558813" },
   "type": "work",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 10700,
   "key": "CH-000015-0-1558813",

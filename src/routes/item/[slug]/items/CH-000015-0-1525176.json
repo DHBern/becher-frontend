@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Persönliche Dokumente",
   "ext": [ "1 Mappe, Leinengebunden, 16 Blatt; 2 Zeugnisse, handschriftlich, 2 Blatt, lose; 1 Abgangs-Zeugnis, 2°, handschriftlich, 1 Blatt" ],
   "category_global_name": "",
   "place": [ "Berlin" ],
@@ -14,6 +15,7 @@
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1525176" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 30100,
   "key": "CH-000015-0-1525176",

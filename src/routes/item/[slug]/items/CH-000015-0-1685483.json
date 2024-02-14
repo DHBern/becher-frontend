@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Briefe Dritter",
   "ext": [ "1 Karte" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "Briefe Dritter, 1930-1990",
@@ -16,6 +17,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118775774" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685483" },
   "type": "letter",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 20300,
   "key": "CH-000015-0-1685483",

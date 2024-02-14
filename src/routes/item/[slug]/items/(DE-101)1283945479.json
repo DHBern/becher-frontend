@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "ext": [ "46 Blatt insgesamt maschinenschriftlich und anderes. Auch handschriftlich von Dana Becher" ],
   "category_global_name": "Romane",
   "ext_num": -1,
@@ -18,6 +19,7 @@
     "gnd": "https:\/\/d-nb.info\/1283945479"
   },
   "type": "work",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 10200,
   "key": "(DE-101)1283945479",

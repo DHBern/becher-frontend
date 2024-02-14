@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Sammlung mit Bezug zu Martin Roda Becher",
   "ext": [ "14 Blatt = circa 14 Einheiten Druck" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,6 +18,7 @@
     "gnd": "https:\/\/d-nb.info\/123711912X"
   },
   "type": "lifeDoc",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 303,
   "key": "(DE-101)123711912X",

@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Fotografien",
   "ext": [ "1 Fotografie, s\/w, 15.3 x 12.4, 1 Blatt" ],
   "category_global_name": "",
   "place": [ "Hamburg" ],
@@ -14,6 +15,7 @@
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565825" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 3099094,
   "key": "CH-000015-0-1565825",

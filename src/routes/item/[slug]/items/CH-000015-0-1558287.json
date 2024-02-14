@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Lyrik",
   "ext": [ "Typoskript + Manuskript, 1 Blatt" ],
   "category_global_name": "",
   "ext_num": 1,
@@ -12,6 +13,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558287" },
   "type": "work",
+  "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-9_01.jpg\/info.json",
   "category": 10300,
   "key": "CH-000015-0-1558287",

@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Lyrik",
   "ext": [ "62 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
   "category_global_name": "",
   "ext_num": 124,
@@ -15,6 +16,7 @@
     "gnd": "https:\/\/d-nb.info\/1283949334"
   },
   "type": "work",
+  "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283949334_00000010.tif\/info.json",
   "category": 10300,
   "key": "(DE-101)1283949334",

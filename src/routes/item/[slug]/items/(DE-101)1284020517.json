@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Zeichnungen und anderes",
   "ext": [ "3 Blatt = 3 Einheiten, je 21,5 x 28,0 cm bzw. 28,0 x 21,5 cm" ],
   "category_global_name": "",
   "ext_num": -1,
@@ -18,6 +19,7 @@
     "gnd": "https:\/\/d-nb.info\/1284020517"
   },
   "type": "work",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 10800,
   "key": "(DE-101)1284020517",

@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "ext": [ "Typoskript Durchschlag, 88 Blatt (S. 6-80, 23a-e,m + 4x 2 S. Anm. an Lekt.), paginiert, handschriftliche und maschinelle Korrekturen+ Typoskript, 32 Blatt, (S. 36-40, 53-80), wenige Korekturen. + Typoskript Durchschlag, 35 Blatt (S. 15, 35-38, 52-80, 73 doppelt)" ],
   "category_global_name": "Romane",
   "ext_num": 0,
@@ -12,6 +13,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558046" },
   "type": "work",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 10200,
   "key": "CH-000015-0-1558046",

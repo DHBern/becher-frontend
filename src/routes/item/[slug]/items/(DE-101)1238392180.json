@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Beiträge über Ulrich Becher in Zeitschriften, Zeitungen etc.",
   "ext": [ "11 Einheiten Druck, teilweise Xerox" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,6 +18,7 @@
     "gnd": "https:\/\/d-nb.info\/1238392180"
   },
   "type": "collItem",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 40200,
   "key": "(DE-101)1238392180",

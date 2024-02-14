@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Erzählungen",
   "ext": [ "Typoskript Kopien, 8 Blatt" ],
   "category_global_name": "Erzählungen",
   "ext_num": 9,
@@ -12,6 +13,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557634" },
   "type": "work",
+  "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-7-3_01.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1557634",

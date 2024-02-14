@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Zeichnungen und anderes",
   "ext": [ "1 Blatt Din A4" ],
   "category_global_name": "",
   "ext_num": 0,
@@ -15,6 +16,7 @@
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558854" },
   "type": "work",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 10800,
   "key": "CH-000015-0-1558854",

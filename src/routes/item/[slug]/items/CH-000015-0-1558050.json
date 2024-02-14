@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "ext": [ "Typoskript\/ Durchschlag, 132 Blatt, teilweise paginiert, mit zahlreichen masch. und handschriftliche Korrekturen und Ergänzungen + ca. 32 Blatt Durchschlag" ],
   "category_global_name": "Romane",
   "ext_num": 0,
@@ -12,6 +13,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558050" },
   "type": "work",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 10200,
   "key": "CH-000015-0-1558050",

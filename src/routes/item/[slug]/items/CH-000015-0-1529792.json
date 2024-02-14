@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Persönliche Dokumente",
   "ext": [ "Ms., 16 Bl, eingeklebte Bilder und Postkarten, schwarzes Schreibheft A5 mit rotem Rand, Hs. Ulrich Becher" ],
   "category_global_name": "",
   "place": [ "Bad Reichenhall" ],
@@ -14,6 +15,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1529792" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 30100,
   "key": "CH-000015-0-1529792",

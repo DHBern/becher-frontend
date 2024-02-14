@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Briefe von Ulrich Becher",
   "ext": [ "1 Telegramm" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
@@ -38,6 +39,7 @@
   ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565188" },
   "type": "letter",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 20200,
   "key": "CH-000015-0-1565188",

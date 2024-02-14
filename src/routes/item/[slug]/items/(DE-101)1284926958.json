@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Sammlung mit Bezug zu Martin Roda Becher",
   "ext": [ "1 Blatt handschriftlich. Mit Umschlag mit Notiz von Ulrich Becher" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
@@ -17,6 +18,7 @@
     "gnd": "https:\/\/d-nb.info\/1284926958"
   },
   "type": "lifeDoc",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 303,
   "key": "(DE-101)1284926958",

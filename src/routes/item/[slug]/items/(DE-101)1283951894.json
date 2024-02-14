@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Sammelwerke",
   "ext": [ "78 Blatt Druck, Xerox, unvollständig. Mit handschriftlichen Korrekturen" ],
   "category_global_name": "",
   "ext_num": -1,
@@ -19,6 +20,7 @@
     "gnd": "https:\/\/d-nb.info\/1283951894"
   },
   "type": "work",
+  "holding_institution": "DEA",
   "iiif": "",
   "category": 1099094,
   "key": "(DE-101)1283951894",

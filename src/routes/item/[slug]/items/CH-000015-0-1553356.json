@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Briefe von Ulrich Becher",
   "ext": [ "1 Brief, masch." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086", "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
@@ -16,6 +17,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553356" },
   "type": "letter",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 20200,
   "key": "CH-000015-0-1553356",

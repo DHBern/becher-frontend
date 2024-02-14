@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Beiträge über Ulrich Becher in Zeitschriften, Zeitungen etc.",
   "ext": [ "6 Zeitungsartikel und Kopien" ],
   "category_global_name": "",
   "place": [  ],
@@ -18,6 +19,7 @@
   ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538487" },
   "type": "collItem",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 40200,
   "key": "CH-000015-0-1538487",

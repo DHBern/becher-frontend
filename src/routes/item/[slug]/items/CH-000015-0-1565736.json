@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Fotografien",
   "ext": [ "1 Heft, ohne Umschlag, mit handschriftlichen Notizen, 74 Seiten; darin 94 Fotografien, s\/w, geklebt, div. Formate" ],
   "category_global_name": "",
   "place": [  ],
@@ -14,6 +15,7 @@
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565736" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 3099094,
   "key": "CH-000015-0-1565736",

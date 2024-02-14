@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Beiträge über Ulrich Becher in Zeitschriften, Zeitungen etc.",
   "ext": [ "1 Art. + Kop." ],
   "category_global_name": "",
   "place": [ "Berlin" ],
@@ -14,6 +15,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119441896" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537665" },
   "type": "collItem",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 40200,
   "key": "CH-000015-0-1537665",

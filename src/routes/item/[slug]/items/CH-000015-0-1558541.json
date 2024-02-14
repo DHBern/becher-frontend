@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "ext": [ "Kopien, 6 Blatt, mit handschriftlichen Korrekturen und Streichungen + Beilage Typoskript, 1 Blatt" ],
   "category_global_name": "",
   "ext_num": 0,
@@ -12,6 +13,7 @@
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558541" },
   "type": "work",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 10400,
   "key": "CH-000015-0-1558541",

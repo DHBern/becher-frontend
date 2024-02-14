@@ -1,4 +1,5 @@
 {
+  "category_local_name": "Familie",
   "ext": [ "8 Zeitungsartikel" ],
   "category_global_name": "",
   "place": [  ],
@@ -14,6 +15,7 @@
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1562413" },
   "type": "lifeDoc",
+  "holding_institution": "SLA",
   "iiif": "",
   "category": 3099093,
   "key": "CH-000015-0-1562413",
