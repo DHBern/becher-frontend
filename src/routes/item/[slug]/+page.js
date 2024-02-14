@@ -1,4 +1,4 @@
-import itemData from '../../becher_full_json.json';
+import compact from './becher_compact_json.json';
 import structure from '../../structure.json';
 
 /** @type {import('./$types').PageLoad} */
@@ -9,11 +9,11 @@ export async function load({ params }) {
 		key: params.slug,
 		metadata: (await filePromise).default,
 		structure,
-		related: itemData
+		related: compact
 			.filter((i) => i.prototype && i.key.startsWith(params.slug.slice(0, -2)))
 			.map((item) => {
 				// eslint-disable-next-line no-unused-vars
-				const { entry_type, prototype, ...rest } = item;
+				const { prototype, ...rest } = item;
 				return rest;
 			})
 	};
@@ -21,5 +21,5 @@ export async function load({ params }) {
 
 /** @type {import('./$types').EntryGenerator} */
 export function entries() {
-	return itemData.filter((i) => i.prototype).map((item) => ({ slug: item.key }));
+	return compact.filter((i) => i.prototype).map((item) => ({ slug: item.key }));
 }
