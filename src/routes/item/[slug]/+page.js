@@ -1,18 +1,9 @@
-import { error } from '@sveltejs/kit';
 import itemData from '../../becher_full_json.json';
 import structure from '../../structure.json';
 
 /** @type {import('./$types').PageLoad} */
 export async function load({ params }) {
-	const files = import.meta.glob('./items/*.json');
-	let filePromise = null;
-	try {
-		filePromise = files[`./items/${params.slug}.json`]();
-	} catch (e) {
-		error(404, {
-			message: 'Not found'
-		});
-	}
+	const filePromise = import(`../../../lib/items/${params.slug}.json`);
 
 	return {
 		key: params.slug,
