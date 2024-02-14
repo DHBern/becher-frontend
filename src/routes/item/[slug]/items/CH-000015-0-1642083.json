@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Basel;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Mathys, Fritz K. (1910-1993)", "Mathys, Fritz K. (1910-1993)" ],
+  "lang": [  ],
+  "date": [ "3. Dezember 1989" ],
+  "encl": [
+    "Briefkuvert",
+    "Typoskript \"Der Basler Hemingway wird achtzig von Fritz K. Mathys, 2 Blatt"
+  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-MAT-1",
+  "title": "Mathys, Fritz K. an Becher, Ulrich; Korrespondenz, Basel;\nBasel",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/130154784", "https:\/\/d-nb.info\/gnd\/130154784" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1642083" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1642083",
+  "iiif-manifest": ""
+}

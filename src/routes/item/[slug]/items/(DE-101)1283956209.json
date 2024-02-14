@@ -1,0 +1,25 @@
+{
+  "ext": [ "10 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Mit einer Tulpe in Venedig"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0018",
+  "title": "Blonde Dame reist nach Venedig",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283956209",
+    "gnd": "https:\/\/d-nb.info\/1283956209"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)1283956209",
+  "iiif-manifest": ""
+}

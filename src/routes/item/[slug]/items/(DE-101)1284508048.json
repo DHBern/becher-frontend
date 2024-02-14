@@ -1,0 +1,26 @@
+{
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Adolf Frisé" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hessischer Rundfunk" ],
+  "lang": [  ],
+  "date": [ "1970" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Hessischer Rundfunk, Anstalt des Öffentlichen Rechts, Frankfurt am Main, Haupt-Abteilung Kulturelles Wort" ],
+  "signature": "DEA-B-3-1-0017.B.01.2891",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1009716-8" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284508048",
+    "gnd": "https:\/\/d-nb.info\/1284508048"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284508048",
+  "iiif-manifest": ""
+}

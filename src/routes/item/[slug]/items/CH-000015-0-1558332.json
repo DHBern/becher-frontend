@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript\/Manuskript, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] auf hellblauem Briefpapier, erster Vers maschinenschriftlich, danach Verse 1 und 2 handschriftlich" ],
+  "signature": "SLA-UB-A-3-e-7-3",
+  "title": "Becher, Ulrich: Lob des Murmeltiers",
+  "content": [ "\"Blauäugiger sah nie ein Tag mich an\" Rückseite Typoskript [Das arme Licht], darunter Lob des Murmeltiers \"In einer Stunde und vierzig Minuten fahre ich heim \/ Dies Farbband schreibt nicht gar beso ders schön...\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558332" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-7-3_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558332",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/574669c9-f439-43aa-b08a-3a756e349a77\/"
+}

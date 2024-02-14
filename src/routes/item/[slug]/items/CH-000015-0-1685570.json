@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/12269886X" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "München;\nMünchen" ],
+  "ext_num": 0,
+  "creator": [ "Krause, Jürgen (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "November 1990" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-KRAU-BACH-1",
+  "title": "Krause, Jürgen an Bach, Susanne; Korrespondenz, München;\nMünchen",
+  "content": [ "Suche nach weiteren Roda Roda-texten" ],
+  "recipient": [ "Bach, Susanne (1909-1997)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685570" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685570",
+  "iiif-manifest": ""
+}

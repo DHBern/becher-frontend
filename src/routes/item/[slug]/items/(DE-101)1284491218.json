@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich (Xerox) mit Unterschrift. Im Auftrag geschrieben von Giancarlo Vigorelli, Secrétaire Général de la COMES" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1968" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Comunità Europea degli Scrittori, Il Segretario Generale" ],
+  "signature": "DEA-B-3-1-0017.B.01.2624",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284491218",
+    "gnd": "https:\/\/d-nb.info\/1284491218"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284491218",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,22 @@
+{
+  "ext": [ "1 Band (161 Seiten)" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Peter Preses" ],
+  "lang": [  ],
+  "date": [ "1948" ],
+  "note": [ "Reproduktion von: Als unverkäufliches Manuskript vervielfältigt" ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0014",
+  "title": "Der Bockerer, [Theaterstück]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116282614" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128394605X",
+    "gnd": "https:\/\/d-nb.info\/128394605X"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 10400,
+  "key": "(DE-101)128394605X",
+  "iiif-manifest": ""
+}

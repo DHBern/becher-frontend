@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [ "Horch, Franz (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "1. Juni 1982" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-HORCH-BECHD-1",
+  "title": "Horch, Franz an Becher, Dana; Korrespondenz, Wien",
+  "content": [ "Doktorand, Frage nach einem Café, in dem Roda Roda und Weiss verkehrten" ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685479" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685479",
+  "iiif-manifest": ""
+}

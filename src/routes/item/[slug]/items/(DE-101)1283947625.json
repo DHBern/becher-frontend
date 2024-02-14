@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Heft (199 Seiten) maschinenschriftlich vervielfältigt. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Bühnenexemplar",
+    "Handschriftliche Ergänzung zur Verlags-Angabe: ab 1974 im Th. Sessler Verlag Wien-München",
+    "Handschriftliche Streichung der gedruckten Angabe: Für Deutschland ist das Aufführungsrecht [...] Felix Bloch Erben [...]"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0060",
+  "title": "Samba, [Theaterstück]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283947625",
+    "gnd": "https:\/\/d-nb.info\/1283947625"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 10400,
+  "key": "(DE-101)1283947625",
+  "iiif-manifest": ""
+}

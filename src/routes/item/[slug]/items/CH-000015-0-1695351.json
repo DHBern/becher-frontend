@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, Negativkopie, 1 Seite; 1 Zeitungsartikel, Negativkopie, 1 Seiten" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116282614" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Washington" ],
+  "ext_num": 0,
+  "creator": [ "Spig, Rudolf", "Miller, Marlon", "Fuchs, Albert" ],
+  "lang": [  ],
+  "date": [ "30. November 1939" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-VIEN-PRE-1",
+  "title": "Viennese Theatre Club an Preses, Peter; Korrespondenz, Washington",
+  "content": [ "Brief und Zeitungsartikel betreffen \"The Lantern\", \"das Laterndl\"" ],
+  "recipient": [ "Preses, Peter (1907-1961)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695351" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1695351",
+  "iiif-manifest": ""
+}

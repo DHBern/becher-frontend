@@ -1,0 +1,23 @@
+{
+  "ext": [ "Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "München;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Loeben, Renate von (1919-2012)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LOEBEN-BECHD-49",
+  "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, München;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216278423" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685887" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685887",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Nassandres;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Rüll, Thomas (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "30. Januar 1988" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-RUELL-BECHD-1",
+  "title": "Rüll, Thomas an Becher, Dana; Korrespondenz, Nassandres;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693403" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1693403",
+  "iiif-manifest": ""
+}

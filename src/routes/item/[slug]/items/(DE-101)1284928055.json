@@ -1,0 +1,24 @@
+{
+  "ext": [ "[10] Blatt" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Martin Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "encl": [  ],
+  "note": [ "Schriftenreihe: Werkstatt-Drucke" ],
+  "signature": "DEA-B-3-1-0017.D.01.03.0008",
+  "title": "Das wahre Leben, [Gedichte und Kurzgeschichten]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284928055",
+    "gnd": "https:\/\/d-nb.info\/1284928055"
+  },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 303,
+  "key": "(DE-101)1284928055",
+  "iiif-manifest": ""
+}

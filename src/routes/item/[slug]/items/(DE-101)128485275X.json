@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118589784" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.02.0508",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Balder Olden" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128485275X",
+    "gnd": "https:\/\/d-nb.info\/128485275X"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)128485275X",
+  "iiif-manifest": ""
+}

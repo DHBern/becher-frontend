@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "22. Juni 1988" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-UNBEK-27",
+  "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, Wien;\nBasel",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698721" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1698721",
+  "iiif-manifest": ""
+}

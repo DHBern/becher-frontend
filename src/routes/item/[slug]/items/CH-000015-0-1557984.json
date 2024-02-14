@@ -1,0 +1,19 @@
+{
+  "ext": [ "Gold-ocker-farbenes Biedermeierbuch mit weinrotem Leinenrücken, Manuskript, ca. 180 S., Handschrift Ulrich Becher" ],
+  "category_global_name": "Romane",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1934" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-2-a-1-1",
+  "title": "Becher, Ulrich: Der Hampelmann. Notizbuch",
+  "content": [ "\"Hampelmann. Fahrt, Freud und Leid eines jungen Kerls in Europa.\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557984" },
+  "type": "work",
+  "iiif": "",
+  "category": 10200,
+  "key": "CH-000015-0-1557984",
+  "iiif-manifest": ""
+}

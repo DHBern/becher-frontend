@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich, mit handschriftlichen Ergänzungen" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "London" ],
+  "ext_num": 0,
+  "creator": [ "Gillespie, Henry W." ],
+  "lang": [  ],
+  "date": [ "12. Juni 1969" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-GIL-1",
+  "title": "Gillespie, Henry W.an Becher, Ulrich; Korrespondenz, London",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1595703" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1595703",
+  "iiif-manifest": ""
+}

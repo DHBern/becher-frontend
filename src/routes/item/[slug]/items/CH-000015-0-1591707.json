@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich, handschriftliche Notiz auf der Rückseite" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Zürich" ],
+  "ext_num": 0,
+  "creator": [ "Keckeis, Peter (1920-2007)" ],
+  "lang": [  ],
+  "date": [ "15. März 1972" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-BENZ-2",
+  "title": "Benziger Verlag an Becher, Ulrich; Korrespondenz, Zürich",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/105765023" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1591707" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1591707",
+  "iiif-manifest": ""
+}

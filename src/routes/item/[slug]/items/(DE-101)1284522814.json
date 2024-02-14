@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich vervielfältigt mit Unterschrift. Im Auftrag geschrieben von Alois Kisser" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Österreichische Nationalbibliothek" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Österreichische Nationalbibliothek, Der Generaldirektor" ],
+  "signature": "DEA-B-3-1-0017.B.01.3072",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2020893-5" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284522814",
+    "gnd": "https:\/\/d-nb.info\/1284522814"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284522814",
+  "iiif-manifest": ""
+}

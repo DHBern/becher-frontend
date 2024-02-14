@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit aufgeklebtem Zeitungsartikel zum 75. Geburtstag von Ulrich Becher aus der Süddeutschen Zeitung, Nr. 2., 2.1.85" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Nelly Veres" ],
+  "lang": [  ],
+  "date": [ "1985" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Luxor Mövenpick Hotel" ],
+  "signature": "DEA-B-3-1-0017.B.01.2341",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1217461558" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284377180",
+    "gnd": "https:\/\/d-nb.info\/1284377180"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284377180",
+  "iiif-manifest": ""
+}

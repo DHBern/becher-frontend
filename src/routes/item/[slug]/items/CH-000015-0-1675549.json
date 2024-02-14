@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Rio de Janeiro" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "3. August 1943" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BECHD-RODA-08",
+  "title": "Becher, Dana an Roda Roda, Alexander und Elsbeth; Korrespondenz, Rio de Janeiro",
+  "content": [  ],
+  "recipient": [ "Roda Roda, Alexander (1872-1945)", "Roda Roda, Elsbeth (1879-1960)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1675549" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1675549",
+  "iiif-manifest": ""
+}

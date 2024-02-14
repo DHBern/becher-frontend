@@ -1,0 +1,29 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116308486" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1978" ],
+  "encl": [  ],
+  "note": [
+    "Vorliegende Namensform Verfasser: Ulrico del Becquer",
+    "Vorliegende Namensform Adressat: Herrn Hein Kohn"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0239",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Hein Kohn" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128480125X",
+    "gnd": "https:\/\/d-nb.info\/128480125X"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)128480125X",
+  "iiif-manifest": ""
+}

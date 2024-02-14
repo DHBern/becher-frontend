@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 1 Blatt, signiert" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1939" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-3-e-8-4",
+  "title": "Becher, Ulrich: Verwirrung",
+  "content": [ "Zwei Verse: \"Hörst Du mein Flehn?\" \"Hörst Du mein Schrei'n?\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558337" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-8-4_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558337",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/5b138afa-685e-470b-b126-de8cfd5429fa\/"
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1930" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Datierung unsicher" ],
+  "signature": "SLA-UB-B-1-HEI-1",
+  "title": "Becher, Ulrich an Heinemann, (Herr); Korrespondenz, Berlin",
+  "content": [ "Beschwerde über Telefongespräch" ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586210" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1586210",
+  "iiif-manifest": ""
+}

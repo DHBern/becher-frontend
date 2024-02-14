@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 14 Blatt, handschriftliche Korrekturen" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 55,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1940" ],
+  "note": [ "[Bemerkung] Am unteren Rand der ersten Seite gegenläufig eine Strophe des Gedichts Die Luft. Beginn der Erzählung und drei Karikaturen auf Blatt 2. Rückseite Titel: \"Ahnung - stilles Flämmchen\"; drei gezeichnete Köpfe." ],
+  "signature": "SLA-UB-A-1-d-5-9",
+  "title": "Becher, Ulrich: Madame Keckes Hut (Erweiterte Fassung. Zwischenstufen)",
+  "content": [ "Autor trifft Vigneau wieder, diesmal 1940 als französischen Internierten am Neuenburger See; urspr. Erzählung wird in einen zeitlich definierten und politisch motivierten Rahmen gespannt" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557706" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-5-9_01.jpg\/info.json",
+  "category": 10100,
+  "key": "CH-000015-0-1557706",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3bbd000c-1428-440a-9818-3acc64c25777\/"
+}

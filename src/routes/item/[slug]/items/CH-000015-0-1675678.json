@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116369582" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Basel;\nWien (Josefstadt)" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "21. September 1971" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BECHD-HAEUS-1",
+  "title": "Becher, Dana an Haeusserman, Ernst; Korrespondenz, Basel;\nWien (Josefstadt)",
+  "content": [  ],
+  "recipient": [ "Haeusserman, Ernst (1916-1984)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1675678" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1675678",
+  "iiif-manifest": ""
+}

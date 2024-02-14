@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 1 Blatt, unvollständig, paginiert" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] S. 73, evtl. Kap. 13: vermutlich Teil einer längeren Erz." ],
+  "signature": "SLA-UB-A-1-f-71-1",
+  "title": "Becher, Ulrich: Leutnant Mirsky (Fragment)",
+  "content": [ "Leutnant Mirskys Patrouille wird in die Cholera-Baracken gesperrt, wo ein Grossteil an der Kombination von quecksilberhaltiger Medizin und reichlichem Essen stirbt. Mirsky selber verliert eine Hand auf dem Schlachtfeld." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557943" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557943",
+  "iiif-manifest": ""
+}

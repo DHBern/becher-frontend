@@ -1,0 +1,22 @@
+{
+  "ext": [ "12 Blatt Druck, Xerox. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0119",
+  "title": "lange schwarze Kiste vor ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283983060",
+    "gnd": "https:\/\/d-nb.info\/1283983060"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)1283983060",
+  "iiif-manifest": ""
+}

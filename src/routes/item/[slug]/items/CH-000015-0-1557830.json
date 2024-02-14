@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript Durchschlag, 6 Blatt, vollständig, paginiert, maschinelle Korrekturen" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "note": [
+    "[Bemerkung] Durchschlag von f-26-2",
+    "[Biblio] Am 11.09.1959 in der Basellandschaftlichen Zeitung und am 26.3.1971 in Luzerner Neueste Nachrichten, Nr. 71 erschienen."
+  ],
+  "signature": "SLA-UB-A-1-f-26-1",
+  "title": "Becher, Ulrich: Der Riese Le Schek  (1. Fassung)",
+  "content": [ "Wien, zur Zeit der Bockereraufführungen (1948), auffällig sind verschiedene Topoi von Meyrink, einem engen Freund von Roda Roda, Becher erwähnt sich selbst, RR, Preses und einen Liliputaner Prof. Poppenwimmer. Dieser spielt den \"Schachroboter l'échec\", der durch die Kaiserin Elisabeth enttarnt, fortan als der ewige Mathepauker lebt." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557830" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557830",
+  "iiif-manifest": ""
+}

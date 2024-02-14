@@ -1,0 +1,24 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Friedrich Heer" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Reproduktion von: Abschrift", "Betrifft: Ulrich Becher: Samba" ],
+  "signature": "DEA-B-3-1-0017.D.03.0015",
+  "title": "Europa im Urwald",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118547666" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284936910",
+    "gnd": "https:\/\/d-nb.info\/1284936910"
+  },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40500,
+  "key": "(DE-101)1284936910",
+  "iiif-manifest": ""
+}

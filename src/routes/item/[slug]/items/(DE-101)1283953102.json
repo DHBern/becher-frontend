@@ -1,0 +1,25 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Entwurf",
+    "Betrifft: unter anderem Friedrich Torberg, Marcel Reich-Ranicki, William S. Schlamm"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0003",
+  "title": "Apropos Rufmord",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283953102",
+    "gnd": "https:\/\/d-nb.info\/1283953102"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)1283953102",
+  "iiif-manifest": ""
+}

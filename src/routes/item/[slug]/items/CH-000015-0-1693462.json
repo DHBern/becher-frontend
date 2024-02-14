@@ -1,0 +1,23 @@
+{
+  "ext": [ "Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Capri;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Staiger, Amy (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [ "[Datierung] Poststempel unlesbar" ],
+  "signature": "SLA-UB-B-3-STAIG-BECHD-9",
+  "title": "Staiger, Amy an Becher, Dana; Korrespondenz, Capri;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693462" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1693462",
+  "iiif-manifest": ""
+}

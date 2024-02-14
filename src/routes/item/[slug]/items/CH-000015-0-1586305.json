@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Postkarte, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118570757" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Basel;\nHamburg" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "22. März 1959" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-LED-2",
+  "title": "Becher, Ulrich an Ledig-Rowohlt, Heinz; Korrespondenz, Basel;\nHamburg",
+  "content": [ "GEburtstagsglückwünsche, Treffen" ],
+  "recipient": [ "Ledig-Rowohlt, Heinrich Maria (1908-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586305" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1586305",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "7. November 1991" ],
+  "encl": [ "Freibillett für die Lesung von Ulrich Bechers \"Abseits vom Rodeo\" im Teufelhof" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LENOS-BECHD-2",
+  "title": "Lenos Verlag an Becher, Dana; Korrespondenz, Basel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685582" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685582",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Tod von George Grosz" ],
+  "signature": "DEA-B-3-1-0017.B.02.0095",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Martin Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284779165",
+    "gnd": "https:\/\/d-nb.info\/1284779165"
+  },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284779165_00000010.tif\/info.json",
+  "category": 20200,
+  "key": "(DE-101)1284779165",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ab876d8d-fade-4053-82e5-78f13f65cb84\/"
+}

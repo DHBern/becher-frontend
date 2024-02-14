@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Preses, Peter (1907-1961)", "Preses, Maria (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "10. August 1960" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-KOER-04",
+  "title": "Preses, Peter an Roda Becher, Dana; Kondolenzschreiben, Wien;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116282614" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697293" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1697293",
+  "iiif-manifest": ""
+}

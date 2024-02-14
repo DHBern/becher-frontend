@@ -1,0 +1,21 @@
+{
+  "ext": [ "Manuskripte, handschriftlich, 12 Blatt" ],
+  "category_global_name": "",
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1909 bis 1992" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Lebensdaten" ],
+  "signature": "SLA-UB-C-3-d-2-e",
+  "title": "Roda-Becher, Dana: Erinnerungen und Diktate, Basel",
+  "content": [ "Erinnerungssequenzen, Kommentare, Notizen, fragmentarisch" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564871" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 3099093,
+  "key": "CH-000015-0-1564871",
+  "iiif-manifest": ""
+}

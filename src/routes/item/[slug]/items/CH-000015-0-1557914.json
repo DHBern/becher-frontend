@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 2 Blatt, paginiert, unvollständig (S. 7-8)" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Kap. II, vermutlich Fragment einer längeren Erz." ],
+  "signature": "SLA-UB-A-1-f-58-1",
+  "title": "Becher, Ulrich: Karl Christen (Fragment)",
+  "content": [ "Der greise Dr. Mauser berichtet über seinen ehemaligen Patienten Karl Christen, gebunden am 7.10.1909, kränklich, schwach und impotent." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557914" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557914",
+  "iiif-manifest": ""
+}

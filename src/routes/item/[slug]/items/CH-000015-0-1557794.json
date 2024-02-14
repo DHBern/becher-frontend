@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript, 7 Blatt, vollständig, mit handschriftlichen Korrekturen,handschriftlich und maschinell, paginiert" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "note": [
+    "[Bemerkung] Auf Zettel hs. Notiz für andere Titelvorschläge: Der Jan-Podje-Beutel oder auch Jean- Poudieux-Beutel, Erwähnung des Bildhauers Wotruba;\nAus diversen Dossiers der Murmeljagd zusammengefügtes Ex. (S. 3-5).",
+    "[Biblio] Veröffentlicht unter dem Titel \"Die Spezialität der Kublitzka\" in der Stuttgarter Zeitung, 10.10.1953,\" Fräulein Kublitzkas Spezialität\" in der Abendpost, Nr. 18-22 am 23.1.1955, \"Jan Podje oder das Ende des Kalten Kriegs\" (Ort und Datum der Publikation unbekannt)"
+  ],
+  "signature": "SLA-UB-A-1-f-15-1",
+  "title": "Becher, Ulrich:  Der Iwan-Podje-Beutel  (1. Fassung)",
+  "content": [ "Eine arme russische Klavierlehrerin versucht erstmals nach 35 Jahren in Paris ihre Kochkünste zu reaktivieren und kehrt nach dem misslungenen Experiment frustriert nach Charkow zurück: \"weil man in Paris nicht kochen kann\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557794" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557794",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,29 @@
+{
+  "ext": [ "2 Blatt handschriftlich mit Unterschrift. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 7,
+  "creator": [ "Elsbeth Roda Roda" ],
+  "lang": [  ],
+  "date": [ "1934" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Roda Roda, Berlin-Schöneberg",
+    "Vorliegende Namensform Adressat auf Umschlag: Frau Dana Becher-Roda Roda"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.1518",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284263177",
+    "gnd": "https:\/\/d-nb.info\/1284263177"
+  },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284263177_00000010.tif\/info.json",
+  "category": 20100,
+  "key": "(DE-101)1284263177",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/98c64c19-3286-4959-a032-ab0bc6651f54\/"
+}

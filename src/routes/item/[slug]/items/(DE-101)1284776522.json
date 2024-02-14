@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Hotel - Pension Atlanta, Wien - Vienna" ],
+  "signature": "DEA-B-3-1-0017.B.02.0075",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284776522",
+    "gnd": "https:\/\/d-nb.info\/1284776522"
+  },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284776522_00000010.tif\/info.json",
+  "category": 20200,
+  "key": "(DE-101)1284776522",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d11f2583-cf7e-45fe-aded-aa098a907a19\/"
+}

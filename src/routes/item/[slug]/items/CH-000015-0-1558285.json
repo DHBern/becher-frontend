@@ -1,0 +1,19 @@
+{
+  "ext": [ "Manuskript, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Bleistift \"Das Dämchen schleppt sich\". \"So fing es an: ein deutsches Vagabundenleben\", Rückseite mit Morsezeichen, als Alphabet und Text, dieser Text ist in der publizierten Ausgabe nicht mehr vorhanden." ],
+  "signature": "SLA-UB-A-3-d-2-7",
+  "title": "Becher, Ulrich: Fuhrmann Pottschuss",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558285" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-7_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558285",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e845f905-05d4-4eeb-ad1f-6a61c2252edd\/"
+}

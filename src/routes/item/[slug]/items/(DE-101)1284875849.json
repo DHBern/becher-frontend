@@ -1,0 +1,26 @@
+{
+  "ext": [ "2 Blatt maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Harro von Zeppelin" ],
+  "lang": [  ],
+  "date": [ "1934" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.04.0062",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Alexander Roda Roda", "Elsbeth Roda Roda" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139357556" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284875849",
+    "gnd": "https:\/\/d-nb.info\/1284875849"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284875849",
+  "iiif-manifest": ""
+}

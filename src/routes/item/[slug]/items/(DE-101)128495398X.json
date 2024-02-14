@@ -1,0 +1,24 @@
+{
+  "ext": [  ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.04.0005",
+  "title": "Notation nicht belegt",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128495398X",
+    "gnd": "https:\/\/d-nb.info\/128495398X"
+  },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40200,
+  "key": "(DE-101)128495398X",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Wien;\nWien" ],
+  "ext_num": 0,
+  "creator": [ "Schulenburg, Ulrich N. (1941-)" ],
+  "lang": [  ],
+  "date": [ "3. März 1986" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-SESS-FISCH-1",
+  "title": "Thomas Sessler Verlag an Fischer, E.; Korrespondenz, Wien;\nWien",
+  "content": [ "Angebot des Nachlasses Alexander Roda Roda" ],
+  "recipient": [ "Fischer, E. (20. Jh.)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/132621185" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693445" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1693445",
+  "iiif-manifest": ""
+}

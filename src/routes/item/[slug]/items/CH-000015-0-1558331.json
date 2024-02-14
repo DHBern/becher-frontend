@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 1 Blatt A5, handschriftliche Ergänzungen" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Vorder- und Rückseite: Entwürfe des ersten Verses, Zeichnung (Männchen auf Kasten)" ],
+  "signature": "SLA-UB-A-3-e-7-2",
+  "title": "Becher, Ulrich: Lob des Murmeltiers",
+  "content": [ "\"Blankäugiger sah nie ein Tag mich an\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558331" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-7-2_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558331",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/925e784b-3859-4c1f-a081-861157de2ba8\/"
+}

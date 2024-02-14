@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Karte handschriftlich mit Unterschrift Sasa und Ilona" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Sándor Retay" ],
+  "lang": [  ],
+  "date": [ "1956" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Frau Dana Becher Roda und Familie" ],
+  "signature": "DEA-B-3-1-0017.B.04.0111",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219333484" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284885607",
+    "gnd": "https:\/\/d-nb.info\/1284885607"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284885607",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Zuck (Carl Zuckmayer)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Alice Herdan-Zuckmayer" ],
+  "lang": [  ],
+  "date": [ "1940" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Liccie" ],
+  "signature": "DEA-B-3-1-0017.B.01.2018",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118549545" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284332381",
+    "gnd": "https:\/\/d-nb.info\/1284332381"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284332381",
+  "iiif-manifest": ""
+}

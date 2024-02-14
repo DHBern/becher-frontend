@@ -1,0 +1,21 @@
+{
+  "ext": [ "1 Buch, handschriftlich, ca 90 Seiten" ],
+  "category_global_name": "",
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1987" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-2-b",
+  "title": "Roda-Becher, Dana: Ringbuch, grün, Basel",
+  "content": [ "Buch mit nur 1 beschriebenen Seite" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564875" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 3099093,
+  "key": "CH-000015-0-1564875",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Basel;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Striebel, Hans Rudolf (1930-)", "Wiemken, Beat (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "22. April 1986" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-STAA-1",
+  "title": "Staatliche Literaturkreditkommission des Kantons Basel-Stadt an Becher, Ulrich; Korrespondenz, Basel;\nBasel",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1115656414" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1643686" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1643686",
+  "iiif-manifest": ""
+}

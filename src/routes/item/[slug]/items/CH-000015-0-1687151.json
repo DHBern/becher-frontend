@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, ms. + Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Basel;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Pfister, Katharina (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "16. September 1959" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-PFIST-BECHD-1",
+  "title": "Pfister, Katharina an Becher, Dana; Korrespondenz, Basel;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1687151" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1687151",
+  "iiif-manifest": ""
+}

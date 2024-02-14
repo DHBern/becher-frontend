@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "22. August 1950" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-FRI-1",
+  "title": "Wilhelm Frick Verlag an Becher, Ulrich; Korrespondenz, Wien",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1595696" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1595696",
+  "iiif-manifest": ""
+}

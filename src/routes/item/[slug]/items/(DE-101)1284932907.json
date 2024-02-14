@@ -1,0 +1,24 @@
+{
+  "ext": [ "5 Blatt maschinenschriftlich vervielfältigt" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hans Bender" ],
+  "lang": [  ],
+  "date": [ "1969" ],
+  "encl": [  ],
+  "note": [ "Sendereihe: Kunst und Literatur", "Betrifft: Ulrich Becher: Murmeljagd" ],
+  "signature": "DEA-B-3-1-0017.D.03.0005",
+  "title": "Gejagt wie ein Murmeltier [...] Deutsche Welle Köln, [Rundfunk-Typoskript]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118508849" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284932907",
+    "gnd": "https:\/\/d-nb.info\/1284932907"
+  },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40500,
+  "key": "(DE-101)1284932907",
+  "iiif-manifest": ""
+}

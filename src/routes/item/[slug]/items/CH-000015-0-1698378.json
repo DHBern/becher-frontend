@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [  ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "Berlin;\nBerlin" ],
+  "ext_num": 0,
+  "creator": [ "Gumpert, Hans (1890-1962)" ],
+  "lang": [  ],
+  "date": [ "13. Oktober 1960" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-RUECK-22",
+  "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher, Berlin;\nBerlin",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1168817064" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698378" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1698378",
+  "iiif-manifest": ""
+}

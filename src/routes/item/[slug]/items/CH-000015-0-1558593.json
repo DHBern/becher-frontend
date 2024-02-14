@@ -1,0 +1,22 @@
+{
+  "ext": [ "gebundenes Textbuch, 186 S." ],
+  "category_global_name": "",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [
+    "[Bemerkung] Als unverkäufliches Manuskript vom Henschel Verlag Berlin vervielfältigt.",
+    "[Datierung] siehe auch Novellenentwurf von 1945"
+  ],
+  "signature": "SLA-UB-A-4-e-2-6",
+  "title": "Becher, Ulrich: Feuerwasser. Spiel in 3 Akten und einem Epilog (7 Bildern)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558593" },
+  "type": "work",
+  "iiif": "",
+  "category": 10400,
+  "key": "CH-000015-0-1558593",
+  "iiif-manifest": ""
+}

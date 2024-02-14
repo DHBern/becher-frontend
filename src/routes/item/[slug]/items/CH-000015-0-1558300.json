@@ -1,0 +1,19 @@
+{
+  "ext": [ "Manuskript, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Tinte preußisch-blau" ],
+  "signature": "SLA-UB-A-3-d-2-22",
+  "title": "Becher, Ulrich: Der Ball",
+  "content": [ "Enthält die letzten drei Verse, Rückseite bislang unbek. Gedicht \"denn der Fluss verwehrt ihm lächelnd, was er gern den Vorgängern gestattete\"." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558300" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-22_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558300",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d799b141-cb70-4bb4-b0b6-b82c03d9d4ea\/"
+}

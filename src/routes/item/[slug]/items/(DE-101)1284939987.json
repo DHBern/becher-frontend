@@ -1,0 +1,24 @@
+{
+  "ext": [ "11 Blatt maschinenschriftlicher Durchschlag. Mit handschriftlichen Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Arnold Künzli" ],
+  "lang": [  ],
+  "date": [ "1962" ],
+  "encl": [  ],
+  "note": [ "Reproduktion von: Entwurf" ],
+  "signature": "DEA-B-3-1-0017.D.03.0027",
+  "title": "Die Faust im \"Spiegel\", Oder \"Geistige Landesverteidigung\" - einmal anders",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/120301369" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284939987",
+    "gnd": "https:\/\/d-nb.info\/1284939987"
+  },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40500,
+  "key": "(DE-101)1284939987",
+  "iiif-manifest": ""
+}

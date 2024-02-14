@@ -1,0 +1,19 @@
+{
+  "ext": [ "4 Blatt" ],
+  "category_global_name": "Romane",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1945 bis 1969" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-2-c-3-4",
+  "title": "Becher, Ulrich: Murmeljagd. Beilagen",
+  "content": [ "Touristischer Stadtplan von St. Moritz mit Verzeichnung sämtlicher Hotels + handgezeichnete Karte, auf der sämtliche Schauplätze im Engadin und deren Distanzen vermerkt sind + An Dana gerichtete Notiz, 1963 + Privatnotizen" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558081" },
+  "type": "work",
+  "iiif": "",
+  "category": 10200,
+  "key": "CH-000015-0-1558081",
+  "iiif-manifest": ""
+}

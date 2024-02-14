@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Briefumschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Baumgartner, Ilse (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "17. Dezember 1980" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BAUM-BECHD-1",
+  "title": "Baumgartner, Ilse an Becher Dana; Korrespondenz, Wien;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1673180" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1673180",
+  "iiif-manifest": ""
+}

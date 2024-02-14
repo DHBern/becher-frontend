@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript + Manuskript, 1 Blatt, handschriftliche Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Manuskript in Bleistift, Rückseite Manuskript in preußisch-blauer Tinte mit einem 5zeiligen Entwurf von Schiffer Mannigel." ],
+  "signature": "SLA-UB-A-3-d-2-10",
+  "title": "Becher, Ulrich: Im Rübenwinter",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558288" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-10_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558288",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/bb16c468-220c-48ce-8363-09c3a657ec63\/"
+}

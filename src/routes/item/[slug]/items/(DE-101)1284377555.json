@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von ... Wolter?" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Rauhes Haus. Agentur" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [ "Briefkopf:: Agentur des Rauhen Hauses G.m.b.H., Verlagsbuchhandlung, Hamburg" ],
+  "signature": "DEA-B-3-1-0017.B.01.2346",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/5210499-0" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284377555",
+    "gnd": "https:\/\/d-nb.info\/1284377555"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284377555",
+  "iiif-manifest": ""
+}

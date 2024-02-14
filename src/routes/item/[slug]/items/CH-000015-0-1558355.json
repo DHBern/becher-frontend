@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript-Durchschlag, 1 Blatt (3 Exemplare)" ],
+  "category_global_name": "",
+  "ext_num": 4,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Teil II einer noch nicht identifizierten Ballade" ],
+  "signature": "SLA-UB-A-3-e-15-1",
+  "title": "Becher, Ulrich: Der Gefangene",
+  "content": [ "\"Der Gefangene, wisse, muss in seinem Grabe sterben - dass Europens Nacht sich fahlt im Tanz der Mahngesichter\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558355" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-15-1_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558355",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/36613a05-dc0e-4fb4-9119-37b859f5143c\/"
+}

@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 1 Batt, mit wenigen handschriftlichen Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-3-e-7-1",
+  "title": "Becher, Ulrich: Lob des Murmeltiers (Im Gedenken an einen engadiner September)",
+  "content": [ "\"Blauäugiger sah nie ein Tag mich an\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558330" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-7-1_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558330",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/50fbb581-f519-4b9c-81dc-2a62a4751fc4\/"
+}

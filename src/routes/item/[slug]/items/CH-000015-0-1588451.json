@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Graz;\nEngelberg" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1936 bis 1938" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Brief datiert auf den 15.12., Jahr geschätzt" ],
+  "signature": "SLA-UB-B-2-BECHD-21",
+  "title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, Graz;\nEngelberg",
+  "content": [ "persönliche Situation, aktuelle Lektüre, Frage nach UBs Befinden" ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1588451" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1588451",
+  "iiif-manifest": ""
+}

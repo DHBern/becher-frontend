@@ -1,0 +1,19 @@
+{
+  "ext": [ "Manuskript, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Diese Passage ist in der publizierten Ausgabe nicht mehr vorhanden. Bleistift \"Porzellane Sparbüchsen war sein großer Tick\", gegenläufig Typoskript einer geänderten Version vom Gedicht \"Serenade vom letzten Friedensabend\" A-3-b-1 \"Stille ziehn die Wolken durch die Zeit\". Rückseite mit aufgezeichnetem Berliner Stadtplan mit allen im Werk erwähnten Plätzen und Straßen." ],
+  "signature": "SLA-UB-A-3-d-2-8",
+  "title": "Becher, Ulrich: Fuhrmann Pottschuss",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558286" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-8_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558286",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b915c44c-8035-4a7a-a20c-4a1f2ed3a456\/"
+}

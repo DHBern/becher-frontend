@@ -1,0 +1,29 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Inge ..." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Rowohlt Verlag" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Rowohlt Verlag GmbH, Reinbek bei Hamburg",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Feuilletondienst im Rowohlt Verlag"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.3204",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2020049-3" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284549968",
+    "gnd": "https:\/\/d-nb.info\/1284549968"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284549968",
+  "iiif-manifest": ""
+}

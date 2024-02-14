@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Köln" ],
+  "ext_num": 0,
+  "creator": [ "Mühsam, Joachim (1907-2000)" ],
+  "lang": [  ],
+  "date": [ "19. November 1965" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MUEH-BECHD-14",
+  "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Köln",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117165077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1686738" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1686738",
+  "iiif-manifest": ""
+}

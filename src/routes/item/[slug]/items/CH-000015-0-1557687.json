@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript, 9 Blatt, vollständig, paginiert" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 9,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1958" ],
+  "note": [
+    "[Bemerkung] Handschrift linke obere Ecke von Ulrich Becher: \"Nur ein toller Hund und andere Erz.\" Untertitel masch. nachträglich eingefügt.",
+    "[Biblio] Becher, Ulrich: Männer machen Fehler. Geschichten der Windrose. Rowohlt-Verlag 1958, S. 152-158."
+  ],
+  "signature": "SLA-UB-A-1-d-2-1",
+  "title": "Becher, Ulrich: Der Armenhäusler. Geschichte aus Palästina",
+  "content": [ "Josef sitzt im Armenhaus und sinniert über seinen Sohn, den Gekreuzigten und über den ewigen Frieden in der Welt." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557687" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-2-1_01.jpg\/info.json",
+  "category": 10100,
+  "key": "CH-000015-0-1557687",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/4a00392e-b0b5-4491-a245-314f0487144f\/"
+}

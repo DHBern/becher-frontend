@@ -1,0 +1,22 @@
+{
+  "ext": [ "4 Blatt = 4 Einheiten maschinenschriftlich" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: (Nur) Inhaltsverzeichnis, verschiedene Varianten" ],
+  "signature": "DEA-B-3-1-0017.A.01.04.0001",
+  "title": "Ihre Sache, Madame!, [Sammelwerk]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128395057X",
+    "gnd": "https:\/\/d-nb.info\/128395057X"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099094,
+  "key": "(DE-101)128395057X",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,30 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Hans Dohrenbusch" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Welt der Arbeit, Wochenzeitung des Deutschen Gewerkschaftsbundes, Bund-Verlag GmbH",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Kultur-Redaktion",
+    "Vorliegende Namensform Adressat: Herrn Ulrich Becher, z.Zt. Berlin-Charlottenburg, b\/Prof. Schmalhausen"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.3671",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284750612",
+    "gnd": "https:\/\/d-nb.info\/1284750612"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284750612",
+  "iiif-manifest": ""
+}

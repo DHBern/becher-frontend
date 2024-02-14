@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Rottach,\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [ "[Datierung] Datiert auf den 19.07., ohne Jahr" ],
+  "signature": "SLA-UB-B-3-BECHD-RODA-37",
+  "title": "Becher, Dana an Roda Roda, Elsbeth; Korrespondenz, Rottach,\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Roda, Elsbeth (1879-1960)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1684548" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1684548",
+  "iiif-manifest": ""
+}

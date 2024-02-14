@@ -1,0 +1,29 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (unleserlich)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1026358825" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Illustrierte Berliner Zeitschrift",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Illustrierte Berliner Zeitschrift, Chefredaktion"
+  ],
+  "signature": "DEA-B-3-1-0017.B.04.0099",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Elfriede Mechnig" ],
+  "creator_uri": [ "" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284884716",
+    "gnd": "https:\/\/d-nb.info\/1284884716"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284884716",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Rolf (1916-1998)" ],
+  "lang": [  ],
+  "date": [ "2. Juni 1935" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-BECHR-1",
+  "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz",
+  "content": [ "Weiterleitung von Briefen, Ausbildung" ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215371292" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1589591" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1589591",
+  "iiif-manifest": ""
+}

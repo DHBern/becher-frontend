@@ -1,0 +1,25 @@
+{
+  "ext": [ "6 Zeitungsartikel und Kopien" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Pfeifer, Tadeus (1949-2010)", "Rüedi, Peter (1943-)", "Becher, Martin Roda (1944-)" ],
+  "lang": [  ],
+  "date": [ "18. April bis 3. Mai 1990" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Nachrufe in der Weltwoche, Basler Zeitung, Vorwärts, Neue Vorarlberger Zeitung, Süddeutsche Zeitung, Abendzeitung, AZ" ],
+  "signature": "SLA-UB-D-2-b-30",
+  "title": "Nachrufe",
+  "content": [ "Nachrufe u.a. von Tadeus Pfeifer, Peter Rüedi, Martin Roda Becher" ],
+  "creator_uri": [
+    "https:\/\/d-nb.info\/gnd\/120541122",
+    "https:\/\/d-nb.info\/gnd\/1016031920",
+    "https:\/\/d-nb.info\/gnd\/121205207"
+  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1538487" },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40200,
+  "key": "CH-000015-0-1538487",
+  "iiif-manifest": ""
+}

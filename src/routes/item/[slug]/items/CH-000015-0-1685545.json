@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "New York" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "31. Oktober 1945" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-KEYS-BECHD-1",
+  "title": "Keyserling, Doris de an Becher, Dana; Korrespondenz, New York",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685545" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685545",
+  "iiif-manifest": ""
+}

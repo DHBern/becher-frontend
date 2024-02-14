@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Clinton (New York);\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Vansant, Jacqueline (1954-)" ],
+  "lang": [  ],
+  "date": [ "18. April 1988" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-VAN-1",
+  "title": "Vansant, Jacqueline an Becher, Ulrich; Korrespondenz, Clinton (New York);\nBasel",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/113769288" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1644013" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1644013",
+  "iiif-manifest": ""
+}

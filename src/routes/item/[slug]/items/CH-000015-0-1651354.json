@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Rio de Janeiro" ],
+  "ext_num": 0,
+  "creator": [ "Bach, Susanne (1909-1997)" ],
+  "lang": [  ],
+  "date": [ "5. März 1982" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BACH-BECHD-47",
+  "title": "Bach, Susanne an Becher Dana; Korrespondenz, Rio de Janeiro",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/12269886X" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1651354" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1651354",
+  "iiif-manifest": ""
+}

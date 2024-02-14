@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Graz" ],
+  "ext_num": 0,
+  "creator": [ "Roda Roda, Alexander (1872-1945)" ],
+  "lang": [  ],
+  "date": [ "19. Februar 1933" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-ROD-1",
+  "title": "Roda Roda, Alexander an Becher, Ulrich und Dana; Korrespondenz, Graz",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1643019" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1643019",
+  "iiif-manifest": ""
+}

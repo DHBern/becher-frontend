@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript, 7 Blatt (S. 1-6; 9)" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 7,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1970 bis 1982" ],
+  "note": [
+    "[Bemerkung] S. 9 als loses Blatt überliefert, hinzugefügt; hs. Korrektur des Untertitels; Adressvermerk auf S. 1: Sekr. Elfriede Mechnig, 1 Berlin 41, Niedstrasse 5.",
+    "[Biblio] Becher, Ulrich: Vom Unzulänglichen der Wirklichkeit. 10 nicht so nette Geschichten. Basel 1983, S. 203-212."
+  ],
+  "signature": "SLA-UB-A-1-e-1-2",
+  "title": "Becher, Ulrich: Die Passion des Napoleon Bonaparte. Eine ethnologische Miniatur (2. Fassung)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557724" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-1-2_01.jpg\/info.json",
+  "category": 10100,
+  "key": "CH-000015-0-1557724",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/77560c59-fb62-47b0-ac17-b93a486078a7\/"
+}

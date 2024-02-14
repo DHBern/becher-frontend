@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Mary Gerold-Tucholsky" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "encl": [  ],
+  "note": [ "gestempelter Briefkopf: Kurt-Tucholsky-Archiv, Mary Tucholsky, Rottach-Egern\/Obb." ],
+  "signature": "DEA-B-3-1-0017.B.01.1827",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118984888" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284311996",
+    "gnd": "https:\/\/d-nb.info\/1284311996"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284311996",
+  "iiif-manifest": ""
+}

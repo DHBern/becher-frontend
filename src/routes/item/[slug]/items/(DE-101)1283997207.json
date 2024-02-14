@@ -1,0 +1,26 @@
+{
+  "ext": [ "I, 5 Blatt handschriftlich und maschinenschriftlich. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Früherer, teils gestrichener Titel des Archivales: Prozession in Grassina",
+    "Blatt 3 Beiliegend ist ein Typoskript von Ulrich Becher mit dem Titel: An die Wand gemalt",
+    "Blatt 5 Beiliegend enthält verso: Brief-Entwurf, Fragment, von Ulrich Becher an Platzkommando Schwyz, Genf, 3. September 1939"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0216",
+  "title": "Welcher ist's?",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283997207",
+    "gnd": "https:\/\/d-nb.info\/1283997207"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)1283997207",
+  "iiif-manifest": ""
+}

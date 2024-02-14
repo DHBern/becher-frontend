@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/119009560" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "9. November 1982" ],
+  "encl": [ "Kopie und Durchschlag des Briefs (Fragment)" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-KAR-1",
+  "title": "Becher, Ulrich an Karter, Egon; Korrespondenz, Basel",
+  "content": [ "Aufführung Theaterstücke" ],
+  "recipient": [ "Karter, Egon (1911-2006)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586277" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1586277",
+  "iiif-manifest": ""
+}

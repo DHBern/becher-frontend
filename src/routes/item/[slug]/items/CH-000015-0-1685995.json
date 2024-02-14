@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "ohne Ort" ],
+  "ext_num": 0,
+  "creator": [ "Mechnig, Elfriede (1901-1986)" ],
+  "lang": [  ],
+  "date": [ "28. März 1973" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MECHN-BECHD-4",
+  "title": "Mechnig, Elfriede an Becher, Dana; Korrespondenz, ohne Ort",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1026358825" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685995" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685995",
+  "iiif-manifest": ""
+}

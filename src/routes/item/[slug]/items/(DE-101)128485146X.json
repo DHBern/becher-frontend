@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215795971" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Frau Eleanor (...) = Gutöhrlein, Bad Schwäb. Hall, Württemberg, Alemana" ],
+  "signature": "DEA-B-3-1-0017.B.02.0500",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Eleanor Brywolf" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128485146X",
+    "gnd": "https:\/\/d-nb.info\/128485146X"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)128485146X",
+  "iiif-manifest": ""
+}

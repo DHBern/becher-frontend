@@ -1,0 +1,22 @@
+{
+  "ext": [ "1 Blatt handschriftlich" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0015",
+  "title": "Berlin Altmoabit",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283955466",
+    "gnd": "https:\/\/d-nb.info\/1283955466"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)1283955466",
+  "iiif-manifest": ""
+}

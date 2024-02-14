@@ -1,0 +1,22 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment", "Betrifft: Hans Habe" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0165",
+  "title": "Ritter ohne Furcht und ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128398489X",
+    "gnd": "https:\/\/d-nb.info\/128398489X"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)128398489X",
+  "iiif-manifest": ""
+}

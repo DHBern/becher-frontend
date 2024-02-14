@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Detroit" ],
+  "ext_num": 0,
+  "creator": [ "Ulrich, Arthur (1890-1951)" ],
+  "lang": [  ],
+  "date": [ "11. August 1935" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ULRICH-BECH-1",
+  "title": "Ulrich, Arthur und Edith an Becher, Richard und Elise; Korrespondenz, Detroit",
+  "content": [  ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1224712293" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695288" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1695288",
+  "iiif-manifest": ""
+}

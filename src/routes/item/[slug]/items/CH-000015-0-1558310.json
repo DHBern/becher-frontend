@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Rückseite 9 Zeilen aus dem Gedicht \"Die Luft\"" ],
+  "signature": "SLA-UB-A-3-e-1-2",
+  "title": "Becher, Ulrich: Den Bergen Dank",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558310" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-1-2_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558310",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/26b2879e-9531-44fc-9fcb-8204a43055d6\/"
+}

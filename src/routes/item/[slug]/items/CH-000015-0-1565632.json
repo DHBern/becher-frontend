@@ -1,0 +1,21 @@
+{
+  "ext": [ "1 Druckbeleg, Kopie, 14 Blatt" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Martin Roda (1944-)" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-e-2-f-01",
+  "title": "\n                              \n                           ",
+  "content": [ "Kopie des Druckbelegs \"Das wahre Leben\" von Martin Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565632" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 3099093,
+  "key": "CH-000015-0-1565632",
+  "iiif-manifest": ""
+}

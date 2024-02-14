@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Nürnberg" ],
+  "ext_num": 0,
+  "creator": [ "Vitale, Rosanna (1952-)" ],
+  "lang": [  ],
+  "date": [ "28. März 1992" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-VITA-BECHD-2",
+  "title": "Vitale, Rosanna an Becher, Dana; Korrespondenz, Nürnberg",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/172518601" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695370" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1695370",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,22 @@
+{
+  "ext": [ "15 Blatt insgesamt maschinenschriftlich und anderes" ],
+  "category_global_name": "Romane",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Es handelt sich hierbei um das unveröffentlichte Kapitel mit dem Titel: Die verspielten Aufständischen [in 2 Fassungen]" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0071",
+  "title": "William's Ex-Casino, [Roman] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283945517",
+    "gnd": "https:\/\/d-nb.info\/1283945517"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 10200,
+  "key": "(DE-101)1283945517",
+  "iiif-manifest": ""
+}

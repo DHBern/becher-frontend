@@ -1,0 +1,24 @@
+{
+  "ext": [ "1 Manuskript, handschriftlich, 4 Seiten" ],
+  "category_global_name": "",
+  "place": [ "[Wickersdorf ?]" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1922" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] 2. Seite des Manuskript ist stark zerrissen; Auf der Rückseite handschriftlicher Kommentar: Alter Schäk[erer?]",
+    "[Datierung] grob geschätzt"
+  ],
+  "signature": "SLA-UB-C-1-a-2-b",
+  "title": "Becher, Ulrich: Karl der Grosse, [Wickersdorf ?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1525188" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 30100,
+  "key": "CH-000015-0-1525188",
+  "iiif-manifest": ""
+}

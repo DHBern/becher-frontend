@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "ohne Ort" ],
+  "ext_num": 0,
+  "creator": [ "Zeppelin, Harro von (1901-)", "Zeppelin, Lisa von (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "25. Februar 1963" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ZEPP-BECHD-44",
+  "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, ohne Ort",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139357556" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695501" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1695501",
+  "iiif-manifest": ""
+}

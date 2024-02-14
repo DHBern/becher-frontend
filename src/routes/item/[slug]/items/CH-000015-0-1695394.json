@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Hofheim\/Taunus;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Walter, Hans-Albert (1935-2016)" ],
+  "lang": [  ],
+  "date": [ "21. August 1981" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-WAL-BECHD-1",
+  "title": "Walter, Hans-Albert an Becher, Dana; Korrespondenz, Hofheim\/Taunus;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117131024" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695394" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1695394",
+  "iiif-manifest": ""
+}

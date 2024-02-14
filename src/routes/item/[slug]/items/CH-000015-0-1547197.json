@@ -1,0 +1,21 @@
+{
+  "ext": [ "1 Zeitungsartikel" ],
+  "category_global_name": "",
+  "place": [ "Paris" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "15. April 1939" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Ulrich Becher unter dem Pseudonym Paul Verdun in der Österreichischen Post, Nr. 1" ],
+  "signature": "SLA-UB-D-1-d-22-a",
+  "title": "Verdun, Paul: Der grosse Bund. Die Österreichische Post, Paris",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1547197" },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40100,
+  "key": "CH-000015-0-1547197",
+  "iiif-manifest": ""
+}

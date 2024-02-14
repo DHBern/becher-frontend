@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Wien;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "24. März 1971" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECHD-42",
+  "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Wien;\nBasel",
+  "content": [ "Gedanken, in den Süden zu reisen" ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1585509" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1585509",
+  "iiif-manifest": ""
+}

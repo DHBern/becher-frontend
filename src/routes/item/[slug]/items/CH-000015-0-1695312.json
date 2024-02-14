@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "s.l." ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "11. Dezember 1983" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-URSL-BECHM-1",
+  "title": "?. Ursl an Becher, Martin Roda; Korrespondenz, s.l.",
+  "content": [  ],
+  "recipient": [ "Becher, Martin Roda (1944-)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695312" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1695312",
+  "iiif-manifest": ""
+}

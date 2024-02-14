@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1168817064" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "Basel;\nBerlin" ],
+  "ext_num": 0,
+  "creator": [ "Becher-Ulrich, Elise (1881-1973)" ],
+  "lang": [  ],
+  "date": [ "8. Juni 1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-RUECK-44",
+  "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher, Basel;\nBerlin",
+  "content": [  ],
+  "recipient": [ "Gumpert, Hans (1890-1962)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698483" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1698483",
+  "iiif-manifest": ""
+}

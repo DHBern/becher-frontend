@@ -1,0 +1,25 @@
+{
+  "ext": [ "50 Blatt = circa 30 Einheiten handschriftlich und anderes" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Es handelt sich hierbei um ein Konvolut von Notizen, Manuskript-Teilen und Materialsammlung, das bei den Notizbüchern überliefert ist",
+    "Enthält u.a. Archivalien zu folgenden Texten: Abseits vom Rodeo; William's Ex-Casino; Auf die Spitze getrieben; Der Mamser"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0097",
+  "title": "Notizbücher - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284013820",
+    "gnd": "https:\/\/d-nb.info\/1284013820"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 10700,
+  "key": "(DE-101)1284013820",
+  "iiif-manifest": ""
+}

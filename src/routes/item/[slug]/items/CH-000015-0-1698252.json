@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, computerschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "Osnabrück;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Lange, Torsten (20.\/21. Jh.)" ],
+  "lang": [  ],
+  "date": [ "12. Juni 1989" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-PROM-14",
+  "title": "Lange, Torsten an Roda Becher, Dana; Korrespondenz, Osnabrück;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698252" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1698252",
+  "iiif-manifest": ""
+}

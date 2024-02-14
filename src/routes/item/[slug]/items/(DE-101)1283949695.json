@@ -1,0 +1,25 @@
+{
+  "ext": [ "1 Band (102 Blatt) Druck, maschinenschriftlich und handschriftlich. Mit Zeichnungen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1939" ],
+  "note": [
+    "Reproduktion von: Frühere Fassung",
+    "Enthält auch Erzählungen, Essays, bildende Kunst"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0016",
+  "title": "Lieder der Nachtwache, Gedichte aus dem Zweiten Krieg, [Lyrik]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283949695",
+    "gnd": "https:\/\/d-nb.info\/1283949695"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 10300,
+  "key": "(DE-101)1283949695",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Graz" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "16. Mai 1935" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-137",
+  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Graz",
+  "content": [ "UB wird \"Passgeschichte\" erledigen; Dank für \"die Regelung mit dem 27. Geburtstag\"." ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553263" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1553263",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Briefumschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "New York (Flushing, Queens);\nBasel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "18. Januar 1992" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ANDE-BECHD-1",
+  "title": "Anders, W. an Becher, Dana; Korrespondenz, New York (Flushing, Queens);\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1651295" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1651295",
+  "iiif-manifest": ""
+}

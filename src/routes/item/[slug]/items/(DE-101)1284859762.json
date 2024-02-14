@@ -1,0 +1,26 @@
+{
+  "ext": [ "2 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ettore Gajpa" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.04.0027",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219331422" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284859762",
+    "gnd": "https:\/\/d-nb.info\/1284859762"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284859762",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Aspen;\nColorado; New York" ],
+  "ext_num": 0,
+  "creator": [ "Bayer, Joella" ],
+  "lang": [  ],
+  "date": [ "11. September 1946" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Zweite Ehefrau des Künstlers Herbert Bayer" ],
+  "signature": "SLA-UB-B-2-BAY-1",
+  "title": "Bayer, Joella an Becher, Ulrich; Korrespondenz, Aspen;\nColorado; New York",
+  "content": [ "Entschuldigung für das späte Schreiben" ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587925" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1587925",
+  "iiif-manifest": ""
+}

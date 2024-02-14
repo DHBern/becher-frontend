@@ -1,0 +1,26 @@
+{
+  "ext": [ "3 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Bruno Buchwald" ],
+  "lang": [  ],
+  "date": [ "1935" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: St. Moritz, Villa Miralago" ],
+  "signature": "DEA-B-3-1-0017.B.04.0026",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Richard Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1171142099" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284859665",
+    "gnd": "https:\/\/d-nb.info\/1284859665"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284859665",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,22 @@
+{
+  "ext": [ "11 Blatt handschriftlich und anderes. Mit Zeichnungen und mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": 22,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Es handelt sich hierbei um Notizen und um verstreute Einzelblätter. Blatt 9 enthält verso das Gedicht: Abendlied" ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0005",
+  "title": "Brasilianischer Romanzero, [Lyrik] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948982",
+    "gnd": "https:\/\/d-nb.info\/1283948982"
+  },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283948982_00000010.tif\/info.json",
+  "category": 10300,
+  "key": "(DE-101)1283948982",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/bb87a9b2-4758-46fe-88ce-ea8d72b789a5\/"
+}

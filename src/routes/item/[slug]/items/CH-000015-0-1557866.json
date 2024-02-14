@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 1 Blatt , fragmentiert ohne Titel" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] hochgestellte Versalien\n" ],
+  "signature": "SLA-UB-A-1-f-38-1",
+  "title": "Becher, Ulrich: Maler in einer Hafenstadt",
+  "content": [ "\"Es gab drei Einwohner in der Hafenstadt, den Apotheker, den Lügner und mich. In den Felsen sitzend und Eindrücke sammelnd mit einer Staffelei, die ich nicht auseinander klappte. Auf den weissen Karton setzte ich keinen Strich\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557866" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557866",
+  "iiif-manifest": ""
+}

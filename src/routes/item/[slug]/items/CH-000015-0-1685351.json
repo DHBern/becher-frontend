@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Wien" ],
+  "ext_num": 0,
+  "creator": [ "Hackermüller, Rotraut (1943-)" ],
+  "lang": [  ],
+  "date": [ "3. Juni 1990" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Rotraut Hackermüller schrieb Roda Roda-Biografie" ],
+  "signature": "SLA-UB-B-3-HACK-BECHD-6",
+  "title": "Hackermüller, Rotraut an Becher, Dana; Korrespondenz, Wien",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1041985452" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685351" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685351",
+  "iiif-manifest": ""
+}

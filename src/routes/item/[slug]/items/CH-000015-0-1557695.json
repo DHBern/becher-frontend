@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 6 Blatt (jeweils S. 1 bis 2) + Typoskript, 8 Blatt, mit handschriftlichen Anmerkungen" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 17,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1944 bis 1945" ],
+  "note": [ "[Bemerkung] S. 9 halbe S. \"An Jemand in Paris\" (Horváth). Rückseite H.und Calice (span. Becher) trägt den Titel Die Kleinen und die Großen, darunter hs. Beschreibung von Nucciarone's Inn (5 Zeilen)" ],
+  "signature": "SLA-UB-A-1-d-4-4",
+  "title": "Becher, Ulrich: Katharinapolka (Fragmentarische Zwischenstufen)",
+  "content": [ "Nebelnacht im Oktober 1944, Nucciarone's Inn, eine Bar in Manhattan und ihr darin versammeltes \"menschliches Strandgut\"." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557695" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-4-4_01.jpg\/info.json",
+  "category": 10100,
+  "key": "CH-000015-0-1557695",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f1297e83-96cb-4829-b378-d0fcb2879c82\/"
+}

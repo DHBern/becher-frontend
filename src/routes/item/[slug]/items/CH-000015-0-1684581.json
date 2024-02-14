@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Schlangenbad" ],
+  "ext_num": 0,
+  "creator": [ "Berger, Ludwig (1892-1969)" ],
+  "lang": [  ],
+  "date": [ "8. Februar 1962" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BERG-BECHD-1",
+  "title": "Berger, Ludwig an Becher, Dana; Korrespondenz, Schlangenbad",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118655957" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1684581" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1684581",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Salzburg;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "27. Oktober 1965" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECHD-22",
+  "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Salzburg;\nBasel",
+  "content": [ "Brief an Dana, die im Klaraspital Basel liegt, Versprechen sie zu besuchen" ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1585489" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1585489",
+  "iiif-manifest": ""
+}

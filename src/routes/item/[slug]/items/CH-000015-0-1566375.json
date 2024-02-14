@@ -1,0 +1,24 @@
+{
+  "ext": [ "1 Exemplar, 66 S." ],
+  "category_global_name": "Autorenbibliothek, 1930-1990",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Dieses Exemplar hat die Nummer 19",
+    "[Bemerkung] mit farbigen Linolschnitten von Wolfgang Jörg und Erich Schönig"
+  ],
+  "signature": "SLA-UB-D-4-30",
+  "title": "\n                     \n                  ",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566375" },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40400,
+  "key": "CH-000015-0-1566375",
+  "iiif-manifest": ""
+}

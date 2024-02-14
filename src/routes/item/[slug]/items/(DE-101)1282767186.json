@@ -1,0 +1,24 @@
+{
+  "ext": [ "17 Seiten insgesamt" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Martin Roda Becher" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.03.0009",
+  "title": "Konvolut von Zeitschriften-Beiträgen von Martin Roda Becher, in Heften",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282767186",
+    "gnd": "https:\/\/d-nb.info\/1282767186"
+  },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 303,
+  "key": "(DE-101)1282767186",
+  "iiif-manifest": ""
+}

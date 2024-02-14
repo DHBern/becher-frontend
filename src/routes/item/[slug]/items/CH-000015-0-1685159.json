@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Telegramm" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Wickersdorf" ],
+  "ext_num": 0,
+  "creator": [ "Suhrkamp, Peter (1891-1959)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-FREI-BECH-6",
+  "title": "Freie Schule Wickersdorf an Becher, Richard; Korrespondenz, Wickersdorf",
+  "content": [  ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118619977" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685159" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685159",
+  "iiif-manifest": ""
+}

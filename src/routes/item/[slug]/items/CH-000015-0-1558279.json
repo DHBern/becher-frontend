@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript + Manuskript, 4 Blatt zusammenhängend, handschriftliche Anmerkungen, paginiert bis S. 3" ],
+  "category_global_name": "",
+  "ext_num": 30,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Lange und frühe Fassung" ],
+  "signature": "SLA-UB-A-3-d-2-1",
+  "title": "Becher, Ulrich: Franz Patenkind",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558279" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-10_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558279",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b2401303-4fbe-4bb2-a014-bed8c62949d8\/"
+}

@@ -1,0 +1,29 @@
+{
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1956" ],
+  "encl": [  ],
+  "note": [
+    "Vorliegende Namensform Verfasser: K ... ?",
+    "Vorliegende Namensform Adressat: Liebe Freundine"
+  ],
+  "signature": "DEA-B-3-1-0017.B.04.0155",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284889890",
+    "gnd": "https:\/\/d-nb.info\/1284889890"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284889890",
+  "iiif-manifest": ""
+}

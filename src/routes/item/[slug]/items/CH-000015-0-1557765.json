@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript, 4 Blatt, vollständig, paginiert, handschriftliche und maschinelle Korrekturen" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "note": [
+    "[Bemerkung] Adresse: Basel, Lilienhof 6 und Titel später zugefügt. Neuere Version, detailliertere Ortsbeschreibungen; hier Oberstudiendirektor Poebelfeindt aus Würzburg",
+    "[Biblio] Am 25.7.1959 im Mannheimer Morgen und am 4.10.1959 unter dem Titel In Marseille ist es wirklich nicht geheuer im Tagespiegel Berlin erschienen"
+  ],
+  "signature": "SLA-UB-A-1-f-7-2",
+  "title": "Becher, Ulrich: Mörderisches Marseille",
+  "content": [ "Haarsträubendes Abenteuer eines biedereren Reisenden, der in Marseille auf sein Schiff wartet und am Vorabend der Abreise im berüchtigten Hafen, der sogenannten Unterwelt, auf einen gefährlichen Gangster trifft, der sich später als der Regierungsrat Poebelfeindt aus Würzburg erweist." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557765" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557765",
+  "iiif-manifest": ""
+}

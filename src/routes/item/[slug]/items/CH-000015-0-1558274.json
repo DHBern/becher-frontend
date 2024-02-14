@@ -1,0 +1,19 @@
+{
+  "ext": [ "17 Blatt, handschriftlich paginiert" ],
+  "category_global_name": "",
+  "ext_num": 17,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1949 bis 1950" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-3-c-3-5",
+  "title": "Becher, Ulrich: Korrekturfahnen",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558274" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-3-5_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558274",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1b689009-5544-4492-980a-e11994e2659e\/"
+}

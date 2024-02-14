@@ -1,0 +1,25 @@
+{
+  "ext": [ "1 Schreibblock (17 Blatt) handschriftlich. Mit Zeichnungen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1964" ],
+  "note": [
+    "Beginnt mit allgemeinen Notizen",
+    "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0041",
+  "title": "Notizbuch zum Text Murmeljagd",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284008177",
+    "gnd": "https:\/\/d-nb.info\/1284008177"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 10700,
+  "key": "(DE-101)1284008177",
+  "iiif-manifest": ""
+}

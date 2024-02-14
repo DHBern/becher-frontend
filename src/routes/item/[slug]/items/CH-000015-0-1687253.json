@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Baja;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Retay, Sándor (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "16. März 1958" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-RETAY-BECHD-01",
+  "title": "Rétay, Sándor von an Becher, Dana; Korrespondenz, Baja;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1687253" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1687253",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "München" ],
+  "ext_num": 0,
+  "creator": [ "Loeben, Renate von (1919-2012)" ],
+  "lang": [  ],
+  "date": [ "23. April 1969" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LOEBEN-BECHD-14",
+  "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, München",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216278423" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685851" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685851",
+  "iiif-manifest": ""
+}

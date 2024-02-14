@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Karte maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Elsbeth Roda Roda" ],
+  "lang": [  ],
+  "date": [ "1940" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Madame Dana Becher-Roda Roda" ],
+  "signature": "DEA-B-3-1-0017.B.01.1580",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284285499",
+    "gnd": "https:\/\/d-nb.info\/1284285499"
+  },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284285499_00000010.tif\/info.json",
+  "category": 20100,
+  "key": "(DE-101)1284285499",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/19f5338c-7e43-47e2-b9e7-9236de58303d\/"
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Berlin" ],
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "16. April 1933" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Vor Ostern 1933" ],
+  "signature": "SLA-UB-B-1-BECH-103",
+  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, Berlin",
+  "content": [ "Apologetisches Antwort-Schreiben an den Vater, der ihn so ganz und gar nicht zu kennen scheint; erwähnt den demütigenden Rausschmiss der jungen Amerikanerin und die Anschuldigung des Vaters, sich seine Frauenbekanntschaften durch die väterliche Wohlhabenheit zu sichern „das ist schon das Niedrigste, was man von einem Mann und dem von ihm geliebten Frauen sagen kann!\"" ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553113" },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-103_01.tif\/info.json",
+  "category": 20200,
+  "key": "CH-000015-0-1553113",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/fa2add9b-2196-4175-accd-8d2b8ff783f5\/"
+}

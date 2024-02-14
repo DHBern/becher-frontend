@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 52. Blatt, S. 21 fehlt, S. 1-51 handschriftlich paginiert, S. 52-53 unpaginiert, zahlreiche Korrekturen handschriftlich und maschinell" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Titel \"Der Knax\" auf S.1 durchgestrichen und auf S. 53. eigenh. mit Bleistift notiert, Rückseite 53 mit Zeichnung; runde Typen, S. 1-51 violette Tinte, S. 50f in schwarz, ebenso Unterschied im Papier im Textverlauf sukzessive Kleinschreibung, mit Ausnahme der Namen" ],
+  "signature": "SLA-UB-A-1-f-9-1",
+  "title": "Becher, Ulrich: Der Hundefänger\/ Der Knax",
+  "content": [ "Verrückte Gesellschaft, von Babu bis Alphons Kitzler, gewissen Absonderlichkeiten und Vorlieben und dem Tod eines Hundefängers." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557771" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557771",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Renate von Loeben" ],
+  "lang": [  ],
+  "date": [ "1957" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Renate u. Patrick" ],
+  "signature": "DEA-B-3-1-0017.B.01.1099",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216278423" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284201287",
+    "gnd": "https:\/\/d-nb.info\/1284201287"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284201287",
+  "iiif-manifest": ""
+}

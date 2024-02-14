@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Basel;\nWinterthur" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "4. Mai 1972" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BECHD-PROCH-1",
+  "title": "Becher, Dana an Prochnow, Günter; Korrespondenz, Basel;\nWinterthur",
+  "content": [  ],
+  "recipient": [ "Prochnow, Günter (20. Jh.)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1678946" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1678946",
+  "iiif-manifest": ""
+}

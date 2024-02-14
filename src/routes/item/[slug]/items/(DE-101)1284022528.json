@@ -1,0 +1,22 @@
+{
+  "ext": [ "2 Blatt = 2 Einheiten Xerox, nachbearbeitet, 29,0 x 19,0 cm und 30,3 x 19,3 cm" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Vorliegende Namensform Künstler: UL" ],
+  "signature": "DEA-B-3-1-0017.A.03.0014",
+  "title": "Ohne Titel, [Druckgrafiken, Tänzer oder Engel?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284022528",
+    "gnd": "https:\/\/d-nb.info\/1284022528"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 10800,
+  "key": "(DE-101)1284022528",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,25 @@
+{
+  "ext": [ "25 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "Romane",
+  "ext_num": 50,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Fragment",
+    "Beginnt mit Titelblatt mit den Angaben: Folge: Flucht - Asyl - Fight - Verführung - Auskunft"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0004",
+  "title": "Abseits vom Rodeo, [Novelle]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943255",
+    "gnd": "https:\/\/d-nb.info\/1283943255"
+  },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943255_00000010.tif\/info.json",
+  "category": 10200,
+  "key": "(DE-101)1283943255",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/213fbb08-045a-4d8b-b3a6-c772b91c88f4\/"
+}

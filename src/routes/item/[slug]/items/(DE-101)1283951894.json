@@ -1,0 +1,26 @@
+{
+  "ext": [ "78 Blatt Druck, Xerox, unvollständig. Mit handschriftlichen Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Die nicht so netten Geschichten",
+    "Impressum: Alle Rechte [...] Ruth Liepman [...]"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.04.0014",
+  "title": "Vom Unzulänglichen der Wirklichkeit, [Sammelwerk]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283951894",
+    "gnd": "https:\/\/d-nb.info\/1283951894"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099094,
+  "key": "(DE-101)1283951894",
+  "iiif-manifest": ""
+}

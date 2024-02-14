@@ -1,0 +1,22 @@
+{
+  "ext": [ "3 Blatt = 3 Einheiten, je ca. 18,0 x 12,0 cm" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "note": [ "Blatt 2 ist ohne Titel. - Blatt 2 und 3 verso: Schweizerpsalm (Nationalhymne) bzw. Einladung-Programm zum Schweizer Bundesfeiertag 1943" ],
+  "signature": "DEA-B-3-1-0017.A.03.0036",
+  "title": "Älterer Franzose, Oxýtonon [ ... , Zeichnungen]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284025845",
+    "gnd": "https:\/\/d-nb.info\/1284025845"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 10800,
+  "key": "(DE-101)1284025845",
+  "iiif-manifest": ""
+}

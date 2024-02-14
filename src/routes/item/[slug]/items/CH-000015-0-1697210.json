@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "Hamburg" ],
+  "ext_num": 0,
+  "creator": [ "Naumann, Uwe" ],
+  "lang": [  ],
+  "date": [ "13. September 1989" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-FLASCH-07",
+  "title": "Naumann, Uwe an Roda Becher, Dana; Korrespondenz, Hamburg",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697210" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1697210",
+  "iiif-manifest": ""
+}

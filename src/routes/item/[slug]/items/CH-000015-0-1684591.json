@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Jerusalem;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Buch, Eva (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "23. April 1981" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BUCH-BECHD-2",
+  "title": "Buch, Eva an Becher, Dana; Korrespondenz, Jerusalem;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1684591" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1684591",
+  "iiif-manifest": ""
+}

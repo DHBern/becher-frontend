@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Rio de Janeiro;\nSchwyz" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Richard (1875-1956)" ],
+  "lang": [  ],
+  "date": [ "3. September 1943" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-BECH-KANT-1",
+  "title": "Becher, Richard an Kantonale Wehropferverwaltung Schwyz; Korrespondenz, Rio de Janeiro;\nSchwyz",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1675595" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1675595",
+  "iiif-manifest": ""
+}

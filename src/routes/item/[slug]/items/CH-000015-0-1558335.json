@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 1 Blatt, mit zahlreichen handschriftlichen Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1939" ],
+  "note": [ "[Bemerkung] Titel handschriftlich mit Bleistift" ],
+  "signature": "SLA-UB-A-3-e-8-2",
+  "title": "Becher, Ulrich: Verwirrung",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558335" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-8-2_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558335",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/9da1dcff-060a-4481-9fc1-2e900165782e\/"
+}

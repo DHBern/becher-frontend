@@ -1,0 +1,22 @@
+{
+  "ext": [ "14 Blatt handschriftlich Durchschrift [?]" ],
+  "category_global_name": "Romane",
+  "ext_num": 28,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0038",
+  "title": "Murmeljagd, [Roman] – … [unleserlich, Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944138",
+    "gnd": "https:\/\/d-nb.info\/1283944138"
+  },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944138_00000010.tif\/info.json",
+  "category": 10200,
+  "key": "(DE-101)1283944138",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b668ae80-ab39-4d06-ad30-cac6a3893e9c\/"
+}

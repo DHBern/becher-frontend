@@ -1,0 +1,22 @@
+{
+  "ext": [ "1 Druckexemplar, 80 S., handschriftliche Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1946" ],
+  "note": [
+    "[Bemerkung] Handexemplar des Autors mit handschriftlichen Korrekturen und Anmerkungen.",
+    "[Biblio] Becher, Ulrich: Reise zum blauen Tag. Verlag Buchdruckerei Volksstimme: St. Gallen 1946."
+  ],
+  "signature": "SLA-UB-A-3-b-25-1",
+  "title": "Becher, Ulrich: Reise zum blauen Tag. Handexemplar",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558254" },
+  "type": "work",
+  "iiif": "",
+  "category": 10300,
+  "key": "CH-000015-0-1558254",
+  "iiif-manifest": ""
+}

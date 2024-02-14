@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "München;\nBasel, Lenzerheide" ],
+  "ext_num": 0,
+  "creator": [ "Loeben, Renate von (1919-2012)" ],
+  "lang": [  ],
+  "date": [ "20. Februar 1981" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Poststempel nur schwer lesbar." ],
+  "signature": "SLA-UB-B-3-LOEBEN-BECHD-19",
+  "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, München;\nBasel, Lenzerheide",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216278423" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685856" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685856",
+  "iiif-manifest": ""
+}

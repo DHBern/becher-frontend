@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript, 11 Blatt, paginiert, mit handschriftlichen Korrekturen" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 11,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1931" ],
+  "note": [
+    "[Bemerkung] Manuskript im Notizbuch entspr. den ersten beiden S. im Typoskript A-1-a-4-1\ns.a. Manuskript im Notizbuch A-8-? entspr. dem Typoskript A-1-a-4-1 bis S. 6",
+    "[Biblio] Becher, Ulrich: Männer machen Fehler. Ernst Rowohlt Verlag: Berlin 1932, S. 115-138."
+  ],
+  "signature": "SLA-UB-A-1-a-4-2",
+  "title": "Becher, Ulrich: Eskapade (2. Fassung)",
+  "content": [ "Berliner Milliardärssohn Luzifer zieht aus Überdruss als einfacher, unbekannter Soldat in den Krieg, um den Sonnenaufgang bzw. das wirkliche Dasein zu erleben." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557620" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-4-2_01.jpg\/info.json",
+  "category": 10100,
+  "key": "CH-000015-0-1557620",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/6f88b3c6-dfa1-4529-bed7-d6da463a8c4a\/"
+}

@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1933" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.02.0038",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128477256X",
+    "gnd": "https:\/\/d-nb.info\/128477256X"
+  },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128477256X_00000010.tif\/info.json",
+  "category": 20200,
+  "key": "(DE-101)128477256X",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f2ba9536-fbb5-41f7-b54d-2b8f87d18ca3\/"
+}

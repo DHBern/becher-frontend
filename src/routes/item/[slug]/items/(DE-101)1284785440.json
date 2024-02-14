@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich. Verso: Ulrich Becher an The International Who's Who, maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116880252" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1972" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Frau Dr. R. Nagel, Benziger Verlag Zürich" ],
+  "signature": "DEA-B-3-1-0017.B.02.0146",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Renate Nagel" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284785440",
+    "gnd": "https:\/\/d-nb.info\/1284785440"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284785440",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 gefaltetes Blatt maschinenschriftlich und handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 4,
+  "creator": [ "Elsbeth Roda Roda" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.01.1551",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284285197",
+    "gnd": "https:\/\/d-nb.info\/1284285197"
+  },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284285197_00000010.tif\/info.json",
+  "category": 20100,
+  "key": "(DE-101)1284285197",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/bdaa24f6-778f-43d9-a1fc-b455acfbc76a\/"
+}

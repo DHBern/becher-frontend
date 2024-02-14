@@ -1,11 +1,22 @@
+import { error } from '@sveltejs/kit';
 import itemData from '../../becher_full_json.json';
 import structure from '../../structure.json';
 
 /** @type {import('./$types').PageLoad} */
 export async function load({ params }) {
+	const files = import.meta.glob('./items/*.json');
+	let filePromise = null;
+	try {
+		filePromise = files[`./items/${params.slug}.json`]();
+	} catch (e) {
+		error(404, {
+			message: 'Not found'
+		});
+	}
+
 	return {
 		key: params.slug,
-		metadata: itemData.find((i) => i.key === params.slug),
+		metadata: (await filePromise).default,
 		structure,
 		related: itemData
 			.filter((i) => i.prototype && i.key.startsWith(params.slug.slice(0, -2)))

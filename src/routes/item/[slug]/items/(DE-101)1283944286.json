@@ -1,0 +1,22 @@
+{
+  "ext": [ "99 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "Romane",
+  "ext_num": 198,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Frühe Fassung, Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0042",
+  "title": "Murmeljagd, [Roman] – Einst war Amanda … [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944286",
+    "gnd": "https:\/\/d-nb.info\/1283944286"
+  },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944286_00000010.tif\/info.json",
+  "category": 10200,
+  "key": "(DE-101)1283944286",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/8c51354d-eada-491b-a1de-5b79b61fd7f9\/"
+}

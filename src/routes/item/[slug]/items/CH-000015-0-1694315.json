@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "ohne Ort" ],
+  "ext_num": 0,
+  "creator": [ "Stapenhorst, Fritz (20. Jh.)", "Miler-Stapenhorst, Isolde (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "1980" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-STAP-BECHD-1",
+  "title": "Stapenhorst, Fritz und Isolde an Becher, Dana; Korrespondenz, ohne Ort",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1694315" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1694315",
+  "iiif-manifest": ""
+}

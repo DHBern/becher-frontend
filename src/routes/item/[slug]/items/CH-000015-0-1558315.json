@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 1 Blatt, signiert (4 Exemplare)" ],
+  "category_global_name": "",
+  "ext_num": 5,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Korrekturen von e-1-1 übernommen, Titel ergänzt" ],
+  "signature": "SLA-UB-A-3-e-1-7",
+  "title": "Becher, Ulrich: Des kranken Schweizers Heimkehr",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558315" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-1-7_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558315",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/87dbd21b-7e9d-4522-a81e-9e117c0b86de\/"
+}

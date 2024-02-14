@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 21 Blatt, paginiert, mit handschriftlichen Korrekturen" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 21,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1931" ],
+  "note": [ "[Biblio] Becher, Ulrich: Männer machen Fehler. Ernst Rowohlt Verlag: Berlin 1932, S. 175-226." ],
+  "signature": "SLA-UB-A-1-a-5-1",
+  "title": "Becher, Ulrich: Das kurze Leiden",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557628" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-5-1_01.jpg\/info.json",
+  "category": 10100,
+  "key": "CH-000015-0-1557628",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ef1fb090-fe70-461d-84ed-5748ad658c54\/"
+}

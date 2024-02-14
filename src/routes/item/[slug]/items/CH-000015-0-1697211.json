@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "Hamburg;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Naumann, Uwe" ],
+  "lang": [  ],
+  "date": [ "15. September 1989" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-FLASCH-08",
+  "title": "Naumann, Uwe an Roda Becher, Dana; Korrespondenz, Hamburg;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697211" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1697211",
+  "iiif-manifest": ""
+}

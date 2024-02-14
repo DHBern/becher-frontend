@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 2 Blatt unvollständig, mit handschriftlichen Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] stark veränderte Fassung von A-3-e-10-1" ],
+  "signature": "SLA-UB-A-3-e-10-2",
+  "title": "Becher, Ulrich: Der schwarze Engel",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558343" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-10-2_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558343",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1767e302-ee7f-4abe-a2bf-9059cc759a08\/"
+}

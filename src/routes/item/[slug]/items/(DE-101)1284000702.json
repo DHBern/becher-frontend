@@ -1,0 +1,22 @@
+{
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Vollständiger Titel [der auch als \"Incipit\" angesehen werden kann]: Zwei \"deutsche Weihnachtswünsche\" (wiewohl ich wegen des erstern von hüben und drüben verlacht werden werde)" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0230",
+  "title": "Zwei \"deutsche Weihnachtswünsche\" [...]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284000702",
+    "gnd": "https:\/\/d-nb.info\/1284000702"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)1284000702",
+  "iiif-manifest": ""
+}

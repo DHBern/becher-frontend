@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript, 38 Blatt, vollständig, handschriftliche Korrekturen, teilweise handschriftlich paginiert" ],
+  "category_global_name": "",
+  "ext_num": 39,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [
+    "[Bemerkung] Urspr. Titelbeginn \"Ballade\" hs. überschrieben mit \"Romanze\".",
+    "[Biblio] Becher, Ulrich: Brasilianischer Romanzero. Mit Holzschnitten von Axl Leskoschek. Wilhelm Frick: Wien 1950, S. 37-102."
+  ],
+  "signature": "SLA-UB-A-3-c-2-1",
+  "title": "Becher, Ulrich: Romanze von den tollen Hunden zu Rio",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558267" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-2-1_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558267",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/260b9cf8-7f48-450d-8b58-8a8541ab2ffa\/"
+}

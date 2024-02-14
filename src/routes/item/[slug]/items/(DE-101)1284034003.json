@@ -1,0 +1,26 @@
+{
+  "ext": [ "2 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 4,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1952" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.01.0099",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284034003",
+    "gnd": "https:\/\/d-nb.info\/1284034003"
+  },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284034003_00000010.tif\/info.json",
+  "category": 20100,
+  "key": "(DE-101)1284034003",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e44f7aa3-761c-44bf-83b8-ff94a4592000\/"
+}

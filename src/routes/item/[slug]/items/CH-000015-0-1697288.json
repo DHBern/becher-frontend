@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "St. Moritz;\nBasel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "5. August 1960" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-KOER-02",
+  "title": "Brant, Hede an Roda Becher, Dana; Kondolenzschreiben, St. Moritz;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697288" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1697288",
+  "iiif-manifest": ""
+}

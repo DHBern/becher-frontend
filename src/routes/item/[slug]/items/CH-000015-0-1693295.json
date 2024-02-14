@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Graz;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Roda, Olga (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "25. November 1967" ],
+  "encl": [ "Umschlag" ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-RODAO-BECHD-26",
+  "title": "Roda, Olga an Becher, Dana; Korrespondenz, Graz;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693295" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1693295",
+  "iiif-manifest": ""
+}

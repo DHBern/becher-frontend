@@ -1,0 +1,29 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/115661166", "https:\/\/d-nb.info\/gnd\/129010561" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1950" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Ulrich Becher, Hotel Bahyse, Blonay, Vd, Schweiz",
+    "Vorliegende Namensform Adressat: Herrn Neuberg und H. Schwarz, Direktion Studio in der Kolingasse, Wien"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0473",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Erich Neuberg", "Helmut Schwarz" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284849430",
+    "gnd": "https:\/\/d-nb.info\/1284849430"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284849430",
+  "iiif-manifest": ""
+}

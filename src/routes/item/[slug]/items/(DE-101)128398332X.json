@@ -1,0 +1,22 @@
+{
+  "ext": [ "1 Blatt Druck, Xerox. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1974" ],
+  "note": [ "Übergeordneter, ergänzter Titel: Aus den Papieren des 'Roten Barons' Albert" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0125",
+  "title": "Das letzte Genrebild der alten Zeit",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128398332X",
+    "gnd": "https:\/\/d-nb.info\/128398332X"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)128398332X",
+  "iiif-manifest": ""
+}

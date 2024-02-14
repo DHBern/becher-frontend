@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 1 Blatt mit handschriftlichen Korrekturen  + Typoskript Durchschlag 1 Blatt unvollständig" ],
+  "category_global_name": "",
+  "ext_num": 3,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] \"atemloses Raunen\" durch \"windbetäubtes\", \"Sturm der Freiheit\" durch \"Firnenatem\", \"firnumgleisset\" durch \"schneeumgleisset\" handschriftlich korrigiert" ],
+  "signature": "SLA-UB-A-3-e-1-5",
+  "title": "Becher, Ulrich: Heimkehr",
+  "content": [ "\"Horch! Die weiten Abendlande irr durchtost von Beelzbubs Bande...\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558313" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-1-5_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558313",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d1e44e72-a77d-421b-8873-572ddc01bc58\/"
+}

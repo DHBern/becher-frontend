@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Buenos Aires;\nBasel, Lugano" ],
+  "ext_num": 0,
+  "creator": [ "Mühsam, Joachim (1907-2000)" ],
+  "lang": [  ],
+  "date": [ "5. Juni 1958" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MUEH-BECHD-02",
+  "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Buenos Aires;\nBasel, Lugano",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117165077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1686726" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1686726",
+  "iiif-manifest": ""
+}

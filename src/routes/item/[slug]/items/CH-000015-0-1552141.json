@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Wickersdorf" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1926" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-077",
+  "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Wickersdorf",
+  "content": [ "\"Ich komme nicht mehr zum Malen, obwohl ich so Lust dazu hätte, es ist wirklich verdammt. Ich habe Euch doch wohl geschrieben, dass in Locarno ein paar Bilder von mir ausgestellt waren. Was habt Ihr für den Winter vor? Hier ist es schon kalt. Mein Zimmer ist augenblicklich eine Mischung von Technik und Bohème und Unordnung, zwei Schreibmaschinen, ein Grammophon, eine leere Staffelei, ein blauer Bademantel, sehr viele Papiere, auf der ich meinen Geist in eine grosse Arbeit produziere“" ],
+  "recipient": [ "Becher, Richard (1875-1956)", "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552141" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1552141",
+  "iiif-manifest": ""
+}

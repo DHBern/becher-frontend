@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript, 3 Blatt, paginiert, maschinelle Korrekturen" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1955" ],
+  "note": [
+    "[Bemerkung] Fast wortgleich mit S. 215-218 der Murmeljagd (Neuauflage 2020) (Geschichte der Elsabé, Giaxas Frau und Xanes Mutter) unter Abbänderung Namen und Schluss",
+    "[Biblio] Am 26.\/27.2.1955 in Der Kurier unter dem Titel Das Freifräulein Lena Hahnenspor erschienen; Am 20.7.1958 im Göttinger Tageblatt (Titel: Eine sehr baltische Geschichte); Am 13.7.1959 in der Braunschweiger Zeitung (Titel: Eine sehr baltische Geschichte); 1976 veröffentlicht in Deutsche Erzähler der gegenwart. Eine Anthologie, hg. v. Willi Fehse. Stuttgart: Philipp Reclam jun., 1976, S. 43-46."
+  ],
+  "signature": "SLA-UB-A-1-f-32-1",
+  "title": "Becher, Ulrich: Eine sehr baltische Geschichte - Das Freifräulein Lena Hahnenspor",
+  "content": [ "Geschichte der Freifrau Lena von Hahnenspor, nachempfunden der Elsbeth von Zeppelin der späteren Frau von Roda Roda und Dana Bechers Mutter." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557852" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557852",
+  "iiif-manifest": ""
+}

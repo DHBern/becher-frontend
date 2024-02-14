@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Schiess, Charlotte (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "22. Dezember 1982" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-SCHI-BECHD-1",
+  "title": "Schiess, Charlotte an Becher, Dana; Korrespondenz, Basel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1693411" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1693411",
+  "iiif-manifest": ""
+}

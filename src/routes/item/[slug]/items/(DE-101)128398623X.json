@@ -1,0 +1,26 @@
+{
+  "ext": [ "6 Blatt maschinenschriftlich, vermutlich unvollständig. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Titel nicht vollständig lesbar",
+    "Früherer, gestrichener Titel des Archivales lautet: Grau",
+    "Weiterer früherer, gestrichener Titel des Archivales lautet: Ulysses wie Tausende"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0173",
+  "title": "Die Rosen des Herrn Ro[?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128398623X",
+    "gnd": "https:\/\/d-nb.info\/128398623X"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)128398623X",
+  "iiif-manifest": ""
+}

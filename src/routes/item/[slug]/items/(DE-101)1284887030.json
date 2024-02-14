@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag mit Unterschrift. Im Auftrag geschrieben von W. Nawrocki" ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1970" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Körperschaftlicher Verfasser: Zastepca, Redaktora Naczelnego" ],
+  "signature": "DEA-B-3-1-0017.B.04.0129",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284887030",
+    "gnd": "https:\/\/d-nb.info\/1284887030"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284887030",
+  "iiif-manifest": ""
+}

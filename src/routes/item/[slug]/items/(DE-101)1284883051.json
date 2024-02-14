@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Renate Nagel" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/124033186X" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Benziger Verlag" ],
+  "lang": [  ],
+  "date": [ "1973" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Körperschaftlicher Adressat: Éditions du Seuil, Mme Anne Frejer, Paris" ],
+  "signature": "DEA-B-3-1-0017.B.04.0090",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Anne Freyer-Mauthner" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1065866399" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284883051",
+    "gnd": "https:\/\/d-nb.info\/1284883051"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284883051",
+  "iiif-manifest": ""
+}

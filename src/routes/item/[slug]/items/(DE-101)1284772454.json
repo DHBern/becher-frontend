@@ -1,0 +1,26 @@
+{
+  "ext": [ "2 Blatt handschriftlich mit Unterschrift (Xerox)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/104975466" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1975" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.02.0035",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Kurt Batt" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284772454",
+    "gnd": "https:\/\/d-nb.info\/1284772454"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284772454",
+  "iiif-manifest": ""
+}

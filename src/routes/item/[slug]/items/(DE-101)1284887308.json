@@ -1,0 +1,30 @@
+{
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1982" ],
+  "encl": [  ],
+  "note": [
+    "Verfasser ist möglicherweise Fritz Stapenhorst",
+    "Vorliegende Namensform Verfasser: Fritz St.",
+    "Vorliegende Namensform Adressat: Frau Dana Becher"
+  ],
+  "signature": "DEA-B-3-1-0017.B.04.0134",
+  "title": "Postkarte",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284887308",
+    "gnd": "https:\/\/d-nb.info\/1284887308"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284887308",
+  "iiif-manifest": ""
+}

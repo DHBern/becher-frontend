@@ -1,0 +1,29 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118787624" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1964" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: für wenige Tage Wien",
+    "Vorliegende Namensform Adressat: Herrn Dr. Raddatz, Rowohlt Verlag, Reinbek\/Hambg"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0362",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Fritz J. Raddatz" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128484563X",
+    "gnd": "https:\/\/d-nb.info\/128484563X"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)128484563X",
+  "iiif-manifest": ""
+}

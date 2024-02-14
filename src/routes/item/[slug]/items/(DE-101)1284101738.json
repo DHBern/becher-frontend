@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Otto Breicha", "Europa-Verlag (Wien; Zürich)" ],
+  "lang": [  ],
+  "date": [ "1967" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Europa Verlags-AG" ],
+  "signature": "DEA-B-3-1-0017.B.01.0407",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116469986", "https:\/\/d-nb.info\/gnd\/2009923-X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284101738",
+    "gnd": "https:\/\/d-nb.info\/1284101738"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284101738",
+  "iiif-manifest": ""
+}

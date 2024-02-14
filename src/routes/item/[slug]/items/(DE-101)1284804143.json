@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt handschriftlich (Entwurf)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116282606" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1965" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Dana und Uli" ],
+  "signature": "DEA-B-3-1-0017.B.02.0330",
+  "title": "Brieftelegramm",
+  "content": [  ],
+  "recipient": [ "Maria Preses" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284804143",
+    "gnd": "https:\/\/d-nb.info\/1284804143"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284804143",
+  "iiif-manifest": ""
+}

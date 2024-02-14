@@ -1,0 +1,21 @@
+{
+  "ext": [ "Notizen, handschriftlich, 6 Seiten" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Ulrich, Martin (1857-1926)" ],
+  "lang": [  ],
+  "date": [ "1860 bis 1926" ],
+  "encl": [  ],
+  "note": [ "[Datierung] Lebensdaten von Ulrich, Martin" ],
+  "signature": "SLA-UB-C-3-a-1-g",
+  "title": "Ulrich, Martin: Notizen",
+  "content": [ "Notizen zu \"Canibalismus\" und \"Zum Capitel Furcht\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556903" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 3099093,
+  "key": "CH-000015-0-1556903",
+  "iiif-manifest": ""
+}

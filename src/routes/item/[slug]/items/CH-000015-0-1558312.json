@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 1 Blatt, signiert" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] \"Bande freiheitsschändender Briganten\" durch \"Beelzebubs Bande\", entspricht Heimkehr e-1-5" ],
+  "signature": "SLA-UB-A-3-e-1-4",
+  "title": "Becher, Ulrich: Dank den Höhen",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558312" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-1-4_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558312",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/54221b4a-ff70-4c35-8043-3b2aacb02490\/"
+}

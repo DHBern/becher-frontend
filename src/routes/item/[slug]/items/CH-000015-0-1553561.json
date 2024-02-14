@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Telegramm, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "o.O." ],
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "12. Mai 1941" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Aufgegeben in Detroit, reforwarded from Lisbon." ],
+  "signature": "SLA-UB-B-1-BECH-190",
+  "title": "Becher, Ulrich an Becher, Richard; Korrespondenz, o.O.",
+  "content": [  ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553561" },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-190_01.tif\/info.json",
+  "category": 20200,
+  "key": "CH-000015-0-1553561",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1a489dab-ef38-499a-93b8-95bc693e2572\/"
+}

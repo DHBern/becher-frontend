@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] 10zeilig" ],
+  "signature": "SLA-UB-A-3-e-11-1",
+  "title": "Becher, Ulrich: Irrfahrt",
+  "content": [ "\"Vielhunderttausend Ulyssen streifend im Ungewissen…\"" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558345" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-11-1_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558345",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b21cccd1-24ed-4706-bf2c-00dfb644fd59\/"
+}

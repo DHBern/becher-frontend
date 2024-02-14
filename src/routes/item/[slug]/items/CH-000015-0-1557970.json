@@ -1,0 +1,22 @@
+{
+  "ext": [ "Manuskript, 50 Blatt Kopierbuch, paginiert + 48 Blatt Kopierbl (S. 3-50) Handschrift Dana" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1970 bis 1990" ],
+  "note": [
+    "[Bemerkung] S. 2: Makumba S. 3-47, 49-50: Hadestelefonate S. 48: Werkaufstellung \"Das Weibchen\" Schlussvariante abweichend von g-1-3, wo Becher Wotrubas Beerdigung fernbleibt.",
+    "[Datierung] grob geschätzt"
+  ],
+  "signature": "SLA-UB-A-1-g-1-4",
+  "title": "Becher, Ulrich: Hades-Telefonate: Silvester in Wien und Begräbnis Wotrubas",
+  "content": [ "Begräbnis Fritz Wotrubas und anschliessende Leichenfeier Kap. 2: Dezember 1961 in Wien, Silvester mit Fritz Wotruba Kap. 3: Unterhaltung mit Walter Muschg in Basel" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557970" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557970",
+  "iiif-manifest": ""
+}

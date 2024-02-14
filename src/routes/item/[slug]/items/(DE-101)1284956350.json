@@ -1,0 +1,24 @@
+{
+  "ext": [ "2 Blatt Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1961" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Ulrich Becher: Vorwort zu Ödön von Horvath, Stücke" ],
+  "signature": "DEA-B-3-1-0017.D.04.0036",
+  "title": "Rowohlt Paperback",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284956350",
+    "gnd": "https:\/\/d-nb.info\/1284956350"
+  },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40200,
+  "key": "(DE-101)1284956350",
+  "iiif-manifest": ""
+}

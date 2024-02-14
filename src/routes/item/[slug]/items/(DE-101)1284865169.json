@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613", "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Alexander Roda Roda" ],
+  "lang": [  ],
+  "date": [ "1933" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.04.0045",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Elsbeth Roda Roda", "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284865169",
+    "gnd": "https:\/\/d-nb.info\/1284865169"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284865169",
+  "iiif-manifest": ""
+}

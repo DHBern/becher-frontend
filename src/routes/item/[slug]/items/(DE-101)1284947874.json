@@ -1,0 +1,24 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag. Mit Korrektur" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0051",
+  "title": "Der Bockerer\" - \"ein Festabend des Wiener Theaters",
+  "content": [  ],
+  "creator_uri": [ "" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284947874",
+    "gnd": "https:\/\/d-nb.info\/1284947874"
+  },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40500,
+  "key": "(DE-101)1284947874",
+  "iiif-manifest": ""
+}

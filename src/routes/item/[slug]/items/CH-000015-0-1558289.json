@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript + Manuskript, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] 4 Verse Typoskript, 5 Verse Manuskript in Bleistift, von \"Mählich erkennende taute mein gefrorener Sinn\" bis \"Früh übt ich mich in unverschämten Stücken\"." ],
+  "signature": "SLA-UB-A-3-d-2-11",
+  "title": "Becher, Ulrich: Zauberlehrling bei Mutter Läppche",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558289" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-11_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558289",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a5504fe3-9e0d-40a0-991b-1db5025ed2e2\/"
+}

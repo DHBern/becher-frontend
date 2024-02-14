@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript 1 Blatt, halbs. beschrieben, handschriftliche Korrekturen und Anmerkungen" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Titel hs. über dem masch. Untertitel" ],
+  "signature": "SLA-UB-A-1-f-29-1",
+  "title": "Becher, Ulrich: Kurzer Prozess. Ich wurde erwürgt",
+  "content": [ "Kurzer Moment bis zum Tod oder die Beschreibung, wie man ihn ermordete. Wer ist der Halbidiot?" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557837" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557837",
+  "iiif-manifest": ""
+}

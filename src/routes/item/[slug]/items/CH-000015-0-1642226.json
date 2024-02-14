@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich + Aquarellzeichnungen" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Karlsruhe" ],
+  "ext_num": 0,
+  "creator": [ "Metz, Reinhold (1942-)" ],
+  "lang": [  ],
+  "date": [ "2. Januar 1972" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-METZ-1",
+  "title": "Metz, Reinhold an Becher, Ulrich; Korrespondenz, Karlsruhe",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119018047" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1642226" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1642226",
+  "iiif-manifest": ""
+}

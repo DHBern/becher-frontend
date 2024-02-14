@@ -1,0 +1,22 @@
+{
+  "ext": [ "1 Druckexemplar, 180 S., handschriftliche Korrekturen und Anmerkungen" ],
+  "category_global_name": "Romane",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1957" ],
+  "note": [
+    "[Bemerkung] Handexemplar des Autors mit handschriftlichen Anmerkungen auf dem Vorsatz und Korrekturen im Text. Beilage: Buchzeichen. Umschlag beschädigt.",
+    "[Biblio] Becher, Ulrich: Kurz nach 4. Roman. Ernst Rowohlt Verlag: Hamburg 1957."
+  ],
+  "signature": "SLA-UB-A-2-b-3-1",
+  "title": "Becher, Ulrich: Kurz nach 4. Handexemplar",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558006" },
+  "type": "work",
+  "iiif": "",
+  "category": 10200,
+  "key": "CH-000015-0-1558006",
+  "iiif-manifest": ""
+}

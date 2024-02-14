@@ -1,0 +1,25 @@
+{
+  "ext": [ "17 Blatt maschinenschriftlicher Durchschlag, mit Korrekturen, und maschinenschriftlich Xerox" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Weiterer enthaltener Titel (Kapitel): Das Projekt einer k. u. k. u. k. u. k. u. k. Monarchie",
+    "Übergeordneter Titel des Typoskripts: Aus den Papieren des 'Roten Barons' Albert"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0123",
+  "title": "Das letzte Genrebild der alten Zeit",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283983273",
+    "gnd": "https:\/\/d-nb.info\/1283983273"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)1283983273",
+  "iiif-manifest": ""
+}

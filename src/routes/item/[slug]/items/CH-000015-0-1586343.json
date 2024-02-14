@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Briefentwurf, masch. Dg., unvollständig" ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "8. Juni 1951" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Rückseitig Abrechnung des Aufbau-Verlags vom 21.05.1951" ],
+  "signature": "SLA-UB-B-1-RIB-1",
+  "title": "Becher, Ulrich an Ribèrt, M. Erneste; Korrespondenz, Basel",
+  "content": [ "biografische Informationen" ],
+  "recipient": [ "Ribèrt, M. Erneste" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586343" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1586343",
+  "iiif-manifest": ""
+}

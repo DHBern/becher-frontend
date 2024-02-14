@@ -1,0 +1,24 @@
+{
+  "ext": [ "6 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1931" ],
+  "encl": [  ],
+  "note": [ "Die Bibliographie verzeichnet Haupt-Werke von Ulrich Becher sowie Reaktionen darauf in Periodika (Fundstelle und Verfasser-Angabe)" ],
+  "signature": "DEA-B-3-1-0017.D.04.0001",
+  "title": "Bibliographie Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284952010",
+    "gnd": "https:\/\/d-nb.info\/1284952010"
+  },
+  "type": "collItem",
+  "iiif": "",
+  "category": 40200,
+  "key": "(DE-101)1284952010",
+  "iiif-manifest": ""
+}

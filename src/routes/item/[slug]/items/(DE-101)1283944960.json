@@ -1,0 +1,25 @@
+{
+  "ext": [ "10 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "Romane",
+  "ext_num": 20,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Es handelt sich hierbei um ein Typoskript (verschiedene Varianten) von Ulrich Becher mit dem Titel: Der verrückte Soldat aus der Legion Eberkopf und die gadarenischen Schweine",
+    "Blatt 8 enthält verso: Brief von Rowohlt Verlag, Hamburg, an Ulrich Becher, 30. September 1968, zum Titel: Kurz nach 4"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0059",
+  "title": "Murmeljagd, [Roman] – beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944960",
+    "gnd": "https:\/\/d-nb.info\/1283944960"
+  },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944960_00000010.tif\/info.json",
+  "category": 10200,
+  "key": "(DE-101)1283944960",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/10bb33ce-ab8d-4ae4-a38c-178983e92900\/"
+}

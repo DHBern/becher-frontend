@@ -1,0 +1,29 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Valentin Herzog" ],
+  "lang": [  ],
+  "date": [ "1973" ],
+  "encl": [  ],
+  "note": [
+    "Vorliegende Namensform Verfasser: Valentin, Herzog von Riehen",
+    "Vorliegende Namensform Adressat: Sehr verehrter, lieber Herr Baron"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.0751",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116763493" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128413945X",
+    "gnd": "https:\/\/d-nb.info\/128413945X"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)128413945X",
+  "iiif-manifest": ""
+}

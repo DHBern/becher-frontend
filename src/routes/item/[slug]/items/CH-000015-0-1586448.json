@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Postkarte, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/117287490" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Innsbruck;\nMünchen" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1951 bis 1955" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-WEIS-1",
+  "title": "Becher, Ulrich an Weismann, Willi; Korrespondenz, Innsbruck;\nMünchen",
+  "content": [ "Post zurückhalten" ],
+  "recipient": [ "Weismann, Willi (1909-1983)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586448" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1586448",
+  "iiif-manifest": ""
+}

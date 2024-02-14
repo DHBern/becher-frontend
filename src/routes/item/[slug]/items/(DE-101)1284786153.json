@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift (Durchschrift)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116880252", "https:\/\/d-nb.info\/gnd\/105765023" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1974" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Liebe Doktoren Nagel und Keckeis" ],
+  "signature": "DEA-B-3-1-0017.B.02.0152",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Renate Nagel", "Peter Keckeis" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284786153",
+    "gnd": "https:\/\/d-nb.info\/1284786153"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284786153",
+  "iiif-manifest": ""
+}

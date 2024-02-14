@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, m.s u. hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Magdeburg;\nBerlin" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "7. Mai 1925" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-NUSS-BECH-1",
+  "title": "Nussbaum & Rothschild an Becher, Richard; Korrespondenz, Magdeburg;\nBerlin",
+  "content": [ "Aktienofferte" ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1687133" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1687133",
+  "iiif-manifest": ""
+}

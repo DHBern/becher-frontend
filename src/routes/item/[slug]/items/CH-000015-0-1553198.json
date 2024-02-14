@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Brief, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086", "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "12. November 1934" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Ortsangabe Berlin gemäss Briefband \"Ich lebe in der Apokalypse\".",
+    "[Datierung] Vermutlich vor 12.11., als UB bereits in Wien war."
+  ],
+  "signature": "SLA-UB-B-1-BECH-129",
+  "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz, Berlin",
+  "content": [  ],
+  "recipient": [ "Becher-Ulrich, Elise (1881-1973)", "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553198" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1553198",
+  "iiif-manifest": ""
+}

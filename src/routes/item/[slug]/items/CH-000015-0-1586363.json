@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Briefentwurf, masch. Dg." ],
+  "recipient_uri": [  ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "o.O." ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "9. Oktober 1956" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-ROW-1",
+  "title": "Becher, Ulrich an Rowohlt Verlag; Korrespondenz, o.O.",
+  "content": [ "Frust über Lektor" ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586363" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1586363",
+  "iiif-manifest": ""
+}

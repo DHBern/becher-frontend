@@ -1,0 +1,19 @@
+{
+  "ext": [ "Manuskript, 1 Blatt, Vorder- und Rückseite" ],
+  "category_global_name": "Erzählungen",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] Bleistift, Anfang der Erzählung, keinem der vorhandenen Typoskripte zuzuordnen" ],
+  "signature": "SLA-UB-A-1-f-14-5",
+  "title": "Becher, Ulrich: Fragment (Reise ins Dunkel)",
+  "content": [ "Die Geschichte von Rosnoblet und seinen Söhnen in Lourdier-sur-Arve. Rivalitäten mit dem Weinhändler und Schwarzbrenner Peynoche." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557792" },
+  "type": "work",
+  "iiif": "",
+  "category": 10100,
+  "key": "CH-000015-0-1557792",
+  "iiif-manifest": ""
+}

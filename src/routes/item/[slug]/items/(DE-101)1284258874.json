@@ -1,0 +1,26 @@
+{
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Stanka Rendla", "Cankarjeva Založba (Ljubljana)" ],
+  "lang": [  ],
+  "date": [ "1971" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Cankarjeva Založba" ],
+  "signature": "DEA-B-3-1-0017.B.01.1448",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216466610", "https:\/\/d-nb.info\/gnd\/1084067-9" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284258874",
+    "gnd": "https:\/\/d-nb.info\/1284258874"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284258874",
+  "iiif-manifest": ""
+}

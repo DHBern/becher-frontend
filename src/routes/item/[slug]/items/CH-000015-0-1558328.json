@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1939" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-3-e-6-3",
+  "title": "Becher, Ulrich: Enttäuschung",
+  "content": [ "Gedicht bestand ursprüngl. nur aus der ersten Strophe, der Klage eines Liebhabers über die Vergänglichkeit der Gefühle, zweite Strophe ändert den Tenor und wird zur Kritik der Schweizer Verhältnisse, die er an der Ortswahl bei der Gründung des Völkerbundes festmacht" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558328" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-6-3_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558328",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/de3258c4-7101-42af-bd4f-3675b61cbcfd\/"
+}

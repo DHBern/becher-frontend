@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Frankfurt;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Möckel, Birgit (20.\/21. Jh.)" ],
+  "lang": [  ],
+  "date": [ "26. Mai 1988" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-MOE-BECHD-1",
+  "title": "Möckel, Birgit an Becher, Dana; Korrespondenz, Frankfurt;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1686016" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1686016",
+  "iiif-manifest": ""
+}

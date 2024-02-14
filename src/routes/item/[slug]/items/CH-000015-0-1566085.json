@@ -1,0 +1,24 @@
+{
+  "ext": [ "1 Quartheft, ohne Umschlag, 10 Bogen, gebunden; 7 Blatt, lose eingelegt" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Ulrich, Martin (1857-1926)" ],
+  "lang": [  ],
+  "date": [ "1907" ],
+  "encl": [  ],
+  "note": [
+    "[Datierung] gemäss eingelegtem Briefentwurf",
+    "[Darin] 1 Briefentwurf (3. Juli 1907)"
+  ],
+  "signature": "SLA-UB-C-3-a-3-31",
+  "title": "Ulrich, Martin: Quartheft, ohne Umschlag: Mein geheimnisvoller und mein seltsamer Freund",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566085" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 3099093,
+  "key": "CH-000015-0-1566085",
+  "iiif-manifest": ""
+}

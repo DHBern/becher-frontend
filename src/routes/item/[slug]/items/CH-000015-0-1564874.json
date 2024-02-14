@@ -1,0 +1,21 @@
+{
+  "ext": [ "1 Buch, gebunden, ca. 300 Seiten" ],
+  "category_global_name": "",
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [ "Roda Becher, Dana (1909-1992)" ],
+  "lang": [  ],
+  "date": [ "1987" ],
+  "encl": [ "1 Kleeblatt, 4- blättrig" ],
+  "note": [  ],
+  "signature": "SLA-UB-C-3-d-2-a",
+  "title": "Roda-Becher, Dana: Buch, schwarz-rot, mit Adressen, Termine, Notizen, Basel",
+  "content": [ "Buch mit Adressen, Terminen und persönlichen Notizen" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564874" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 3099093,
+  "key": "CH-000015-0-1564874",
+  "iiif-manifest": ""
+}

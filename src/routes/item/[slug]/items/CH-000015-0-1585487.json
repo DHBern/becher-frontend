@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Montecatini;\nZürich" ],
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "22. April 1965" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECHD-20",
+  "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Montecatini;\nZürich",
+  "content": [ "medizinischer Bericht" ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1585487" },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECHD-20_01.tif\/info.json",
+  "category": 20200,
+  "key": "CH-000015-0-1585487",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/be83d40e-ed51-4293-b160-d0c71cd93560\/"
+}

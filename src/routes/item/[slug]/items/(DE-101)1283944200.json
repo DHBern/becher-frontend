@@ -1,0 +1,22 @@
+{
+  "ext": [ "33 Blatt maschinenschriftlicher Durchschlag und anderes. Mit Korrekturen" ],
+  "category_global_name": "Romane",
+  "ext_num": 80,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Frühe Fassung?, Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0040",
+  "title": "Murmeljagd, [Roman] – Da ist kein Wind … [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944200",
+    "gnd": "https:\/\/d-nb.info\/1283944200"
+  },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944200_00000010.tif\/info.json",
+  "category": 10200,
+  "key": "(DE-101)1283944200",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/99449873-eda6-43c9-b250-8797b9bd6e6d\/"
+}

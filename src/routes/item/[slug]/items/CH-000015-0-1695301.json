@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, hs." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215294387" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Ulrich, Martin (1857-1926)" ],
+  "lang": [  ],
+  "date": [ "1930" ],
+  "encl": [ "Blatt m. hs. Notizen und einer Zeichnung, gehört wohl nicht zu der Karte" ],
+  "note": [ "[Datierung] s.d." ],
+  "signature": "SLA-UB-B-3-ULRIM-BECHB-1",
+  "title": "Ulrich, Martin an Becher, Benno; Korrespondenz, Berlin",
+  "content": [  ],
+  "recipient": [ "Becher, Benno (19.\/20. Jh.)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695301" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1695301",
+  "iiif-manifest": ""
+}

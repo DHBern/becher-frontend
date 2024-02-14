@@ -1,0 +1,26 @@
+{
+  "ext": [ "5 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Fassung mit Einleitung",
+    "Titel teilweise fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Ödöns Traum"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0141",
+  "title": "Miniplay X. v. Y.",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128398394X",
+    "gnd": "https:\/\/d-nb.info\/128398394X"
+  },
+  "type": "work",
+  "iiif": "",
+  "category": 1099095,
+  "key": "(DE-101)128398394X",
+  "iiif-manifest": ""
+}

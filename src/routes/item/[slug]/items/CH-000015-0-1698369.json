@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Karte, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [  ],
+  "ext_num": 0,
+  "creator": [ "Gumpert, Hans (1890-1962)" ],
+  "lang": [  ],
+  "date": [ "30. August 1958" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-RUECK-13",
+  "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher",
+  "content": [  ],
+  "recipient": [ "Roda Roda, Elsbeth (1879-1960)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1168817064" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698369" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1698369",
+  "iiif-manifest": ""
+}

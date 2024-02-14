@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1933" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Gasthof Grüner Baum, Ehrwald (Tirol)" ],
+  "signature": "DEA-B-3-1-0017.B.02.0037",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284772543",
+    "gnd": "https:\/\/d-nb.info\/1284772543"
+  },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284772543_00000010.tif\/info.json",
+  "category": 20200,
+  "key": "(DE-101)1284772543",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/535807ac-d89e-47a0-b962-4b5d478f0f7c\/"
+}

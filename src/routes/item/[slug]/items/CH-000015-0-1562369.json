@@ -1,0 +1,21 @@
+{
+  "ext": [ "2 Typoskripte, maschinenschriftlich, Durchschlag, 2 Seiten" ],
+  "category_global_name": "",
+  "place": [ "Rio de Janeiro" ],
+  "ext_num": 0,
+  "creator": [ "Machado de Assis (1839-1908)" ],
+  "lang": [  ],
+  "date": [ "1940 bis 1950" ],
+  "encl": [  ],
+  "note": [ "[Datierung] geschätzt, in der Zeit in Rio de Janeiro" ],
+  "signature": "SLA-UB-C-3-b-2-e-1",
+  "title": "Assis, Machado de: Gedicht, Rio de Janeiro",
+  "content": [ "Gedicht \"Circulus viciosus\" übersetzt von Becher, Richard" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118640747" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1562369" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 3099093,
+  "key": "CH-000015-0-1562369",
+  "iiif-manifest": ""
+}

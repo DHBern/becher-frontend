@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief. ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Zürich" ],
+  "ext_num": 0,
+  "creator": [ "Vischherr, Albert (1938-)" ],
+  "lang": [  ],
+  "date": [ "15. Dezember 1965" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Albert Vischherr war ein Freund von Beat Jenny und der Pflegesohn von Paul Dreyfus" ],
+  "signature": "SLA-UB-B-3-VISCH-BECHD-1",
+  "title": "Vischherr, Albert an Becher, Dana; Korrespondenz, Zürich",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1226228194" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1695363" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1695363",
+  "iiif-manifest": ""
+}

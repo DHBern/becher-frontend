@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript Durchschlag, 1 Blatt, signiert" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "note": [ "[Bemerkung] enthält die Gedichte: Heimkehr und Gebet" ],
+  "signature": "SLA-UB-A-3-e-1-6",
+  "title": "Becher, Ulrich: Heimkehr, Gebet",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558314" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-e-1-6_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558314",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/29c72b94-a677-4c82-a8c9-68d05479a578\/"
+}

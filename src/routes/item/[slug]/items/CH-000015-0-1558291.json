@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 2 Blatt, handschriftliche Korrekturen und Ergänzungen" ],
+  "category_global_name": "",
+  "ext_num": 2,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Lilafarbene Tinte, Anm. in Bleistift, auf Blatt 2, ein Vers handschriftlich in Tinte." ],
+  "signature": "SLA-UB-A-3-d-2-13",
+  "title": "Becher, Ulrich: Frieden",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558291" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-13_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558291",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/aea575ed-7d36-431f-a116-a62c2fed2e05\/"
+}

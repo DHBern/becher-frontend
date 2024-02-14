@@ -1,0 +1,22 @@
+{
+  "ext": [ "62 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": 124,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "note": [ "Reproduktion von: Unvollständige Fassung" ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0009",
+  "title": "Franz Patenkindt, [Lyrik]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283949334",
+    "gnd": "https:\/\/d-nb.info\/1283949334"
+  },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283949334_00000010.tif\/info.json",
+  "category": 10300,
+  "key": "(DE-101)1283949334",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/7a2966b9-7f2e-4c5e-855b-66109e03d6ba\/"
+}

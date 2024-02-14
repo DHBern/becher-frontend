@@ -1,0 +1,19 @@
+{
+  "ext": [ "Manuskript, 1 Blatt" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [ "[Bemerkung] Ein Vers mit dem Anfang des Sanges, anschließende Korrektur" ],
+  "signature": "SLA-UB-A-3-d-2-12",
+  "title": "Becher, Ulrich: Zauberlehrling bei Mutter Läppche",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558290" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-12_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558290",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/de91c62b-c527-40a4-ad05-f88d161b2fb1\/"
+}

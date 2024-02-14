@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Berlin" ],
+  "ext_num": 0,
+  "creator": [ "Würzler, Lore (20. Jh.)" ],
+  "lang": [  ],
+  "date": [ "s.d." ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-WUE-2",
+  "title": "Würzler, Lore an Becher, Ulrich; Korrespondenz, Berlin",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1651114" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "CH-000015-0-1651114",
+  "iiif-manifest": ""
+}

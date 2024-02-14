@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Karl-Heinz Huber" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hörzu" ],
+  "lang": [  ],
+  "date": [ "1979" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Hörzu, Hörzu-Redaktion München" ],
+  "signature": "DEA-B-3-1-0017.B.01.2893",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/10308798-9" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284508625",
+    "gnd": "https:\/\/d-nb.info\/1284508625"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284508625",
+  "iiif-manifest": ""
+}

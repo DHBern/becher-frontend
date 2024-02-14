@@ -1,0 +1,19 @@
+{
+  "ext": [ "Typoskript, 1 Blattvollständig" ],
+  "category_global_name": "",
+  "ext_num": 1,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [  ],
+  "signature": "SLA-UB-A-3-d-2-25",
+  "title": "Becher, Ulrich: Spanisches Sargträgerfloß. Hexameter-Sonette",
+  "content": [ "Spanisches Sargträgerfloß' ist eingestreut zwischen die Gesänge, die Franzens Schicksal im Spanischen Bürgerkrieg verkünden, wo er als Freiwilliger kämpft aufseiten der überfallenen Republik." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558303" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-25_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558303",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/8b41dd44-ebc3-41bb-a133-966b8affac8c\/"
+}

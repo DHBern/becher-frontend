@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Genf" ],
+  "ext_num": 4,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "20. September 1939" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-BECH-185",
+  "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, Genf",
+  "content": [ "Hitler-Stalin-Pakt" ],
+  "recipient": [ "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553554" },
+  "type": "letter",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-185_01.tif\/info.json",
+  "category": 20200,
+  "key": "CH-000015-0-1553554",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f03efd19-8e52-4331-bba0-21adf4d247a3\/"
+}

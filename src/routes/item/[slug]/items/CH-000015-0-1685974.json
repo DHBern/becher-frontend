@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, ms." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "São Paulo" ],
+  "ext_num": 0,
+  "creator": [ "Lustig-Prean, Karl (1892-" ],
+  "lang": [  ],
+  "date": [ "14. Juli 1944" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-LUST-BECH-1",
+  "title": "Lustig-Prean, Karl von an Becher, Richard; Korrespondenz, São Paulo",
+  "content": [  ],
+  "recipient": [ "Becher, Richard (1875-1956)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/130234737" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685974" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685974",
+  "iiif-manifest": ""
+}

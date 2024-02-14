@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Augsburg" ],
+  "ext_num": 0,
+  "creator": [ "Engelhardt, Jürgen (20. Jhd.)" ],
+  "lang": [  ],
+  "date": [ "14. Dezember 1952" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-ENGEL-BECHD-1",
+  "title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Augsburg",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1685050" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1685050",
+  "iiif-manifest": ""
+}

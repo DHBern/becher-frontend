@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Wilhelm Herzog" ],
+  "lang": [  ],
+  "date": [ "1949" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Dana Becher" ],
+  "signature": "DEA-B-3-1-0017.B.01.0755",
+  "title": "Kunstpostkarte",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119445980" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284139948",
+    "gnd": "https:\/\/d-nb.info\/1284139948"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284139948",
+  "iiif-manifest": ""
+}

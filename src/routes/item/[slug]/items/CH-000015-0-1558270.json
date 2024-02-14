@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript, 6 Blatt vollständig, unpaginiert, handschriftliche Korrekturen" ],
+  "category_global_name": "",
+  "ext_num": 6,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943 bis 1944" ],
+  "note": [
+    "[Bemerkung] Worterklärungen des Romanzero, korrigierte Fassung",
+    "[Biblio] Becher, Ulrich: Brasilianischer Romanzero. Mit Holzschnitten von Axl Leskoschek. Wilhelm Frick: Wien 1950, S. 103-109."
+  ],
+  "signature": "SLA-UB-A-3-c-3-1",
+  "title": "Becher, Ulrich: Erklärungen",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558270" },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-3-1_01.jpg\/info.json",
+  "category": 10300,
+  "key": "CH-000015-0-1558270",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/feec3909-c756-47e7-a7e1-a6e5f44ade36\/"
+}

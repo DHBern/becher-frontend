@@ -1,0 +1,22 @@
+{
+  "ext": [ "Typoskript Durchschlag, 6 Blatt, paginiert, mit wenigen handschriftlichen Korrekturen + 1 Blatt Durchschlag (S. 2)" ],
+  "category_global_name": "",
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "note": [
+    "[Bemerkung] geänderte und erweiterte Fassung, am oberen Rand später zugefügt: \"Zum 10. Jahrestag der ersten Bücherverbrennungen\" und Zitat von Horváth (Engel mit erloschenen Augen und Schwertern)",
+    "[Biblio] Das Andere Deutschland. Jg. 6 1943, Nr. 66 (01.06.1943), S. 1; Kleines Mutter-Lesebuch"
+  ],
+  "signature": "SLA-UB-A-6-a-4-3",
+  "title": "Becher, Ulrich: Gefallene Kameraden der Freiheit (3. Fassung)",
+  "content": [ "Zum Gedenken an die Schriftsteller, die dem 1. oder 2. Weltkrieg zum Opfer fielen, Selbstmord begangen, oder im Exil starben." ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558694" },
+  "type": "work",
+  "iiif": "",
+  "category": 10600,
+  "key": "CH-000015-0-1558694",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,22 @@
+{
+  "ext": [ "7 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "Romane",
+  "ext_num": 14,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0009",
+  "title": "Abseits vom Rodeo, [Novelle] - Nachdem Harry den Nickelgriff ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943352",
+    "gnd": "https:\/\/d-nb.info\/1283943352"
+  },
+  "type": "work",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943352_00000010.tif\/info.json",
+  "category": 10200,
+  "key": "(DE-101)1283943352",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d9aaee4a-3505-4b4c-b4df-06383c068f07\/"
+}

@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, handschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "B-4 Briefkonvolute, 1930-1990",
+  "place": [ "Basel" ],
+  "ext_num": 0,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "3. August 1948" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-4-UNBEK-10",
+  "title": "Unbekannte Korrespondenzpartner an Becher, Ulrich; Korrespondenz, Basel",
+  "content": [  ],
+  "recipient": [ "Becher, Ulrich (1910-1990)" ],
+  "creator_uri": [  ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1698704" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20400,
+  "key": "CH-000015-0-1698704",
+  "iiif-manifest": ""
+}

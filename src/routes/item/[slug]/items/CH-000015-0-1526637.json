@@ -1,0 +1,24 @@
+{
+  "ext": [ "1 Blatt, maschinenschriftlich mit handschriftlichen Korrekturen, 1 Seite; 1 Typoskript, maschinenschriftlich, 7 Seiten" ],
+  "category_global_name": "",
+  "place": [ "[Leipzig]" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "21. Januar 1932" ],
+  "encl": [  ],
+  "note": [
+    "[Bemerkung] Keine Bewertung; Seiten falsch nummeriert, es existieren 2 mal Seite 3",
+    "[Datierung] Ursprünglich 22.01.1932, handschriftlich gestrichen und korrigiert zu 21.01.1932"
+  ],
+  "signature": "SLA-UB-C-1-b-3-o",
+  "title": "Becher, Ulrich: Strafrechtspraktikum 1931\/1932, Alt, der mit dem Bankbeamten Krieg in Zwist lebt, schreibt an dessen Bankdirektion einen Brief, in dem er Krieg der \"strafbaren Urkundenfälschung\" und \"anderer bedenklicher Manschaften\" beschuldigt, [Leipzig]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1526637" },
+  "type": "lifeDoc",
+  "iiif": "",
+  "category": 30100,
+  "key": "CH-000015-0-1526637",
+  "iiif-manifest": ""
+}

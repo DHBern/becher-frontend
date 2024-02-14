@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, hs. + Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "Briefe Dritter, 1930-1990",
+  "place": [ "Basel;\nBasel" ],
+  "ext_num": 0,
+  "creator": [ "Pfeifer, Tadeus (1949-2010)" ],
+  "lang": [  ],
+  "date": [ "4. Januar 1991" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-PFEIF-BECHD-1",
+  "title": "Pfeifer, Tadeus an Becher, Dana; Korrespondenz, Basel;\nBasel",
+  "content": [  ],
+  "recipient": [ "Roda Becher, Dana (1909-1992)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/120541122" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1687146" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20300,
+  "key": "CH-000015-0-1687146",
+  "iiif-manifest": ""
+}

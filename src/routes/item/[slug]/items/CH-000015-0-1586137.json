@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch. Fk." ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/117044369" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Woodstock" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "14. August 1944" ],
+  "encl": [  ],
+  "note": [ "[Bemerkung] Briefe adressiert an \"Butsch\"; erster Brief aus Vermont, c\/o Carl Zuckmayer" ],
+  "signature": "SLA-UB-B-1-BUD-1",
+  "title": "Becher, Ulrich an Budzislawski, Hermann; Korrespondenz, Woodstock",
+  "content": [ "Meinung zu Texten, biographische Angaben" ],
+  "recipient": [ "Budzislawski, Hermann (1901-1978)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586137" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1586137",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,29 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (Xerox). Im Auftrag geschrieben von N. Baerlocher" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Zürich. Präsidialabteilung" ],
+  "lang": [  ],
+  "date": [ "1974" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Präsidialabteilung der Stadt Zürich",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Sekretariat des Stadtpräsidenten"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.3733",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1085883027" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284761401",
+    "gnd": "https:\/\/d-nb.info\/1284761401"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284761401",
+  "iiif-manifest": ""
+}

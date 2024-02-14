@@ -1,0 +1,23 @@
+{
+  "ext": [ "1 Brief, masch. (Fk.)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116467797" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Basel;\nBerlin" ],
+  "ext_num": 0,
+  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "lang": [  ],
+  "date": [ "3. Oktober 1957" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-1-CAS-1",
+  "title": "Becher, Ulrich an Caspar, Günter; Korrespondenz, Basel;\nBerlin",
+  "content": [ "Arbeit an Texten" ],
+  "recipient": [ "Caspar, Günter (1924-1999)" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586160" },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "CH-000015-0-1586160",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215533845" ],
+  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1982" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Mme Eva Feitzinger, Th. Sessler Verlag, Wien" ],
+  "signature": "DEA-B-3-1-0017.B.02.0442",
+  "title": "Brief",
+  "content": [  ],
+  "recipient": [ "Eva Feitzinger" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284847934",
+    "gnd": "https:\/\/d-nb.info\/1284847934"
+  },
+  "type": "letter",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284847934",
+  "iiif-manifest": ""
+}
