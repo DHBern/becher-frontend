@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Paul-Zsolnay-Verlag (Wien)" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -15,10 +15,10 @@
     "Vorliegende Namensform Adressat: Frau Elsbeth Roda Roda, Zürich, c\/o America Express Companie, postlagernd"
   ],
   "signature": "DEA-B-3-1-0017.B.04.0039",
-  "title": "Brief",
+  "title": "Paul-Zsolnay-Verlag (Wien) an Elsbeth Roda Roda, 1955",
   "content": [  ],
   "recipient": [ "Elsbeth Roda Roda" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2017722-7" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128486197X",
     "gnd": "https:\/\/d-nb.info\/128486197X"

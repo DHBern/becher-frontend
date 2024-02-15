@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Uwe Naumann" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0031",
   "title": "Ulrich Becher, Ein Porträt",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116900709" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940543",
     "gnd": "https:\/\/d-nb.info\/1284940543"

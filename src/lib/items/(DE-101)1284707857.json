@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Schweizerische Landesbibliothek" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1957" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Körperschaftlicher Verfasser: Schweizerische Landesbibliothek, Erwerbsabteilung"
   ],
   "signature": "DEA-B-3-1-0017.B.01.3349",
-  "title": "Brief",
+  "title": "Schweizerische Landesbibliothek an Ulrich Becher, 1957",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1006067-4" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284707857",
     "gnd": "https:\/\/d-nb.info\/1284707857"

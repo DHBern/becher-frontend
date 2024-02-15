@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Theaterverlag Kurt Desch" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -15,10 +15,10 @@
     "Vorliegende Namensform Adressat: Ulrich Becher, c\/o Erich Kästner, Berllin-Friedenau"
   ],
   "signature": "DEA-B-3-1-0017.B.01.3635",
-  "title": "Brief",
+  "title": "Theaterverlag Kurt Desch an Ulrich Becher, 1956",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/32759-1" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284744620",
     "gnd": "https:\/\/d-nb.info\/1284744620"

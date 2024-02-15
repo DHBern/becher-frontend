@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Metropol-Gesellschaft E. Matthes & Co." ],
   "lang": [  ],
   "date": [ "1965" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Adressat: Herrn Ulrich Becher, Wien, Oesterreich, Theaterabt. Universal Edition"
   ],
   "signature": "DEA-B-3-1-0017.B.01.2998",
-  "title": "Brief",
+  "title": "Metropol-Gesellschaft E. Matthes & Co. an Ulrich Becher, 1965",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284519058",
     "gnd": "https:\/\/d-nb.info\/1284519058"

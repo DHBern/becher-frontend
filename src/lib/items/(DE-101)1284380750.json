@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Aufbau-Verlag" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1965" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Körperschaftlicher Verfasser: Aufbau-Verlag, Lektorat"
   ],
   "signature": "DEA-B-3-1-0017.B.01.2435",
-  "title": "Brief",
+  "title": "Aufbau-Verlag an Ulrich Becher, 1965",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/5058957-X" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284380750",
     "gnd": "https:\/\/d-nb.info\/1284380750"

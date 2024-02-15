@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "A. Melik-Simonian" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1978" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Adressat: Frau A. Becker-Berke, Rowohlt-Verlag GmbH, Reinbek bei Hamburg"
   ],
   "signature": "DEA-B-3-1-0017.B.04.0107",
-  "title": "Brief",
+  "title": "A. Melik-Simonian an Anne-Lotte Becker-Berke, 1978",
   "content": [  ],
   "recipient": [ "Anne-Lotte Becker-Berke" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216293481" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284885356",
     "gnd": "https:\/\/d-nb.info\/1284885356"

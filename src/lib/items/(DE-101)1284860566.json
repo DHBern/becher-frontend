@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Aleksandr Naumenko" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1988" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Adressat: Frau Eva Koralik [Koralnik], Liepman AG, Zürich"
   ],
   "signature": "DEA-B-3-1-0017.B.04.0032",
-  "title": "Brief",
+  "title": "Aleksandr Naumenko an Eva Koralnik Rottenberg, 1988",
   "content": [  ],
   "recipient": [ "Eva Koralnik Rottenberg" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/124380115" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284860566",
     "gnd": "https:\/\/d-nb.info\/1284860566"

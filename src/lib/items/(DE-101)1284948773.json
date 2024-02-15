@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Unbekannt" ],
   "lang": [  ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0053",
   "title": "Messias ... Bakunin lehnt die Leitung ... [Incipit]",
   "content": [  ],
-  "creator_uri": [ "" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284948773",
     "gnd": "https:\/\/d-nb.info\/1284948773"

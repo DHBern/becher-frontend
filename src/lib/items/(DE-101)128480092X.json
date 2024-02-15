@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1970" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Adressat: Herrn Grubert, Henschelverlag, Berlin, DDR"
   ],
   "signature": "DEA-B-3-1-0017.B.02.0229",
-  "title": "Brief",
+  "title": "Ulrich Becher an O. P. Grubert, 1970",
   "content": [  ],
   "recipient": [ "O. P. Grubert" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128480092X",
     "gnd": "https:\/\/d-nb.info\/128480092X"

@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Walter Mehring" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0030",
   "title": "Zeiten grosser Zerstoerungen ... [Incipit]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118579983" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940373",
     "gnd": "https:\/\/d-nb.info\/1284940373"

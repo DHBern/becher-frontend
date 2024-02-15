@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Unbekannt" ],
   "lang": [  ],
   "date": [ "" ],
   "encl": [  ],
@@ -15,7 +15,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0059",
   "title": "Konvolut von Rundfunk-Typoskripten, ORF",
   "content": [  ],
-  "creator_uri": [ "" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282793020",
     "gnd": "https:\/\/d-nb.info\/1282793020"

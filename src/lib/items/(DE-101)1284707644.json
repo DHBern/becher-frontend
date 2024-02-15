@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Das Schönste, Redaktion" ],
   "lang": [  ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Körperschaftlicher Verfasser: Redaktion Das Schönste"
   ],
   "signature": "DEA-B-3-1-0017.B.01.3344",
-  "title": "Brief",
+  "title": "Das Schönste, Redaktion an Ulrich Becher, 1900",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284707644",
     "gnd": "https:\/\/d-nb.info\/1284707644"

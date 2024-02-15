@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Herman Salinger" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1949" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.04.0031",
   "title": "In der von der Universität Oklahoma ... [Incipit]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116763914" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284956199",
     "gnd": "https:\/\/d-nb.info\/1284956199"

@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1971" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Adressat: Herrn Dr. Bachmann, Redaktion Weltwoche, Zürich"
   ],
   "signature": "DEA-B-3-1-0017.B.02.0469",
-  "title": "Brief",
+  "title": "Ulrich Becher an Dieter Bachmann, 1971",
   "content": [  ],
   "recipient": [ "Dieter Bachmann" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284849252",
     "gnd": "https:\/\/d-nb.info\/1284849252"

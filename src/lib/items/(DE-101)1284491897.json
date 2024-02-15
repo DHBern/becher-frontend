@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Die Dame, Redaktion" ],
   "lang": [  ],
   "date": [ "1932" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Körperschaftlicher Verfasser: Die Dame, Redaktion"
   ],
   "signature": "DEA-B-3-1-0017.B.01.2632",
-  "title": "Brief",
+  "title": "Die Dame, Redaktion an Ulrich Becher, 1932",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284491897",
     "gnd": "https:\/\/d-nb.info\/1284491897"

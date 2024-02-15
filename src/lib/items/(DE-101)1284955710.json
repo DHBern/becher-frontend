@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Alfred Fankhauser" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1936" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.04.0027",
   "title": "Hinter uns steht eine zwiespältige ... [Incipit]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116407751" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284955710",
     "gnd": "https:\/\/d-nb.info\/1284955710"

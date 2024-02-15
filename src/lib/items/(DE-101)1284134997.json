@@ -5,19 +5,16 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [
-    "Stephan Hermlin",
-    "Deutsche Akademie der Künste zu Berlin. Sektion Dichtkunst und Sprachpflege"
-  ],
+  "creator": [ "", "" ],
   "lang": [  ],
   "date": [ "1961" ],
   "encl": [  ],
   "note": [ "Briefkopf: Deutsche Akademie der Künste zu Berlin, Sektion Dichtkunst und Sprachpflege" ],
   "signature": "DEA-B-3-1-0017.B.01.0718",
-  "title": "Brief",
+  "title": "Stephan Hermlin an Ulrich Becher, 1961",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118549812", "https:\/\/d-nb.info\/gnd\/2007367-7" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284134997",
     "gnd": "https:\/\/d-nb.info\/1284134997"

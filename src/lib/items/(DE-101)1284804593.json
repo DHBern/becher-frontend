@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1962" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Adressat: Lieber Herr Busch"
   ],
   "signature": "DEA-B-3-1-0017.B.02.0357",
-  "title": "Brief",
+  "title": "Ulrich Becher an Kurt Busch, 1962",
   "content": [  ],
   "recipient": [ "Kurt Busch" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284804593",
     "gnd": "https:\/\/d-nb.info\/1284804593"

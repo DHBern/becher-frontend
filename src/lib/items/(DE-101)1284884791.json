@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Institut Athenaeum Basel" ],
   "lang": [  ],
   "date": [ "1962" ],
   "encl": [  ],
@@ -15,10 +15,10 @@
     "Vorliegende Namensform Adressat: Frau Dana Becher"
   ],
   "signature": "DEA-B-3-1-0017.B.04.0100",
-  "title": "Brief",
+  "title": "Institut Athenaeum Basel an Dana Roda Becher, 1962",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284884791",
     "gnd": "https:\/\/d-nb.info\/1284884791"

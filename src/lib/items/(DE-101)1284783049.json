@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Adressat: Mme Elisa Becher-Ulrich"
   ],
   "signature": "DEA-B-3-1-0017.B.02.0127",
-  "title": "Postkarte",
+  "title": "Ulrich Becher an Elise Becher-Ulrich, 1900",
   "content": [  ],
   "recipient": [ "Elise Becher-Ulrich" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284783049",
     "gnd": "https:\/\/d-nb.info\/1284783049"

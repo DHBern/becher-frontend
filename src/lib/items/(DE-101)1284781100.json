@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1951" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Adressat: Herrn Dr. Richard Becher"
   ],
   "signature": "DEA-B-3-1-0017.B.02.0111",
-  "title": "Postkarte",
+  "title": "Ulrich Becher an Richard Becher, Elise Becher-Ulrich, 1951",
   "content": [  ],
   "recipient": [ "Richard Becher", "Elise Becher-Ulrich" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284781100",
     "gnd": "https:\/\/d-nb.info\/1284781100"

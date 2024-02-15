@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "", "" ],
+  "creator": [ "Unbekannt", "Schmelzer & Stapenhorst GmbH & Co Film KG" ],
   "lang": [  ],
   "date": [ "1977" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0058",
   "title": "Männer machen Fehler, Vier Stücke für zwei Männer",
   "content": [  ],
-  "creator_uri": [ "", "" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284951723",
     "gnd": "https:\/\/d-nb.info\/1284951723"

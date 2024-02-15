@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Richard Becher" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1935" ],
   "encl": [  ],
@@ -14,10 +14,10 @@
     "Vorliegende Namensform Verfasser: Rechtsanwalt"
   ],
   "signature": "DEA-B-3-1-0017.B.04.0078",
-  "title": "Brief",
+  "title": "Richard Becher an Hugo Rosenstiel, Benno Wettstein, 1935",
   "content": [  ],
   "recipient": [ "Hugo Rosenstiel", "Benno Wettstein" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284878252",
     "gnd": "https:\/\/d-nb.info\/1284878252"

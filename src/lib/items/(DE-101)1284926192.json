@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Martin Roda Becher" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.01.03.0001",
   "title": "Martin Roda Becher, [Notizheft aus der Kinderzeit]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284926192",
     "gnd": "https:\/\/d-nb.info\/1284926192"

@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Willy Keller" ],
+  "creator": [ "" ],
   "lang": [  ],
   "date": [ "1958" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0021",
   "title": "Der Herr kommt aus Bahia, Das neue Stueck von Ulrich Becher",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116174897" ],
+  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284938514",
     "gnd": "https:\/\/d-nb.info\/1284938514"
