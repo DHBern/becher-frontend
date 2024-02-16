@@ -1,20 +1,20 @@
 {
-  "category_local_name": "Briefe an Ulrich Becher ",
+  "category_local_name": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
   "ext": [ "2 Blatt handschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
-  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
-  "creator": [ "" ],
+  "creator": [ "Elise Becher-Ulrich" ],
   "lang": [  ],
   "date": [ "1900" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "DEA-B-3-1-0017.B.01.0147",
+  "signature": "SLA-UB-B-2-058",
   "title": "Elise Becher-Ulrich an Ulrich Becher, 1900",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284068714",
     "gnd": "https:\/\/d-nb.info\/1284068714"
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284068714_00000010.tif\/info.json",
-  "category": 20100,
+  "category": 201058,
   "key": "(DE-101)1284068714",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3cda1fc0-8951-46e0-b387-9fa0419c9c37\/"
 }

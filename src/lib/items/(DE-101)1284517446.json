@@ -1,20 +1,20 @@
 {
-  "category_local_name": "Briefe an Ulrich Becher ",
+  "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
-  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Eva Koralnik Rottenberg" ],
   "lang": [  ],
   "date": [ "1983" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Verfasser: Evita [Koralnik?]" ],
-  "signature": "DEA-B-3-1-0017.B.01.2973",
+  "signature": "SLA-UB-B-2-149",
   "title": "Eva Koralnik Rottenberg an Ulrich Becher, 1983",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1088792871" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284517446",
     "gnd": "https:\/\/d-nb.info\/1284517446"
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 20100,
+  "category": 201149,
   "key": "(DE-101)1284517446",
   "iiif-manifest": ""
 }

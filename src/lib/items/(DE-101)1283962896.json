@@ -2,15 +2,16 @@
   "category_local_name": "Kleine Manuskripte und Typoskripte",
   "ext": [ "1 Blatt maschinenschriftlich mit Korrekturen" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1966" ],
   "note": [ "Betrifft: Fritz Wotruba", "Dasselbe: 2 Blatt maschinenschriftlicher Durchschlag" ],
   "signature": "DEA-B-3-1-0017.A.01.05.0050",
   "title": "Für Wotruba zum 60.",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283962896",
     "gnd": "https:\/\/d-nb.info\/1283962896"

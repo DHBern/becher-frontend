@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "A. Melik-Simonian" ],
   "lang": [  ],
   "date": [ "1978" ],
   "encl": [  ],
@@ -17,7 +17,7 @@
   "title": "A. Melik-Simonian an Anne-Lotte Becker-Berke, 1978",
   "content": [  ],
   "recipient": [ "Anne-Lotte Becker-Berke" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216293481" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284885356",
     "gnd": "https:\/\/d-nb.info\/1284885356"

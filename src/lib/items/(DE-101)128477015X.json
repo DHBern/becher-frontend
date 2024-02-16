@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1969" ],
   "encl": [  ],
@@ -17,7 +17,7 @@
   "title": "Ulrich Becher an , 1969",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128477015X",
     "gnd": "https:\/\/d-nb.info\/128477015X"

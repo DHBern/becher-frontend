@@ -38,7 +38,9 @@
 		/** @type {import("minisearch").SearchOptions | undefined} */ config
 	) => {
 		return new Promise((resolve) => {
-			resolve(miniSearch.search(query, config));
+			const searchresults = miniSearch.search(query, config);
+			console.log(searchresults);
+			resolve(searchresults);
 		});
 	};
 

@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Fritz-Georg Voigt" ],
   "lang": [  ],
   "date": [ "1979" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Fritz-Georg Voigt an Ulrich Becher, 1979",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117759589" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284312909",
     "gnd": "https:\/\/d-nb.info\/1284312909"

@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Hugo Lifczis" ],
   "lang": [  ],
   "date": [ "1947" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Hugo Lifczis an Ulrich Becher, 1947",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117004448" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284198472",
     "gnd": "https:\/\/d-nb.info\/1284198472"

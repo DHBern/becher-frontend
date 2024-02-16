@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Aleksandr Naumenko" ],
   "lang": [  ],
   "date": [ "1988" ],
   "encl": [  ],
@@ -17,7 +17,7 @@
   "title": "Aleksandr Naumenko an Eva Koralnik Rottenberg, 1988",
   "content": [  ],
   "recipient": [ "Eva Koralnik Rottenberg" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/124380115" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284860566",
     "gnd": "https:\/\/d-nb.info\/1284860566"

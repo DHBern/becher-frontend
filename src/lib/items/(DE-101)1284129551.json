@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Witold Grünbaum" ],
   "lang": [  ],
   "date": [ "1975" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Witold Grünbaum, Fridel Grünbaum an Ulrich Becher, 1975",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215545711" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284129551",
     "gnd": "https:\/\/d-nb.info\/1284129551"

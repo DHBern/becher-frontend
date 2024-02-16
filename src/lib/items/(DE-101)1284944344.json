@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Wilhelm Tepser" ],
   "lang": [  ],
   "date": [ "1986" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0044",
   "title": "Dr. Wilhelm Tepser über [...] \"Der Bockerer\" von Ulrich Becher und Peter Preses, ORF, [Rundfunk-Typoskript]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237925614" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284944344",
     "gnd": "https:\/\/d-nb.info\/1284944344"

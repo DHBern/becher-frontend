@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Bruno Buchwald" ],
   "lang": [  ],
   "date": [ "1934" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Bruno Buchwald an Richard Becher, Elise Becher-Ulrich, 1934",
   "content": [  ],
   "recipient": [ "Richard Becher", "Elise Becher-Ulrich" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1171142099" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284858642",
     "gnd": "https:\/\/d-nb.info\/1284858642"

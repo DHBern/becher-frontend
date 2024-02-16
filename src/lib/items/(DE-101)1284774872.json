@@ -1,20 +1,20 @@
 {
-  "category_local_name": "Briefe von Ulrich Becher",
+  "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift (Initial). Mit Umschlag" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
-  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1933" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat auf dem Umschlag: Dana Roda Roda" ],
-  "signature": "DEA-B-3-1-0017.B.02.0064",
+  "signature": "SLA-UB-B-1-001 SLA-UB-B-1-002 SLA-UB-B-2-212",
   "title": "Ulrich Becher an Dana Roda Becher, 1933",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284774872",
     "gnd": "https:\/\/d-nb.info\/1284774872"
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284774872_00000010.tif\/info.json",
-  "category": 20200,
+  "category": 201001,
   "key": "(DE-101)1284774872",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f6bab593-ce28-4cb5-a060-290a32f464e7\/"
 }

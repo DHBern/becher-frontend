@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Steinen (Kanton Schwyz)" ],
   "lang": [  ],
   "date": [ "1936" ],
   "encl": [  ],
@@ -18,7 +18,7 @@
   "title": "Steinen (Kanton Schwyz) an Ulrich Becher, 1936",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/4227149-6" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284709272",
     "gnd": "https:\/\/d-nb.info\/1284709272"

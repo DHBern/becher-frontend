@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Dana Roda Becher" ],
   "lang": [  ],
   "date": [ "1942" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Dana Roda Becher an Alexander Roda Roda, Elsbeth Roda Roda, 1942",
   "content": [  ],
   "recipient": [ "Alexander Roda Roda", "Elsbeth Roda Roda" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284857247",
     "gnd": "https:\/\/d-nb.info\/1284857247"

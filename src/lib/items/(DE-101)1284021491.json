@@ -2,15 +2,16 @@
   "category_local_name": "Zeichnungen und anderes",
   "ext": [ "1 gefaltete Karte, 11,5 x 17,5 cm" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1900" ],
   "note": [ "Karte betrifft: Änderung der Adresse von Fred Seidewitz, Tanzlehrer" ],
   "signature": "DEA-B-3-1-0017.A.03.0007",
   "title": "Der Kuss, [Zeichnung]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284021491",
     "gnd": "https:\/\/d-nb.info\/1284021491"

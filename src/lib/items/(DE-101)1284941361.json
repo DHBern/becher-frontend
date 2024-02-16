@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Theodor Sapper" ],
   "lang": [  ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0037",
   "title": "\"Feuerwasser\" - eine bahnbrechende Bühnendichtung",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116805420" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284941361",
     "gnd": "https:\/\/d-nb.info\/1284941361"

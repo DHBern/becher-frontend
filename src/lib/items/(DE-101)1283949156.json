@@ -2,15 +2,16 @@
   "category_local_name": "Lyrik",
   "ext": [ "43 Blatt maschinenschriftlich. Mit handschriftlichen Korrekturen. Xerox" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 86,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1943" ],
   "note": [ "Reproduktion von: Druckfassung" ],
   "signature": "DEA-B-3-1-0017.A.01.03.0007",
   "title": "Franz Patenkindt, [Lyrik]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283949156",
     "gnd": "https:\/\/d-nb.info\/1283949156"

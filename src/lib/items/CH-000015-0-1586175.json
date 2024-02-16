@@ -1,8 +1,8 @@
 {
-  "category_local_name": "Briefe von Ulrich Becher",
+  "category_local_name": "Becher, Ulrich an Fellner, Anton; Korrespondenz, Wien",
   "ext": [ "1 Briefentwurf, masch." ],
   "recipient_uri": [  ],
-  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "category_global_name": "",
   "place": [ "Basel;\nWien" ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 20200,
+  "category": 202012,
   "key": "CH-000015-0-1586175",
   "iiif-manifest": ""
 }

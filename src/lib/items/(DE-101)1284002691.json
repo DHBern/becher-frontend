@@ -2,15 +2,16 @@
   "category_local_name": "Notizbücher",
   "ext": [ "1 Heft (61 Blatt, wenig beschrieben) handschriftlich, auch von Dana Becher" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1982" ],
   "note": [ "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten" ],
   "signature": "DEA-B-3-1-0017.A.01.06.0010",
   "title": "Notizbuch zum Text Abseits vom Rodeo",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284002691",
     "gnd": "https:\/\/d-nb.info\/1284002691"

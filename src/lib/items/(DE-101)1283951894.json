@@ -2,8 +2,9 @@
   "category_local_name": "Sammelwerke",
   "ext": [ "78 Blatt Druck, Xerox, unvollständig. Mit handschriftlichen Korrekturen" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1900" ],
   "note": [
@@ -14,7 +15,7 @@
   "signature": "DEA-B-3-1-0017.A.01.04.0014",
   "title": "Vom Unzulänglichen der Wirklichkeit, [Sammelwerk]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283951894",
     "gnd": "https:\/\/d-nb.info\/1283951894"

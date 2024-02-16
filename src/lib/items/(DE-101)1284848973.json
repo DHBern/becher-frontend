@@ -1,11 +1,11 @@
 {
-  "category_local_name": "Briefe von Ulrich Becher",
+  "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/105765023" ],
-  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1979" ],
   "encl": [  ],
@@ -13,11 +13,11 @@
     "Vorliegende Namensform Adressat: Herrn Dr. Peter Keckeis, Verlag Huber, Frauenfeld",
     "Dasselbe: maschinenschriftlicher Durchschlag mit Unterschrift (Xerox)"
   ],
-  "signature": "DEA-B-3-1-0017.B.02.0460",
+  "signature": "SLA-UB-B-1-020",
   "title": "Ulrich Becher an Peter Keckeis, 1979",
   "content": [  ],
   "recipient": [ "Peter Keckeis" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284848973",
     "gnd": "https:\/\/d-nb.info\/1284848973"
@@ -25,7 +25,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 20200,
+  "category": 201020,
   "key": "(DE-101)1284848973",
   "iiif-manifest": ""
 }

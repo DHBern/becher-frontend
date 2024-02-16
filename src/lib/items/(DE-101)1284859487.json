@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Hede Buchwald" ],
   "lang": [  ],
   "date": [ "1934" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Hede Buchwald an Elise Becher-Ulrich, 1934",
   "content": [  ],
   "recipient": [ "Elise Becher-Ulrich" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219331317" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284859487",
     "gnd": "https:\/\/d-nb.info\/1284859487"

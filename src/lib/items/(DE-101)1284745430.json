@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Verlag Ullstein" ],
   "lang": [  ],
   "date": [ "1935" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Verlag Ullstein an Richard Becher, 1935",
   "content": [  ],
   "recipient": [ "Richard Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123472-9" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284745430",
     "gnd": "https:\/\/d-nb.info\/1284745430"

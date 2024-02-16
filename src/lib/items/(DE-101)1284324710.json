@@ -1,11 +1,11 @@
 {
-  "category_local_name": "Briefe an Ulrich Becher ",
+  "category_local_name": "",
   "ext": [ "1 Blatt Druck. Mit handschriftlichem Zusatz mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
-  "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Fritz Wotruba" ],
   "lang": [  ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -13,11 +13,11 @@
     "Einladung zur Hochzeit von Lucy Vorel und Fritz Wotruba",
     "Vorliegende Namensform Verfasser: Fritz und Lucy"
   ],
-  "signature": "DEA-B-3-1-0017.B.01.1926",
+  "signature": "SLA-UB-B-2-254",
   "title": "Fritz Wotruba, Lucy Wotruba an Dana Roda Becher, Ulrich Becher, 1955",
   "content": [  ],
   "recipient": [ "Dana Roda Becher", "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118635263" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284324710",
     "gnd": "https:\/\/d-nb.info\/1284324710"
@@ -25,7 +25,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 20100,
+  "category": 201254,
   "key": "(DE-101)1284324710",
   "iiif-manifest": ""
 }

@@ -1,20 +1,20 @@
 {
-  "category_local_name": "Briefe von Ulrich Becher",
+  "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1088792871" ],
-  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1979" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Vielgeliebte Eva" ],
-  "signature": "DEA-B-3-1-0017.B.02.0281",
+  "signature": "SLA-UB-B-1-021",
   "title": "Ulrich Becher an Eva Koralnik Rottenberg, 1979",
   "content": [  ],
   "recipient": [ "Eva Koralnik Rottenberg" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284801934",
     "gnd": "https:\/\/d-nb.info\/1284801934"
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 20200,
+  "category": 201021,
   "key": "(DE-101)1284801934",
   "iiif-manifest": ""
 }

@@ -2,8 +2,9 @@
   "category_local_name": "Kleine Manuskripte und Typoskripte",
   "ext": [ "3 Blatt maschinenschriftlich Xerox" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1962" ],
   "note": [
@@ -13,7 +14,7 @@
   "signature": "DEA-B-3-1-0017.A.01.05.0062",
   "title": "Der große Grosz und eine große Zeit",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283965860",
     "gnd": "https:\/\/d-nb.info\/1283965860"

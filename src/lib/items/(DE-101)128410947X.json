@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Werner Düggelin" ],
   "lang": [  ],
   "date": [ "1967" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Werner Düggelin an Ulrich Becher, 1967",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/105893722" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128410947X",
     "gnd": "https:\/\/d-nb.info\/128410947X"

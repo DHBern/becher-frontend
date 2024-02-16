@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1960" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Ulrich Becher an Manfred Schlösser, 1960",
   "content": [  ],
   "recipient": [ "Manfred Schlösser" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284766802",
     "gnd": "https:\/\/d-nb.info\/1284766802"

@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Richard Kleineibst" ],
   "lang": [  ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Richard Kleineibst an Ulrich Becher, Dana Roda Becher, 1945",
   "content": [  ],
   "recipient": [ "Ulrich Becher", "Dana Roda Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116213205" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284168948",
     "gnd": "https:\/\/d-nb.info\/1284168948"

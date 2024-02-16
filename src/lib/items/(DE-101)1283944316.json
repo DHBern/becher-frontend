@@ -2,15 +2,16 @@
   "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "ext": [ "111 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
   "category_global_name": "Romane",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 182,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1900" ],
   "note": [ "Reproduktion von: Fragment" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0043",
   "title": "Murmeljagd, [Roman] – Fix-Laudon! Die Xane … [Incipit]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944316",
     "gnd": "https:\/\/d-nb.info\/1283944316"

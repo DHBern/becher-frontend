@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ernst Rowohlt KG" ],
   "lang": [  ],
   "date": [ "1934" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Ernst Rowohlt KG an Ulrich Becher, 1934",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1042067406" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284531546",
     "gnd": "https:\/\/d-nb.info\/1284531546"

@@ -2,8 +2,9 @@
   "category_local_name": "Notizbücher",
   "ext": [ "1 Schreibblock Spiralheftung (37 Blatt) handschriftlich, auch von Dana Becher" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1966" ],
   "note": [
@@ -13,7 +14,7 @@
   "signature": "DEA-B-3-1-0017.A.01.06.0073",
   "title": "Notizbuch zum Text William's Ex-Casino",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128401150X",
     "gnd": "https:\/\/d-nb.info\/128401150X"

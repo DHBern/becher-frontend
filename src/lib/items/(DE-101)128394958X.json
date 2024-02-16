@@ -2,8 +2,9 @@
   "category_local_name": "Lyrik",
   "ext": [ "23 Blatt insgesamt maschinenschriftlicher Durchschlag und handschriftlich von Dana Becher" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 46,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1943" ],
   "note": [
@@ -13,7 +14,7 @@
   "signature": "DEA-B-3-1-0017.A.01.03.0014",
   "title": "Franz Patenkindt, [Lyrik] - beiliegendes Material",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128394958X",
     "gnd": "https:\/\/d-nb.info\/128394958X"

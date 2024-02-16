@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Migros-Genossenschafts-Bund" ],
   "lang": [  ],
   "date": [ "1984" ],
   "encl": [  ],
@@ -17,7 +17,7 @@
   "title": "Migros-Genossenschafts-Bund an Ulrich Becher, 1984",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2034005-9" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284519279",
     "gnd": "https:\/\/d-nb.info\/1284519279"

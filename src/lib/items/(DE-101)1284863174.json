@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Julius Roda" ],
   "lang": [  ],
   "date": [ "1941" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Julius Roda an Dana Roda Becher, 1941",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/126310912" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284863174",
     "gnd": "https:\/\/d-nb.info\/1284863174"

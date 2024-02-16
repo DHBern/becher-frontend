@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Wolfgang Beck" ],
   "lang": [  ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0003",
   "title": "Wesen und Funktion der Fabel, Handlung und der Charaktere in den Bühnenwerken Ulrich Bechers, Hausarbeit zur Abschlußprüfung [...]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1084346028" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284932281",
     "gnd": "https:\/\/d-nb.info\/1284932281"

@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Verlag Nachtmaschine" ],
   "lang": [  ],
   "date": [ "1980" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Verlag Nachtmaschine an Ulrich Becher, 1980",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1064053122" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284744752",
     "gnd": "https:\/\/d-nb.info\/1284744752"

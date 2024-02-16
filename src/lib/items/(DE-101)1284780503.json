@@ -1,20 +1,20 @@
 {
-  "category_local_name": "Briefe von Ulrich Becher",
+  "category_local_name": "",
   "ext": [ "1 Karte maschinenschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
-  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1950" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Herrn und Frau Dr. R. Becher" ],
-  "signature": "DEA-B-3-1-0017.B.02.0106",
+  "signature": "SLA-UB-B-1-001",
   "title": "Ulrich Becher an Richard Becher, Elise Becher-Ulrich, 1950",
   "content": [  ],
   "recipient": [ "Richard Becher", "Elise Becher-Ulrich" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284780503",
     "gnd": "https:\/\/d-nb.info\/1284780503"
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284780503_00000010.tif\/info.json",
-  "category": 20200,
+  "category": 201001,
   "key": "(DE-101)1284780503",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/981bc659-c14c-40c0-bf3a-852658b69a4f\/"
 }

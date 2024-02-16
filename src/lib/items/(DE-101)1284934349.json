@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Klaus Colberg" ],
   "lang": [  ],
   "date": [ "1954" ],
   "encl": [  ],
@@ -16,7 +16,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0010",
   "title": "... und haben Sie nun ... [Incipit, Rundfunk-Typoskript], Radio Bremen, Österreichischer Rundfunk",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116636513" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284934349",
     "gnd": "https:\/\/d-nb.info\/1284934349"

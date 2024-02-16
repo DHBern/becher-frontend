@@ -5,7 +5,7 @@
   "category_global_name": "Briefe an Ulrich Becher, 1912-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Marianne von Grünigen" ],
   "lang": [  ],
   "date": [ "1980" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Marianne von Grünigen an Ulrich Becher, 1980",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215546041" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284129578",
     "gnd": "https:\/\/d-nb.info\/1284129578"

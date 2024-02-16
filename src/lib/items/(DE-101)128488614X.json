@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Peter Wagner" ],
   "lang": [  ],
   "date": [ "1894" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Peter Wagner an Richard Becher, 1894",
   "content": [  ],
   "recipient": [ "Richard Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219614661" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128488614X",
     "gnd": "https:\/\/d-nb.info\/128488614X"

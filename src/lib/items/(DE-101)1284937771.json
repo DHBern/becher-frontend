@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Gudrun Höger" ],
   "lang": [  ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0018",
   "title": "Darstellung und Kritik der Dramen Ulrich Bechers auf den Bühnen der Deutschen Demokratischen Republik, Diplomarbeit",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/12635202X" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284937771",
     "gnd": "https:\/\/d-nb.info\/1284937771"

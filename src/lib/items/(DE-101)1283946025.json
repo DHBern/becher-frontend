@@ -2,15 +2,16 @@
   "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
   "ext": [ "3 Blatt maschinenschriftlicher Durchschlag, unvollständig" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1900" ],
   "note": [ "Es handelt sich hierbei um das Exposé für eine Schallplatte unter Mitwirkung von Fritz Muliar" ],
   "signature": "DEA-B-3-1-0017.A.01.02.0013",
   "title": "Der Bockerer, [Theaterstück] - beiliegendes Material",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283946025",
     "gnd": "https:\/\/d-nb.info\/1283946025"

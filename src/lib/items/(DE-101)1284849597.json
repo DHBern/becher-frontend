@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Dana Roda Becher" ],
   "lang": [  ],
   "date": [ "1966" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Dana Roda Becher an Franz Stamprech, 1966",
   "content": [  ],
   "recipient": [ "Franz Stamprech" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284849597",
     "gnd": "https:\/\/d-nb.info\/1284849597"

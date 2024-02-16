@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Johannes Hoffmann" ],
   "lang": [  ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Johannes Hoffmann an Elise Becher-Ulrich, 1956",
   "content": [  ],
   "recipient": [ "Elise Becher-Ulrich" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118944959" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284884635",
     "gnd": "https:\/\/d-nb.info\/1284884635"

@@ -2,15 +2,16 @@
   "category_local_name": "Zeichnungen und anderes",
   "ext": [ "8 Blatt = 8 Einheiten, je 20,8 x 29,7 cm bzw. 29,7 x 20,8 cm" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1937" ],
   "note": [ "Titel teilweise fingiert aus Überlieferung" ],
   "signature": "DEA-B-3-1-0017.A.03.0035",
   "title": "Rummelplatz Europa 1937, Der kleine Mann, Der ganz kleine Mann, [Zeichnungen]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284025705",
     "gnd": "https:\/\/d-nb.info\/1284025705"

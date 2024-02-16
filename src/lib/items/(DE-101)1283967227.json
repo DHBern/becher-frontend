@@ -2,15 +2,16 @@
   "category_local_name": "Kleine Manuskripte und Typoskripte",
   "ext": [ "1 Umschlag mit Titelangabe" ],
   "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1900" ],
   "note": [ "Hades-Telefonate geplant für: SIFF bzw. SIFF II" ],
   "signature": "DEA-B-3-1-0017.A.01.05.0068",
   "title": "Hades-Telefonate - beiliegendes Material",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283967227",
     "gnd": "https:\/\/d-nb.info\/1283967227"

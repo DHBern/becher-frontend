@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Klaus Podak" ],
   "lang": [  ],
   "date": [ "1973" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0034",
   "title": "Für Bücherbord und Diskothek, ein literarisch-musikalisches Magazin, Süddeutscher Rundfunk, [Rundfunk-Typoskript]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1160325952" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940926",
     "gnd": "https:\/\/d-nb.info\/1284940926"

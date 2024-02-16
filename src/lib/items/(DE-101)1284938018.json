@@ -4,7 +4,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Nikolai Huebner" ],
   "lang": [  ],
   "date": [ "1971" ],
   "encl": [  ],
@@ -12,7 +12,7 @@
   "signature": "DEA-B-3-1-0017.D.03.0019",
   "title": "\"Männer machen Fehler\" von Ulrich Becher, Norddeutscher Rundfunk, [Rundfunk-Typoskript]",
   "content": [  ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237848520" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284938018",
     "gnd": "https:\/\/d-nb.info\/1284938018"

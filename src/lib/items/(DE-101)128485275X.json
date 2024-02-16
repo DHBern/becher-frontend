@@ -5,7 +5,7 @@
   "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Ulrich Becher" ],
   "lang": [  ],
   "date": [ "1943" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Ulrich Becher an Balder Olden, 1943",
   "content": [  ],
   "recipient": [ "Balder Olden" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128485275X",
     "gnd": "https:\/\/d-nb.info\/128485275X"

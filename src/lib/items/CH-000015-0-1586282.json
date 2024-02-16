@@ -1,8 +1,8 @@
 {
-  "category_local_name": "Briefe von Ulrich Becher",
+  "category_local_name": "Becher, Ulrich an Keckeis, Peter; Korrespondenz, Basel",
   "ext": [ "1 Brief, masch." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/105765023" ],
-  "category_global_name": "Briefe von Ulrich Becher, 1916-1990",
+  "category_global_name": "",
   "place": [ "Basel;\nZürich" ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 20200,
+  "category": 202020,
   "key": "CH-000015-0-1586282",
   "iiif-manifest": ""
 }

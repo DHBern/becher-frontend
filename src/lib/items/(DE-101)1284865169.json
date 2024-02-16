@@ -1,20 +1,20 @@
 {
-  "category_local_name": "Briefe Dritter",
+  "category_local_name": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit Zusatz" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613", "https:\/\/d-nb.info\/gnd\/139244077" ],
-  "category_global_name": "Briefe Dritter, 1930-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Alexander Roda Roda" ],
   "lang": [  ],
   "date": [ "1933" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "DEA-B-3-1-0017.B.04.0045",
+  "signature": "SLA-UB-B-2-058 SLA-UB-B-2-197",
   "title": "Alexander Roda Roda an Elsbeth Roda Roda, Dana Roda Becher, 1933",
   "content": [  ],
   "recipient": [ "Elsbeth Roda Roda", "Dana Roda Becher" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284865169",
     "gnd": "https:\/\/d-nb.info\/1284865169"
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 20300,
+  "category": 201058,
   "key": "(DE-101)1284865169",
   "iiif-manifest": ""
 }

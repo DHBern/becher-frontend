@@ -5,7 +5,7 @@
   "category_global_name": "Briefe Dritter, 1930-1990",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "" ],
+  "creator": [ "Harro von Zeppelin" ],
   "lang": [  ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -14,7 +14,7 @@
   "title": "Harro von Zeppelin an Elsbeth Roda Roda, 1955",
   "content": [  ],
   "recipient": [ "Elsbeth Roda Roda" ],
-  "creator_uri": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139357556" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284876519",
     "gnd": "https:\/\/d-nb.info\/1284876519"
