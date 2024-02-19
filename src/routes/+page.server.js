@@ -21,7 +21,7 @@ const createNode = (category, targetIds) => {
 
 	if (subcats?.length) {
 		children = subcats
-			//.filter((subcat) => targetIds.has(subcat))
+			.filter((subcat) => subcatsSubcats(subcat).some((id) => targetIds.has(id)))
 			.map((id) =>
 				createNode(
 					// @ts-ignore
@@ -39,6 +39,18 @@ const createNode = (category, targetIds) => {
 		children
 	};
 };
+
+const subcatsSubcats = (/** @type {number} */ catId, excludeset = new Set()) => {
+	const returnSet = new Set([catId]);
+	const cat = categories.find((cat) => cat.id === catId);
+	cat?.subcats?.forEach((subcat) => {
+		if (!excludeset.has(subcat)) {
+			const newExcludeset = new Set([...excludeset, ...cat.subcats]);
+			subcatsSubcats(subcat, newExcludeset).forEach((id) => returnSet.add(id));
+		}
+	});
+	return [...returnSet];
+};
 /**
  * @param {number[]} subcats
  * @param {Set<any>} seenIds
@@ -49,7 +61,7 @@ function addSubcatsToSeenIDs(subcats, seenIds) {
 			continue;
 		}
 		seenIds.add(subcat);
-		const category = categories.find((cat) => cat.id === subcat);
+		const category = categories.find((cat) => cat.id === subcat) || { subcats: [] };
 		if (category.subcats) {
 			seenIds = addSubcatsToSeenIDs(category.subcats, seenIds);
 		}
@@ -67,7 +79,7 @@ function getUniqueFields(data) {
 	// Iterate through each item in the data array
 	data.forEach((item) => {
 		// Iterate through each field in the current item
-		item.fields.forEach((field) => {
+		item.fields.forEach((/** @type {{ label: any; key: any; }} */ field) => {
 			// Use label and key as a unique identifier
 			const identifier = `${field.label}-${field.key}`;
 
@@ -97,16 +109,18 @@ export async function load() {
 		return 0;
 	});
 	const filteredItems = items
-		.filter((item) => item.prototype) // Filter out items that don't belong in the prototype
-		.map((item) => {
-			// eslint-disable-next-line no-unused-vars
-			let { entry_type, prototype, iiif, ...rest } = item;
-			iiif = iiif.replaceAll('\\', '');
-			return { ...rest, iiif };
-		});
+		.filter((/** @type {{ prototype: any; }} */ item) => item.prototype) // Filter out items that don't belong in the prototype
+		.map(
+			(/** @type {{ [x: string]: any; entry_type: any; prototype: any; iiif: any; }} */ item) => {
+				// eslint-disable-next-line no-unused-vars
+				let { entry_type, prototype, iiif, ...rest } = item;
+				iiif = iiif.replaceAll('\\', '');
+				return { ...rest, iiif };
+			}
+		);
 
 	// filter the categories to only include those that have items
-	const categoryIds = filteredItems.map((item) => item.category);
+	const categoryIds = filteredItems.map((/** @type {{ category: any; }} */ item) => item.category);
 	const filteredCategoriesIds = new Set(categoryIds);
 
 	for (const category of categories) {
