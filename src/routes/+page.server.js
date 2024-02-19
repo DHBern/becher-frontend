@@ -21,7 +21,7 @@ const createNode = (category, targetIds) => {
 
 	if (subcats?.length) {
 		children = subcats
-			.filter((subcat) => targetIds.has(subcat))
+			//.filter((subcat) => targetIds.has(subcat))
 			.map((id) =>
 				createNode(
 					// @ts-ignore
