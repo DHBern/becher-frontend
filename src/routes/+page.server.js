@@ -28,6 +28,23 @@ const createNode = (category) => {
 			: []
 	};
 };
+/**
+ * @param {number[]} subcats
+ * @param {Set<any>} seenIds
+ */
+function addSubcatsToSeenIDs(subcats, seenIds) {
+	for (const subcat of subcats) {
+		if (seenIds.has(subcat)) {
+			continue;
+		}
+		seenIds.add(subcat);
+		const category = categories.find((cat) => cat.id === subcat);
+		if (category.subcats) {
+			seenIds = addSubcatsToSeenIDs(category.subcats, seenIds);
+		}
+	}
+	return seenIds;
+}
 
 /**
  * @param {any[]} data
@@ -58,7 +75,7 @@ function getUniqueFields(data) {
 export async function load() {
 	/** @type {import('@skeletonlabs/skeleton').TreeViewNode[]} */
 	const filteredCategories = [];
-	const seenIds = new Set();
+	let seenIds = new Set();
 	categories.sort((a, b) => {
 		if (a.subcats && !b.subcats) {
 			return -1; // 'a' comes first
@@ -68,27 +85,6 @@ export async function load() {
 		// If both have 'subcats' or neither have it, keep original order
 		return 0;
 	});
-
-	for (const category of categories) {
-		if (!seenIds.has(category.id)) {
-			if (category.subcats) {
-				category.subcats = [
-					...new Set(category.subcats.filter((subcat) => subcat !== category.id))
-				];
-				if (category.subcats.length === 0) {
-					// @ts-ignore
-					delete category.subcats;
-				} else {
-					category.subcats.forEach((subcat) => {
-						seenIds.add(subcat);
-					});
-				}
-			}
-			filteredCategories.push(createNode(category));
-			seenIds.add(category.id);
-		}
-	}
-
 	const filteredItems = items
 		.filter((item) => item.prototype) // Filter out items that don't belong in the prototype
 		.map((item) => {
@@ -97,6 +93,32 @@ export async function load() {
 			iiif = iiif.replaceAll('\\', '');
 			return { ...rest, iiif };
 		});
+
+	// filter the categories to only include those that have items
+	const categoryIds = filteredItems.map((item) => item.category);
+	const filteredCategoriesIds = new Set(categoryIds);
+
+	for (const category of categories) {
+		// does an intersection exist between the category and the filtered category ids? e.g. does the category have items?
+		const intersection = [...filteredCategoriesIds].some((id) =>
+			new Set([category.id, ...(category?.subcats || [])]).has(id)
+		);
+		if (!seenIds.has(category.id) && intersection) {
+			if (category.subcats) {
+				category.subcats = [
+					...new Set(category.subcats.filter((subcat) => subcat !== category.id))
+				];
+				if (category.subcats.length === 0) {
+					// @ts-ignore
+					delete category.subcats;
+				} else {
+					seenIds = addSubcatsToSeenIDs(category.subcats, seenIds);
+				}
+			}
+			filteredCategories.push(createNode(category));
+			seenIds.add(category.id);
+		}
+	}
 
 	return {
 		categories: filteredCategories,
