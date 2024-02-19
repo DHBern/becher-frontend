@@ -9,23 +9,34 @@ import fullstructure from './structure.json';
 /**
  * creates a node from a category recursively
  * @param {{id: number, title: string, title2: string, subcats?: number[]}} category
+ * @param {Set<Number>} targetIds
  * @returns {import('@skeletonlabs/skeleton').TreeViewNode}
  */
-const createNode = (category) => {
+const createNode = (category, targetIds) => {
 	const subcats = [...new Set(category?.subcats?.filter((subcat) => subcat !== category.id))];
+	/**
+	 * @type {import("@skeletonlabs/skeleton").TreeViewNode[]}
+	 */
+	let children = [];
+
+	if (subcats?.length) {
+		children = subcats
+			.filter((subcat) => targetIds.has(subcat))
+			.map((id) =>
+				createNode(
+					// @ts-ignore
+					categories.find((cat) => cat.id === id),
+					targetIds
+				)
+			);
+	}
+
 	return {
 		content:
 			category?.title ||
 			(category?.title2 ? `no title, title2: ${category.title2}` : `No title2, id: ${category.id}`),
 		id: category.id.toString(),
-		children: subcats?.length
-			? subcats.map((id) =>
-					createNode(
-						// @ts-ignore
-						categories.find((cat) => cat.id === id)
-					)
-				)
-			: []
+		children
 	};
 };
 /**
@@ -115,7 +126,7 @@ export async function load() {
 					seenIds = addSubcatsToSeenIDs(category.subcats, seenIds);
 				}
 			}
-			filteredCategories.push(createNode(category));
+			filteredCategories.push(createNode(category, filteredCategoriesIds));
 			seenIds.add(category.id);
 		}
 	}
