@@ -1,0 +1,31 @@
+export type Item = {
+	date: Array<string>;
+	note: Array<any>;
+	ext_num: number;
+	category_local_name: string;
+	'iiif-manifest': string;
+	signature: string;
+	holding_institution: string;
+	type: string;
+	title: string;
+	iiif: string;
+	content: Array<any>;
+	links: {
+		culturegraph: string;
+		gnd: string;
+	};
+	place: Array<string>;
+	lang: Array<any>;
+	key: string;
+	ext: Array<string>;
+	creator: Array<string>;
+	recipient_uri: Array<string>;
+	'signature-dnb': string;
+	category_global_name: string;
+	prototype: boolean;
+	recipient: Array<string>;
+	category: number;
+	encl: Array<any>;
+	creator_uri: Array<string>;
+	levels: Array<any>;
+};

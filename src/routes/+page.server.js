@@ -73,7 +73,7 @@ function addSubcatsToSeenIDs(subcats, seenIds) {
  * @param {any[]} data
  */
 function getUniqueFields(data) {
-	/** @type {Object} */
+	/** @type {{ [key: string]: { label: string; key: any; } }} */
 	const uniqueFields = {}; // Object to hold unique label-key pairs
 
 	// Iterate through each item in the data array
@@ -108,19 +108,20 @@ export async function load() {
 		// If both have 'subcats' or neither have it, keep original order
 		return 0;
 	});
+	/** @type {Omit<import('$lib/itemtype.ts').Item, 'prototype'>[]} */
 	const filteredItems = items
+		// errormessage is ignored because something about the typesetting of the imported JSON doesn't work
+		// @ts-ignore
 		.filter((/** @type {{ prototype: any; }} */ item) => item.prototype) // Filter out items that don't belong in the prototype
-		.map(
-			(/** @type {{ [x: string]: any; entry_type: any; prototype: any; iiif: any; }} */ item) => {
-				// eslint-disable-next-line no-unused-vars
-				let { entry_type, prototype, iiif, ...rest } = item;
-				iiif = iiif.replaceAll('\\', '');
-				return { ...rest, iiif };
-			}
-		);
+		.map((/** @type {import('$lib/itemtype.ts').Item} */ item) => {
+			// eslint-disable-next-line no-unused-vars
+			let { prototype, iiif, ...rest } = item;
+			iiif = iiif.replaceAll('\\', '');
+			return { ...rest, iiif };
+		});
 
 	// filter the categories to only include those that have items
-	const categoryIds = filteredItems.map((/** @type {{ category: any; }} */ item) => item.category);
+	const categoryIds = filteredItems.map((item) => item.category);
 	const filteredCategoriesIds = new Set(categoryIds);
 
 	for (const category of categories) {

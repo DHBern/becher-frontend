@@ -27,10 +27,11 @@
 	};
 
 	/**
-	 * @type {string|@import('minisearch').Query}
+	 * @type {string|import('minisearch').Query}
 	 */
 	let searchtext = '';
 	let advancedToggle = false;
+	/** @type {{ [key: string]: string }} */
 	let advancedFields = {};
 
 	const asyncSearch = (
@@ -44,9 +45,6 @@
 		});
 	};
 
-	/**
-	 * @type {{date: string, signature: string, key: string, iiif: string, ext: number, holding_institution: string, title: string, category: number}[]} filtereditems
-	 */
 	let filtereditems = data.items;
 	$: {
 		if (checkedNodes && checkedNodes.length > 0) {
@@ -80,15 +78,18 @@
 				searchtext = {
 					combineWith: 'AND',
 					queries: [
-						...Object.keys(advancedFields).reduce((/** @type {Object[]} */ acc, key) => {
-							if (advancedFields[key]) {
-								acc.push({
-									fields: [key],
-									queries: [advancedFields[key]]
-								});
-							}
-							return acc;
-						}, [])
+						...Object.keys(advancedFields).reduce(
+							(/** @type {import('minisearch').Query[]} */ acc, key) => {
+								if (advancedFields[key]) {
+									acc.push({
+										fields: [key],
+										queries: [advancedFields[key]]
+									});
+								}
+								return acc;
+							},
+							[]
+						)
 					]
 				};
 				if (holdingInstitutionToggle) {
@@ -102,7 +103,9 @@
 			}
 		}
 	}
+	/** @type { "DEA"|"SLA"|false }*/
 	let holdingInstitutionToggle = false;
+	$: console.log(advancedFields);
 </script>
 
 <ContentContainer

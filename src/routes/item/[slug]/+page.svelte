@@ -5,12 +5,12 @@
 	import { assets } from '$app/paths';
 
 	/**
-	 * @type {{ Viewer: any; default?: any; addClass?: (element: string | Element, className: string) => void; addEvent?: (element: string | Element, eventName: string, handler: (event: Event) => void, useCapture?: boolean | { capture?: boolean | undefined; passive?: boolean | undefined; once?: boolean | undefined; } | undefined) => void; cancelEvent?: (event?: import("openseadragon").OSDEvent<any> | undefined) => void; capitalizeFirstLetter?: (value: string) => string; createCallback?: (object: object, method: (...args: any[]) => void, ...args: any[]) => (...args: any[]) => void; delegate?: (object: object, method: (...args: any[]) => void) => (object: any, ...args: any[]) => void; eventIsCanceled?: (event: import("openseadragon").OSDEvent<any>) => boolean; extend?: () => any; getCssPropertyWithVendorPrefix?: (property: string) => string; getElement?: (element: string | Element) => Element; getElementOffset?: (element: string | Element) => import("openseadragon").Point; getElementPosition?: (element: string | Element) => import("openseadragon").Point; getElementSize?: (element: string | Element) => import("openseadragon").Point; getElementStyle?: (element: string | Element) => CSSStyleDeclaration; getViewer?: (element: Element) => import("openseadragon").Viewer; getMousePosition?: (event?: import("openseadragon").OSDEvent<any> | undefined) => import("openseadragon").Point; getPageScroll?: () => import("openseadragon").Point; getString?: (property: string) => string; getUrlParameter?: (key: string) => string; getWindowSize?: () => import("openseadragon").Point; imageFormatSupported?: (extension?: string | undefined) => boolean; indexOf?: (array: any[], searchElement: object, fromIndex?: number | undefined) => number; makeAjaxRequest?: (options: { url: string; success: (obj: object) => void; error: (obj: object) => void; headers: object; responseType: string; withCredentials?: boolean | undefined; }) => XMLHttpRequest; makeCenteredNode?: (element: string | Element) => Element; makeNeutralElement?: (tagName: string) => Element; makeTransparentImage?: (src: string) => Element; normalizeEventListenerOptions?: (options: boolean | { capture?: boolean | undefined; passive?: boolean | undefined; once?: boolean | undefined; }) => string; now?: () => number; parseJSON?: (string: string) => object; parseXml?: (string: string) => Document; pointInElement?: (element: string | Element, point: import("openseadragon").Point) => boolean; positiveModulo?: (number: number, modulo: number) => number; removeClass?: (element: string | Element, className: string) => void; removeEvent?: (element: string | Element, eventName: string, handler: import("openseadragon").EventHandler<any>, useCapture?: boolean | { capture?: boolean | undefined; } | undefined) => void; setElementOpacity?: (element: string | Element, opacity: number, usesAlpha?: boolean | undefined) => void; setElementPointerEvents?: (element: string | Element, value: string) => void; setElementPointerEventsNone?: (element: string | Element) => void; setElementTouchActionNone?: (element: string | Element) => void; setImageFormatsSupported?: (formats: { bmp?: boolean | undefined; jpeg?: boolean | undefined; jpg?: boolean | undefined; png?: boolean | undefined; tif?: boolean | undefined; wdp?: boolean | undefined; }) => void; setPageScroll?: (point: import("openseadragon").Point) => void; setString?: (property: string, value: string) => void; stopEvent?: (event?: import("openseadragon").OSDEvent<any> | undefined) => void; Browser?: typeof import("openseadragon").Browser; BROWSERS?: typeof import("openseadragon").BROWSERS; ButtonState?: typeof import("openseadragon").ButtonState; ControlAnchor?: typeof import("openseadragon").ControlAnchor; DEFAULT_SETTINGS?: any; fullScreenApi?: any; OverlayPlacement?: typeof import("openseadragon").OverlayPlacement; OverlayRotationMode?: typeof import("openseadragon").OverlayRotationMode; pixelDensityRatio?: number; Placement?: typeof import("openseadragon").Placement; supportsCanvas?: boolean; version?: { versionStr: string; major: number; minor: number; revision: number; }; Button?: typeof import("openseadragon").Button; ButtonGroup?: typeof import("openseadragon").ButtonGroup; Control?: typeof import("openseadragon").Control; ControlDock?: typeof import("openseadragon").ControlDock; DisplayRect?: typeof import("openseadragon").DisplayRect; Drawer?: typeof import("openseadragon").Drawer; DziTileSource?: typeof import("openseadragon").DziTileSource; IIIFTileSource?: typeof import("openseadragon").IIIFTileSource; ImageLoader?: typeof import("openseadragon").ImageLoader; ImageTileSource?: typeof import("openseadragon").ImageTileSource; LegacyTileSource?: typeof import("openseadragon").LegacyTileSource; MouseTracker?: typeof import("openseadragon").MouseTracker; GesturePointList?: typeof import("openseadragon").GesturePointList; Navigator?: typeof import("openseadragon").Navigator; OsmTileSource?: typeof import("openseadragon").OsmTileSource; Overlay?: typeof import("openseadragon").Overlay; Point?: typeof import("openseadragon").Point; Rect?: typeof import("openseadragon").Rect; ReferenceStrip?: typeof import("openseadragon").ReferenceStrip; Spring?: typeof import("openseadragon").Spring; Tile?: typeof import("openseadragon").Tile; TileCache?: typeof import("openseadragon").TileCache; TiledImage?: typeof import("openseadragon").TiledImage; TileSource?: typeof import("openseadragon").TileSource; TmsTileSource?: typeof import("openseadragon").TmsTileSource; Viewport?: typeof import("openseadragon").Viewport; World?: typeof import("openseadragon").World; ZoomifyTileSource?: typeof import("openseadragon").ZoomifyTileSource; }}
+	 * @type {import('openseadragon') | undefined}
 	 */
 	let OpenSeadragon;
 
 	/**
-	 * @type {{ destroy: () => void; }}
+	 * @type {import('openseadragon').Viewer}
 	 */
 	let viewer;
 
@@ -55,6 +55,24 @@
 					GROUP: 'zoomout_grouphover.svg',
 					HOVER: 'zoomout_hover.svg',
 					DOWN: 'zoomout_pressed.svg'
+				},
+				rotateleft: {
+					REST: 'rotateleft_rest.svg',
+					GROUP: 'rotateleft_grouphover.svg',
+					HOVER: 'rotateleft_hover.svg',
+					DOWN: 'rotateleft_pressed.svg'
+				},
+				rotateright: {
+					REST: 'rotateright_rest.svg',
+					GROUP: 'rotateright_grouphover.svg',
+					HOVER: 'rotateright_hover.svg',
+					DOWN: 'rotateright_pressed.svg'
+				},
+				flip: {
+					REST: 'flip_rest.svg',
+					GROUP: 'flip_grouphover.svg',
+					HOVER: 'flip_hover.svg',
+					DOWN: 'flip_pressed.svg'
 				}
 			},
 			sequenceMode: true
@@ -65,7 +83,7 @@
 	export let data;
 
 	$: {
-		if (data.metadata['iiif-manifest'] && viewer) {
+		if (viewer && data.metadata['iiif-manifest']) {
 			fetch(data.metadata['iiif-manifest'])
 				.then((res) => res.json())
 				.then((json) => {

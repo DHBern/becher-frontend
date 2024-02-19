@@ -1,9 +1,7 @@
 <script>
 	import { base } from '$app/paths';
 
-	/**
-	 * @type {{date: string, signature: string, key: string, iiif: string, ext: number, holding_institution: string, title: string, category: number}[]}
-	 */
+	/** @type {Omit<import('$lib/itemtype.ts').Item, 'prototype'>[]} */
 	export let items = [];
 
 	let className = '';

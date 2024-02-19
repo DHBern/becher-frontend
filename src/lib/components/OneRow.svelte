@@ -2,7 +2,7 @@
 	import { base } from '$app/paths';
 
 	/**
-	 * @type {{date: string, signature: string, key: string, iiif: string, ext: number, holding_institution: string, title: string, category: number}[]}
+	 * @type {import('$lib/itemtype.ts').Item[]}
 	 */
 	export let items = [];
 
