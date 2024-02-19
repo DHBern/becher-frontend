@@ -1,6 +1,6 @@
-import categories from './becher_categories_json.json';
-import items from './becher_full_json.json';
-import fullstructure from './structure.json';
+import categories from '$lib/becher_categories_json.json';
+import items from '$lib/becher_full_json.json';
+import fullstructure from '$lib/structure.json';
 
 /**
  * @typedef {Object.<import('@skeletonlabs/skeleton').TreeViewNode, {id: number}>} TreeNodeInteger

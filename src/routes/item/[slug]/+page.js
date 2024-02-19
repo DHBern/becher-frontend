@@ -1,5 +1,5 @@
-import itemData from '../../becher_full_json.json';
-import structure from '../../structure.json';
+import itemData from '$lib/becher_full_json.json';
+import structure from '$lib/structure.json';
 
 /** @type {import('./$types').PageLoad} */
 export async function load({ params }) {
