@@ -1,8 +1,8 @@
 {
-  "category_local_name": "Briefe Dritter",
+  "category_local_name": "Roda Roda, Alexander und Elsbeth an Becher, Richard und Elise; Korrespondenz, Bad Gastein;\nGraz;\nZürich;\nTarifville",
   "ext": [ "2 Blatt handschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
-  "category_global_name": "Briefe Dritter, 1930-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Alexander Roda Roda" ],
@@ -10,7 +10,7 @@
   "date": [ "1933" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "DEA-B-3-1-0017.B.04.0043",
+  "signature": "SLA-UB-B-3-454",
   "title": "Alexander Roda Roda an Elsbeth Roda Roda, 1933",
   "content": [  ],
   "recipient": [ "Elsbeth Roda Roda" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 20300,
+  "category": 203454,
   "key": "(DE-101)1284864073",
   "iiif-manifest": ""
 }

@@ -1,8 +1,8 @@
 {
-  "category_local_name": "Briefe Dritter",
+  "category_local_name": "Becher, Richard an Ärzteverband Zürich; Korrespondenz, Rio de Janeiro",
   "ext": [ "2 Blatt maschinenschriftlich und handschriftlich mit Unterschrift (Initial)" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
-  "category_global_name": "Briefe Dritter, 1930-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Dana Roda Becher" ],
@@ -10,7 +10,7 @@
   "date": [ "1941" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "DEA-B-3-1-0017.B.04.0011",
+  "signature": "SLA-UB-B-3-270 SLA-UB-B-3-279 SLA-UB-B-3-BECHD-290 SLA-UB-B-3-295 SLA-UB-B-3-BECHM-_RODA",
   "title": "Dana Roda Becher an Alexander Roda Roda, Elsbeth Roda Roda, 1941",
   "content": [  ],
   "recipient": [ "Alexander Roda Roda", "Elsbeth Roda Roda" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 20300,
+  "category": 203270,
   "key": "(DE-101)1284855953",
   "iiif-manifest": ""
 }

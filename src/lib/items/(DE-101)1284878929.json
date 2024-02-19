@@ -1,8 +1,8 @@
 {
-  "category_local_name": "Briefe Dritter",
+  "category_local_name": "Becher, Richard an Ärzteverband Zürich; Korrespondenz, Rio de Janeiro",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086", "https:\/\/d-nb.info\/gnd\/1215307357" ],
-  "category_global_name": "Briefe Dritter, 1930-1990",
+  "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Rolf Becher" ],
@@ -10,7 +10,7 @@
   "date": [ "1900" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "DEA-B-3-1-0017.B.04.0080",
+  "signature": "SLA-UB-B-3-270 SLA-UB-B-3-298 SLA-UB-B-3-BECHR-299",
   "title": "Rolf Becher an Elise Becher-Ulrich, Richard Becher, 1900",
   "content": [  ],
   "recipient": [ "Elise Becher-Ulrich", "Richard Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 20300,
+  "category": 203270,
   "key": "(DE-101)1284878929",
   "iiif-manifest": ""
 }
