@@ -1,120 +1,5 @@
 [
   {
-    "title2": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-    "id": 10200,
-    "title": "Romane"
-  },
-  {
-    "title2": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
-    "id": 10400,
-    "title": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)"
-  },
-  { "title2":"Lyrik", "id":10300, "title":"Lyrik" },
-  { "title2":"Sammelwerke", "id":1099094, "title":"Sammelwerke" },
-  {
-    "title2": "Kleine Manuskripte und Typoskripte",
-    "id": 1099095,
-    "title": "Kleine Manuskripte und Typoskripte"
-  },
-  { "title2":"Notizbücher", "id":10700, "title":"Notizbücher" },
-  {
-    "title2": "Selbstständige Belegexemplare",
-    "id": 0,
-    "title": "Selbstständige Belegexemplare"
-  },
-  {
-    "title2": "Unselbstständige Belegexemplare",
-    "id": 0,
-    "title": "Unselbstständige Belegexemplare"
-  },
-  { "title2":"Zeichnungen und anderes", "id":10800, "title":"Zeichnungen und anderes" },
-  {
-    "title2": "Briefe an Ulrich Becher ",
-    "id": 20100,
-    "title": "Briefe an Ulrich Becher, 1912-1990"
-  },
-  {
-    "title2": "Briefe von Ulrich Becher",
-    "id": 20200,
-    "title": "Briefe von Ulrich Becher, 1916-1990"
-  },
-  { "title2":"Briefe Dritter", "id":20300, "title":"Briefe Dritter, 1930-1990" },
-  {
-    "title2": "Lebensdokumente aus der Zeit vor seinem Exil ",
-    "id": 0,
-    "title": "Lebensdokumente aus der Zeit vor seinem Exil "
-  },
-  {
-    "title2": "Lebensdokumente aus der Zeit seines Exils",
-    "id": 0,
-    "title": "Lebensdokumente aus der Zeit seines Exils"
-  },
-  {
-    "title2": "Sachakte zu Bemühungen um seine Einreise in die USA (Wechsel aus Exil-Land Brasilien)",
-    "id": 0,
-    "title": "Sachakte zu Bemühungen um seine Einreise in die USA (Wechsel aus Exil-Land Brasilien)"
-  },
-  {
-    "title2": "Lebensdokumente aus der Zeit nach seinem Exil",
-    "id": 0,
-    "title": "Lebensdokumente aus der Zeit nach seinem Exil"
-  },
-  {
-    "title2": "Fotografien, die Ulrich Becher alleine zeigen",
-    "id": 0,
-    "title": "Fotografien, die Ulrich Becher alleine zeigen"
-  },
-  {
-    "title2": "Fotografien, die Ulrich Becher zusammen mit Anderen zeigen",
-    "id": 0,
-    "title": "Fotografien, die Ulrich Becher zusammen mit Anderen zeigen"
-  },
-  {
-    "title2": "Fotografien, die das Umfeld von Ulrich Becher zeigen",
-    "id": 0,
-    "title": "Fotografien, die das Umfeld von Ulrich Becher zeigen"
-  },
-  {
-    "title2": "Sammlung mit Bezug zu Richard Becher und zu Elise Becher-Ulrich",
-    "id": 0,
-    "title": "Sammlung mit Bezug zu Richard Becher und zu Elise Becher-Ulrich"
-  },
-  {
-    "title2": "Sammlung mit Bezug zu Alexander Roda Roda",
-    "id": 0,
-    "title": "Sammlung mit Bezug zu Alexander Roda Roda"
-  },
-  {
-    "title2": "Sammlung mit Bezug zu Martin Roda Becher",
-    "id": 303,
-    "title": "Sammlung mit Bezug zu Martin Roda Becher"
-  },
-  {
-    "title2": "Sammlung mit Bezug zu George Grosz",
-    "id": 0,
-    "title": "Sammlung mit Bezug zu George Grosz"
-  },
-  {
-    "title2": "Programme und Szenenfotografien seiner Theaterstücke",
-    "id": 0,
-    "title": "Programme und Szenenfotografien seiner Theaterstücke"
-  },
-  {
-    "title2": "Manuskripte und Typoskripte Anderer",
-    "id": 40500,
-    "title": "Manuskripte und Typoskripte Anderer"
-  },
-  {
-    "title2": "Beiträge über Ulrich Becher in Zeitschriften, Zeitungen etc.",
-    "id": 40200,
-    "title": "Beiträge über Ulrich Becher in Zeitschriften, Zeitungen etc."
-  },
-  {
-    "title2": "Arbeitsbibliothek, Arbeitsmaterialien",
-    "id": 40400,
-    "title": "Autorenbibliothek, 1930-1990"
-  },
-  {
     "title2": "Werke",
     "subcats": [ 10100, 10200, 10300, 10400, 10500, 10600, 10700, 10800 ],
     "id": 10000,
@@ -5086,7 +4971,7 @@
     "title2": "Briefkonvolute",
     "subcats": [ 204560, 0, 204562, 204563, 204564, 0, 0 ],
     "id": 20400,
-    "title": "B-4 Briefkonvolute, 1930-1990"
+    "title": "Briefkonvolute, 1930-1990"
   },
   {
     "title2": "Badezimmer- und Küchenpost von Ulrich an Dana Becher",
