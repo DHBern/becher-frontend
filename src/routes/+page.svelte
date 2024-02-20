@@ -40,7 +40,7 @@
 	) => {
 		return new Promise((resolve) => {
 			const searchresults = miniSearch.search(query, config);
-			console.log(searchresults);
+			console.log('searchresults', searchresults);
 			resolve(searchresults);
 		});
 	};
@@ -105,7 +105,6 @@
 	}
 	/** @type { "DEA"|"SLA"|false }*/
 	let holdingInstitutionToggle = false;
-	$: console.log(advancedFields);
 </script>
 
 <ContentContainer
