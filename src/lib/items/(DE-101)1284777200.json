@@ -14,7 +14,7 @@
     "Vorliegende Namensform Verfasser: Mandali",
     "Vorliegende Namensform Adressat: Dana Becher, Pittsford Inn, Pittsford, Vermont"
   ],
-  "signature": "SLA-UB-B-1-001 SLA-UB-B-1-002 SLA-UB-B-2-212 SLA-UB-B-4-560 SLA-UB-B-4-563",
+  "signature": "SLA-UB-B-1-002 SLA-UB-B-2-212 SLA-UB-B-4-560 SLA-UB-B-4-563",
   "title": "Ulrich Becher an Dana Roda Becher, 1946",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
@@ -26,7 +26,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284777200_00000010.tif\/info.json",
-  "category": 201001,
+  "category": 201002,
   "key": "(DE-101)1284777200",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/7fd71f61-5304-41d7-bc71-8e5bb3fb8351\/"
 }

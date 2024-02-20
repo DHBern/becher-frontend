@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Neumann, Robert an Becher, Dana; Korrespondenz, Kent;\nLocarno-Monti",
+  "category_local_name": "",
   "ext": [ "1 Karte maschinenschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
@@ -10,7 +10,7 @@
   "date": [ "1963" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "SLA-UB-B-3-431 SLA-UB-B-3-NEUM-432",
+  "signature": "SLA-UB-B-3-432",
   "title": "Robert Neumann an Dana Roda Becher, 1963",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 203431,
+  "category": 203432,
   "key": "(DE-101)1284233677",
   "iiif-manifest": ""
 }

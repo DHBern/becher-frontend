@@ -10,7 +10,7 @@
   "date": [ "1940" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Madame Dana Becher-Roda Roda" ],
-  "signature": "SLA-UB-B-1-001 SLA-UB-B-2-197 SLA-UB-B-3-454 SLA-UB-B-3-RODA-455 SLA-UB-B-3-RODA-456",
+  "signature": "SLA-UB-B-3-456",
   "title": "Elsbeth Roda Roda an Dana Roda Becher, 1940",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284285499_00000010.tif\/info.json",
-  "category": 201001,
+  "category": 203456,
   "key": "(DE-101)1284285499",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/19f5338c-7e43-47e2-b9e7-9236de58303d\/"
 }

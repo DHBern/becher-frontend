@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
+  "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt handschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -10,7 +10,7 @@
   "date": [ "1934" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "SLA-UB-B-2-058 SLA-UB-B-2-059 SLA-UB-B-2-197",
+  "signature": "SLA-UB-B-2-059 SLA-UB-B-2-197",
   "title": "Alexander Roda Roda an Dana Roda Becher, Ulrich Becher, 1934",
   "content": [  ],
   "recipient": [ "Dana Roda Becher", "Ulrich Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128426257X_00000010.tif\/info.json",
-  "category": 201058,
+  "category": 201059,
   "key": "(DE-101)128426257X",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/8aef0c8f-4165-49a0-898e-95674291dd0b\/"
 }

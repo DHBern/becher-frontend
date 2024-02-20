@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
+  "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -10,7 +10,7 @@
   "date": [ "1984" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "SLA-UB-B-2-058 SLA-UB-B-2-061",
+  "signature": "SLA-UB-B-2-061",
   "title": "Rolf Becher an Ulrich Becher, 1984",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284076881_00000010.tif\/info.json",
-  "category": 201058,
+  "category": 201061,
   "key": "(DE-101)1284076881",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3d4921cd-59e5-4741-ac95-390b0b44d438\/"
 }

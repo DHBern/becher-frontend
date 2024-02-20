@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Metsch, Gerhard an Becher, Ulrich; Korrespondenz, Auressio",
+  "category_local_name": "Metz, Reinhold an Becher, Ulrich; Korrespondenz, Karlsruhe",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Verso: 1 Aquarellzeichnung" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -10,7 +10,7 @@
   "date": [ "1972" ],
   "encl": [  ],
   "note": [  ],
-  "signature": "SLA-UB-B-2-167 SLA-UB-B-2-168",
+  "signature": "SLA-UB-B-2-168",
   "title": "Reinhold Metz an Ulrich Becher, 1972",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 201167,
+  "category": 201168,
   "key": "(DE-101)1284228258",
   "iiif-manifest": ""
 }

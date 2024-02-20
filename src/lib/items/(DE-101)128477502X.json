@@ -10,7 +10,7 @@
   "date": [ "1933" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Dana Roda Roda" ],
-  "signature": "SLA-UB-B-1-001 SLA-UB-B-1-002 SLA-UB-B-2-212 SLA-UB-B-4-560 SLA-UB-B-4-563",
+  "signature": "SLA-UB-B-1-002 SLA-UB-B-2-212 SLA-UB-B-4-560 SLA-UB-B-4-563",
   "title": "Ulrich Becher an Dana Roda Becher, 1933",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 201001,
+  "category": 201002,
   "key": "(DE-101)128477502X",
   "iiif-manifest": ""
 }

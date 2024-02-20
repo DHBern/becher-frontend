@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Schmalhausen, Lotte an Becher, Ulrich und Dana; Korrespondenz, Berlin",
+  "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Lotte" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -13,7 +13,7 @@
     "gestempelter Briefkopf: Bierring, Meister des Schanks, Berlin-Friedenau",
     "Vorliegende Namensform Verfasser: Otz"
   ],
-  "signature": "SLA-UB-B-2-206 SLA-UB-B-2-207",
+  "signature": "SLA-UB-B-2-207",
   "title": "Otto Schmalhausen an Ulrich Becher, 1954",
   "content": [  ],
   "recipient": [ "Ulrich Becher" ],
@@ -25,7 +25,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 201206,
+  "category": 201207,
   "key": "(DE-101)1284287459",
   "iiif-manifest": ""
 }

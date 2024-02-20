@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
+  "category_local_name": "Roda Roda, Alexander an Becher, Ulrich und Dana; Korrespondenz, Graz; Wien",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
@@ -10,7 +10,7 @@
   "date": [ "1937" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Frau Dana Becher" ],
-  "signature": "SLA-UB-B-2-058 SLA-UB-B-2-197 SLA-UB-B-3-454 SLA-UB-B-3-RODA-455 SLA-UB-B-3-RODA-456",
+  "signature": "SLA-UB-B-2-197 SLA-UB-B-3-456",
   "title": "Alexander Roda Roda an Dana Roda Becher, 1937",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128428543X_00000010.tif\/info.json",
-  "category": 201058,
+  "category": 201197,
   "key": "(DE-101)128428543X",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1db49756-ff65-47d5-89ad-44ee26e191e9\/"
 }

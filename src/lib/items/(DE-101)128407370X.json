@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Becher, Richard an Ärzteverband Zürich; Korrespondenz, Rio de Janeiro",
+  "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
   "category_global_name": "",
@@ -10,7 +10,7 @@
   "date": [ "1958" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Martin Becher" ],
-  "signature": "SLA-UB-B-3-270 SLA-UB-B-3-BECH-272",
+  "signature": "SLA-UB-B-3-272",
   "title": "Elise Becher-Ulrich an Martin Roda Becher, 1958",
   "content": [  ],
   "recipient": [ "Martin Roda Becher" ],
@@ -22,7 +22,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128407370X_00000010.tif\/info.json",
-  "category": 203270,
+  "category": 203272,
   "key": "(DE-101)128407370X",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d81875a2-58db-45ea-9edb-c74385c74ae8\/"
 }

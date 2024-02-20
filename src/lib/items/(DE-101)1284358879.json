@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Jacobi, Erwin R. an Becher, Dana; Korrespondenz, Zürich;\nFlorenz",
+  "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
@@ -13,7 +13,7 @@
     "Vorliegende Namensform Verfasser: Erwin",
     "Vorliegende Namensform Adressat: Dana Becher"
   ],
-  "signature": "SLA-UB-B-3-360 SLA-UB-B-3-JAC-361",
+  "signature": "SLA-UB-B-3-361",
   "title": "Erwin Reuben Jacobi an Dana Roda Becher, 1956",
   "content": [  ],
   "recipient": [ "Dana Roda Becher" ],
@@ -25,7 +25,7 @@
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",
-  "category": 203360,
+  "category": 203361,
   "key": "(DE-101)1284358879",
   "iiif-manifest": ""
 }
