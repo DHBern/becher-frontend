@@ -114,8 +114,8 @@
 	<div class="z-10 col-span-full md:col-span-1 row-start-1">
 		<h1 class="h1 my-16">Ulrich Becher Digital</h1>
 		<p class="p lg:text-xl">
-			digitale Sammlung zum Werk Ulrich Bechers im Schweizerischen Literaturarchiv und im Deutschen
-			Exilarchiv, Frankfurt
+			Virtuell zusammengeführte Teilnachlässe des Deutschen Exilarchivs 1933-1945 und des
+			Schweizerischen Literaturarchivs
 		</p>
 	</div>
 	<div class="col-start-2 row-span-2 row-start-1">
@@ -127,7 +127,7 @@
 	</div>
 </ContentContainer>
 <ContentContainer dark>
-	<h2 class="h2 mb-4">Virtueller Katalog</h2>
+	<h2 class="h2 mb-4">Virtuelles Bestand</h2>
 
 	<div class="flex flex-col md:flex-row justify-between">
 		<RecursiveTreeView
@@ -199,7 +199,7 @@
 			{/if}
 
 			<p class="mt-5">
-				es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
+				Es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
 					(i) => i.holding_institution === 'SLA'
 				).length} aus dem <span class="bg-primary-500 text-on-primary-token px-1">SLA</span>, {filtereditems.filter(
 					(i) => i.holding_institution === 'DEA'
