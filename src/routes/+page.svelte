@@ -127,7 +127,7 @@
 	</div>
 </ContentContainer>
 <ContentContainer dark>
-	<h2 class="h2 mb-4">Virtuelles Bestand</h2>
+	<h2 class="h2 mb-4">Virtueller Bestand</h2>
 
 	<div class="flex flex-col md:flex-row justify-between">
 		<RecursiveTreeView
