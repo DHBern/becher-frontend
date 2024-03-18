@@ -94,9 +94,6 @@
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<AppBar padding="px-4" slotDefault="h-full" background="bg-surface-100-900-token">
-			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase py-4">Logo</strong>
-			</svelte:fragment>
 			<nav class="flex-none items-center h-full hidden md:flex">
 				{#each pages as page}
 					<a
