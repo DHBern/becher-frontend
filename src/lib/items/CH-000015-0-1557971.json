@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Erzählungen",
+  "category_local_name": "",
   "ext": [ "Manuskript, 24 Blatt (S. 1-11, 22-24, 26-32, 37, 49-50), paginiert, unvollständig Handschrift Dana und Ulrich" ],
-  "category_global_name": "Erzählungen",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 24,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "1970 bis 1990" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557971" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-g-1-5_01.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1557971",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/466d869f-30d1-4506-b512-fc101d61226d\/"
 }

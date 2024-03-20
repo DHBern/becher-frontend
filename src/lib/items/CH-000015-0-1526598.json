@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "1 Heft, grau, handschriftlich, circa 90 Seiten" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30120,
   "key": "CH-000015-0-1526598",
   "iiif-manifest": ""
 }

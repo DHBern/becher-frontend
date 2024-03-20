@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Koebner, Inéz an Becher, Ulrich; Korrespondenz, Baden-Baden",
+  "category_local_name": "",
   "ext": [ "1 Briefkarte, maschinenschriftlich, mit handschriftlicher Ergänzung" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201140,
+  "category": 202140,
   "key": "CH-000015-0-1640801",
   "iiif-manifest": ""
 }

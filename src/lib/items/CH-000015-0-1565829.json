@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Fotografien",
+  "category_local_name": "",
   "ext": [ "21 Fotografien, s\/w, div. Formate, 21 Blatt" ],
   "category_global_name": "",
   "place": [ "Basel" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099094,
+  "category": 30400,
   "key": "CH-000015-0-1565829",
   "iiif-manifest": ""
 }

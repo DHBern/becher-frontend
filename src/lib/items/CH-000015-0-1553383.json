@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "3 Artikel, 5 Blatt, davon 1 Fotokopie, 1 Original, aufgeklebt, 1 negative Kopie (weiss auf schwarz)" ],
   "category_global_name": "",
   "place": [ "Paris" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30320,
   "key": "CH-000015-0-1553383",
   "iiif-manifest": ""
 }

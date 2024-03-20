@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
+  "category_local_name": "",
   "ext": [ "Typoskript, 5 Blatt, handschriftliche Korrekturen" ],
-  "category_global_name": "Romane",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 7,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "1956" ],
@@ -15,8 +15,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558003" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-b-2-4_01.jpg\/info.json",
   "category": 10200,
   "key": "CH-000015-0-1558003",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d2e52d9a-0134-4337-82bd-13c520c4b47d\/"
 }

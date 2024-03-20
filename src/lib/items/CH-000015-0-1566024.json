@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Erzählungen",
+  "category_local_name": "",
   "ext": [ "1 schwarze Mappe mit handschriftlicher Beschriftung" ],
-  "category_global_name": "Erzählungen",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [  ],
   "lang": [  ],
   "date": [ "1945" ],
@@ -15,8 +15,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566024" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-c-6-5_01.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1566024",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/91c3e937-bdbc-4f6d-a786-db204d0a0f8c\/"
 }

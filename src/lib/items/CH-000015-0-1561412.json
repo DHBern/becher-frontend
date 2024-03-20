@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Quartheft, blau, handschriftlich mit Steno beschriftet, 31 Seiten; darin 5 Blätter, 3 Bogen, 2 Zeitungsartikel, lose eingelegt, ca. 5 eingeklebte Seiten; 1 Mitteilung, maschinenschriftlich, 3 Seiten, davon 1 Seite im Quartheft blau eingeklebt; Notizen, handschriftlich, 3 Blatt" ],
   "category_global_name": "",
   "place": [ "Basel" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30520,
   "key": "CH-000015-0-1561412",
   "iiif-manifest": ""
 }

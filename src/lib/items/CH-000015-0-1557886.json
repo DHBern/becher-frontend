@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Erzählungen",
+  "category_local_name": "",
   "ext": [ "Manuskript, 1 Blatt + Typoskript, 2 Blatt mit handschriftlichen Ergänzungen paginiert S. 55, unvollständig" ],
-  "category_global_name": "Erzählungen",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 4,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "" ],
@@ -15,8 +15,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557886" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-47-1_01.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1557886",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/bfafab0d-07f7-4e80-91c2-67c2a784af07\/"
 }

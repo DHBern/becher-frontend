@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Langen-Müller Verlag; Korrespondenz, Basel",
+  "category_local_name": "",
   "ext": [ "1 Brief, masch. Dg." ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Basel;\nMünchen" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "1971" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586302" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202024,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-LANG-1_01.jpg\/info.json",
+  "category": 201024,
   "key": "CH-000015-0-1586302",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c783ceec-a4fb-409d-923b-863a4abc0152\/"
 }

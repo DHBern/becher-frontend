@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Fotografien",
+  "category_local_name": "",
   "ext": [ "1 Album, schwarz mit Kordel, gebunden, 50 Seiten; darin 43 Fotografien, geklebt, s\/w, div. Formate, 2 Einladungskarten, 1 Programmheft, 1 Fotografie, s\/w, lose eingelegt" ],
   "category_global_name": "",
   "place": [ "Brasilien" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099094,
+  "category": 30400,
   "key": "CH-000015-0-1565733",
   "iiif-manifest": ""
 }

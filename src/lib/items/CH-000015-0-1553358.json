@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz",
+  "category_local_name": "",
   "ext": [ "1 Brief, masch." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086", "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "",
   "place": [ "Paris" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "14. November 1936" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553358" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202001,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-163_01.jpg\/info.json",
+  "category": 201001,
   "key": "CH-000015-0-1553358",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/9d5ccd87-f0e8-44ad-b38e-7c72871e574a\/"
 }

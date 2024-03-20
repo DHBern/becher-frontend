@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Fotografien",
+  "category_local_name": "",
   "ext": [ "1 Fotografie, s\/w, 15.3 x 12.4, 1 Blatt" ],
   "category_global_name": "",
   "place": [ "Hamburg" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099094,
+  "category": 30400,
   "key": "CH-000015-0-1565825",
   "iiif-manifest": ""
 }

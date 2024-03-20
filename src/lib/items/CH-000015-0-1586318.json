@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Heinemann, (Herr); Korrespondenz, Berlin",
+  "category_local_name": "",
   "ext": [ "1 Brief, hs." ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Villars-sur-Ollon" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "26. Juni 1936" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586318" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202017,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-MAE-1_01.jpg\/info.json",
+  "category": 201027,
   "key": "CH-000015-0-1586318",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/73f4c921-1007-4ea6-93cf-7bd634c3c2b4\/"
 }

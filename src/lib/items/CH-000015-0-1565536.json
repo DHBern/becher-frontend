@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich, 1 Seite; 1 Beleg, maschinenschriftlich, 1 Seite" ],
   "category_global_name": "",
   "place": [ "Basel;\nBerlin;\nWien" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30540,
   "key": "CH-000015-0-1565536",
   "iiif-manifest": ""
 }

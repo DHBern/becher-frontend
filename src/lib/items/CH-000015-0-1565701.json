@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "Manuskripte, handschriftlich, 1 Bogen; 1 Couvert, handschriftlich beschriftet" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30520,
   "key": "CH-000015-0-1565701",
   "iiif-manifest": ""
 }

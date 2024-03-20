@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz",
+  "category_local_name": "",
   "ext": [ "1 Karte, masch." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Salzburg;\nAdelboden" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "8. Juni 1964" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1585479" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202001,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECHD-13_01.jpg\/info.json",
+  "category": 201001,
   "key": "CH-000015-0-1585479",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e7fe3992-15d2-4a35-93e4-501dcd6f1005\/"
 }

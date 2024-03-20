@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Marti, Walter an Becher, Ulrich; Korrespondenz, Zürich",
+  "category_local_name": "",
   "ext": [ "1 Brief, handschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/118731262" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201160,
+  "category": 202160,
   "key": "CH-000015-0-1642074",
   "iiif-manifest": ""
 }

@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
+  "category_local_name": "",
   "ext": [ "1 Brief, handschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BECH-13_01.tif\/info.json",
-  "category": 201058,
+  "category": 202058,
   "key": "CH-000015-0-1587950",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/4135f940-9ce6-4bd8-a4a7-26e93652c9fd\/"
 }

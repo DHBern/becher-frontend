@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Fotografien",
+  "category_local_name": "",
   "ext": [ "9 Fotografien, s\/w und farbig, div. Formate, 9 Blatt" ],
   "category_global_name": "",
   "place": [  ],
@@ -21,7 +21,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099094,
+  "category": 30400,
   "key": "CH-000015-0-1566028",
   "iiif-manifest": ""
 }

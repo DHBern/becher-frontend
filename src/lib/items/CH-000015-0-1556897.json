@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Zeugnis, 12 Seiten; 1 Notiz, stenographiert, 1 Seite" ],
   "category_global_name": "",
   "place": [ "Ingenbohl" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30510,
   "key": "CH-000015-0-1556897",
   "iiif-manifest": ""
 }

@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Erzählungen",
+  "category_local_name": "",
   "ext": [ "Typoskript, 1 Blatt, unvollständig" ],
-  "category_global_name": "Erzählungen",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "" ],
@@ -15,8 +15,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557923" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-62-1_01.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1557923",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/adf0c926-2fe9-4498-8a5b-40429cd0d0ee\/"
 }

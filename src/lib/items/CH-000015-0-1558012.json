@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
+  "category_local_name": "",
   "ext": [ "Manuskript, 9 Blatt recto\/verso, Handschrift Ulrich Becher" ],
-  "category_global_name": "Romane",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 25,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "1945 bis 1969" ],
@@ -15,8 +15,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558012" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-c-1-2-10_01.jpg\/info.json",
   "category": 10200,
   "key": "CH-000015-0-1558012",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e9cb3fdd-3c57-4fd7-8c68-707edbebf7f6\/"
 }

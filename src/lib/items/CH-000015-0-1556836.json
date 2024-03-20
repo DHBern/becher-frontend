@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Berufliche Dokumente",
+  "category_local_name": "",
   "ext": [ "1 Typoskript, maschinenschriftlich mit handschriftlichen Korrekturen, 4 Seiten" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099092,
+  "category": 30230,
   "key": "CH-000015-0-1556836",
   "iiif-manifest": ""
 }

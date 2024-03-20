@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Heft, ca. 100 Seiten; 1 Manuskript, handschriftlich, kopiert, 1 Blatt" ],
   "category_global_name": "",
   "place": [ "Graz, Genf" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30540,
   "key": "CH-000015-0-1564686",
   "iiif-manifest": ""
 }

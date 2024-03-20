@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Lyrik",
+  "category_local_name": "",
   "ext": [ "Typoskript, 38 Blatt, vollständig, handschriftliche Korrekturen, teilweise handschriftlich paginiert" ],
   "category_global_name": "",
   "place": [  ],
@@ -18,7 +18,7 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558267" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-2-1_01.jpg\/info.json",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-2-1_17.jpg\/info.json",
   "category": 10300,
   "key": "CH-000015-0-1558267",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/260b9cf8-7f48-450d-8b58-8a8541ab2ffa\/"

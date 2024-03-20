@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Fotografien",
+  "category_local_name": "",
   "ext": [ "3 Fotografien, s\/w, ca. 13x18cm, 3 Blatt" ],
   "category_global_name": "",
   "place": [ "Berlin" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099094,
+  "category": 30400,
   "key": "CH-000015-0-1565826",
   "iiif-manifest": ""
 }

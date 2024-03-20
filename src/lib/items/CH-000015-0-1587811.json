@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Babel, Elsa an Becher, Ulrich; Korrespondenz, o.O.",
+  "category_local_name": "",
   "ext": [ "1 Postkarte, handschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "o.O." ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Babel, Elsa" ],
   "lang": [  ],
   "date": [ "s.d." ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587811" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 201052,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BAB-1_01.jpg\/info.json",
+  "category": 202052,
   "key": "CH-000015-0-1587811",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/19ed564d-8773-4df8-b8c8-d6978d14288f\/"
 }

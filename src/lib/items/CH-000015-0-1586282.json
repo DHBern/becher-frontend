@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Keckeis, Peter; Korrespondenz, Basel",
+  "category_local_name": "",
   "ext": [ "1 Brief, masch." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/105765023" ],
   "category_global_name": "",
   "place": [ "Basel;\nZürich" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "21. Oktober 1972" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586282" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202020,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-KECK-1_01.jpg\/info.json",
+  "category": 201020,
   "key": "CH-000015-0-1586282",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/0bb4b6b2-e434-4292-b59d-fee317732927\/"
 }

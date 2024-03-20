@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
+  "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, ca. 230 Blatt (S. 124a-353), mit handschriftlichen Korrekturen, gelocht" ],
-  "category_global_name": "Romane",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 217,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "1945 bis 1969" ],
@@ -15,8 +15,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558063" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-c-2-4-2_001.jpg\/info.json",
   "category": 10200,
   "key": "CH-000015-0-1558063",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/29438c66-b45d-4170-8ba9-8e64a9d638ad\/"
 }

@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Roda Roda, Alexander an Becher, Ulrich und Dana; Korrespondenz, Graz; Wien",
+  "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201197,
+  "category": 202197,
   "key": "CH-000015-0-1643029",
   "iiif-manifest": ""
 }

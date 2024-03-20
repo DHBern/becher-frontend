@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Baechler, Wolfgang an Becher, Ulrich u. Dana; Korrespondenz, Blotzheim; Fieberbrunn; Westheim",
+  "category_local_name": "",
   "ext": [ "1 Postkarte, handschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Fieberbrunn;\nBasel" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Bächler, Wolfgang (1925-2007)" ],
   "lang": [  ],
   "date": [ "20. Juni 1975" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587882" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 201054,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BAE-3_01.jpg\/info.json",
+  "category": 202054,
   "key": "CH-000015-0-1587882",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1a30972e-634d-444e-a709-a2dc2913bf1b\/"
 }

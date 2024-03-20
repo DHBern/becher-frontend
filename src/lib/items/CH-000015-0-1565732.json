@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Fotografien",
+  "category_local_name": "",
   "ext": [ "1 Album, schwarz-braun, mit Kordel, gebunden, 36 Seiten; darin 161 Fotografien teilweise mit handschriftlicher Beschriftung, geklebt, s\/w, div. FormateS\/W" ],
   "category_global_name": "",
   "place": [ "Alt-Aussee (Salzkammergut), Athen, Ägypten Bethlehem, Eibsee, Feldberg (Schwarzwald), Hintersee Berchtisgaden, Jerusalem Oberhof, Oberwiesenthal (Erzgebirge) , Kairo, Konstantinopel, Telaviv," ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099094,
+  "category": 30400,
   "key": "CH-000015-0-1565732",
   "iiif-manifest": ""
 }

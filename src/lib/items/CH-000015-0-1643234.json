@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Rowohlt Verlag an Becher, Ulrich; Korrespondenz, Frankfurt am Main; Hamburg; Kampen\/Sylt; Reinbek bei Hamburg; St. Moritz; Wiesbaden",
+  "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201201,
+  "category": 202201,
   "key": "CH-000015-0-1643234",
   "iiif-manifest": ""
 }

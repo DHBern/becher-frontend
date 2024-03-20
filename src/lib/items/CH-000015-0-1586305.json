@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Ledig-Rowohlt, Heinz; Korrespondenz, Basel",
+  "category_local_name": "",
   "ext": [ "1 Postkarte, masch." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118570757" ],
   "category_global_name": "",
   "place": [ "Basel;\nHamburg" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "22. März 1959" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586305" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202025,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-LED-2_01.jpg\/info.json",
+  "category": 201025,
   "key": "CH-000015-0-1586305",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/46a99b56-5a78-4021-b8a5-2cbbc181ed1f\/"
 }

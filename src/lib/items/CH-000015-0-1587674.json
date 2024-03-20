@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Allert de Lange an Becher, Ulrich; Korrespondenz, Amsterdam",
+  "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Amsterdam" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [  ],
   "lang": [  ],
   "date": [ "Juli 1938" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587674" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 201049,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-ALL-2_01.jpg\/info.json",
+  "category": 202049,
   "key": "CH-000015-0-1587674",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/06b39722-174a-494e-be9f-8a114aa0d066\/"
 }

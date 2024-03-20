@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Caspar, Günter; Korrespondenz, Basel",
+  "category_local_name": "",
   "ext": [ "1 Brief, masch. (Fk.)" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116467797" ],
   "category_global_name": "",
   "place": [ "Basel;\nBerlin" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "25. März 1958" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586161" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202010,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-CAS-2_01.jpg\/info.json",
+  "category": 201010,
   "key": "CH-000015-0-1586161",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/0c8a2c75-3815-4b36-bbd5-8e53b8128848\/"
 }

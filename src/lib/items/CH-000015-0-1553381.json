@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "11 Deckmappen, maschinenschriftlich mit handschriftlichen Notizen; Typoskripte, handschriftlich und maschinenschriftlich, zum Teil Durchschläge, mit Unterschriften und Notizen, 82 Seiten" ],
   "category_global_name": "",
   "place": [ "New York" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30320,
   "key": "CH-000015-0-1553381",
   "iiif-manifest": ""
 }

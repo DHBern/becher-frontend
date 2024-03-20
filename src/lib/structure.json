@@ -22,7 +22,7 @@
       { "label":"Absender", "key":"creator" },
       { "label":"Empfänger", "key":"recipient" },
       { "label":"Entstehungszeitraum", "key":"date" },
-      { "label":"Adressort", "key":"place" },
+      { "label":"Absendeort", "key":"place" },
       { "label":"Sprache", "key":"lang" },
       { "label":"Umfang \/ Kollation", "key":"ext" },
       { "label":"Beilage", "key":"encl" },

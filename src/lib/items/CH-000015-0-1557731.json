@@ -1,7 +1,7 @@
 {
-  "category_local_name": "Erzählungen",
+  "category_local_name": "",
   "ext": [ "Manuskript, 48 Blatt, Handschrift Dana und Ulrich Becher, aus 3 versch. Notizheften" ],
-  "category_global_name": "Erzählungen",
+  "category_global_name": "",
   "place": [  ],
   "ext_num": 45,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
@@ -15,7 +15,7 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557731" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-3-3_01.jpg\/info.json",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-3-3_17.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1557731",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/be748482-4303-4f5b-ae51-90f18f3608d6\/"

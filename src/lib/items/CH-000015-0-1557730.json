@@ -1,7 +1,7 @@
 {
-  "category_local_name": "Erzählungen",
+  "category_local_name": "",
   "ext": [ "Typoskript, 12. Blatt, paginiert, unvollständig (S. 13 fehlt) + Durchschlag, 26 Blatt, vollständig (doppelt)" ],
-  "category_global_name": "Erzählungen",
+  "category_global_name": "",
   "place": [  ],
   "ext_num": 38,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
@@ -15,7 +15,7 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557730" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-3-2_01.jpg\/info.json",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-3-2_17.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1557730",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/4898012d-d7b5-4996-925b-bcc3bc9077f8\/"

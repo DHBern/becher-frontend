@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Karte, maschinenschriftlich, 2 Seiten; 1 Blatt mit Adressen; 1 Fotografie, s\/w, kopiert; 1 Abbildung mit handschriftlichen Notizen von Ulrich Becher, 1 Seite" ],
   "category_global_name": "",
   "place": [ "München" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30540,
   "key": "CH-000015-0-1564690",
   "iiif-manifest": ""
 }

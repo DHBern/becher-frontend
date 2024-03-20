@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Erzählungen",
+  "category_local_name": "",
   "ext": [ "Typoskript, 1 Blatt, unvollständig, auf Rückseite v. Durchschlag, paginiert S. 8" ],
-  "category_global_name": "Erzählungen",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "" ],
@@ -15,8 +15,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557891" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-49-1_01.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1557891",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/86a5846c-9793-498c-be76-7e240b4d8901\/"
 }

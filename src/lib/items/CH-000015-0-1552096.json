@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz",
+  "category_local_name": "",
   "ext": [ "1 Postkarte, hs." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "",
   "place": [ "Wickersdorf" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "16. März 1924" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552096" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202001,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-058_01.jpg\/info.json",
+  "category": 201001,
   "key": "CH-000015-0-1552096",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/700030a4-1402-46ee-80e9-7ef5d0d412c2\/"
 }

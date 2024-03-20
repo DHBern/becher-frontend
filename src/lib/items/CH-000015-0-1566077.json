@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Aufsatzheft, braun, handschriftlich, 9 Bogen; 1 Blatt, lose eingelegt" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30510,
   "key": "CH-000015-0-1566077",
   "iiif-manifest": ""
 }

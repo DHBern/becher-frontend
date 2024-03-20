@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Lyrik",
+  "category_local_name": "",
   "ext": [ "Typoskript, 1 Blatt + 6 Zeilen Manuskript" ],
   "category_global_name": "",
   "place": [  ],
@@ -15,7 +15,7 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558280" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-20_01.jpg\/info.json",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-d-2-28_01.jpg\/info.json",
   "category": 10300,
   "key": "CH-000015-0-1558280",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/fb5bf728-f79c-441a-bd31-f9cbb90e5800\/"

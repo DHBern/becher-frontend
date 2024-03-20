@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Ulrich, Martin u. Maria; Korrespondenz, Wickersdorf",
+  "category_local_name": "",
   "ext": [ "1 Postkarte, hs." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
   "category_global_name": "",
   "place": [ "Wickersdorf;\nBerlin" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "29. Oktober 1923" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586403" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202041,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-ULR-3_01.jpg\/info.json",
+  "category": 201041,
   "key": "CH-000015-0-1586403",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c0fd59d0-130e-4ebc-9895-49b727cfdbd1\/"
 }

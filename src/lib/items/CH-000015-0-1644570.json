@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Willi Weismann Verlag an Becher, Ulrich; Korrespondenz, München",
+  "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
   "recipient_uri": [
     "https:\/\/d-nb.info\/gnd\/118507958",
@@ -28,7 +28,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201247,
+  "category": 202247,
   "key": "CH-000015-0-1644570",
   "iiif-manifest": ""
 }

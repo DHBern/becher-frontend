@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Merwick, Erich; Korrespondenz, München",
+  "category_local_name": "",
   "ext": [ "1 Briefentwurf, masch. Dg." ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "München;\nReinbek" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "10. November 1969" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586323" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202029,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-MER-1_01.jpg\/info.json",
+  "category": 201029,
   "key": "CH-000015-0-1586323",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/bc671bbc-c02f-44b4-b2f1-e2f2f1fc118e\/"
 }

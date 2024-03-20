@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "8 Typoskripte, maschinenschriftlich mit handschriftlichen Einträgen, 8 Blatt" ],
   "category_global_name": "",
   "place": [ "Wickersdorf bei Saalfeld (Saale)" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30110,
   "key": "CH-000015-0-1525180",
   "iiif-manifest": ""
 }

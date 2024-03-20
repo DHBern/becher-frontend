@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz",
+  "category_local_name": "",
   "ext": [ "1 Brief, masch., hs. Anm." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "",
   "place": [ "São Paulo" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "1. Februar 1944" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553622" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202001,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-BECH-210_01.jpg\/info.json",
+  "category": 201001,
   "key": "CH-000015-0-1553622",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/ab01c8fc-c6d4-4522-8b0f-f57c37a0e375\/"
 }

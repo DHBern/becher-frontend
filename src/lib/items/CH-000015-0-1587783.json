@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Aufbau-Verlag an Becher, Ulrich; Korrespondenz, Berlin",
+  "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Berlin;\nBasel" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Caspar, Günter (1924-1999)" ],
   "lang": [  ],
   "date": [ "23. Dezember 1968" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587783" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 201050,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-AUF-06_01.jpg\/info.json",
+  "category": 202050,
   "key": "CH-000015-0-1587783",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e8ac6d4a-c303-4d5f-b88c-9fd18338afa6\/"
 }

@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Baechler, Wolfgang an Becher, Ulrich u. Dana; Korrespondenz, Blotzheim; Fieberbrunn; Westheim",
+  "category_local_name": "",
   "ext": [ "1 Brief, handmaschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Blotzheim;\nBasel" ],
-  "ext_num": 0,
+  "ext_num": 3,
   "creator": [ "Bächler, Wolfgang (1925-2007)" ],
   "lang": [  ],
   "date": [ "17. Juni 1966" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587871" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 201054,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BAE-1_01.jpg\/info.json",
+  "category": 202054,
   "key": "CH-000015-0-1587871",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a320f89e-0ae9-40a1-8dd9-b6354eb7df6b\/"
 }

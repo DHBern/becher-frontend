@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Universal Edition AG Wien; Korrespondenz, Basel",
+  "category_local_name": "",
   "ext": [ "1 Brief, masch. Dg." ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Basel" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "8. Mai 1952" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586381" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202040,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-UEW-1_01.jpg\/info.json",
+  "category": 201040,
   "key": "CH-000015-0-1586381",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e6ac72c6-7d5b-42f1-a5b7-b3e1724cef25\/"
 }

@@ -1,7 +1,7 @@
 {
-  "category_local_name": "Erzählungen",
+  "category_local_name": "",
   "ext": [ "Typoskript, 14 Blatt, handschriftliche Korrekturen" ],
-  "category_global_name": "Erzählungen",
+  "category_global_name": "",
   "place": [  ],
   "ext_num": 55,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
@@ -15,7 +15,7 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557706" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-5-9_01.jpg\/info.json",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-5-9_17.jpg\/info.json",
   "category": 10100,
   "key": "CH-000015-0-1557706",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3bbd000c-1428-440a-9818-3acc64c25777\/"

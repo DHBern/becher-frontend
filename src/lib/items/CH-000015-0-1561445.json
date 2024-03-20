@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Oktavheft, schwarz, 114 Seiten, darin div. Artikel und Notizen eingeklebt" ],
   "category_global_name": "",
   "place": [ "Basel" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30520,
   "key": "CH-000015-0-1561445",
   "iiif-manifest": ""
 }

@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "1 Dokument, maschinenschriftlich, nicht ausgefüllt, 2 Seiten" ],
   "category_global_name": "",
   "place": [ "Basel" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30340,
   "key": "CH-000015-0-1523922",
   "iiif-manifest": ""
 }

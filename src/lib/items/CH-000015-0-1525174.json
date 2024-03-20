@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "1 Dokument, Überformat, handschriftlich, 1 Blatt" ],
   "category_global_name": "",
   "place": [ "Berlin" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30110,
   "key": "CH-000015-0-1525174",
   "iiif-manifest": ""
 }

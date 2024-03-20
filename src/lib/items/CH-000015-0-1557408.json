@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Oktavheft, gebunden, handschriftlich, 63 Seiten; 6 Blatt, lose, eingelegt, 1 Zeitungsartikel, lose, eingelegt" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30520,
   "key": "CH-000015-0-1557408",
   "iiif-manifest": ""
 }

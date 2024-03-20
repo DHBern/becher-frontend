@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "2 Typoskripte, maschinenschriftlich, teilweise mit handschriftlichen Ergänzungen, 20 Seiten, z.T. nicht vollständig; 1 Notizzettel, handschriftlich, stenopgraphiert, 1 Seite" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30520,
   "key": "CH-000015-0-1562388",
   "iiif-manifest": ""
 }

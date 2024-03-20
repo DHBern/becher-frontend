@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "23 Dokumente, handschriftlich und maschinenschriftlich mit handschriftlichen Skizzen und Notizen, handschriftlich Ulrich Becher, 23 Seiten, davon 1 Kopie; 1 Couvert" ],
   "category_global_name": "",
   "place": [ "Berlin; Biel; München; Nizza; Wien; Zürich;" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30350,
   "key": "CH-000015-0-1553378",
   "iiif-manifest": ""
 }

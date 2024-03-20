@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Berufliche Dokumente",
+  "category_local_name": "",
   "ext": [ "2 Typoskript Entwürfe, maschinenschriftlich mit handschriftlichen Notizen, 2 Seiten" ],
   "category_global_name": "",
   "place": [ "Basel" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099092,
+  "category": 30330,
   "key": "CH-000015-0-1556854",
   "iiif-manifest": ""
 }

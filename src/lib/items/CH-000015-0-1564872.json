@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "Manuskript, handschriftlich, 4 Bogen" ],
   "category_global_name": "",
   "place": [ "St. Moritz" ],
@@ -20,7 +20,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30540,
   "key": "CH-000015-0-1564872",
   "iiif-manifest": ""
 }

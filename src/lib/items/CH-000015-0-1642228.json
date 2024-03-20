@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Meyer, Hedwig an Becher, Ulrich und Dana; Korrespondenz, New York",
+  "category_local_name": "",
   "ext": [ "1 Luftpostbrief, handschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201169,
+  "category": 202169,
   "key": "CH-000015-0-1642228",
   "iiif-manifest": ""
 }

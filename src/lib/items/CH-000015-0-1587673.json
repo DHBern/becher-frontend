@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Allert de Lange an Becher, Ulrich; Korrespondenz, Amsterdam",
+  "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Amsterdam;\nZürich" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Landauer, Walter (1902-1944)" ],
   "lang": [  ],
   "date": [ "30. Mai 1938" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587673" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 201049,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-ALL-1_01.jpg\/info.json",
+  "category": 202049,
   "key": "CH-000015-0-1587673",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a30c341a-7e98-42ba-bbd5-50228b68701f\/"
 }

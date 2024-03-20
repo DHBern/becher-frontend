@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "1 Manuskript, handschriftlich, 4 Seiten" ],
   "category_global_name": "",
   "place": [ "[Wickersdorf ?]" ],
@@ -20,7 +20,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30110,
   "key": "CH-000015-0-1525188",
   "iiif-manifest": ""
 }

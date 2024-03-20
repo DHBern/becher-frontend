@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "Manuskript, handschriftlich, fragmentarisch, 2 Seiten; 1 Liste, handschriftlich, 1 Seite" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30550,
   "key": "CH-000015-0-1565630",
   "iiif-manifest": ""
 }

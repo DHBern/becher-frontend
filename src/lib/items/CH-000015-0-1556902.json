@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "2 Briefe, handschriftlich, 5 Seiten; 1 Briefentwurf, 2 Seiten, verso mit Bleistiftzeichnung" ],
   "category_global_name": "",
   "place": [ "Berlin;\nSizilien (I)," ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30510,
   "key": "CH-000015-0-1556902",
   "iiif-manifest": ""
 }

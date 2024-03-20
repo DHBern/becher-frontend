@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Vorel, Lucy an Becher, Ulrich; Korrespondenz, Wien",
+  "category_local_name": "",
   "ext": [ "1 Briefkarte, maschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201241,
+  "category": 202241,
   "key": "CH-000015-0-1644037",
   "iiif-manifest": ""
 }

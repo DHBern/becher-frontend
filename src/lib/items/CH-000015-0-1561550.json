@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "4 Gedicht, handschriftlich, 6 Seiten" ],
   "category_global_name": "",
   "place": [  ],
@@ -20,7 +20,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30520,
   "key": "CH-000015-0-1561550",
   "iiif-manifest": ""
 }

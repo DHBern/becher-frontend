@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Roda Roda, Elsbeth an Becher, Ulrich; Korrespondenz, Graz; Rom",
+  "category_local_name": "",
   "ext": [ "1 Brief, handschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201198,
+  "category": 202198,
   "key": "CH-000015-0-1643036",
   "iiif-manifest": ""
 }

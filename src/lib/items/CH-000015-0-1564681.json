@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "1 Zeugnisfragment, zerrissen, maschinenschriftlich, 2 Seiten; 1 Zeugnis, maschinenschriftlich, 1 Bogen" ],
   "category_global_name": "",
   "place": [ "München, Frankreich" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30540,
   "key": "CH-000015-0-1564681",
   "iiif-manifest": ""
 }

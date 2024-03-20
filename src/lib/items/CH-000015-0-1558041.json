@@ -1,9 +1,9 @@
 {
-  "category_local_name": "Werke (Manuskripte; Typoskripte; Belegexemplare; Zeichnungen und anderes)",
+  "category_local_name": "",
   "ext": [ "Typoskript Durchschlag 49 Bl (S. 1-49)., paginiert + Typoskript Durchschlag, 16 Blatt, doppelt paginiert (308-316, 325-331\/1-9, 18-24, 26-32, 39, 41, 46, 64-136), unvollständig mit handschriftlichen Korrekturen + Typoskript, 37 Blatt (S. 67-103) + Durchschlag (S. 68-74 + doppelt S. 46, 67, 68, 72)" ],
-  "category_global_name": "Romane",
+  "category_global_name": "",
   "place": [  ],
-  "ext_num": 0,
+  "ext_num": 442,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "1945 bis 1969" ],
@@ -15,8 +15,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558041" },
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-c-2-2-11-1_01.jpg\/info.json",
   "category": 10200,
   "key": "CH-000015-0-1558041",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/1c9e72bc-2e72-415a-84b1-535405aa55f7\/"
 }

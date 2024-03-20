@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Aufbau-Verlag an Becher, Ulrich; Korrespondenz, Berlin",
+  "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Berlin;\nBasel" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Hähn, Erhard" ],
   "lang": [  ],
   "date": [ "4. November 1968" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587782" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 201050,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-AUF-05_01.jpg\/info.json",
+  "category": 202050,
   "key": "CH-000015-0-1587782",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c5daf464-9f46-4737-968a-f0b5d76b7b7e\/"
 }

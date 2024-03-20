@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich",
+  "category_local_name": "",
   "ext": [ "1 Brief, masch." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "o.O." ],
-  "ext_num": 0,
+  "ext_num": 3,
   "creator": [ "Becher, Richard (1875-1956)" ],
   "lang": [  ],
   "date": [ "6. August 1945" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1588111" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 201058,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-2-BECH-34_01.jpg\/info.json",
+  "category": 202058,
   "key": "CH-000015-0-1588111",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/61f3f5d5-c39c-4597-92d5-777e0e905489\/"
 }

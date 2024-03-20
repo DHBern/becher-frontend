@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Ribèrt, M. Erneste; Korrespondenz, Basel",
+  "category_local_name": "",
   "ext": [ "1 Briefentwurf, masch. Dg., unvollständig" ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Basel" ],
-  "ext_num": 0,
+  "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "8. Juni 1951" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586343" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202032,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-RIB-1_01.jpg\/info.json",
+  "category": 201032,
   "key": "CH-000015-0-1586343",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c58145c9-b3b1-42b6-87c2-fde362df7383\/"
 }

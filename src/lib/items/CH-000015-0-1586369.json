@@ -1,10 +1,10 @@
 {
-  "category_local_name": "Becher, Ulrich an Schulenburg, Ulrich N.; Korrespondenz, Basel",
+  "category_local_name": "",
   "ext": [ "1 Briefentwurf, masch." ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/132621185" ],
   "category_global_name": "",
   "place": [ "Basel;\nWien" ],
-  "ext_num": 0,
+  "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
   "lang": [  ],
   "date": [ "11. März 1982" ],
@@ -18,8 +18,8 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586369" },
   "type": "letter",
   "holding_institution": "SLA",
-  "iiif": "",
-  "category": 202036,
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-SCHU-1_01.jpg\/info.json",
+  "category": 201036,
   "key": "CH-000015-0-1586369",
-  "iiif-manifest": ""
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a769d182-f65f-4898-9b14-566c894226cd\/"
 }

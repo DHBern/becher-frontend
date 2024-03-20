@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Fotografien",
+  "category_local_name": "",
   "ext": [ "1 Fotografie, s\/w, ca. 17x20.7cm, 1 Blatt; Ca.50 Autogrammkarten, s\/w, rückseitig beschriftet" ],
   "category_global_name": "",
   "place": [  ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099094,
+  "category": 30400,
   "key": "CH-000015-0-1565832",
   "iiif-manifest": ""
 }

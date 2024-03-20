@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Familie",
+  "category_local_name": "",
   "ext": [ "Typoskript, maschinenschriftlich, 2 Seiten" ],
   "category_global_name": "",
   "place": [  ],
@@ -20,7 +20,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 3099093,
+  "category": 30540,
   "key": "CH-000015-0-1565339",
   "iiif-manifest": ""
 }

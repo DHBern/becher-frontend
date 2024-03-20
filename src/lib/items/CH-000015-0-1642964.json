@@ -1,5 +1,5 @@
 {
-  "category_local_name": "P.E.N.-Zentrum Bundesrepublik Deutschland an Becher, Ulrich; Korrespondenz, Darmstadt",
+  "category_local_name": "",
   "ext": [ "1 Briefkarte, handschriftlich" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
@@ -19,7 +19,7 @@
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 201189,
+  "category": 202189,
   "key": "CH-000015-0-1642964",
   "iiif-manifest": ""
 }

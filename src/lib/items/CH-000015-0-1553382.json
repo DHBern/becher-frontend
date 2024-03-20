@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "10 Briefentwürfe, maschinenschriftlich und handschriftlich, 13 Seiten; 6 Briefe, 5 maschinenschriftlich, 1 handschriftlich, 5 Seiten; 5 Typoskript, maschinenschriftlich, 5 Blatt; 1 Mappe, handschriftlich beschrieben, mit eingeklebtem Couvert, ungeöffnet; Notizen, handschriftlich, 1 Blatt" ],
   "category_global_name": "",
   "place": [ "New York," ],
@@ -22,7 +22,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30320,
   "key": "CH-000015-0-1553382",
   "iiif-manifest": ""
 }

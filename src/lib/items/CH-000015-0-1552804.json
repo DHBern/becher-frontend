@@ -1,5 +1,5 @@
 {
-  "category_local_name": "Persönliche Dokumente",
+  "category_local_name": "",
   "ext": [ "6 Rechnungen, handschriftlich und maschinenschriftlich, 6 Blatt; Notiz, handschriftlich, 2 Blatt" ],
   "category_global_name": "",
   "place": [ "Basel; Berlin; Weimar; Wien; Zürich" ],
@@ -17,7 +17,7 @@
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",
-  "category": 30100,
+  "category": 30340,
   "key": "CH-000015-0-1552804",
   "iiif-manifest": ""
 }
