@@ -9,17 +9,43 @@
   {
     "corresp": "*A-1",
     "title2": "",
-    "subcats": [ 10110, 10120, 10130, 10140, 10150, 10160, 10170 ],
+    "subcats": [ 10110, 10120, 10130, 10140, 10150, 10160, 10170, 10180 ],
     "id": 10100,
     "title": "Erzählungen"
   },
-  { "corresp":"*A-1-a", "title2":"", "id":10110, "title":"          UNDEFINED          " },
-  { "corresp":"*A-1-b", "title2":"", "id":10120, "title":"          UNDEFINED          " },
-  { "corresp":"*A-1-c", "title2":"", "id":10130, "title":"          UNDEFINED          " },
-  { "corresp":"*A-1-d", "title2":"", "id":10140, "title":"          UNDEFINED          " },
-  { "corresp":"*A-1-e", "title2":"", "id":10150, "title":"          UNDEFINED          " },
-  { "corresp":"*A-1-f", "title2":"", "id":10160, "title":"          UNDEFINED          " },
-  { "corresp":"*A-1-g", "title2":"", "id":10170, "title":"          UNDEFINED          " },
+  { "corresp":"*A-1-a", "title2":"", "id":10110, "title":"Männer machen Fehler" },
+  {
+    "corresp": "*A-1-b",
+    "title2": "",
+    "id": 10120,
+    "title": "Die Eroberer. Geschichten aus Europa"
+  },
+  {
+    "corresp": "*A-1-c",
+    "title2": "",
+    "id": 10130,
+    "title": "Nachtigall will zum Vater fliegen. Ein Zyklus New Yorker Novellen in vier Nächten"
+  },
+  {
+    "corresp": "*A-1-d",
+    "title2": "",
+    "id": 10140,
+    "title": "Männer machen Fehler. Geschichten der Windrose"
+  },
+  {
+    "corresp": "*A-1-e",
+    "title2": "",
+    "id": 10150,
+    "title": "Vom Unzulänglichen der Wirklichkeit"
+  },
+  {
+    "corresp": "*A-1-f",
+    "title2": "",
+    "id": 10160,
+    "title": "Weitere Erzählungen und Erzählskizzen"
+  },
+  { "corresp":"*A-1-g", "title2":"", "id":10170, "title":"Hades-Telefonate" },
+  { "corresp":"*A-1-h", "title2":"", "id":10180, "title":"Fragmente und Materialien" },
   {
     "corresp": "*A-2",
     "title2": "",
@@ -27,12 +53,12 @@
     "id": 10200,
     "title": "Romane"
   },
-  { "corresp":"*A-2-a", "title2":"", "id":10210, "title":"          UNDEFINED          " },
-  { "corresp":"*A-2-b", "title2":"", "id":10220, "title":"          UNDEFINED          " },
-  { "corresp":"*A-2-c", "title2":"", "id":10230, "title":"          UNDEFINED          " },
-  { "corresp":"*A-2-d", "title2":"", "id":10240, "title":"          UNDEFINED          " },
-  { "corresp":"*A-2-e", "title2":"", "id":10250, "title":"          UNDEFINED          " },
-  { "corresp":"*A-2-f", "title2":"", "id":10260, "title":"          UNDEFINED          " },
+  { "corresp":"*A-2-a", "title2":"", "id":10210, "title":"Der Hampelmann (Romanfragment)" },
+  { "corresp":"*A-2-b", "title2":"", "id":10220, "title":"Kurz nach 4" },
+  { "corresp":"*A-2-c", "title2":"", "id":10230, "title":"Murmeljagd" },
+  { "corresp":"*A-2-d", "title2":"", "id":10240, "title":"Das Profil" },
+  { "corresp":"*A-2-e", "title2":"", "id":10250, "title":"William's Ex-Casino" },
+  { "corresp":"*A-2-f", "title2":"", "id":10260, "title":"Abseits vom Rodeo" },
   { "corresp":"*A-2-g", "title2":"", "id":10270, "title":"          UNDEFINED          " },
   { "corresp":"*A-2-h", "title2":"", "id":10280, "title":"          UNDEFINED          " },
   { "corresp":"*A-3", "title2":"", "id":10300, "title":"Gedichte und Versepen" },
@@ -40,19 +66,21 @@
   {
     "corresp": "*A-5",
     "title2": "",
-    "subcats": [ 10510 ],
+    "subcats": [ 10510, 10520 ],
     "id": 10500,
     "title": "Drehbücher und Filmideen"
   },
-  { "corresp":"*A-5-a", "title2":"", "id":10510, "title":"          UNDEFINED          " },
+  { "corresp":"*A-5-a", "title2":"", "id":10510, "title":"Doktor Kurian" },
+  { "corresp":"*A-5-b", "title2":"", "id":10520, "title":"Filmideen" },
   {
     "corresp": "*A-6",
     "title2": "",
-    "subcats": [ 10610 ],
+    "subcats": [ 10610, 10620 ],
     "id": 10600,
     "title": "Essays und Reden"
   },
-  { "corresp":"*A-6-a", "title2":"", "id":10610, "title":"          UNDEFINED          " },
+  { "corresp":"*A-6-a", "title2":"", "id":10610, "title":"Artikel und Essays" },
+  { "corresp":"*A-6-b", "title2":"", "id":10620, "title":"Après-Texte" },
   { "corresp":"*A-7", "title2":"", "id":10700, "title":"Literarische Notzibücher und -hefte" },
   { "corresp":"*A-8", "title2":"", "id":10800, "title":"Bildwerk" },
   {
@@ -3429,8 +3457,8 @@
     "id": 30400,
     "title": "Fotografien"
   },
-  { "corresp":"*C-4-a", "title2":"", "id":30410, "title":"          UNDEFINED          " },
-  { "corresp":"*C-4-b", "title2":"", "id":30420, "title":"          UNDEFINED          " },
+  { "corresp":"*C-4-a", "title2":"", "id":30410, "title":"Alben" },
+  { "corresp":"*C-4-b", "title2":"", "id":30420, "title":"Einzelfotografien und Konvolute" },
   {
     "corresp": "*C-5",
     "title2": "",
