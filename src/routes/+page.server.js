@@ -95,7 +95,7 @@ function getUniqueFields(data) {
 }
 
 /** @type {import('./$types').PageServerLoad} */
-export async function load({ url }) {
+export async function load() {
 	/** @type {import('@skeletonlabs/skeleton').TreeViewNode[]} */
 	const filteredCategories = [];
 	let seenIds = new Set();
@@ -108,20 +108,17 @@ export async function load({ url }) {
 		// If both have 'subcats' or neither have it, keep original order
 		return 0;
 	});
-
-	/** @type {import('$lib/itemtype.ts').Item[]} */
-	// errormessage is ignored because something about the typesetting of the imported JSON doesn't work
-	// @ts-ignore
-	let filteredItems = items;
-	if (!url.searchParams.get('prototype')) {
-		filteredItems = filteredItems.filter((item) => item.prototype); // Filter out items that don't belong in the prototype
-	}
-	filteredItems = filteredItems.map((/** @type {import('$lib/itemtype.ts').Item} */ item) => {
-		// eslint-disable-next-line no-unused-vars
-		let { prototype, iiif, ...rest } = item;
-		iiif = iiif.replaceAll('\\', '');
-		return { ...rest, iiif };
-	});
+	/** @type {Omit<import('$lib/itemtype.ts').Item, 'prototype'>[]} */
+	const filteredItems = items
+		// errormessage is ignored because something about the typesetting of the imported JSON doesn't work
+		// @ts-ignore
+		.filter((/** @type {{ prototype: any; }} */ item) => item.prototype) // Filter out items that don't belong in the prototype
+		.map((/** @type {import('$lib/itemtype.ts').Item} */ item) => {
+			// eslint-disable-next-line no-unused-vars
+			let { prototype, iiif, ...rest } = item;
+			iiif = iiif.replaceAll('\\', '');
+			return { ...rest, iiif };
+		});
 
 	// filter the categories to only include those that have items
 	const categoryIds = filteredItems.map((item) => item.category);
