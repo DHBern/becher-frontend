@@ -112,7 +112,7 @@ export async function load() {
 	const filteredItems = items
 		// errormessage is ignored because something about the typesetting of the imported JSON doesn't work
 		// @ts-ignore
-		.filter((/** @type {{ prototype: any; }} */ item) => item.prototype) // Filter out items that don't belong in the prototype
+		// .filter((/** @type {{ prototype: any; }} */ item) => item.prototype) // Filter out items that don't belong in the prototype
 		.map((/** @type {import('$lib/itemtype.ts').Item} */ item) => {
 			// eslint-disable-next-line no-unused-vars
 			let { prototype, iiif, ...rest } = item;
