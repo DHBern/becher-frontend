@@ -3,7 +3,7 @@
   "ext": [ "2 Fotos schwarz\/weiß" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 4,
   "creator": [  ],
   "lang": [  ],
   "date": [ "1900" ],
@@ -19,7 +19,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284915204_00000010.tif\/info.json",
   "category": 30420,
   "key": "(DE-101)1284915204",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/5d9ad939-8c6a-4899-9424-0ca72d4f3e59\/"

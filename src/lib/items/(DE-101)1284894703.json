@@ -3,7 +3,7 @@
   "ext": [ "1 gefaltetes Blatt maschinenschriftlich mit Unterschrift auf Vordruck. Mit Unterschrift und Fingerabdruck von Ulrich Becher" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 4,
   "creator": [  ],
   "lang": [  ],
   "date": [ "1944" ],
@@ -19,7 +19,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284894703_00000010.tif\/info.json",
   "category": 30230,
   "key": "(DE-101)1284894703",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/6fc9bfba-8ba1-4918-a2e2-49c3058d6bff\/"

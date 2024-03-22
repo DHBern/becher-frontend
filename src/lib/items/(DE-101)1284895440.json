@@ -3,7 +3,7 @@
   "ext": [ "5 Blatt = 2 Einheiten maschinenschriftlicher Durchschlag und anderes, teilweise Xerox" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 10,
   "creator": [  ],
   "lang": [  ],
   "date": [ "1946" ],
@@ -19,7 +19,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284895440_00000010.tif\/info.json",
   "category": 30230,
   "key": "(DE-101)1284895440",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/06216fd5-7ecf-4328-bcb5-01a46e02d866\/"

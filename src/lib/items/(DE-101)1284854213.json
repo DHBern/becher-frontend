@@ -4,7 +4,7 @@
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 4,
   "creator": [ "Dana Roda Becher" ],
   "lang": [  ],
   "date": [ "1942" ],
@@ -24,7 +24,7 @@
   },
   "type": "letter",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284854213_00000010.tif\/info.json",
   "category": 203290,
   "key": "(DE-101)1284854213",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/0eb0547a-1468-4b9e-9b16-a17d1588e968\/"

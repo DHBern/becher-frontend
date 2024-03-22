@@ -3,7 +3,7 @@
   "ext": [ "1 Blatt maschinenschriftlich auf Vordruck, mit Unterschrift. Xerox" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 2,
   "creator": [  ],
   "lang": [  ],
   "date": [ "1941" ],
@@ -19,7 +19,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284893022_00000010.tif\/info.json",
   "category": 30210,
   "key": "(DE-101)1284893022",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/a1cd3187-bd10-4237-84be-c86ca2ef0148\/"

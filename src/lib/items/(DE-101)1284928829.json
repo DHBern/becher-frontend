@@ -3,7 +3,7 @@
   "ext": [ "1 Foto schwarz\/weiß" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 4,
   "creator": [  ],
   "lang": [  ],
   "date": [ "1963" ],
@@ -19,7 +19,7 @@
   },
   "type": "collItem",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284928829_00000010.tif\/info.json",
   "category": 40250,
   "key": "(DE-101)1284928829",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/cb3d8a9e-73ac-4301-bd6c-7008bfd31a6b\/"

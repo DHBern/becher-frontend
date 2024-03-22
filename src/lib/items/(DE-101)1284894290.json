@@ -3,7 +3,7 @@
   "ext": [ "2 Blatt maschinenschriftlicher Durchschlag" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 4,
   "creator": [ "Richard Becher" ],
   "lang": [  ],
   "date": [ "1943" ],
@@ -22,7 +22,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284894290_00000010.tif\/info.json",
   "category": 30220,
   "key": "(DE-101)1284894290",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/197e5653-4722-40e0-975a-897ee894fa18\/"

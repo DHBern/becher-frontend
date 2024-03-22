@@ -4,7 +4,7 @@
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 2,
   "creator": [ "Lisi von Zeppelin" ],
   "lang": [  ],
   "date": [ "1955" ],
@@ -21,7 +21,7 @@
   },
   "type": "letter",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128487639X_00000010.tif\/info.json",
   "category": 20300,
   "key": "(DE-101)128487639X",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3fd2de41-96b3-4fed-84b9-ca85da9b7145\/"

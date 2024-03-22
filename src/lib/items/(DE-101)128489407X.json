@@ -3,7 +3,7 @@
   "ext": [ "1 Blatt maschinenschriftlich" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 2,
   "creator": [  ],
   "lang": [  ],
   "date": [ "1941" ],
@@ -19,7 +19,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128489407X_00000010.tif\/info.json",
   "category": 30220,
   "key": "(DE-101)128489407X",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/7dc4a237-d817-4810-8f87-f1cbab526171\/"

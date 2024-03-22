@@ -3,7 +3,7 @@
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift auf Vordruck" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 2,
   "creator": [  ],
   "lang": [  ],
   "date": [ "1944" ],
@@ -19,7 +19,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284894894_00000010.tif\/info.json",
   "category": 30230,
   "key": "(DE-101)1284894894",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/dcaa4f64-f805-44b5-88b2-e5ecc19a15d3\/"

@@ -4,7 +4,7 @@
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 6,
   "creator": [ "Alexander Roda Roda" ],
   "lang": [  ],
   "date": [ "1940" ],
@@ -21,7 +21,7 @@
   },
   "type": "letter",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284875407_00000010.tif\/info.json",
   "category": 20300,
   "key": "(DE-101)1284875407",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/aa5bd6ca-ff3a-4b4b-9aba-8c1f35c33cf9\/"

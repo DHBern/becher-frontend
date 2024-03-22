@@ -88,7 +88,7 @@
     "title2": "",
     "subcats": [ 20100, 20200, 20300, 20400 ],
     "id": 20000,
-    "title": "\"Briefe, 1916-1990\""
+    "title": "Briefe, 1916-1990"
   },
   {
     "corresp": "*B-1",
@@ -142,7 +142,7 @@
       201046
     ],
     "id": 20100,
-    "title": "\"Briefe an Ulrich Becher, 1912-1990\""
+    "title": "Briefe an Ulrich Becher, 1912-1990"
   },
   {
     "corresp": "*B-1-001",
@@ -635,7 +635,7 @@
       202255
     ],
     "id": 20200,
-    "title": "\"Briefe von Ulrich Becher, 1916-1990\""
+    "title": "Briefe von Ulrich Becher, 1916-1990"
   },
   {
     "corresp": "*B-2-047",
@@ -2201,7 +2201,7 @@
       203559
     ],
     "id": 20300,
-    "title": "\"Briefe Dritter, 1930-1990\""
+    "title": "Briefe Dritter, 1930-1990"
   },
   { "corresp":"*B-3-256", "title2":"", "id":203256, "title":"" },
   {
@@ -3352,7 +3352,7 @@
     "title2": "",
     "subcats": [ 204560, 204561, 204562, 204563, 204564, 204565, 204566 ],
     "id": 20400,
-    "title": "\"Briefkonvolute, 1930-1990\""
+    "title": "Briefkonvolute, 1930-1990"
   },
   {
     "corresp": "*B-4-560",
@@ -3439,7 +3439,7 @@
     "corresp": "*C-3-a",
     "title2": "",
     "id": 30310,
-    "title": "\"Urkunden, Preise, Mitgliedschaften\""
+    "title": "Urkunden, Preise, Mitgliedschaften"
   },
   { "corresp":"*C-3-b", "title2":"", "id":30320, "title":"Juristische Prozesse" },
   { "corresp":"*C-3-c", "title2":"", "id":30330, "title":"Verlagsverträge" },
@@ -3476,14 +3476,14 @@
     "title2": "",
     "subcats": [ 40100, 40200, 40300, 40400, 40500, 40600 ],
     "id": 40000,
-    "title": "\"Sammlungen, 1930-1990\""
+    "title": "Sammlungen, 1930-1990"
   },
   {
     "corresp": "*D-1",
     "title2": "",
     "subcats": [ 40110, 40120, 40130, 40140, 40150 ],
     "id": 40100,
-    "title": "\"Druckbelege, 1930-1990\""
+    "title": "Druckbelege, 1930-1990"
   },
   { "corresp":"*D-1-a", "title2":"", "id":40110, "title":"          UNDEFINED          " },
   { "corresp":"*D-1-b", "title2":"", "id":40120, "title":"          UNDEFINED          " },
@@ -3495,7 +3495,7 @@
     "title2": "",
     "subcats": [ 40210, 40220, 40230, 40240, 40250 ],
     "id": 40200,
-    "title": "\"Sekundärliteratur, 1930-1990\""
+    "title": "Sekundärliteratur, 1930-1990"
   },
   { "corresp":"*D-2-a", "title2":"", "id":40210, "title":"          UNDEFINED          " },
   { "corresp":"*D-2-b", "title2":"", "id":40220, "title":"          UNDEFINED          " },
@@ -3503,7 +3503,7 @@
   { "corresp":"*D-2-d", "title2":"", "id":40240, "title":"          UNDEFINED          " },
   { "corresp":"*D-2-e", "title2":"", "id":40250, "title":"          UNDEFINED          " },
   { "corresp":"*D-3", "title2":"", "id":40300, "title":"          UNDEFINED          " },
-  { "corresp":"*D-4", "title2":"", "id":40400, "title":"\"Autorenbibliothek, 1930-1990\"" },
+  { "corresp":"*D-4", "title2":"", "id":40400, "title":"Autorenbibliothek, 1930-1990" },
   { "corresp":"*D-5", "title2":"", "id":40500, "title":"          UNDEFINED          " },
   { "corresp":"*D-6", "title2":"", "id":40600, "title":"          UNDEFINED          " }
 ]

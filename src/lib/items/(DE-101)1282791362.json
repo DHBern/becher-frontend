@@ -3,7 +3,7 @@
   "ext": [ "19 Fotos schwarz\/weiß" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 39,
   "creator": [ "ORF, Abteilung Publizistik, Lichtbildstelle" ],
   "lang": [  ],
   "date": [ "" ],
@@ -19,7 +19,7 @@
   },
   "type": "collItem",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1282791362_00000270.tif\/info.json",
   "category": 40250,
   "key": "(DE-101)1282791362",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/550d98e6-1505-447f-9d09-c7db49a0ec92\/"

@@ -3,7 +3,7 @@
   "ext": [ "2 Fotos schwarz\/weiß" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 4,
   "creator": [ "Fritz Paul" ],
   "lang": [  ],
   "date": [ "1900" ],
@@ -19,7 +19,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284915352_00000010.tif\/info.json",
   "category": 30420,
   "key": "(DE-101)1284915352",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/7b16b49a-3582-4a27-b7ed-7fc2aa29d015\/"

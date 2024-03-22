@@ -4,7 +4,7 @@
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 4,
   "creator": [ "Luz Becher" ],
   "lang": [  ],
   "date": [ "1959" ],
@@ -21,7 +21,7 @@
   },
   "type": "letter",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284858359_00000010.tif\/info.json",
   "category": 20300,
   "key": "(DE-101)1284858359",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b4c0b2cb-0729-4037-b8cd-8d33063732ee\/"

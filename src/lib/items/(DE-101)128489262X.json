@@ -3,7 +3,7 @@
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
-  "ext_num": -1,
+  "ext_num": 2,
   "creator": [ "Dana Roda Becher" ],
   "lang": [  ],
   "date": [ "1940" ],
@@ -22,7 +22,7 @@
   },
   "type": "lifeDoc",
   "holding_institution": "DEA",
-  "iiif": "",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128489262X_00000010.tif\/info.json",
   "category": 30210,
   "key": "(DE-101)128489262X",
   "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3368f4ed-4208-4041-be59-8daa8e223c80\/"
