@@ -3,12 +3,12 @@ import structure from '$lib/structure.json';
 
 /** @type {import('./$types').PageLoad} */
 export async function load({ params }) {
-	const filePromise = import(`../../../lib/items/${params.slug}.json`);
+	// const filePromise = import(`../../../lib/items/${params.slug}.json`);
 	const item = itemData.find((item) => item.key === params.slug);
 
 	return {
 		key: params.slug,
-		metadata: (await filePromise).default,
+		metadata: item,
 		structure,
 		related: itemData
 			.filter((i) => /*i.prototype && */ i.category === item.category)
