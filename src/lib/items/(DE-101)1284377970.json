@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich vervielfältigt mit Unterschrift (Rundschreiben). Im Auftrag geschrieben von Manfred Schlösser" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Agora" ],
+  "lang": [  ],
+  "date": [ "1961" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Agora, Eine Humanistische Schriftenreihe",
+    "Vorliegende Namensform Adressat: Sehr verehrter Mitarbeiter an der Anthologie \"An den Wind geschrieben\""
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.2356",
+  "title": "Agora an Ulrich Becher, 1961",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284377970",
+    "gnd": "https:\/\/d-nb.info\/1284377970"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284377970",
+  "iiif-manifest": ""
+}

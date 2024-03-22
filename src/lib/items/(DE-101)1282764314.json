@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "33 Blatt = circa 32 Einheiten Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Alexander Roda Roda" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.02.0002",
+  "title": "Konvolut von Zeitungsausschnitten mit Beiträgen von Alexander Roda Roda",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282764314",
+    "gnd": "https:\/\/d-nb.info\/1282764314"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30530,
+  "key": "(DE-101)1282764314",
+  "iiif-manifest": ""
+}

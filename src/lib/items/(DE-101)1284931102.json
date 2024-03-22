@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ruth Wilhelmi" ],
+  "lang": [  ],
+  "date": [ "1952" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel der Fotografin: Ruth Wilhelmi Berlin-Steglitz [...]. - Und verso handschriftliche Angaben zu dem Abgebildeten und zu dem Theaterstück" ],
+  "signature": "DEA-B-3-1-0017.D.02.0028",
+  "title": "Szenenfotografie des Theaterstücks Samba (Berlin-Steglitz)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1214839991" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284931102",
+    "gnd": "https:\/\/d-nb.info\/1284931102"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1284931102",
+  "iiif-manifest": ""
+}

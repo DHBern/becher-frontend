@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich vervielfältigt. Im Auftrag geschrieben von Andrew Gregoriades, Leiter der Nachrichtenabteilung" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Die Neue Zeitung" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Die Neue Zeitung, Die Amerikanische Zeitung in Deutschland" ],
+  "signature": "DEA-B-3-1-0017.B.01.3051",
+  "title": "Die Neue Zeitung an Ulrich Becher, 1953",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284522032",
+    "gnd": "https:\/\/d-nb.info\/1284522032"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284522032",
+  "iiif-manifest": ""
+}

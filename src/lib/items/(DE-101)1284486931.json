@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Clemens Münster" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Der Bayerische Rundfunk. Fernsehdirektion" ],
+  "lang": [  ],
+  "date": [ "1966" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Der Bayerische Rundfunk, Abteilung Fernsehdirektion I" ],
+  "signature": "DEA-B-3-1-0017.B.01.2537",
+  "title": "Der Bayerische Rundfunk. Fernsehdirektion an Ulrich Becher, 1966",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2005348-4" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284486931",
+    "gnd": "https:\/\/d-nb.info\/1284486931"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284486931",
+  "iiif-manifest": ""
+}

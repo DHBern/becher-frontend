@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (unleserlich)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Friedrich Hofmeister - Figaro Verlag" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Friedrich Hofmeister - Figaro Verlag, Großsortiment und Musikalienhandlung GmbH" ],
+  "signature": "DEA-B-3-1-0017.B.01.2826",
+  "title": "Friedrich Hofmeister - Figaro Verlag an Ulrich Becher, 1953",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284503712",
+    "gnd": "https:\/\/d-nb.info\/1284503712"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284503712",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Heft (68 Blatt) handschriftlich. Mit Zeichnungen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1957" ],
+  "note": [
+    "Enthält auch Notizen zum Text: Das Herz des Hais",
+    "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0039",
+  "title": "Notizbuch zum Text Murmeljagd",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284007901",
+    "gnd": "https:\/\/d-nb.info\/1284007901"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10700,
+  "key": "(DE-101)1284007901",
+  "iiif-manifest": ""
+}

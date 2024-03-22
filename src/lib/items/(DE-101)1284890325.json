@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift [Franz Exner?] auf Vordruck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1932" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.C.01.0004",
+  "title": "Beleg oder Zwischen-Zeugnis aus seinem Studium",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284890325",
+    "gnd": "https:\/\/d-nb.info\/1284890325"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30120,
+  "key": "(DE-101)1284890325",
+  "iiif-manifest": ""
+}

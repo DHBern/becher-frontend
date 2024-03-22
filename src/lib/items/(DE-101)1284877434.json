@@ -1,0 +1,32 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Dr. Wagner, Kurdirektor" ],
+  "recipient_uri": [  ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Badenweiler. Kurverwaltung" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Badenweiler, die Thermen im Deutschen Süden",
+    "Vorliegende Namensform Körperschaftlicher Adressat: Redaktion der Frankfurter Allgemeine Zeitung, Frankfurt\/Main",
+    "Vorliegende Namensform Körperschaftlicher Adressat: Kurverwaltung Badenweiler"
+  ],
+  "signature": "DEA-B-3-1-0017.B.04.0073",
+  "title": "Badenweiler. Kurverwaltung an , 1960",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1028215-4" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284877434",
+    "gnd": "https:\/\/d-nb.info\/1284877434"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284877434",
+  "iiif-manifest": ""
+}

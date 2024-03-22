@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "27 Blatt = circa 27 Einheiten Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1954" ],
+  "encl": [  ],
+  "note": [ "Im Konvolut sind teilweise Doppelexemplare etc. vorhanden" ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0032",
+  "title": "Konvolut von Zeitungsausschnitten mit Beiträgen von Ulrich Becher, über George Grosz",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284018806",
+    "gnd": "https:\/\/d-nb.info\/1284018806"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40100,
+  "key": "(DE-101)1284018806",
+  "iiif-manifest": ""
+}

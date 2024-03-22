@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.C.04.03.0006",
+  "title": "Fotografie einer Siedlung",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128491755X",
+    "gnd": "https:\/\/d-nb.info\/128491755X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)128491755X",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Ekkehart Rudolph. Verso: Ulrich Becher an Süddeutscher Rundfunk, 07.04.1976, maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Süddeutscher Rundfunk" ],
+  "lang": [  ],
+  "date": [ "1976" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Süddeutscher Rundfunk Stuttgart, Abteilung Literatur" ],
+  "signature": "DEA-B-3-1-0017.B.01.3414",
+  "title": "Süddeutscher Rundfunk an Ulrich Becher, 1976",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1009721-1" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284710750",
+    "gnd": "https:\/\/d-nb.info\/1284710750"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284710750",
+  "iiif-manifest": ""
+}

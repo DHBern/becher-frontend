@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "5 Blatt maschinenschriftlich, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Theodor Sapper" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0037",
+  "title": "\"Feuerwasser\" - eine bahnbrechende Bühnendichtung",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116805420" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284941361",
+    "gnd": "https:\/\/d-nb.info\/1284941361"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1284941361",
+  "iiif-manifest": ""
+}

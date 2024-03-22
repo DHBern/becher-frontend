@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "5 Einheiten Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.04.0035",
+  "title": "Konvolut von Zeitungsausschnitten u. Ä. mit Beiträgen über Ulrich Becher, Spiele der Zeit 1 und 2",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282884352",
+    "gnd": "https:\/\/d-nb.info\/1282884352"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40220,
+  "key": "(DE-101)1282884352",
+  "iiif-manifest": ""
+}

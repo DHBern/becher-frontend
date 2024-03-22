@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "I, 17 Blatt maschinenschriftlich mit Korrekturen, vollständig, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Späte Fassung",
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Auf der Piazza, Kleiner Streit zwischen zwei Großen"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0192",
+  "title": "Streit auf der Piazza",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283990504",
+    "gnd": "https:\/\/d-nb.info\/1283990504"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10160,
+  "key": "(DE-101)1283990504",
+  "iiif-manifest": ""
+}

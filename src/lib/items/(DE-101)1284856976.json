@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt handschriftlich. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-290 SLA-UB-B-3-BECHM-_RODA",
+  "title": "Dana Roda Becher an Alexander Roda Roda, Elsbeth Roda Roda, 1941",
+  "content": [  ],
+  "recipient": [ "Alexander Roda Roda", "Elsbeth Roda Roda" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284856976",
+    "gnd": "https:\/\/d-nb.info\/1284856976"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 203290,
+  "key": "(DE-101)1284856976",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/72dde020-3adf-4014-8f1d-755fe31f5ece\/"
+}

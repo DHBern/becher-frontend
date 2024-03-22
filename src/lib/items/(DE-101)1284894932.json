@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [ "Die Einstempelung lautet vollständig: Ulrich Becher, 316 West 88 Str., New York 24, N.Y." ],
+  "signature": "DEA-B-3-1-0017.C.02.0032",
+  "title": "Briefpapier, mit Einstempelung von Namen und Adresse",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894932",
+    "gnd": "https:\/\/d-nb.info\/1284894932"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284894932",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/84785bbd-4240-44d6-a348-119effed1e95\/"
+}

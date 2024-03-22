@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ludwig Berger" ],
+  "lang": [  ],
+  "date": [ "1954" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.01.0341",
+  "title": "Ludwig Berger an Ulrich Becher, 1954",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118655957" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284085201",
+    "gnd": "https:\/\/d-nb.info\/1284085201"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284085201",
+  "iiif-manifest": ""
+}

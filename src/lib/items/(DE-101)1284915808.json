@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hans Wolfsbauer" ],
+  "lang": [  ],
+  "date": [ "1932" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotografen: Hans Wolfsbauer, Badgastein, Kötschachtal" ],
+  "signature": "DEA-B-3-1-0017.C.04.02.0016",
+  "title": "Fotografie Ulrich Becher und Dana Roda Becher, Porträtaufnahme, vor Wasserfall",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123572008X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284915808",
+    "gnd": "https:\/\/d-nb.info\/1284915808"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284915808",
+  "iiif-manifest": ""
+}

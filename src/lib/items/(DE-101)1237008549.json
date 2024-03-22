@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "29 Blatt = 20 Einheiten maschinenschriftlicher Durchschlag und maschinenschriftlich" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [ "Alexander Roda Roda" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.02.0001",
+  "title": "Konvolut von Typoskripten von Alexander Roda Roda",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237008549",
+    "gnd": "https:\/\/d-nb.info\/1237008549"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30530,
+  "key": "(DE-101)1237008549",
+  "iiif-manifest": ""
+}

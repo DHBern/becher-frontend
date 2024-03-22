@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "Seite 90-92, in Heft" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Lion Feuchtwanger" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.04.0001a",
+  "title": "Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118532715" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128495241X",
+    "gnd": "https:\/\/d-nb.info\/128495241X"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40220,
+  "key": "(DE-101)128495241X",
+  "iiif-manifest": ""
+}

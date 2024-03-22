@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1954" ],
+  "encl": [  ],
+  "note": [ "Verso handschriftlicher Text: Auf der Faehre rueber nach Hong Kong. Sept 54" ],
+  "signature": "DEA-B-3-1-0017.C.04.03.0035",
+  "title": "Fotografie mehrerer Personen, unbekanntes Paar mit Zwillingen",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284922014",
+    "gnd": "https:\/\/d-nb.info\/1284922014"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284922014",
+  "iiif-manifest": ""
+}

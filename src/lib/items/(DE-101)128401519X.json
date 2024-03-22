@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "39 Blatt Druck, Kopie. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [
+    "Ursprünglicher, gestrichener Titel des Archivales lautet: Die Eroberer, Geschichte vom Schwarzen Meer",
+    "Impressum: Alle Rechte [...] Ruth Liepman [...]"
+  ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0004",
+  "title": "Die Eroberung einer Kleinstadt",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128401519X",
+    "gnd": "https:\/\/d-nb.info\/128401519X"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40110,
+  "key": "(DE-101)128401519X",
+  "iiif-manifest": ""
+}

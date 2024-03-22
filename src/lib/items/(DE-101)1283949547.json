@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "107 Blatt maschinenschriftlicher Durchschlag und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 215,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "note": [
+    "Es handelt sich hierbei um Notizen und ähnliches",
+    "Enthält als Blatt 58: Brief von Ulrich Becher an Aufbau-Verlag, 21. Oktober 1969"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0013",
+  "title": "Franz Patenkindt, [Lyrik] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283949547",
+    "gnd": "https:\/\/d-nb.info\/1283949547"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283949547_00000010.tif\/info.json",
+  "category": 10340,
+  "key": "(DE-101)1283949547",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3a560027-2661-445e-942f-352ac4d30d25\/"
+}

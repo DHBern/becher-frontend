@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Städtische Theater Leipzig" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotostudios[?]-Rechteinhabers und der Fotografin: [...] Städt. Theater Leipzig [...] Wallmüller. - Und verso Angaben zu den beteiligten Personen und zu den Abgebildeten" ],
+  "signature": "DEA-B-3-1-0017.D.02.0021",
+  "title": "Konvolut von Szenenfotografien des Theaterstücks Mademoiselle Löwenzorn (Leipzig)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2051542-X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282791869",
+    "gnd": "https:\/\/d-nb.info\/1282791869"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1282791869",
+  "iiif-manifest": ""
+}

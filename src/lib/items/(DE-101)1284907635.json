@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "4 Blatt Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Nancy Anne Zeller" ],
+  "lang": [  ],
+  "date": [ "1983" ],
+  "encl": [  ],
+  "note": [ "Dasselbe: 4 Blatt Druck" ],
+  "signature": "DEA-B-3-1-0017.C.03.0021",
+  "title": "Ulrich Becher, [Bio-Bibliographie]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1145571697" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284907635",
+    "gnd": "https:\/\/d-nb.info\/1284907635"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30350,
+  "key": "(DE-101)1284907635",
+  "iiif-manifest": ""
+}

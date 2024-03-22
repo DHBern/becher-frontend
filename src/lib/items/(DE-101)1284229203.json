@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Henry Miller" ],
+  "lang": [  ],
+  "date": [ "1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-416",
+  "title": "Henry Miller an Ulrich Becher, 1961",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118582518" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284229203",
+    "gnd": "https:\/\/d-nb.info\/1284229203"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 203416,
+  "key": "(DE-101)1284229203",
+  "iiif-manifest": ""
+}

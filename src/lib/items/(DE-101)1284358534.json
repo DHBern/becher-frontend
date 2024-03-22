@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte Druck mit Liedtext und Noten. Mit gedruckter Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hans Forster" ],
+  "lang": [  ],
+  "date": [ "1977" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: H. Forster" ],
+  "signature": "DEA-B-3-1-0017.B.01.2274",
+  "title": "Hans Forster an Ulrich Becher, 1977",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1233073044" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284358534",
+    "gnd": "https:\/\/d-nb.info\/1284358534"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284358534",
+  "iiif-manifest": ""
+}

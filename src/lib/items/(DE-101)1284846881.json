@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich (unvollständig)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118544551" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1970" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Ulrich Becher, Standadresse Basel, für wenige Tage",
+    "Vorliegende Namensform Adressat: Herrn Cheflektor Peter Härtling, S. Fischer Verlag, Frankfurt am Main"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0400",
+  "title": "Ulrich Becher an Peter Härtling, 1970",
+  "content": [  ],
+  "recipient": [ "Peter Härtling" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284846881",
+    "gnd": "https:\/\/d-nb.info\/1284846881"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284846881",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Hans Pavel" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Bayerisches Staatsschauspiel" ],
+  "lang": [  ],
+  "date": [ "1958" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Bayerisches Staatsschauspiel, Dramaturgie" ],
+  "signature": "DEA-B-3-1-0017.B.01.3011",
+  "title": "Bayerisches Staatsschauspiel an Ulrich Becher, 1958",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1011569-9" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284519732",
+    "gnd": "https:\/\/d-nb.info\/1284519732"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284519732",
+  "iiif-manifest": ""
+}

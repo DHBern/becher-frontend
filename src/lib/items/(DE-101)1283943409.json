@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "16 Blatt maschinenschriftlich und anderes. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 32,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0012",
+  "title": "Abseits vom Rodeo, [Novelle] - Wenn einer sich einbildet ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943409",
+    "gnd": "https:\/\/d-nb.info\/1283943409"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943409_00000180.tif\/info.json",
+  "category": 10260,
+  "key": "(DE-101)1283943409",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/636b116f-6b6c-4bcc-8d13-45d83bf0d55b\/"
+}

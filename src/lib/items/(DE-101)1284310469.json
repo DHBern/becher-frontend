@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Fritz Stapenhorst" ],
+  "lang": [  ],
+  "date": [ "1981" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.01.1772",
+  "title": "Fritz Stapenhorst an Dana Roda Becher, Ulrich Becher, 1981",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher", "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1062262328" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284310469",
+    "gnd": "https:\/\/d-nb.info\/1284310469"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284310469",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "12 Blatt und 3 Hefte = 15 Einheiten Druck und anderes. Teilweise Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1958" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.C.03.0006",
+  "title": "Konvolut von Erinnerungsstücken",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284905381",
+    "gnd": "https:\/\/d-nb.info\/1284905381"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30340,
+  "key": "(DE-101)1284905381",
+  "iiif-manifest": ""
+}

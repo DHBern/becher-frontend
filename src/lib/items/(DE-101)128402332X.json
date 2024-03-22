@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt, 27,5 x 21,5 cm" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.03.0019",
+  "title": "Ohne Titel, [Zeichnung, Person]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128402332X",
+    "gnd": "https:\/\/d-nb.info\/128402332X"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10800,
+  "key": "(DE-101)128402332X",
+  "iiif-manifest": ""
+}

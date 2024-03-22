@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Leopold Herrmann" ],
+  "lang": [  ],
+  "date": [ "1958" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotografen: Leopold Herrmann, České Budějovice" ],
+  "signature": "DEA-B-3-1-0017.D.02.0022",
+  "title": "Szenenfotografie des Theaterstücks Mademoiselle Löwenzorn (České Budějovice)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237657962" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284930203",
+    "gnd": "https:\/\/d-nb.info\/1284930203"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1284930203",
+  "iiif-manifest": ""
+}

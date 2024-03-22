@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift  (Xerox). Im Auftrag geschrieben von Edward Dvoretzky" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "University of Iowa" ],
+  "lang": [  ],
+  "date": [ "1978" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: University of Iowa, Iowa City, Iowa, Department of German" ],
+  "signature": "DEA-B-3-1-0017.B.01.3554",
+  "title": "University of Iowa an Ulrich Becher, 1978",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1011964-4" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284731502",
+    "gnd": "https:\/\/d-nb.info\/1284731502"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284731502",
+  "iiif-manifest": ""
+}

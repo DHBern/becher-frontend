@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "36 Blatt = 36 Einheiten handschriftlich und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1951" ],
+  "encl": [  ],
+  "note": [ "Betrifft: unter anderem auch Wieland Herzfelde, Anja Becher (beide Blatt 35)" ],
+  "signature": "DEA-B-3-1-0017.C.03.0004",
+  "title": "Konvolut von allgemeinen und privaten Notizen",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284905047",
+    "gnd": "https:\/\/d-nb.info\/1284905047"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30340,
+  "key": "(DE-101)1284905047",
+  "iiif-manifest": ""
+}

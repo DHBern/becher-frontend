@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag. Mit Unterschrift" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0002",
+  "title": "Affidavit, von James I. Ellmann",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284895718",
+    "gnd": "https:\/\/d-nb.info\/1284895718"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284895718",
+  "iiif-manifest": ""
+}

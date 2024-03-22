@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "Seite 20-21, in Heft. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "encl": [  ],
+  "note": [ "Buenos Aires ist Verlagsort" ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0011",
+  "title": "Zehn Jahre",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284015726",
+    "gnd": "https:\/\/d-nb.info\/1284015726"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40140,
+  "key": "(DE-101)1284015726",
+  "iiif-manifest": ""
+}

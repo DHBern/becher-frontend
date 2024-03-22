@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "32 Blatt maschinenschriftlich mit Korrekturen, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Elizabeth Krukowski" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0026",
+  "title": "An Epic Journey to Brazil, the Exile Poems of Julian Tuwim and Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216207534" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284939758",
+    "gnd": "https:\/\/d-nb.info\/1284939758"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1284939758",
+  "iiif-manifest": ""
+}

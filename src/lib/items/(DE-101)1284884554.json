@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086", "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Frida Hahn" ],
+  "lang": [  ],
+  "date": [ "1947" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.04.0097",
+  "title": "Frida Hahn an Elise Becher-Ulrich, Richard Becher, 1947",
+  "content": [  ],
+  "recipient": [ "Elise Becher-Ulrich", "Richard Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219332518" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284884554",
+    "gnd": "https:\/\/d-nb.info\/1284884554"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284884554",
+  "iiif-manifest": ""
+}

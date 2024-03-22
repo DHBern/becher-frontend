@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich vervielfältigt" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Austro-Mechana, Gesellschaft zur Wahrung Mechanisch-Musikalischer Urheberrechte" ],
+  "lang": [  ],
+  "date": [ "1969" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Austro-Mechana, Gesellschaft zur Verwaltung und Auswertung Mechanisch-Musikalischer Urheberrechte" ],
+  "signature": "DEA-B-3-1-0017.B.01.2497",
+  "title": "Austro-Mechana, Gesellschaft zur Wahrung Mechanisch-Musikalischer Urheberrechte an Ulrich Becher, 1969",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/414325-5" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284382303",
+    "gnd": "https:\/\/d-nb.info\/1284382303"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284382303",
+  "iiif-manifest": ""
+}

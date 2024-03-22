@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "12 Blatt Druck mit Korrekturen, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0005",
+  "title": "Eskapade",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284015238",
+    "gnd": "https:\/\/d-nb.info\/1284015238"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40110,
+  "key": "(DE-101)1284015238",
+  "iiif-manifest": ""
+}

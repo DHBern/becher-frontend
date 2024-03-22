@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift auf Vordruck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform dokumentierte Person: Marie Dana Becher" ],
+  "signature": "DEA-B-3-1-0017.C.02.0031",
+  "title": "Atestado de vacinação [..., Impfschein]",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894606",
+    "gnd": "https:\/\/d-nb.info\/1284894606"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30220,
+  "key": "(DE-101)1284894606",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c6915689-b8ed-420d-a196-447bd28648ea\/"
+}

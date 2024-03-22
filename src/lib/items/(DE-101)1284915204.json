@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.C.04.02.0005",
+  "title": "Konvolut von Fotografien Ulrich Becher und Andere, Sequenz",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284915204",
+    "gnd": "https:\/\/d-nb.info\/1284915204"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284915204",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/5d9ad939-8c6a-4899-9424-0ca72d4f3e59\/"
+}

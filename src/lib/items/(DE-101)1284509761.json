@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich vervielfältigt mit Unterschrift (unleserlich)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Argus der Presse AG" ],
+  "lang": [  ],
+  "date": [ "1936" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Internationaler Argus der Presse A.G., Zeitungsausschnitte und Übersetzungen, Genf",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Argus International de la Presse S.A., Le Directeur"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.2906",
+  "title": "Argus der Presse AG an Ulrich Becher, 1936",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1086161424" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284509761",
+    "gnd": "https:\/\/d-nb.info\/1284509761"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284509761",
+  "iiif-manifest": ""
+}

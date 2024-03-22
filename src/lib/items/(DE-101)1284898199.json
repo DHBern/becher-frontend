@@ -1,0 +1,30 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Richard Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "encl": [  ],
+  "note": [
+    "Reproduktion von: Fragment",
+    "Verfasser ist vermutlich Richard Becher, Adressat ist vermutlich Ulrich Becher",
+    "Betrifft: unter anderem Dank an Arnold Wolfers, wegen Empfehlung"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0015",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284898199",
+    "gnd": "https:\/\/d-nb.info\/1284898199"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284898199",
+  "iiif-manifest": ""
+}

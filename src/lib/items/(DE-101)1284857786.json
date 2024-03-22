@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Uli Becher",
+    "Vorliegende Namensform Verfasser: Eure alte Dana Rodatochter"
+  ],
+  "signature": "SLA-UB-B-3-290 SLA-UB-B-3-BECHM-_RODA",
+  "title": "Dana Roda Becher an Alexander Roda Roda, Elsbeth Roda Roda, 1943",
+  "content": [  ],
+  "recipient": [ "Alexander Roda Roda", "Elsbeth Roda Roda" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284857786",
+    "gnd": "https:\/\/d-nb.info\/1284857786"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 203290,
+  "key": "(DE-101)1284857786",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d062e8e9-284f-431c-86c1-d2917a28c487\/"
+}

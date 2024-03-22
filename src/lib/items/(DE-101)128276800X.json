@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "17 Blatt = circa 17 Einheiten Druck. Teilweise Kopie" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.04.0002",
+  "title": "Konvolut von Zeitungsausschnitten mit Beiträgen über George Grosz",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128276800X",
+    "gnd": "https:\/\/d-nb.info\/128276800X"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40240,
+  "key": "(DE-101)128276800X",
+  "iiif-manifest": ""
+}

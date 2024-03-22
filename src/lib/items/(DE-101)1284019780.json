@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "53 Blatt = circa 53 Einheiten Druck. Teilweise Xerox, teilweise mit Korrekturen und Ergänzungen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1970" ],
+  "encl": [  ],
+  "note": [
+    "Im Konvolut sind teilweise Doppelexemplare etc. vorhanden",
+    "Auf einem Artikel vom 11. Januar 1970 zugleich Brief von Ulrich Becher an Heinz [Heinrich Maria Ledig-Rowohlt ?], maschinenschriftlich mit Unterschrift, zu: William's Ex-Casino, Die nicht so netten Geschichten"
+  ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0036",
+  "title": "Konvolut von Zeitungsausschnitten mit Beiträgen von Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284019780",
+    "gnd": "https:\/\/d-nb.info\/1284019780"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40100,
+  "key": "(DE-101)1284019780",
+  "iiif-manifest": ""
+}

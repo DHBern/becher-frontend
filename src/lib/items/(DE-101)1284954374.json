@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt Druck (Seite 719 einer Zeitschrift oder Zeitung)" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Klaus Mann" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Ulrich Becher: Die Eroberer; auch das Vorwort bzw. Geleitwort von Ernst Glaeser \"Die Kunst der Novelle\"" ],
+  "signature": "DEA-B-3-1-0017.D.04.0009",
+  "title": "Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118577158" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284954374",
+    "gnd": "https:\/\/d-nb.info\/1284954374"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40220,
+  "key": "(DE-101)1284954374",
+  "iiif-manifest": ""
+}

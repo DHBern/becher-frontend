@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Blatt = 6 Einheiten handschriftlich und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Blatt 6 verso: Stempel Österreichische Zensurstelle, Formular zur Subskription des Titels \"Der Hahn kräht vor Mitternacht\"" ],
+  "signature": "DEA-B-3-1-0017.C.03.0001",
+  "title": "Konvolut von Namenslisten, für Frei-Exemplare",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284904415",
+    "gnd": "https:\/\/d-nb.info\/1284904415"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30350,
+  "key": "(DE-101)1284904415",
+  "iiif-manifest": ""
+}

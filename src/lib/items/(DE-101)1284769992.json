@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag (beschädigt)" ],
+  "recipient_uri": [  ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1969" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.02.0019",
+  "title": "Ulrich Becher an , 1969",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284769992",
+    "gnd": "https:\/\/d-nb.info\/1284769992"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284769992",
+  "iiif-manifest": ""
+}

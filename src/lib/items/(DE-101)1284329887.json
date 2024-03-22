@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von \"Henriette\"" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Harro von Zeppelin" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-552 SLA-UB-B-4-563",
+  "title": "Harro von Zeppelin an Dana Roda Becher, 1937",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139357556" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284329887",
+    "gnd": "https:\/\/d-nb.info\/1284329887"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 203552,
+  "key": "(DE-101)1284329887",
+  "iiif-manifest": ""
+}

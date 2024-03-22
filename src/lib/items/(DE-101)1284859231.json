@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hede Buchwald" ],
+  "lang": [  ],
+  "date": [ "1934" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.04.0024",
+  "title": "Hede Buchwald an Elise Becher-Ulrich, 1934",
+  "content": [  ],
+  "recipient": [ "Elise Becher-Ulrich" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219331317" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284859231",
+    "gnd": "https:\/\/d-nb.info\/1284859231"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284859231",
+  "iiif-manifest": ""
+}

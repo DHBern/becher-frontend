@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift Constance Roy, [...] Miss Lewinski" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "International Rescue Committee" ],
+  "lang": [  ],
+  "date": [ "1945" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Anträge für Ulrich Bechers Eltern" ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0037",
+  "title": "Brief, [Beilage zur Sachakte USA-Einreise]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/4456301-2" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284904008",
+    "gnd": "https:\/\/d-nb.info\/1284904008"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284904008",
+  "iiif-manifest": ""
+}

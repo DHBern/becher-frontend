@@ -1,0 +1,30 @@
+{
+  "category_local_name": "",
+  "ext": [ "145 Seiten" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1985" ],
+  "encl": [  ],
+  "note": [
+    "Reproduktion von: Ungekürzte Ausgabe",
+    "Schriftenreihe: Fischer ; 5883",
+    "Der Band erschien unter dem Titel \"SIFF\" beim Benziger Verlag, Zürich, Köln"
+  ],
+  "signature": "DEA-B-3-1-0017.A.02.01.0006a",
+  "title": "Im Liliputanercafé",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284014304",
+    "gnd": "https:\/\/d-nb.info\/1284014304"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40400,
+  "key": "(DE-101)1284014304",
+  "iiif-manifest": ""
+}

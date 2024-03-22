@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1214667767" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Madame Addy-Frédérique" ],
+  "signature": "DEA-B-3-1-0017.B.02.0001",
+  "title": "Ulrich Becher an Addy-Frédérique, 1959",
+  "content": [  ],
+  "recipient": [ "Addy-Frédérique" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284766632",
+    "gnd": "https:\/\/d-nb.info\/1284766632"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284766632",
+  "iiif-manifest": ""
+}

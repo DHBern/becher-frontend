@@ -1,0 +1,32 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Anatole Eliacheff", "Société Artistique Cinématographique" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [
+    "geprägter Briefkopf: Société Artistique Cinématographique",
+    "geprägter Briefkopf: Arci Film Ltd.",
+    "Vorliegende Namensform Verfasser: Tolja"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.0471",
+  "title": "Anatole Eliacheff, Société Artistique Cinématographique, Arci Film Ltd. an Ulrich Becher, 1900",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215531591" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284110966",
+    "gnd": "https:\/\/d-nb.info\/1284110966"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284110966",
+  "iiif-manifest": ""
+}

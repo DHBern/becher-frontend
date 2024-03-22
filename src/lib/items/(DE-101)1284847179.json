@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116647485" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1970" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Herrn Prof. W. Girnus, Sinn und Form, Berlin" ],
+  "signature": "DEA-B-3-1-0017.B.02.0413",
+  "title": "Ulrich Becher an Wilhelm Girnus, 1970",
+  "content": [  ],
+  "recipient": [ "Wilhelm Girnus" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284847179",
+    "gnd": "https:\/\/d-nb.info\/1284847179"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284847179",
+  "iiif-manifest": ""
+}

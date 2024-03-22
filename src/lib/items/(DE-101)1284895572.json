@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich, von Lotta Loeb" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "International Rescue Committee" ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [ "Betrifft: unter anderem Visa-Befürwortung zu Ulrich Becher und Dana [Roda] Becher" ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0001",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/4456301-2" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284895572",
+    "gnd": "https:\/\/d-nb.info\/1284895572"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284895572",
+  "iiif-manifest": ""
+}

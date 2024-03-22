@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag. Verso: Ulrich Becher an Ernst Günter Engelhard, Kulturredaktion Frankfurt Rundschau20.06.1971" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118587331" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1971" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.02.0314",
+  "title": "Ulrich Becher an Robert Neumann, 1971",
+  "content": [  ],
+  "recipient": [ "Robert Neumann" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284803945",
+    "gnd": "https:\/\/d-nb.info\/1284803945"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284803945",
+  "iiif-manifest": ""
+}

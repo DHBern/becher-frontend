@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Robert Neumann" ],
+  "lang": [  ],
+  "date": [ "1963" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-432",
+  "title": "Robert Neumann an Dana Roda Becher, 1963",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118587331" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284233677",
+    "gnd": "https:\/\/d-nb.info\/1284233677"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 203432,
+  "key": "(DE-101)1284233677",
+  "iiif-manifest": ""
+}

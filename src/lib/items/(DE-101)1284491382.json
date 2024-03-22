@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Armin Schönberg. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Constanze" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Constanze, Redaktion",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Constanze-Verlag G.m.b.H. Hamburg"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.2626",
+  "title": "Constanze an Ulrich Becher, 1959",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284491382",
+    "gnd": "https:\/\/d-nb.info\/1284491382"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284491382",
+  "iiif-manifest": ""
+}

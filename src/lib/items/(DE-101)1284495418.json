@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von H. H. C[arwin]" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Felix Bloch Erben" ],
+  "lang": [  ],
+  "date": [ "1953" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Felix Bloch Erben, Verlag für Bühne, Film und Funk, Berlin und Baden-Baden",
+    "Vorliegende Namensform Adressat: Herrn Ulrich Becher, c\/o Universal Edition, Wien"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.2696",
+  "title": "Felix Bloch Erben an Ulrich Becher, 1953",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/504859-X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284495418",
+    "gnd": "https:\/\/d-nb.info\/1284495418"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284495418",
+  "iiif-manifest": ""
+}

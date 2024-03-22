@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Hannes Tannert" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Theater Baden-Baden" ],
+  "lang": [  ],
+  "date": [ "1956" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Theater der Stadt Baden-Baden, Der Intendant" ],
+  "signature": "DEA-B-3-1-0017.B.01.2504",
+  "title": "Theater Baden-Baden an Ulrich Becher, 1956",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2036687-5" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284382370",
+    "gnd": "https:\/\/d-nb.info\/1284382370"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284382370",
+  "iiif-manifest": ""
+}

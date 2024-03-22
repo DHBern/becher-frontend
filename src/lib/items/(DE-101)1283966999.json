@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "54 Blatt handschriftlich Durchschrift" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Rohmanuskript",
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Siff"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0067",
+  "title": "Hades-Telefonate",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283966999",
+    "gnd": "https:\/\/d-nb.info\/1283966999"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10170,
+  "key": "(DE-101)1283966999",
+  "iiif-manifest": ""
+}

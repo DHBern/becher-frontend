@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt = 3 Einheiten handschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Martin Ulrich" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.01.0010",
+  "title": "Konvolut von Briefen von Martin Ulrich [?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1236872320" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282763962",
+    "gnd": "https:\/\/d-nb.info\/1282763962"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30520,
+  "key": "(DE-101)1282763962",
+  "iiif-manifest": ""
+}

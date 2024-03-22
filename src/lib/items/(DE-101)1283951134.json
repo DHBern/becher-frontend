@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "20 Blatt handschriftlich und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1942" ],
+  "note": [ "Es handelt sich hierbei um Notizen und anderes" ],
+  "signature": "DEA-B-3-1-0017.A.01.04.0008",
+  "title": "SIFF, Selective Identification of Friend and Foe, [Sammelwerk] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283951134",
+    "gnd": "https:\/\/d-nb.info\/1283951134"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10610,
+  "key": "(DE-101)1283951134",
+  "iiif-manifest": ""
+}

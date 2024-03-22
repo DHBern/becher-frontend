@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Blatt maschinenschriftlich mit Korrekturen, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Uwe Naumann" ],
+  "lang": [  ],
+  "date": [ "1985" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0032",
+  "title": "Besprechung von Ulrich Becher, Im Liliputanercafé",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116900709" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940691",
+    "gnd": "https:\/\/d-nb.info\/1284940691"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1284940691",
+  "iiif-manifest": ""
+}

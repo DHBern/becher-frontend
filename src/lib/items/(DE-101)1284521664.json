@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von A. Schmidt" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "National-Zeitung (Basel). Feuilleton-Redaktion" ],
+  "lang": [  ],
+  "date": [ "1971" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: National-Zeitung, Redaktion" ],
+  "signature": "DEA-B-3-1-0017.B.01.3043",
+  "title": "National-Zeitung (Basel). Feuilleton-Redaktion an Ulrich Becher, 1971",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1086230175" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284521664",
+    "gnd": "https:\/\/d-nb.info\/1284521664"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284521664",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Theodor Sapper" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-3-474",
+  "title": "Theodor Sapper an Dana Roda Becher, 1960",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116805420" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128428624X",
+    "gnd": "https:\/\/d-nb.info\/128428624X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 203474,
+  "key": "(DE-101)128428624X",
+  "iiif-manifest": ""
+}

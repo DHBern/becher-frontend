@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Olga Roda" ],
+  "lang": [  ],
+  "date": [ "1963" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Apotheke Roda OHG, Inhaber: Mr. Olga Roda & Co., Bad Gleichenberg\/Steiermark" ],
+  "signature": "DEA-B-3-1-0017.B.01.1462",
+  "title": "Olga Roda an Dana Roda Becher, 1963",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121647396X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284260887",
+    "gnd": "https:\/\/d-nb.info\/1284260887"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284260887_00000010.tif\/info.json",
+  "category": 20100,
+  "key": "(DE-101)1284260887",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3a1486bc-10db-49f9-b7cc-013f8422c07c\/"
+}

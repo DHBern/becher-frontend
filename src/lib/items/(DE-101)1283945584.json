@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "5 Blatt maschinenschriftlicher Durchschlag und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Es handelt sich hierbei um Entwürfe für einen Klappentext und anderes" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0073",
+  "title": "William's Ex-Casino, [Roman] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283945584",
+    "gnd": "https:\/\/d-nb.info\/1283945584"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10250,
+  "key": "(DE-101)1283945584",
+  "iiif-manifest": ""
+}

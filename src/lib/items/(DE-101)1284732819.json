@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Silvia Fust. Mit Notizen von Ulrich Becher" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Verlag Huber Frauenfeld" ],
+  "lang": [  ],
+  "date": [ "1979" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Verlag Huber",
+    "Vorliegende Namensform Körperschaftlicher Verfasser: Verlag Huber Frauenfeld"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.3570",
+  "title": "Verlag Huber Frauenfeld an Ulrich Becher, 1979",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1036144682" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284732819",
+    "gnd": "https:\/\/d-nb.info\/1284732819"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284732819",
+  "iiif-manifest": ""
+}

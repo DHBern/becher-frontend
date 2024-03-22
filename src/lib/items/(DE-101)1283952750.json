@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "7 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 40,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0001",
+  "title": "Alles, was in meinem Andenken ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283952750",
+    "gnd": "https:\/\/d-nb.info\/1283952750"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283952750_00000260.tif\/info.json",
+  "category": 10160,
+  "key": "(DE-101)1283952750",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c7a5ee6a-1890-47fa-bad1-ce1a7a919727\/"
+}

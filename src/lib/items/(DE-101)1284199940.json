@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Anna Linke" ],
+  "lang": [  ],
+  "date": [ "1957" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Anna M. Linke" ],
+  "signature": "DEA-B-3-1-0017.B.01.1084",
+  "title": "Anna Linke an Ulrich Becher, 1957",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1133575420" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284199940",
+    "gnd": "https:\/\/d-nb.info\/1284199940"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284199940",
+  "iiif-manifest": ""
+}

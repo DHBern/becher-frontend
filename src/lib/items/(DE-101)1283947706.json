@@ -1,0 +1,30 @@
+{
+  "category_local_name": "",
+  "ext": [ "8 Blatt handschriftlich Durchschrift, von Dana Becher" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Fragment",
+    "Es handelt sich hierbei um einzelne Dialoge aus und um ein knappes Exposé zu Akt 1 bis 3",
+    "Erweiterter Titel des Theaterstücks: Der Gouverneur und der Andere (oder der Mamser)",
+    "Übergeordneter Titel des Theaterstücks: Spiele der alten Zeit"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0066",
+  "title": "Der Gouverneur und der Andere, Spiel in 3 Akten, [Theater-Projekt]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283947706",
+    "gnd": "https:\/\/d-nb.info\/1283947706"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10410,
+  "key": "(DE-101)1283947706",
+  "iiif-manifest": ""
+}

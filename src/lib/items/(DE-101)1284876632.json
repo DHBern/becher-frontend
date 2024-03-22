@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Harro von Zeppelin" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Lisi von Zeppelin" ],
+  "lang": [  ],
+  "date": [ "1955" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.04.0068",
+  "title": "Lisi von Zeppelin an Elsbeth Roda Roda, 1955",
+  "content": [  ],
+  "recipient": [ "Elsbeth Roda Roda" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1240212518" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284876632",
+    "gnd": "https:\/\/d-nb.info\/1284876632"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284876632",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/563617d5-b706-4876-a734-e322377ce467\/"
+}

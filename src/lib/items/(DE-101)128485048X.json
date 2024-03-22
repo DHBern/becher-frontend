@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich und handschriftlich" ],
+  "recipient_uri": [  ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1947" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: The Alrae, New York, NY", "Vorliegende Namensform Adressat: Dear Sir" ],
+  "signature": "DEA-B-3-1-0017.B.02.0492",
+  "title": "Ulrich Becher an , 1947",
+  "content": [  ],
+  "recipient": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128485048X",
+    "gnd": "https:\/\/d-nb.info\/128485048X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)128485048X",
+  "iiif-manifest": ""
+}

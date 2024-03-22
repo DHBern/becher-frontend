@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Heft (160 Seiten) maschinenschriftlich vervielfältigt, unvollständig. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1950" ],
+  "note": [
+    "Reproduktion von: Bühnenexemplar",
+    "Impressum: Für Deutschland ist das Aufführungsrecht [...] Felix Bloch Erben [...]"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0061",
+  "title": "Samba, [Theaterstück]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283947633",
+    "gnd": "https:\/\/d-nb.info\/1283947633"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10440,
+  "key": "(DE-101)1283947633",
+  "iiif-manifest": ""
+}

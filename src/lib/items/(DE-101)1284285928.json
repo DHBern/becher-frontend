@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Herbert Rosendorfer" ],
+  "lang": [  ],
+  "date": [ "1969" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.01.1615",
+  "title": "Herbert Rosendorfer an Dana Roda Becher, 1969",
+  "content": [  ],
+  "recipient": [ "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118602705" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284285928",
+    "gnd": "https:\/\/d-nb.info\/1284285928"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284285928",
+  "iiif-manifest": ""
+}

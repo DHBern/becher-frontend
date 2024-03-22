@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "7 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Unbekannt" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Reproduktion von: Abschrift" ],
+  "signature": "DEA-B-3-1-0017.D.03.0054",
+  "title": "Two reviews of Ulrich Becher's \"Niemand\"",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284949222",
+    "gnd": "https:\/\/d-nb.info\/1284949222"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1284949222",
+  "iiif-manifest": ""
+}

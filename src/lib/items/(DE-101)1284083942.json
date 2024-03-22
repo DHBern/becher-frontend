@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118544527" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ludwig Berger" ],
+  "lang": [  ],
+  "date": [ "1952" ],
+  "encl": [  ],
+  "note": [
+    "Betrifft: Ulrich Becher",
+    "Vorliegende Namensform Adressat: Dr. Haensel [vermutlich Carl Haensel?]"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.0335",
+  "title": "Ludwig Berger an Carl Haensel, 1952",
+  "content": [  ],
+  "recipient": [ "Carl Haensel" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118655957" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284083942",
+    "gnd": "https:\/\/d-nb.info\/1284083942"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284083942",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "James I. Ellmann" ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [
+    "Verfasst auf Briefpapier von Ellmann & Rosin, Law Offices",
+    "Betrifft: Visa-Angelegenheit Ulrich Becher und Dana Roda Becher; Gratulation zum Erhalt der Visa zur Immigration"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0035",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1232673714" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284903605",
+    "gnd": "https:\/\/d-nb.info\/1284903605"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284903605",
+  "iiif-manifest": ""
+}

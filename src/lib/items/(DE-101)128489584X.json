@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0003",
+  "title": "Biographical Data concerning Alien Visa Applicant",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489584X",
+    "gnd": "https:\/\/d-nb.info\/128489584X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)128489584X",
+  "iiif-manifest": ""
+}

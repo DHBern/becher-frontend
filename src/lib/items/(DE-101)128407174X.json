@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt handschriftlich mit Unterschrift. Mit maschinenschriftlichem Zusatz von Richard Becher" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 6,
+  "creator": [ "Elise Becher-Ulrich" ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Elise Becher" ],
+  "signature": "SLA-UB-B-2-058 SLA-UB-B-4-565",
+  "title": "Elise Becher-Ulrich an Ulrich Becher, 1944",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128407174X",
+    "gnd": "https:\/\/d-nb.info\/128407174X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128407174X_00000010.tif\/info.json",
+  "category": 201058,
+  "key": "(DE-101)128407174X",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/dd753670-b114-485b-8473-37c527b56a47\/"
+}

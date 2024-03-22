@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Freda Marie Agnes zu Dohna" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel der Fotografin: M. A. Gräfin zu Dohna Berlin [...]" ],
+  "signature": "DEA-B-3-1-0017.C.04.03.0001a",
+  "title": "Fotografie eines Wohnzimmers-Salons",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1238662528" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284916669",
+    "gnd": "https:\/\/d-nb.info\/1284916669"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284916669",
+  "iiif-manifest": ""
+}

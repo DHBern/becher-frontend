@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Blatt = 6 Einheiten handschriftlich auf Vordruck und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1942" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform dokumentierte Person: Ulryck Becher" ],
+  "signature": "DEA-B-3-1-0017.C.02.0034",
+  "title": "Konvolut von Rechnungen etc.",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284895181",
+    "gnd": "https:\/\/d-nb.info\/1284895181"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284895181",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/869135f1-d00e-4cca-8e73-f335c03f3aa3\/"
+}

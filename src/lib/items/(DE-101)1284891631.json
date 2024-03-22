@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt = 2 Einheiten Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [
+    "Mit Nennung unter anderem von Ulrich Becher",
+    "Veranstalter ist: Schweizerisches Hilfskomitee für notleidende Frauen und Kinder in Deutschland [Dem Hilfskomitee gehört unter anderem Frau Dr. Becher an, d.i. vermutlich Elise Becher-Ulrich]"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.0010",
+  "title": "Der Nächstenliebe eine Gasse!, [Programm einer Veranstaltung]",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284891631",
+    "gnd": "https:\/\/d-nb.info\/1284891631"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284891631",
+  "iiif-manifest": ""
+}

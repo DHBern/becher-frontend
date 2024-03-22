@@ -1,0 +1,30 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag. Mit Korrektur" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Alexander Roda Roda" ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [
+    "Reproduktion von: Fragment?",
+    "Verfasser ist vermutlich Alexander Roda Roda, Adressat ist vermutlich USA, Department of State, Visa Division",
+    "Betrifft: Aktualisierung und Richtigstellung von Angaben, unter anderem Adresse von Ulrich Becher und Dana [Roda] Becher in Brasilien"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0028",
+  "title": "To complete our delivered files, [Brief]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284902242",
+    "gnd": "https:\/\/d-nb.info\/1284902242"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284902242",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (unleserlich)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Der Autor, Berlin" ],
+  "lang": [  ],
+  "date": [ "1956" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Der Autor, Verlagsgesellschaft mit beschränkter Haftung, Organ des Verbandes Deutscher Bühnenschriftsteller und Bühnenkomponisten e.V., Berlin-Charlottenburg" ],
+  "signature": "DEA-B-3-1-0017.B.01.2498",
+  "title": "Der Autor, Berlin an Ulrich Becher, 1956",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284382311",
+    "gnd": "https:\/\/d-nb.info\/1284382311"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284382311",
+  "iiif-manifest": ""
+}

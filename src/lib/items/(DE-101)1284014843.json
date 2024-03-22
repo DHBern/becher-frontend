@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt, mit Zeichnung von Ulrich Becher. Mit handschriftlichem Kommentar verso" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Peter Preses" ],
+  "lang": [  ],
+  "date": [ "1946" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.02.01.0012",
+  "title": "Schutzumschlag zu Der Bockerer",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116282614" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284014843",
+    "gnd": "https:\/\/d-nb.info\/1284014843"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40400,
+  "key": "(DE-101)1284014843",
+  "iiif-manifest": ""
+}

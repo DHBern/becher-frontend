@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Möglicherweise handelt es sich um Ulrich Bechers Hund Paul, dessen Andenken das Werk \"Brasilianischer Romanzero\" gewidmet ist" ],
+  "signature": "DEA-B-3-1-0017.C.04.03.0009",
+  "title": "Fotografie eines Hundes",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284918076",
+    "gnd": "https:\/\/d-nb.info\/1284918076"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284918076",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/cce3f4b1-fd84-47f4-a6c2-c263f45623ef\/"
+}

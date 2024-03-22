@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118599194" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1969" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Herrn Marcel Reich-Ranicki, Hamburg" ],
+  "signature": "DEA-B-3-1-0017.B.02.0335",
+  "title": "Ulrich Becher an Marcel Reich-Ranicki, 1969",
+  "content": [  ],
+  "recipient": [ "Marcel Reich-Ranicki" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284804208",
+    "gnd": "https:\/\/d-nb.info\/1284804208"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284804208",
+  "iiif-manifest": ""
+}

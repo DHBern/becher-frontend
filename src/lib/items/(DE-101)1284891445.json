@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Rudolf Jeremias Kreutz" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [ "Betrifft: unter anderem Bemühung um Besprechung von Ulrich Bechers Büchern, Vertrag" ],
+  "signature": "DEA-B-3-1-0017.C.02.0009",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/124813739" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284891445",
+    "gnd": "https:\/\/d-nb.info\/1284891445"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284891445",
+  "iiif-manifest": ""
+}

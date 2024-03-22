@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt = 3 Einheiten Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Inhaber des Ex libris ist vermutlich Ulrich Becher" ],
+  "signature": "DEA-B-3-1-0017.C.02.0001",
+  "title": "Ex libris",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284890503",
+    "gnd": "https:\/\/d-nb.info\/1284890503"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284890503",
+  "iiif-manifest": ""
+}

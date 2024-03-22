@@ -1,0 +1,30 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Fragment",
+    "Es handelt sich um einen kurzen Dialog",
+    "Der Titel \"Münchner Brettlgenie\" wurde auf der Hauptunterlage gestrichen, nicht jedoch auf der Beilage",
+    "Weitere Titelangaben: Das Zitat (Aus dem Kapitel 'König Ödipus, Tragödie in einem Akt')"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0075",
+  "title": "Münchner Brettlgenie, [Theater-Projekt?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948087",
+    "gnd": "https:\/\/d-nb.info\/1283948087"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10410,
+  "key": "(DE-101)1283948087",
+  "iiif-manifest": ""
+}

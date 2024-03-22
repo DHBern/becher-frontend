@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Robert Neumann" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [
+    "Betrifft: unter anderem Ulrich Becher: Murmeljagd",
+    "Text ist lt. handschriftlicher Notiz von Robert Neumann als Rundfunk-Typoskript vorgesehen: Österreichischer Rundfunk, Sendung Weihnachtsumfrage"
+  ],
+  "signature": "DEA-B-3-1-0017.D.03.0033",
+  "title": "Drei Bücher von Österreichern ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118587331" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940799",
+    "gnd": "https:\/\/d-nb.info\/1284940799"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1284940799",
+  "iiif-manifest": ""
+}

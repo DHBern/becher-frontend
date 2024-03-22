@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Adelhart Fedrigoni von Etschthal" ],
+  "lang": [  ],
+  "date": [ "1936" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Stadtrat Dr. Adelhart Fedrigoni, Major i.R., Graz, Städtisches Jugendamt" ],
+  "signature": "DEA-B-3-1-0017.B.01.0500",
+  "title": "Adelhart Fedrigoni von Etschthal an Ulrich Becher, 1936",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215532806" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128411287X",
+    "gnd": "https:\/\/d-nb.info\/128411287X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)128411287X",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "113 Blatt maschinenschriftlicher Durchschlag (Vorhandene Zählung: 1-110, darin Einfügungen alphanum.). Mit handschriftlichen und maschinenschriftlichen Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Druckfassung" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0016",
+  "title": "Das Herz des Hais, [Roman]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943522",
+    "gnd": "https:\/\/d-nb.info\/1283943522"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10270,
+  "key": "(DE-101)1283943522",
+  "iiif-manifest": ""
+}

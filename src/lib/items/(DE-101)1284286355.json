@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Theodor Sapper" ],
+  "lang": [  ],
+  "date": [ "1962" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: The." ],
+  "signature": "SLA-UB-B-2-202",
+  "title": "Theodor Sapper an Ulrich Becher, 1962",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116805420" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284286355",
+    "gnd": "https:\/\/d-nb.info\/1284286355"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201202,
+  "key": "(DE-101)1284286355",
+  "iiif-manifest": ""
+}

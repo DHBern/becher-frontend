@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "4 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Trudi Nielsen-Marti" ],
+  "lang": [  ],
+  "date": [ "1974" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.01.1337",
+  "title": "Trudi Nielsen-Marti an Ulrich Becher, 1974",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216356211" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128423472X",
+    "gnd": "https:\/\/d-nb.info\/128423472X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)128423472X",
+  "iiif-manifest": ""
+}

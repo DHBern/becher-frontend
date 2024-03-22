@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "9 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Foto-Stachowski" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotostudios: Foto-Stachowski Bautzen [...]" ],
+  "signature": "DEA-B-3-1-0017.D.02.0029",
+  "title": "Konvolut von Szenenfotografien des Theaterstücks Samba (Bautzen)",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282792334",
+    "gnd": "https:\/\/d-nb.info\/1282792334"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1282792334",
+  "iiif-manifest": ""
+}

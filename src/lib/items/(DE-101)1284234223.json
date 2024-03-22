@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Jürgen Neven-DuMont", "Hessischer Rundfunk" ],
+  "lang": [  ],
+  "date": [ "1958" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Jürgen Neven-du Mont, c\/o Hessischer Rundfunk, Abtl. Fernsehen\/Aktuelles" ],
+  "signature": "DEA-B-3-1-0017.B.01.1327",
+  "title": "Jürgen Neven-DuMont, Hessischer Rundfunk an Ulrich Becher, 1958",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/138522154", "https:\/\/d-nb.info\/gnd\/1009716-8" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284234223",
+    "gnd": "https:\/\/d-nb.info\/1284234223"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284234223",
+  "iiif-manifest": ""
+}

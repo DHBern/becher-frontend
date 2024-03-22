@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Olavo Bilac" ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.01.0002",
+  "title": "Meiner Mutter!, Sonett",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121751961" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284922804",
+    "gnd": "https:\/\/d-nb.info\/1284922804"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284922804",
+  "iiif-manifest": ""
+}

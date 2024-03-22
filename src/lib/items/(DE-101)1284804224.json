@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/119009560" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1980" ],
+  "encl": [  ],
+  "note": [
+    "Vorliegende Namensform Adressat: Herrn Egon Karter, Reiss AG Basel",
+    "Dasselbe: maschinenschriftlicher Durchschlag"
+  ],
+  "signature": "SLA-UB-B-1-019",
+  "title": "Ulrich Becher an Egon Karter, 1980",
+  "content": [  ],
+  "recipient": [ "Egon Karter" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284804224",
+    "gnd": "https:\/\/d-nb.info\/1284804224"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201019,
+  "key": "(DE-101)1284804224",
+  "iiif-manifest": ""
+}

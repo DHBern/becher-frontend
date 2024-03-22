@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "27 Blatt handschriftlich und anderes. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 54,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0008",
+  "title": "Abseits vom Rodeo, [Novelle] - ... [unleserlich, Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943336",
+    "gnd": "https:\/\/d-nb.info\/1283943336"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943336_00000240.tif\/info.json",
+  "category": 10260,
+  "key": "(DE-101)1283943336",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/2ee60aca-0152-421f-a0a1-9fc07dae2436\/"
+}

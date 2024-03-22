@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Richard Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "encl": [  ],
+  "note": [
+    "Adressat ist vermutlich Tschechoslowakei, Vyslanectvi, Brasilien",
+    "Betrifft: unter anderem Verlängerung oder Neuausstellung von Ulrich Bechers Pass"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.0028",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894290",
+    "gnd": "https:\/\/d-nb.info\/1284894290"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30220,
+  "key": "(DE-101)1284894290",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/197e5653-4722-40e0-975a-897ee894fa18\/"
+}

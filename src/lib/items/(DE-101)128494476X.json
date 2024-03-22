@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt maschinenschriftlich, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "J. M. Ph. Uitman" ],
+  "lang": [  ],
+  "date": [ "1979" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.03.0045",
+  "title": "Hein Kohn zum Abschied, Worte anlässlich seiner Feuerbestattung",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237929989" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128494476X",
+    "gnd": "https:\/\/d-nb.info\/128494476X"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)128494476X",
+  "iiif-manifest": ""
+}

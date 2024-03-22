@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Werner Leinfellner" ],
+  "lang": [  ],
+  "date": [ "1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-145",
+  "title": "Werner Leinfellner, Elisabeth Leinfellner an Ulrich Becher, 1961",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121446484" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284196488",
+    "gnd": "https:\/\/d-nb.info\/1284196488"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201145,
+  "key": "(DE-101)1284196488",
+  "iiif-manifest": ""
+}

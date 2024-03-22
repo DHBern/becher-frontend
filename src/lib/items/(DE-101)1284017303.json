@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt Druck, Xerox. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1945" ],
+  "encl": [  ],
+  "note": [ "New York ist Verlagsort" ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0025",
+  "title": "Richter Hudek",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284017303",
+    "gnd": "https:\/\/d-nb.info\/1284017303"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40110,
+  "key": "(DE-101)1284017303",
+  "iiif-manifest": ""
+}

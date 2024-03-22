@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag. Verso: Ulrich Becher an Guido Frei" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/120059541" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1972" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Mein junger Freund Diez" ],
+  "signature": "DEA-B-3-1-0017.B.02.0470",
+  "title": "Ulrich Becher an Dieter Bachmann, 1972",
+  "content": [  ],
+  "recipient": [ "Dieter Bachmann" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284849279",
+    "gnd": "https:\/\/d-nb.info\/1284849279"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284849279",
+  "iiif-manifest": ""
+}

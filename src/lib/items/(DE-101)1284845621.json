@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118787624" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1963" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: z.Zt. Ascona",
+    "Vorliegende Namensform Adressat: Herrn Dr. Raddatz, Rowohlt Verlag, Reinbek bei Hamburg"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0361",
+  "title": "Ulrich Becher an Fritz J. Raddatz, 1963",
+  "content": [  ],
+  "recipient": [ "Fritz J. Raddatz" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284845621",
+    "gnd": "https:\/\/d-nb.info\/1284845621"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284845621",
+  "iiif-manifest": ""
+}

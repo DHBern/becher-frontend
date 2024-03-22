@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "circa 23 Einheiten Druck, teilweise Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.04.0008",
+  "title": "Konvolut von Zeitungsausschnitten u. Ä. mit Beiträgen über Ulrich Becher, Brasilianischer Romanzero",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128279390X",
+    "gnd": "https:\/\/d-nb.info\/128279390X"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40220,
+  "key": "(DE-101)128279390X",
+  "iiif-manifest": ""
+}

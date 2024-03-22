@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107534641X" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1966" ],
+  "encl": [  ],
+  "note": [
+    "Betrifft: Rechtsangelegenheit",
+    "Vorliegende Namensform Adressat: Herrn Rechtsanwalt Dr. Eckert"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0192",
+  "title": "Ulrich Becher an Hans Eckert, 1966",
+  "content": [  ],
+  "recipient": [ "Hans Eckert" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284797872",
+    "gnd": "https:\/\/d-nb.info\/1284797872"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284797872",
+  "iiif-manifest": ""
+}

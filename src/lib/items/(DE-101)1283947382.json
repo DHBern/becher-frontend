@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "9 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Es handelt sich hierbei um eine Vorbemerkung zur Geschichte des \"Niemand\" sowie um Einzelblätter des Stücks" ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0053",
+  "title": "Niemand, [Theaterstück] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283947382",
+    "gnd": "https:\/\/d-nb.info\/1283947382"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10410,
+  "key": "(DE-101)1283947382",
+  "iiif-manifest": ""
+}

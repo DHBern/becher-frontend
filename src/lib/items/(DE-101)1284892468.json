@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1940" ],
+  "encl": [  ],
+  "note": [ "Verfügt von: Eidgenössische Fremdenpolizei" ],
+  "signature": "DEA-B-3-1-0017.C.02.0014",
+  "title": "Zustimmungsverfügung mit Frist zur Ausreise aus der Schweiz",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284892468",
+    "gnd": "https:\/\/d-nb.info\/1284892468"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284892468",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b2fab757-0351-4827-b377-29210f918455\/"
+}

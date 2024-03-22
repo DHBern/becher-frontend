@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift. Mit Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hans Habe" ],
+  "lang": [  ],
+  "date": [ "1969" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Casa Acacia" ],
+  "signature": "SLA-UB-B-2-117",
+  "title": "Hans Habe an Ulrich Becher, 1969",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118544136" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284131610",
+    "gnd": "https:\/\/d-nb.info\/1284131610"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201117,
+  "key": "(DE-101)1284131610",
+  "iiif-manifest": ""
+}

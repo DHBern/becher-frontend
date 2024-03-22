@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "14 Blatt = 14 Einheiten Druck, Kopie" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1991" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Übernahme des Nachlasses, resp. Teilnachlasses, von Ulrich Becher durch das Deutsche Exilarchiv 1933-1945" ],
+  "signature": "DEA-B-3-1-0017.C.03.0022",
+  "title": "Konvolut von Zeitungsausschnitten, [zu Nachlass-Übernahme]",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284907708",
+    "gnd": "https:\/\/d-nb.info\/1284907708"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30350,
+  "key": "(DE-101)1284907708",
+  "iiif-manifest": ""
+}

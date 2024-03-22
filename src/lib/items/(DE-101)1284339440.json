@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 gefaltetes Blatt handschriftlich mit Unterschrift. Mit maschinenschriftlichen Zusatz von Frederik" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Unbekannt" ],
+  "lang": [  ],
+  "date": [ "1965" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Chrysos" ],
+  "signature": "DEA-B-3-1-0017.B.01.2074",
+  "title": "Unbekannt an Ulrich Becher, 1965",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284339440",
+    "gnd": "https:\/\/d-nb.info\/1284339440"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284339440",
+  "iiif-manifest": ""
+}

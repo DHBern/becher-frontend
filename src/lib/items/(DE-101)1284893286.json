@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hermann M. Görgen" ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [
+    "Betrifft: Reise der Gruppe aus der Schweiz über Frankreich-Spanien nach Portugal",
+    "Vorliegende Namensform dokumentierte Person: Ulrych Becher; Dana Becher"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.0020",
+  "title": "Rundschreiben, [Brief, Gruppe Görgen]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119543907" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284893286",
+    "gnd": "https:\/\/d-nb.info\/1284893286"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30220,
+  "key": "(DE-101)1284893286",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/0b04532f-2af5-4a10-afde-3745608b315b\/"
+}

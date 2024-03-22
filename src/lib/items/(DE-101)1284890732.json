@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Heft (36 Seiten) handschriftlich auf Vordruck. Mit Foto" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1933" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform dokumentierte Person: Dana Roda Roda" ],
+  "signature": "DEA-B-3-1-0017.C.02.0003",
+  "title": "Zwischenstaatlicher Führerschein, N° 033820, Republik Österreich",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284890732",
+    "gnd": "https:\/\/d-nb.info\/1284890732"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284890732",
+  "iiif-manifest": ""
+}

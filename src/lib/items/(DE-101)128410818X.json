@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hans Dollinger" ],
+  "lang": [  ],
+  "date": [ "1967" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-085",
+  "title": "Hans Dollinger an Ulrich Becher, 1967",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116172789" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128410818X",
+    "gnd": "https:\/\/d-nb.info\/128410818X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201085,
+  "key": "(DE-101)128410818X",
+  "iiif-manifest": ""
+}

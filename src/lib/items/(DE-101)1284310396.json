@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hilde Spiel" ],
+  "lang": [  ],
+  "date": [ "1962" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-217",
+  "title": "Hilde Spiel an Ulrich Becher, 1962",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118751980" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284310396",
+    "gnd": "https:\/\/d-nb.info\/1284310396"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201217,
+  "key": "(DE-101)1284310396",
+  "iiif-manifest": ""
+}

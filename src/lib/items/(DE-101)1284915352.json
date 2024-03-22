@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Fritz Paul" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotografen: Fritz Paul, Photoreporter, DJV, Geismar-Göttingen [...]" ],
+  "signature": "DEA-B-3-1-0017.C.04.02.0007a",
+  "title": "Konvolut von Fotografien Ulrich Becher und Andere, Porträtaufnahmen-Sequenz [?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1111529590" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284915352",
+    "gnd": "https:\/\/d-nb.info\/1284915352"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284915352",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/7b16b49a-3582-4a27-b7ed-7fc2aa29d015\/"
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Franz Schmidt" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Volksstimme St. Gallen" ],
+  "lang": [  ],
+  "date": [ "1946" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Redaktion \"Volksstimme\" St. Gallen" ],
+  "signature": "DEA-B-3-1-0017.B.01.3654",
+  "title": "Volksstimme St. Gallen an Ulrich Becher, 1946",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284747565",
+    "gnd": "https:\/\/d-nb.info\/1284747565"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284747565",
+  "iiif-manifest": ""
+}

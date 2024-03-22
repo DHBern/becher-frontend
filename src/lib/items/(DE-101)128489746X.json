@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt, überwiegend maschinenschriftlicher Durchschlag auf Vordruck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "encl": [  ],
+  "note": [ "Neben Ulrich Becher und Dana [Roda] Becher sind zahlreiche Mitglieder der Familien Becher und Roda Roda dokumentiert" ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0012",
+  "title": "Biographical data concerning alien visa applicant, Department of State, Visa Division",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489746X",
+    "gnd": "https:\/\/d-nb.info\/128489746X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)128489746X",
+  "iiif-manifest": ""
+}

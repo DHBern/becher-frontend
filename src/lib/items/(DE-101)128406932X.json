@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 4,
+  "creator": [ "Elise Becher-Ulrich" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-058 SLA-UB-B-4-565",
+  "title": "Elise Becher-Ulrich an Ulrich Becher, 1900",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128406932X",
+    "gnd": "https:\/\/d-nb.info\/128406932X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128406932X_00000010.tif\/info.json",
+  "category": 201058,
+  "key": "(DE-101)128406932X",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/dbbb8fa5-4f8d-41f5-91b9-9135b8311d29\/"
+}

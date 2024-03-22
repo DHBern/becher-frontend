@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Fotos schwarz\/weiß, teilweise Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Kurt Wyss" ],
+  "lang": [  ],
+  "date": [ "1970" ],
+  "encl": [  ],
+  "note": [ "Verso teils Stempel des Fotografen: [...] Kurt Wyss, diplomierter Photograph [...] Basel [...]" ],
+  "signature": "DEA-B-3-1-0017.C.04.01.0039",
+  "title": "Konvolut von Fotografien Ulrich Becher, Porträtaufnahmen-Sequenz, an Brunnen in Grünanlage",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121035921" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284914968",
+    "gnd": "https:\/\/d-nb.info\/1284914968"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284914968",
+  "iiif-manifest": ""
+}

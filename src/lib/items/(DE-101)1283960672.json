@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "5 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Veränderte Fassung",
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Unter die weisse Fahne! \/ von Paul Verdun"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0038",
+  "title": "Einigt Euch um Gottes Willen!",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283960672",
+    "gnd": "https:\/\/d-nb.info\/1283960672"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10610,
+  "key": "(DE-101)1283960672",
+  "iiif-manifest": ""
+}

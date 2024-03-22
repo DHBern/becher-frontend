@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 gefaltetes Blatt maschinenschriftlich mit Unterschrift auf Vordruck. Mit Unterschrift und Fingerabdruck von Ulrich Becher" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform dokumentierte Person: Hans Ulrich Becher" ],
+  "signature": "DEA-B-3-1-0017.C.02.0031a",
+  "title": "Alien registration receipt card, Registration Number 7773075, United States [...]",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894703",
+    "gnd": "https:\/\/d-nb.info\/1284894703"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284894703",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/6fc9bfba-8ba1-4918-a2e2-49c3058d6bff\/"
+}

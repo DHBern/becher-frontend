@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "4 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Lord Bertrand Rasser, Alfred Rasser zum 60."
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0007",
+  "title": "Auf seine Weise ...",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283953927",
+    "gnd": "https:\/\/d-nb.info\/1283953927"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10160,
+  "key": "(DE-101)1283953927",
+  "iiif-manifest": ""
+}

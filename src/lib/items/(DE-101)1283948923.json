@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "71 Blatt maschinenschriftlicher Durchschlag und anderes. Mit Zeichnungen und mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 144,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Arbeitsfassung?, Fragmente",
+    "Blatt 54 enthält: Notiz von Ulrich Becher für Axl Leskoschek"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0004",
+  "title": "Brasilianischer Romanzero, [Lyrik] - Ballade von den Hunden ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948923",
+    "gnd": "https:\/\/d-nb.info\/1283948923"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283948923_00000010.tif\/info.json",
+  "category": 10330,
+  "key": "(DE-101)1283948923",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/32a8e162-2ba3-4009-8ba9-8bff92c49779\/"
+}

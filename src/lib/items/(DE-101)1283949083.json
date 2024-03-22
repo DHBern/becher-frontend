@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "63 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 126,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.01.03.0006",
+  "title": "Franz Patenkindt, [Lyrik]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283949083",
+    "gnd": "https:\/\/d-nb.info\/1283949083"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283949083_00000010.tif\/info.json",
+  "category": 10340,
+  "key": "(DE-101)1283949083",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/160c7704-1aa3-4b7e-bc06-f71af68918e7\/"
+}

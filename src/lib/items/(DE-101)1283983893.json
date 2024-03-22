@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag. Mit Korrektur" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Fragment",
+    "Titel teilweise fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Miniplay Horvath"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0139",
+  "title": "Miniplay X. v. Y.",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283983893",
+    "gnd": "https:\/\/d-nb.info\/1283983893"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10150,
+  "key": "(DE-101)1283983893",
+  "iiif-manifest": ""
+}

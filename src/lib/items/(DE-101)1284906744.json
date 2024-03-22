@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich vervielfältigt und maschinenschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Basel-Stadt. Polizeidepartement. Fremdenpolizei" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Verlängerung von Heimatschriften" ],
+  "signature": "DEA-B-3-1-0017.C.03.0014",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1086201736" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284906744",
+    "gnd": "https:\/\/d-nb.info\/1284906744"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30340,
+  "key": "(DE-101)1284906744",
+  "iiif-manifest": ""
+}

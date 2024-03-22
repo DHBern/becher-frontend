@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Kosten seit ihrer Ankunft in Brasilien mit der Gruppe Görgen [Aufstellung vermutlich verfasst von Hermann M. Görgen]" ],
+  "signature": "DEA-B-3-1-0017.C.02.0026",
+  "title": "Aufstellung ab 11. Mai 1941 für Uli Becher, Dana Becher",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489407X",
+    "gnd": "https:\/\/d-nb.info\/128489407X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30220,
+  "key": "(DE-101)128489407X",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/7dc4a237-d817-4810-8f87-f1cbab526171\/"
+}

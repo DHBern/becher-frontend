@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Blatt maschinenschriftlich und anderes. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0037",
+  "title": "Einigt Euch um Gottes Willen!",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283960486",
+    "gnd": "https:\/\/d-nb.info\/1283960486"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10610,
+  "key": "(DE-101)1283960486",
+  "iiif-manifest": ""
+}

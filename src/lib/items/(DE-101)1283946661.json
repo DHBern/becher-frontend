@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich und handschriftlich von Dana Becher" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0040",
+  "title": "Mademoiselle Löwenzorn, [Theaterstück]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283946661",
+    "gnd": "https:\/\/d-nb.info\/1283946661"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10470,
+  "key": "(DE-101)1283946661",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1203753292" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1983" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Frau Heidi Sommerer, Lenos Verlag, Basel" ],
+  "signature": "DEA-B-3-1-0017.B.02.0271",
+  "title": "Ulrich Becher an Heidi Sommerer, 1983",
+  "content": [  ],
+  "recipient": [ "Heidi Sommerer" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284801705",
+    "gnd": "https:\/\/d-nb.info\/1284801705"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284801705",
+  "iiif-manifest": ""
+}

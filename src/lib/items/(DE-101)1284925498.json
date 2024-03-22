@@ -1,0 +1,39 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Heft (44 Blatt)" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1948" ],
+  "encl": [  ],
+  "note": [
+    "Eingeklebt in dem ALBUM sind Zeitungsausschnitte etc. zu\/von Ulrich Becher, außerdem folgende Korrespondenzstücke:",
+    "Brief Ulrich Becher an Elise Becher-Ulrich, 5. Januar 1950",
+    "Brief Aufbau-Verlag (Unleserlich) an Ulrich Becher, 12. Januar 1950",
+    "Brief Richard Becher an Vineta Verlag (Wolfgang Rosenberg), 19. Mai 1950",
+    "Brief Richard Becher an Buchdruckerei Volksstimme, 19. Mai 1950",
+    "Brief Ulrich Becher an Richard Becher und Elise Becher-Ulrich, ??. Februar 1952",
+    "Telegramm Ulrich Becher an Richard Becher und Elise Becher-Ulrich, 4. April 1952",
+    "Die BEILAGE enthält folgende Korrespondenzstücke:",
+    "Brief George Grosz an Ulrich Becher, Juni\/Juli 1942 [Abschrift]",
+    "Brief Buchdruckerei Volksstimme (Pugneth) an Elise Becher-Ulrich, 12. Mai 1950",
+    "Brief Buchdruckerei Volksstimme (Pugneth) an Richard Becher, 22. Mai 1950",
+    "Postkarte Ulrich Becher an Richard Becher und Elise Becher-Ulrich, 4. August 1951"
+  ],
+  "signature": "DEA-B-3-1-0017.D.01.01.0013",
+  "title": "Ulis Arbeiten, [Album]",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284925498",
+    "gnd": "https:\/\/d-nb.info\/1284925498"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30520,
+  "key": "(DE-101)1284925498",
+  "iiif-manifest": ""
+}

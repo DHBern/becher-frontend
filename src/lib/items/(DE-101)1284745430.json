@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (unleserlich)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Verlag Ullstein" ],
+  "lang": [  ],
+  "date": [ "1935" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Verlag Ullstein, Abt. Buch- und Zeitschriften-Vertrieb" ],
+  "signature": "DEA-B-3-1-0017.B.01.3641",
+  "title": "Verlag Ullstein an Richard Becher, 1935",
+  "content": [  ],
+  "recipient": [ "Richard Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123472-9" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284745430",
+    "gnd": "https:\/\/d-nb.info\/1284745430"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284745430",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "5 Blatt = 2 Einheiten maschinenschriftlicher Durchschlag und anderes, teilweise Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1946" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Kontroverse Torberg .\/. Becher-Preses wegen \"Der Neidinger\"" ],
+  "signature": "DEA-B-3-1-0017.C.02.0036",
+  "title": "Konvolut von Dokumenten und Unterlagen, Juristisches",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284895440",
+    "gnd": "https:\/\/d-nb.info\/1284895440"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284895440",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/06216fd5-7ecf-4328-bcb5-01a46e02d866\/"
+}

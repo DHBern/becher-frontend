@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "7 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Jaroslav Mikulášek" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotografen: [...] Jaroslav Mikulášek, Jihlava [...]. - Und verso Angaben zu dem Theaterstück" ],
+  "signature": "DEA-B-3-1-0017.D.02.0024",
+  "title": "Konvolut von Szenenfotografien des Theaterstücks Mademoiselle Löwenzorn (Jihlava)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237663601" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282792105",
+    "gnd": "https:\/\/d-nb.info\/1282792105"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1282792105",
+  "iiif-manifest": ""
+}

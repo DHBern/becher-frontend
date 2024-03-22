@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1936" ],
+  "encl": [  ],
+  "note": [ "Es handelt sich hierbei vermutlich um die Einführung zu einer Lesung, wahrscheinlich aus \"Die Eroberer\" bzw. von \"Aufregende Nacht in der Pension\"" ],
+  "signature": "DEA-B-3-1-0017.C.02.0007",
+  "title": "Autobiographischer Abriss",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284891143",
+    "gnd": "https:\/\/d-nb.info\/1284891143"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284891143",
+  "iiif-manifest": ""
+}

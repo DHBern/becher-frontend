@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt Druck (Todesanzeige)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Pia Federspiel" ],
+  "lang": [  ],
+  "date": [ "1967" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Pia Rüdlinger-Federspiel" ],
+  "signature": "DEA-B-3-1-0017.B.01.1624",
+  "title": "Pia Federspiel an Ulrich Becher, 1967",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119288036" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284286045",
+    "gnd": "https:\/\/d-nb.info\/1284286045"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284286045",
+  "iiif-manifest": ""
+}

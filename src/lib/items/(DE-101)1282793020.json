@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "15 Blatt insgesamt = 5 Einheiten maschinenschriftlich Xerox und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Unbekannt" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [
+    "Sendereihe, teils: Die Bücherschwemme",
+    "Betrifft: Ulrich Becher: Murmeljagd, Das Profil, New Yorker Novellen, Kurz nach 4"
+  ],
+  "signature": "DEA-B-3-1-0017.D.03.0059",
+  "title": "Konvolut von Rundfunk-Typoskripten, ORF",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282793020",
+    "gnd": "https:\/\/d-nb.info\/1282793020"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1282793020",
+  "iiif-manifest": ""
+}

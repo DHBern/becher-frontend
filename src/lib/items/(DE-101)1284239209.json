@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 gefaltete Karte handschriftlich mit Unterschrift. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Eva Papadopoulos" ],
+  "lang": [  ],
+  "date": [ "1963" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.01.1363",
+  "title": "Eva Papadopoulos an Ulrich Becher, 1963",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216357528" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284239209",
+    "gnd": "https:\/\/d-nb.info\/1284239209"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284239209",
+  "iiif-manifest": ""
+}

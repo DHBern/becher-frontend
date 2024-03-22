@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 gefaltetes Blatt Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1950" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.02.0007",
+  "title": "Programm seines Theaterstücks Der Pfeifer von Wien",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284928594",
+    "gnd": "https:\/\/d-nb.info\/1284928594"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40230,
+  "key": "(DE-101)1284928594",
+  "iiif-manifest": ""
+}

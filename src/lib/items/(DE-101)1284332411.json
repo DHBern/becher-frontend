@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Alice Herdan-Zuckmayer" ],
+  "lang": [  ],
+  "date": [ "1955" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Liccie (Zuckmayer)" ],
+  "signature": "SLA-UB-B-2-123",
+  "title": "Alice Herdan-Zuckmayer an Ulrich Becher, 1955",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118549545" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284332411",
+    "gnd": "https:\/\/d-nb.info\/1284332411"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201123,
+  "key": "(DE-101)1284332411",
+  "iiif-manifest": ""
+}

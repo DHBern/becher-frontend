@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Maria Pierenkämper-Rowohlt" ],
+  "lang": [  ],
+  "date": [ "1987" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Maria Rowohlt" ],
+  "signature": "DEA-B-3-1-0017.B.01.1623",
+  "title": "Maria Pierenkämper-Rowohlt an Ulrich Becher, 1987",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116184620" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284286037",
+    "gnd": "https:\/\/d-nb.info\/1284286037"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284286037",
+  "iiif-manifest": ""
+}

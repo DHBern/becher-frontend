@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Fritz K. Mathys" ],
+  "lang": [  ],
+  "date": [ "1977" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Mathys" ],
+  "signature": "SLA-UB-B-2-162",
+  "title": "Fritz K. Mathys an Ulrich Becher, 1977",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/130154784" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284210162",
+    "gnd": "https:\/\/d-nb.info\/1284210162"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201162,
+  "key": "(DE-101)1284210162",
+  "iiif-manifest": ""
+}

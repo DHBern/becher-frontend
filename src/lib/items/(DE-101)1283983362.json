@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "10 Blatt maschinenschriftlicher Durchschlag mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Fragment" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0126",
+  "title": "Letzte Liebe, Novelle",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283983362",
+    "gnd": "https:\/\/d-nb.info\/1283983362"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10160,
+  "key": "(DE-101)1283983362",
+  "iiif-manifest": ""
+}

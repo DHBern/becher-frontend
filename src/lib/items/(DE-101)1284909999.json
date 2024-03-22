@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ruth Schramm" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel der Fotografin: [...] Ruth Schramm, München [...]" ],
+  "signature": "DEA-B-3-1-0017.C.04.01.0007",
+  "title": "Fotografie Ulrich Becher, Porträtaufnahme",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123460390X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284909999",
+    "gnd": "https:\/\/d-nb.info\/1284909999"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284909999",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/fb641884-ee68-46e3-8e45-74f86f713524\/"
+}

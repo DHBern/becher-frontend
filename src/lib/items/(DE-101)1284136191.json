@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Wieland Herzfelde", "Aurora-Verlag (New York, NY)" ],
+  "lang": [  ],
+  "date": [ "1948" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Aurora Press" ],
+  "signature": "SLA-UB-B-2-125",
+  "title": "Wieland Herzfelde, Aurora-Verlag (New York, NY) an Ulrich Becher, 1948",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118703951", "https:\/\/d-nb.info\/gnd\/2068250-5" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284136191",
+    "gnd": "https:\/\/d-nb.info\/1284136191"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201125,
+  "key": "(DE-101)1284136191",
+  "iiif-manifest": ""
+}

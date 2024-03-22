@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Alice Herdan-Zuckmayer" ],
+  "lang": [  ],
+  "date": [ "1938" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Verfasser: Liccie, Himmelstoss" ],
+  "signature": "SLA-UB-B-3-559",
+  "title": "Alice Herdan-Zuckmayer, Carl Zuckmayer an Ulrich Becher, Dana Roda Becher, 1938",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher", "Dana Roda Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118549545" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284331709",
+    "gnd": "https:\/\/d-nb.info\/1284331709"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 203559,
+  "key": "(DE-101)1284331709",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von ... Kunze, Verwaltungsdirektor" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Städtische Theater Leipzig" ],
+  "lang": [  ],
+  "date": [ "1957" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Städtische Theater Leipzig, Der Verwaltungsdirektor" ],
+  "signature": "DEA-B-3-1-0017.B.01.2949",
+  "title": "Städtische Theater Leipzig an Ulrich Becher, 1957",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2051542-X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284513912",
+    "gnd": "https:\/\/d-nb.info\/1284513912"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284513912",
+  "iiif-manifest": ""
+}

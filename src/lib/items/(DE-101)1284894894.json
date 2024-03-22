@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift auf Vordruck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform dokumentierte Person: Hans Ulrich Becher" ],
+  "signature": "DEA-B-3-1-0017.C.02.0031c",
+  "title": "Order to Report Preinduction Physical Examination, [Bescheid zur Musterung oder Vor-Musterung]",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894894",
+    "gnd": "https:\/\/d-nb.info\/1284894894"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284894894",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/dcaa4f64-f805-44b5-88b2-e5ecc19a15d3\/"
+}

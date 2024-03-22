@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "4 Blatt maschinenschriftlich, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hermann M. Görgen" ],
+  "lang": [  ],
+  "date": [ "1979" ],
+  "encl": [  ],
+  "note": [ "Betrifft: Reise der Gruppe aus der Schweiz über Frankreich-Spanien nach Portugal; historischer Kontext" ],
+  "signature": "DEA-B-3-1-0017.C.03.0019",
+  "title": "Wie der Vatikan uns rettete, [Kurz-Bericht, Gruppe Görgen]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119543907" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128490749X",
+    "gnd": "https:\/\/d-nb.info\/128490749X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30340,
+  "key": "(DE-101)128490749X",
+  "iiif-manifest": ""
+}

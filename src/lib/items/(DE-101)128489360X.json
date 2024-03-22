@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "8 Blatt = 8 Einheiten handschriftlich und anderes, darunter ein Röntgenbild" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1936" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.C.02.0023",
+  "title": "Konvolut von Dokumenten und Unterlagen, Medizinisches",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489360X",
+    "gnd": "https:\/\/d-nb.info\/128489360X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30220,
+  "key": "(DE-101)128489360X",
+  "iiif-manifest": ""
+}

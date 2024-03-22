@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "291 Blatt handschriftlich, maschinenschriftlich und maschinenschriftlicher Durchschlag, unvollständig (Vorhandene Zählung: 1-299, darin Einfügungen alphanum. und Auslassungen)" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 586,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1945" ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0026",
+  "title": "Murmeljagd, [Roman]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943808",
+    "gnd": "https:\/\/d-nb.info\/1283943808"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943808_00000010.tif\/info.json",
+  "category": 10230,
+  "key": "(DE-101)1283943808",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/e5bf17dd-7f3d-40d5-8a8f-b3c7f041323e\/"
+}

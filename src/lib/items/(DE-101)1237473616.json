@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "10 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [ "Willi Gasché" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotografen: [...] W. Gasché [...] Bern [...]" ],
+  "signature": "DEA-B-3-1-0017.D.02.0009",
+  "title": "Konvolut von Szenenfotografien des Theaterstücks Biene gib mir Honig [?]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/136352235" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237473616",
+    "gnd": "https:\/\/d-nb.info\/1237473616"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1237473616",
+  "iiif-manifest": ""
+}

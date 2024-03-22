@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "34 Blatt = circa 34 Einheiten Druck. Teilweise mit Korrekturen und Ergänzungen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [ "Im Konvolut sind teilweise Doppelexemplare etc. vorhanden" ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0034",
+  "title": "Konvolut von Zeitungsausschnitten mit Beiträgen von Ulrich Becher",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284019306",
+    "gnd": "https:\/\/d-nb.info\/1284019306"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40100,
+  "key": "(DE-101)1284019306",
+  "iiif-manifest": ""
+}

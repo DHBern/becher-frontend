@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift, unleserlich. Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Stadtgärtnerei und Friedhöfe (Basel)" ],
+  "lang": [  ],
+  "date": [ "1978" ],
+  "encl": [  ],
+  "note": [
+    "Betrifft: Grabstelle",
+    "Vorliegende Namensform dokumentierte Person: Richard Becher-Ulrich"
+  ],
+  "signature": "DEA-B-3-1-0017.D.01.01.0005",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2184200-0" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284923746",
+    "gnd": "https:\/\/d-nb.info\/1284923746"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284923746",
+  "iiif-manifest": ""
+}

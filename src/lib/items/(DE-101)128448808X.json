@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich und 1 Blatt maschinenschriftlich (Xerox) mit Unterschrift (unleserlich)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Volksbühne am Rosa-Luxemburg-Platz" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Volksbühne, Dramaturgie" ],
+  "signature": "DEA-B-3-1-0017.B.01.2578",
+  "title": "Volksbühne am Rosa-Luxemburg-Platz an Ulrich Becher, 1959",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/5197929-9" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128448808X",
+    "gnd": "https:\/\/d-nb.info\/128448808X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)128448808X",
+  "iiif-manifest": ""
+}

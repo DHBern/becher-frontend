@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt Druck" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "René Freund" ],
+  "lang": [  ],
+  "date": [ "1971" ],
+  "encl": [  ],
+  "note": [
+    "Betrifft: Geburtsanzeige der Schwester Natalie Freund",
+    "Vorliegende Namensform Verfasser: René Maximilian Freund"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.2277",
+  "title": "René Freund an Ulrich Becher, 1971",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/120744686" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284358585",
+    "gnd": "https:\/\/d-nb.info\/1284358585"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284358585",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Ernst Rowohlt" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ernst Rowohlt KG" ],
+  "lang": [  ],
+  "date": [ "1934" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Rowohlt Verlag GmbH, Berlin" ],
+  "signature": "DEA-B-3-1-0017.B.01.3131",
+  "title": "Ernst Rowohlt KG an Ulrich Becher, 1934",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1042067406" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284531546",
+    "gnd": "https:\/\/d-nb.info\/1284531546"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284531546",
+  "iiif-manifest": ""
+}

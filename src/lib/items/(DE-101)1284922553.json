@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Richard Becher" ],
+  "lang": [  ],
+  "date": [ "1936" ],
+  "encl": [  ],
+  "note": [ "Reproduktion von: Entwuf", "Verfasser ist vermutlich Richard Becher" ],
+  "signature": "DEA-B-3-1-0017.D.01.01.0001",
+  "title": "Ulrich Becher, geboren 1910 ... [Incipit, Lebenslauf]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284922553",
+    "gnd": "https:\/\/d-nb.info\/1284922553"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284922553",
+  "iiif-manifest": ""
+}

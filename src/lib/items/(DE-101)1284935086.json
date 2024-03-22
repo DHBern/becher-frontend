@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Blatt maschinenschriftlich, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ingeborg Drewitz" ],
+  "lang": [  ],
+  "date": [ "1976" ],
+  "encl": [  ],
+  "note": [ "Ingeborg Drewitz hat lediglich einen Teil des Typoskripts verfasst, zu Ulrich Becher: Kurz nach 4" ],
+  "signature": "DEA-B-3-1-0017.D.03.0010b",
+  "title": "Lesezeichen, Südfunk, [Rundfunk-Typoskript]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11852741X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284935086",
+    "gnd": "https:\/\/d-nb.info\/1284935086"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1284935086",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Renate von Loeben" ],
+  "lang": [  ],
+  "date": [ "1985" ],
+  "encl": [  ],
+  "note": [
+    "Verfasser vermutlich: Renate von Loeben, Monika von Loeben",
+    "Vorliegende Namensform Verfasser: von Deinen Prienern"
+  ],
+  "signature": "SLA-UB-B-2-153",
+  "title": "Renate von Loeben, Monika von Loeben an Ulrich Becher, 1985",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216278423" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284203034",
+    "gnd": "https:\/\/d-nb.info\/1284203034"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201153,
+  "key": "(DE-101)1284203034",
+  "iiif-manifest": ""
+}

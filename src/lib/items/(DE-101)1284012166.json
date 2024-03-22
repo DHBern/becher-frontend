@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Schreibblock-Teile (insgesamt 8 Blatt) handschriftlich, von Dana Becher" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten" ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0079",
+  "title": "Notizbuch zum Text Wotrubas Dohle",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284012166",
+    "gnd": "https:\/\/d-nb.info\/1284012166"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10700,
+  "key": "(DE-101)1284012166",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "E. Doubrava" ],
+  "lang": [  ],
+  "date": [ "1935" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotografen\/der Fotografin: E. Doubrava [...] Trenčianské Teplice" ],
+  "signature": "DEA-B-3-1-0017.C.04.03.0030",
+  "title": "Fotografie Alexander Roda Roda und Elsbeth Roda Roda",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123624639X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128492131X",
+    "gnd": "https:\/\/d-nb.info\/128492131X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)128492131X",
+  "iiif-manifest": ""
+}

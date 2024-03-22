@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Richard Becher" ],
+  "lang": [  ],
+  "date": [ "1947" ],
+  "encl": [  ],
+  "note": [
+    "Verfasser ist vermutlich Richard Becher",
+    "Verso Zeichnung, vermutlich von Martin Roda Becher"
+  ],
+  "signature": "DEA-B-3-1-0017.D.01.01.0004",
+  "title": "Zum Vertrag Uli-Continental, [Notiz]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284923517",
+    "gnd": "https:\/\/d-nb.info\/1284923517"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284923517",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich (unvollständig)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Fritz Stapenhorst", "Schmelzer & Stapenhorst GmbH & Co Film KG" ],
+  "lang": [  ],
+  "date": [ "1978" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Schmelzer & Stapenhorst GmbH & Co Film KG" ],
+  "signature": "DEA-B-3-1-0017.B.01.1771",
+  "title": "Fritz Stapenhorst, Schmelzer & Stapenhorst GmbH & Co Film KG an Ulrich Becher, 1978",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1062262328" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284310450",
+    "gnd": "https:\/\/d-nb.info\/1284310450"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284310450",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "8 Blatt = 5 Einheiten handschriftlich" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Die Notizen etc. stammen vermutlich aus der Großelterngeneration von Ulrich Becher" ],
+  "signature": "DEA-B-3-1-0017.D.01.01.0007",
+  "title": "Konvolut von Notizen etc.",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1236861779",
+    "gnd": "https:\/\/d-nb.info\/1236861779"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30520,
+  "key": "(DE-101)1236861779",
+  "iiif-manifest": ""
+}

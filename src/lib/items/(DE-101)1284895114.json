@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Band (61 Blatt) handschriftlich, von Ulrich Becher und von fremder Hand" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1941" ],
+  "encl": [  ],
+  "note": [ "Das Buch enthält unter anderem: Exil-Adressen von Walter Mehring" ],
+  "signature": "DEA-B-3-1-0017.C.02.0033",
+  "title": "Autographs, [d.i. Buch mit Adressen, Notizen und Zeichnungen]",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284895114",
+    "gnd": "https:\/\/d-nb.info\/1284895114"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284895114",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/b36fddc5-33bb-4807-bffa-16c5f3b328ea\/"
+}

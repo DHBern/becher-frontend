@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt = 3 Einheiten, je 21,5 x 28,0 cm bzw. 28,0 x 21,5 cm" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Titel fingiert aus Überlieferung",
+    "Angabe auf Blatt 1 verso: Titelzeichnung zum 'Neidinger'. Von Ulrich Becher"
+  ],
+  "signature": "DEA-B-3-1-0017.A.03.0003",
+  "title": "Der Bockerer, [Zeichnungen]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284020517",
+    "gnd": "https:\/\/d-nb.info\/1284020517"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10800,
+  "key": "(DE-101)1284020517",
+  "iiif-manifest": ""
+}

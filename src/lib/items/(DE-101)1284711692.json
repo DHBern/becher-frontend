@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Benno Meyer-Wehlack. Mit Zusätzen" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Südwestfunk" ],
+  "lang": [  ],
+  "date": [ "1959" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Südwestfunk, Abt. Fernsehspiel-Dramaturgie" ],
+  "signature": "DEA-B-3-1-0017.B.01.3422",
+  "title": "Südwestfunk an Ulrich Becher, 1959",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1009723-5" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284711692",
+    "gnd": "https:\/\/d-nb.info\/1284711692"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284711692",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (unleserlich)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Rowohlt Verlag" ],
+  "lang": [  ],
+  "date": [ "1962" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Rowohlt Verlag GmbH, Reinbek bei Hamburg",
+    "Vorliegende Namensform Adressat: Ulrich Becher, z. Zt. Hotel Regina, München"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.3224",
+  "title": "Rowohlt Verlag an Ulrich Becher, 1962",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2020049-3" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128455189X",
+    "gnd": "https:\/\/d-nb.info\/128455189X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)128455189X",
+  "iiif-manifest": ""
+}

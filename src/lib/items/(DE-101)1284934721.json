@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Lothar Creutz" ],
+  "lang": [  ],
+  "date": [ "1950" ],
+  "encl": [  ],
+  "note": [ "Verfasser ist vermutlich Lothar Creutz", "Sendereihe: Das neue Buch" ],
+  "signature": "DEA-B-3-1-0017.D.03.0010a",
+  "title": "\"Die Frau und der Tod\", Novelle von Ulrich Becher, [Rundfunk-Typoskript]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/137773943" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284934721",
+    "gnd": "https:\/\/d-nb.info\/1284934721"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1284934721",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift.  Mit handschriftlichem Zusatz von Elise Becher-Ulrich. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 4,
+  "creator": [ "Richard Becher" ],
+  "lang": [  ],
+  "date": [ "1945" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Hotel Central, Rio de Janeiro, Brasil" ],
+  "signature": "SLA-UB-B-2-058 SLA-UB-B-4-565",
+  "title": "Richard Becher an Ulrich Becher, 1945",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284072118",
+    "gnd": "https:\/\/d-nb.info\/1284072118"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284072118_00000010.tif\/info.json",
+  "category": 201058,
+  "key": "(DE-101)1284072118",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/c4ef98e5-aa57-48a5-a26e-0e90aca98a22\/"
+}

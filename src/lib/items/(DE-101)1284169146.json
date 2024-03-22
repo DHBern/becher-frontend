@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Karte Druck und handschriftlich mit Unterschrift \"Plattköpfchen\"" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Inez Koebner" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Coca-Cola" ],
+  "signature": "DEA-B-3-1-0017.B.01.0908",
+  "title": "Inez Koebner an Ulrich Becher, 1937",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219178098" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284169146",
+    "gnd": "https:\/\/d-nb.info\/1284169146"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284169146",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag. Und 1 Blatt handschriftliche Anmerkung von Dana Becher" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1965" ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0055",
+  "title": "Samba, [Theaterstück] - Neuer Schluss Samba ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283947528",
+    "gnd": "https:\/\/d-nb.info\/1283947528"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10440,
+  "key": "(DE-101)1283947528",
+  "iiif-manifest": ""
+}

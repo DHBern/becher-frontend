@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1219234842" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Ulrich Becher c.o. Zuck",
+    "Vorliegende Namensform Adressat: Lieber Mister Butsch"
+  ],
+  "signature": "DEA-B-3-1-0017.B.02.0503",
+  "title": "Ulrich Becher an ... Butsch, 1944",
+  "content": [  ],
+  "recipient": [ "... Butsch" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284851907",
+    "gnd": "https:\/\/d-nb.info\/1284851907"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284851907",
+  "iiif-manifest": ""
+}

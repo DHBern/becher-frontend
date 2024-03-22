@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 gefaltete Karte Druck und handschriftlich. Mit Einlegeblatt" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Österreich. Bundesministerium für Unterricht und Kunst" ],
+  "lang": [  ],
+  "date": [ "1955" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Der Bundesminister für Unterricht" ],
+  "signature": "DEA-B-3-1-0017.B.01.3067",
+  "title": "Österreich. Bundesministerium für Unterricht und Kunst an Ulrich Becher, 1955",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2029478-5" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284522482",
+    "gnd": "https:\/\/d-nb.info\/1284522482"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284522482",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "19 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "ORF, Abteilung Publizistik, Lichtbildstelle" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotostudios: ÖRF, Abteilung Publizistik, Lichtbildstelle Ing. Novak. - Und verso Angaben zu den Abgebildeten" ],
+  "signature": "DEA-B-3-1-0017.D.02.0013",
+  "title": "Konvolut von Szenenfotografien des Theaterstücks Der Bockerer (Wien, Fernsehspiel ORF)",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282791362",
+    "gnd": "https:\/\/d-nb.info\/1282791362"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1282791362",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/550d98e6-1505-447f-9d09-c7db49a0ec92\/"
+}

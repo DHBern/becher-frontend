@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt Druck und maschinenschriftlich. Mit Umschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Kürschners Deutscher Literatur-Kalender (Berlin)" ],
+  "lang": [  ],
+  "date": [ "1976" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: Kürschners Deutscher Literatur-Kalender, Verlag Walter de Gruyter, Berlin\/New York",
+    "Vorliegende Namensform Körperschaftlicher Verfasser auf dem Umschlag:  Kürschners Deutscher Literatur-Kalender, Redaktion"
+  ],
+  "signature": "DEA-B-3-1-0017.B.01.2926",
+  "title": "Kürschners Deutscher Literatur-Kalender (Berlin) an Ulrich Becher, 1976",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1086217691" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284511677",
+    "gnd": "https:\/\/d-nb.info\/1284511677"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284511677",
+  "iiif-manifest": ""
+}

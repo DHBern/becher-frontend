@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Frederick F. Fletcher" ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [ "Betrifft: unter anderem Hilfe bei etwaiger Verhandlung (Hearing) in Visa-Angelegenheit Ulrich Becher und Dana Roda Becher" ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0019",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1232842052" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284899403",
+    "gnd": "https:\/\/d-nb.info\/1284899403"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284899403",
+  "iiif-manifest": ""
+}

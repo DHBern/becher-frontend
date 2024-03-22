@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1940" ],
+  "encl": [  ],
+  "note": [
+    "Reproduktion von: Fragment",
+    "Betrifft: unter anderem Harro von Zeppelin, Einlagerung von Gegenständen aus der Familie auf Schloss Thalheim"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.0015",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489262X",
+    "gnd": "https:\/\/d-nb.info\/128489262X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)128489262X",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3368f4ed-4208-4041-be59-8daa8e223c80\/"
+}

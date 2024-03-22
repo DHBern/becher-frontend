@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116467797" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1967" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Herrn Günter Caspar, Aufbau Verlag, Berlin" ],
+  "signature": "SLA-UB-B-1-010",
+  "title": "Ulrich Becher an Günter Caspar, 1967",
+  "content": [  ],
+  "recipient": [ "Günter Caspar" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284769097",
+    "gnd": "https:\/\/d-nb.info\/1284769097"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201010,
+  "key": "(DE-101)1284769097",
+  "iiif-manifest": ""
+}

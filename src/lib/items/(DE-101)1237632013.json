@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "5 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [ "Hertha Schulda-Müller" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel der Fotografin: Foto-Schulda-Müller Wien [...]" ],
+  "signature": "DEA-B-3-1-0017.D.02.0017",
+  "title": "Konvolut von Szenenfotografien des Theaterstücks Feuerwasser (Wien)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237630452" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237632013",
+    "gnd": "https:\/\/d-nb.info\/1237632013"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1237632013",
+  "iiif-manifest": ""
+}

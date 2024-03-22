@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Richard Becher" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [
+    "Adressat ist vermutlich Alexander Roda Roda",
+    "Betrifft: unter anderem Einbürgerung von Ulrich Becher und Dana Roda Becher, Unterlagen"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.0011",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284891879",
+    "gnd": "https:\/\/d-nb.info\/1284891879"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284891879",
+  "iiif-manifest": ""
+}

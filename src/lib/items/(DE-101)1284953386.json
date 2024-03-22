@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt Druck. In Versand-Rolle" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1960" ],
+  "encl": [  ],
+  "note": [ "Auf dem Plakat sind auch zwei Fotos abgedruckt: das Eine zeigt Ulrich Becher mit Henry Miller, das Andere zeigt einen Band von \"Das Herz des Hais\"" ],
+  "signature": "DEA-B-3-1-0017.D.04.0002b",
+  "title": "Zusammenstellung von Pressestimmen über Ulrich Becher, Plakat des Benziger Verlags",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284953386",
+    "gnd": "https:\/\/d-nb.info\/1284953386"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40220,
+  "key": "(DE-101)1284953386",
+  "iiif-manifest": ""
+}

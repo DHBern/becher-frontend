@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1952" ],
+  "encl": [  ],
+  "note": [ "Verso handschriftlicher Text, Gruß von Carl Raddatz für Ulrich Becher" ],
+  "signature": "DEA-B-3-1-0017.D.02.0016",
+  "title": "Szenenfotografie seines Theaterstücks Feuerwasser (Göttingen)",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284929655",
+    "gnd": "https:\/\/d-nb.info\/1284929655"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)1284929655",
+  "iiif-manifest": ""
+}

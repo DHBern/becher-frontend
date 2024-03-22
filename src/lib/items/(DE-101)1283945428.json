@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Blatt maschinenschriftlich und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Reproduktion von: Entwürfe",
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem die Archivalien überliefert wurden)",
+    "Eigentlicher Titel der Archivalien: Emiles Excasino bzw. Rogers Ex-Casino"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.01.0069",
+  "title": "William's Ex-Casino, [Roman]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283945428",
+    "gnd": "https:\/\/d-nb.info\/1283945428"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10250,
+  "key": "(DE-101)1283945428",
+  "iiif-manifest": ""
+}

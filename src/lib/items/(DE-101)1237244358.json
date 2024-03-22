@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "29 Blatt = circa 29 Einheiten Druck" ],
+  "category_global_name": "",
+  "place": [  ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.01.04.0003",
+  "title": "Konvolut von Zeitungsausschnitten mit Beiträgen über George Grosz (George-Grosz-Ausstellung Berlin 1962)",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237244358",
+    "gnd": "https:\/\/d-nb.info\/1237244358"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40240,
+  "key": "(DE-101)1237244358",
+  "iiif-manifest": ""
+}

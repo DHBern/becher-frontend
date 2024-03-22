@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "11 Blatt Druck" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Nancy Anne Zeller" ],
+  "lang": [  ],
+  "date": [ "1992" ],
+  "encl": [  ],
+  "note": [
+    "Reproduktion von: Vermutlich Vorabdruck",
+    "Verfasser ist vermutlich Nancy Anne Zeller"
+  ],
+  "signature": "DEA-B-3-1-0017.C.03.0023",
+  "title": "Ulrich Becher, [Bibliographie]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1145571697" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284907767",
+    "gnd": "https:\/\/d-nb.info\/1284907767"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30350,
+  "key": "(DE-101)1284907767",
+  "iiif-manifest": ""
+}

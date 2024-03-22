@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt = 3 Einheiten maschinenschriftlich mit Unterschrift, Xerox" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1980" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.C.03.0020",
+  "title": "Konvolut von Dokumenten und Unterlagen, zu Verleihung Österreichisches Ehrenkreuz",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284907570",
+    "gnd": "https:\/\/d-nb.info\/1284907570"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30310,
+  "key": "(DE-101)1284907570",
+  "iiif-manifest": ""
+}

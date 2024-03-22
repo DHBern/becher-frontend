@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Esther Pfirter-Merkle" ],
+  "lang": [  ],
+  "date": [ "1974" ],
+  "encl": [  ],
+  "note": [ "Verso Angabe zur Fotografin, geschrieben von Dana Roda Becher: [...] Esther Pfirter, Basel [...] - Und verso weitere Angaben von Dana Roda Becher: Foto-Betitelung (Autor Ulrich Becher) sowie längerer handschriftlicher Text" ],
+  "signature": "DEA-B-3-1-0017.C.04.01.0040",
+  "title": "Fotografie Ulrich Becher, Porträtaufnahme, auf Stuhl mit Zeitung",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1220868035" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284914984",
+    "gnd": "https:\/\/d-nb.info\/1284914984"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284914984",
+  "iiif-manifest": ""
+}

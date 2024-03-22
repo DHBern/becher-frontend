@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "Seite 8-9, in Heft" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1946" ],
+  "encl": [  ],
+  "note": [ "New York ist Entstehungsort, Buenos Aires ist Verlagsort" ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0015",
+  "title": "Ein Nachwort zum Nürnberger Prozess [Fortsetzung und Schluss]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284016110",
+    "gnd": "https:\/\/d-nb.info\/1284016110"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40140,
+  "key": "(DE-101)1284016110",
+  "iiif-manifest": ""
+}

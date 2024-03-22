@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Arnold Wolfers" ],
+  "lang": [  ],
+  "date": [ "1943" ],
+  "encl": [  ],
+  "note": [
+    "Verfasst auf Briefpapier des Pierson College, Yale University",
+    "Betrifft: unter anderem geplantes Empfehlungsschreiben für Ulrich Becher"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0013",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119262819" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489777X",
+    "gnd": "https:\/\/d-nb.info\/128489777X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)128489777X",
+  "iiif-manifest": ""
+}

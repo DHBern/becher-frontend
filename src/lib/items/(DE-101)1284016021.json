@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "Seite 2 und Seite 6-8, in Heft" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1946" ],
+  "encl": [  ],
+  "note": [
+    "Adressat des offenen Briefs ist August Siemsen",
+    "New York ist Entstehungsort, Buenos Aires ist Verlagsort"
+  ],
+  "signature": "DEA-B-3-1-0017.A.02.02.0014",
+  "title": "Offener Brief, sowie Artikel Ein Nachwort zum Nürnberger Prozess [Anfang]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284016021",
+    "gnd": "https:\/\/d-nb.info\/1284016021"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40140,
+  "key": "(DE-101)1284016021",
+  "iiif-manifest": ""
+}

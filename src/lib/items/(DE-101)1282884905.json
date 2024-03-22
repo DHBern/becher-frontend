@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "22 Blatt" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.05.0003",
+  "title": "Konvolut von unbeschriebenen Ansichtskarten, Briefkarten, Postkarten u. Ä.",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282884905",
+    "gnd": "https:\/\/d-nb.info\/1282884905"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40600,
+  "key": "(DE-101)1282884905",
+  "iiif-manifest": ""
+}

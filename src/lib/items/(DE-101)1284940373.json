@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag. Mit handschriftlichen Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Walter Mehring" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [ "Reproduktion von: Fragment?", "Betrifft: Ulrich Becher: Reise zum Blauen Tag" ],
+  "signature": "DEA-B-3-1-0017.D.03.0030",
+  "title": "Zeiten grosser Zerstoerungen ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118579983" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284940373",
+    "gnd": "https:\/\/d-nb.info\/1284940373"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40210,
+  "key": "(DE-101)1284940373",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Günter Herburger" ],
+  "lang": [  ],
+  "date": [ "1975" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-122",
+  "title": "Günter Herburger an Ulrich Becher, 1975",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119015021" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284134873",
+    "gnd": "https:\/\/d-nb.info\/1284134873"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201122,
+  "key": "(DE-101)1284134873",
+  "iiif-manifest": ""
+}

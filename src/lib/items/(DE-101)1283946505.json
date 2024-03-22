@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "178 Blatt maschinenschriftlicher Durchschlag und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Frühere Fassung" ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0030",
+  "title": "Der Herr kommt aus Bahia, [Theaterstück] - Die Venda des Manoel ... [Incipit]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283946505",
+    "gnd": "https:\/\/d-nb.info\/1283946505"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10480,
+  "key": "(DE-101)1283946505",
+  "iiif-manifest": ""
+}

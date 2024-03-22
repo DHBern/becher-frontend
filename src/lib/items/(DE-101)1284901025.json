@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlicher Durchschlag" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Alexander Roda Roda" ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [
+    "Betrifft: Visa-Angelegenheit Ulrich Becher und Dana Roda Becher",
+    "Vorliegende Namensform dokumentierte Person: Ulrich Becher, Dana Becher-Roda Roda"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0024",
+  "title": "Brief",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284901025",
+    "gnd": "https:\/\/d-nb.info\/1284901025"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284901025",
+  "iiif-manifest": ""
+}

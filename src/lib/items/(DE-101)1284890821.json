@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift, unleserlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1935" ],
+  "encl": [  ],
+  "note": [ "Betrifft: unter anderem Abgabe seines Passes, Gesuch um Aufenthaltsbewilligung" ],
+  "signature": "DEA-B-3-1-0017.C.02.0004",
+  "title": "Bescheinigung, Gemeindekanzlei Steinen",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284890821",
+    "gnd": "https:\/\/d-nb.info\/1284890821"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284890821",
+  "iiif-manifest": ""
+}

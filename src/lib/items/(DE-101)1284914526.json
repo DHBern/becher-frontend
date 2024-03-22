@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Foto schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1948" ],
+  "encl": [  ],
+  "note": [ "Verso zwei Texte, in verschiedenen Handschriften: The strange World of 1948, George Orwell, His Animal Farm; U. Becher, Author [letzteres von Dana Roda Becher geschrieben]" ],
+  "signature": "DEA-B-3-1-0017.C.04.01.0030",
+  "title": "Fotografie Ulrich Becher, Porträtaufnahme",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284914526",
+    "gnd": "https:\/\/d-nb.info\/1284914526"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30420,
+  "key": "(DE-101)1284914526",
+  "iiif-manifest": ""
+}

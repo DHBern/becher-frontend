@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11900299X" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1972" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform Adressat: Herrn Harry Buckwitz, Direktor des Schauspielhauses Zürich" ],
+  "signature": "DEA-B-3-1-0017.B.02.0486",
+  "title": "Ulrich Becher an Harry Buckwitz, 1972",
+  "content": [  ],
+  "recipient": [ "Harry Buckwitz" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284850064",
+    "gnd": "https:\/\/d-nb.info\/1284850064"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20200,
+  "key": "(DE-101)1284850064",
+  "iiif-manifest": ""
+}

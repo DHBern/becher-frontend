@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von William Green, Editor" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Austro American Tribune, New York, N. Y." ],
+  "lang": [  ],
+  "date": [ "1945" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Austro American Tribune, Anti-Nazi Monthly" ],
+  "signature": "DEA-B-3-1-0017.B.01.2496",
+  "title": "Austro American Tribune, New York, N. Y. an Ulrich Becher, 1945",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128438229X",
+    "gnd": "https:\/\/d-nb.info\/128438229X"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)128438229X",
+  "iiif-manifest": ""
+}

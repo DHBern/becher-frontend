@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "4 Blatt = 4 Einheiten handschriftlich auf Vordruck und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1965" ],
+  "encl": [  ],
+  "note": [ "Betrifft: unter anderem Kirchensteuer" ],
+  "signature": "DEA-B-3-1-0017.C.03.0015",
+  "title": "Konvolut von Dokumenten und Unterlagen, Steuerliches",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284906930",
+    "gnd": "https:\/\/d-nb.info\/1284906930"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30340,
+  "key": "(DE-101)1284906930",
+  "iiif-manifest": ""
+}

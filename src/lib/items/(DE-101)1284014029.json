@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "23 Seiten. Mit handschriftlichen Kommentaren" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1962" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.A.02.01.0003",
+  "title": "Der große Grosz und eine große Zeit",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284014029",
+    "gnd": "https:\/\/d-nb.info\/1284014029"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40400,
+  "key": "(DE-101)1284014029",
+  "iiif-manifest": ""
+}

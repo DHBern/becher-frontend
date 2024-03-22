@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Benno Becher" ],
+  "lang": [  ],
+  "date": [ "1947" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.B.04.0074",
+  "title": "Benno Becher an Richard Becher, 1947",
+  "content": [  ],
+  "recipient": [ "Richard Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215294387" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284877566",
+    "gnd": "https:\/\/d-nb.info\/1284877566"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284877566",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/d20a333e-4a29-43a1-bc61-b3e0c235cbe5\/"
+}

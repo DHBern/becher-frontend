@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "6 Blatt = 6 Einheiten maschinenschriftlich auf Vordruck und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1944" ],
+  "encl": [  ],
+  "note": [ "Mitteilung vom 1. September 1944 betrifft auch: Karl [Carl] Zuckmayer, Barnard, Vermont" ],
+  "signature": "DEA-B-3-1-0017.C.02.0035",
+  "title": "Konvolut von Bank-Mitteilungen etc.",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284895343",
+    "gnd": "https:\/\/d-nb.info\/1284895343"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284895343",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/0ca58c8c-df6e-4d7d-ba06-5c62c7cdf9ac\/"
+}

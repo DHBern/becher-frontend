@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Band (68 Blatt) handschriftlich, auch von Dana Becher" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1979" ],
+  "note": [
+    "Beginnt mit Notizen zu den Texten: Elefanten ändern nichts; Franz Patenkindt",
+    "Enthält auch Notizen zu den Texten: Graben-Bajonette; Kirke (Projekt)",
+    "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.06.0006",
+  "title": "Notizbuch zum Text Abseits vom Rodeo",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284001997",
+    "gnd": "https:\/\/d-nb.info\/1284001997"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10700,
+  "key": "(DE-101)1284001997",
+  "iiif-manifest": ""
+}

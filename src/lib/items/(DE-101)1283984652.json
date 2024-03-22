@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "13 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [
+    "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
+    "Eigentlicher Titel des Archivales: Der Völkerkanzler"
+  ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0160",
+  "title": "Das Projekt einer k.u.k.u.k.u.k.u.k. Monarchie",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283984652",
+    "gnd": "https:\/\/d-nb.info\/1283984652"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10160,
+  "key": "(DE-101)1283984652",
+  "iiif-manifest": ""
+}

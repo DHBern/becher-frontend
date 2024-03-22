@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Elsbeth Roda Roda an Richard Becher" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Julius Roda" ],
+  "lang": [  ],
+  "date": [ "1937" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Österreich. Heimatschutz, Land Steiermark, Bezirksführung Bad Gleichenberg" ],
+  "signature": "DEA-B-3-1-0017.B.04.0042",
+  "title": "Julius Roda an Alexander Roda Roda, 1937",
+  "content": [  ],
+  "recipient": [ "Alexander Roda Roda" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/126310912" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284863549",
+    "gnd": "https:\/\/d-nb.info\/1284863549"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20300,
+  "key": "(DE-101)1284863549",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/056df940-bc76-42bc-b69e-c0fc763bd2fd\/"
+}

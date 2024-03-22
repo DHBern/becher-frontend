@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "12 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Reproduktion von: Neue Fassung" ],
+  "signature": "DEA-B-3-1-0017.A.01.05.0048",
+  "title": "Die Flieger",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283962365",
+    "gnd": "https:\/\/d-nb.info\/1283962365"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10140,
+  "key": "(DE-101)1283962365",
+  "iiif-manifest": ""
+}

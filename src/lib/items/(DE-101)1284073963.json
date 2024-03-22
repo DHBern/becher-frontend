@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": 2,
+  "creator": [ "Elise Becher-Ulrich" ],
+  "lang": [  ],
+  "date": [ "1961" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "SLA-UB-B-2-058 SLA-UB-B-4-565",
+  "title": "Elise Becher-Ulrich an Ulrich Becher, 1961",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284073963",
+    "gnd": "https:\/\/d-nb.info\/1284073963"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284073963_00000010.tif\/info.json",
+  "category": 201058,
+  "key": "(DE-101)1284073963",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/3f8bf8af-69a9-4166-a8f7-ebb8b7e2d1da\/"
+}

@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift  [Xerox]" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Uwe Kräuter" ],
+  "lang": [  ],
+  "date": [ "1982" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Uwe Kräuter, Friendship Hotel, Peking, Volksrep. China" ],
+  "signature": "DEA-B-3-1-0017.B.01.0916",
+  "title": "Uwe Kräuter an Ulrich Becher, 1982",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/109107675" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284169227",
+    "gnd": "https:\/\/d-nb.info\/1284169227"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284169227",
+  "iiif-manifest": ""
+}

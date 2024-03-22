@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "21 Blatt insgesamt maschinenschriftlich und anderes. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "note": [ "Es handelt sich hierbei um ein Exposé (1. Fassung, verschiedene Varianten, möglicherweise Film-Exposé) zu \"Feuerwasser\". Teilweise mit Impressum: Felix Bloch Erben" ],
+  "signature": "DEA-B-3-1-0017.A.01.02.0026",
+  "title": "Feuerwasser, deutschamerikanische Tragödie, [Theaterstück] - beiliegendes Material",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283946378",
+    "gnd": "https:\/\/d-nb.info\/1283946378"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10450,
+  "key": "(DE-101)1283946378",
+  "iiif-manifest": ""
+}

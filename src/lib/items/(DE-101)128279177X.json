@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [  ],
+  "signature": "DEA-B-3-1-0017.D.02.0020",
+  "title": "Konvolut von Szenenfotografien seines Theaterstücks Mademoiselle Löwenzorn",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128279177X",
+    "gnd": "https:\/\/d-nb.info\/128279177X"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)128279177X",
+  "iiif-manifest": ""
+}

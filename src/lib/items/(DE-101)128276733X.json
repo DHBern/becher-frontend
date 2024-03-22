@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "3 Blatt = 2 Einheiten maschinenschriftlich vervielfältigt und anderes" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Vorliegende Namensform dokumentierte Person: Martin Becher" ],
+  "signature": "DEA-B-3-1-0017.D.01.03.0010",
+  "title": "Konvolut von Lebensdokumenten Martin Roda Becher",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128276733X",
+    "gnd": "https:\/\/d-nb.info\/128276733X"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30550,
+  "key": "(DE-101)128276733X",
+  "iiif-manifest": ""
+}

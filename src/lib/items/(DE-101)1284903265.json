@@ -1,0 +1,29 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlicher Durchschlag und maschinenschriftlich" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [  ],
+  "lang": [  ],
+  "date": [ "1900" ],
+  "encl": [  ],
+  "note": [
+    "Betrifft: Visa-Angelegenheit Ulrich Becher und Dana [Roda] Becher, hier insbesondere Notiz zu ihrer politischen Einstellung und zu Bürgen",
+    "Dasselbe: 1 Blatt maschinenschriftlicher Durchschlag"
+  ],
+  "signature": "DEA-B-3-1-0017.C.02.01.0033",
+  "title": "Ergänzung biographischer und anderer Daten, [Brief-Beilage?]",
+  "content": [  ],
+  "creator_uri": [  ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284903265",
+    "gnd": "https:\/\/d-nb.info\/1284903265"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30230,
+  "key": "(DE-101)1284903265",
+  "iiif-manifest": ""
+}

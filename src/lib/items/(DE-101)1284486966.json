@@ -1,0 +1,28 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Hansjörg Schmitthenner" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Der Bayerische Rundfunk. Hörspielabteilung" ],
+  "lang": [  ],
+  "date": [ "1955" ],
+  "encl": [  ],
+  "note": [ "Briefkopf: Der Bayerische Rundfunk, Abteilung Hörspiel-Dramaturgie" ],
+  "signature": "DEA-B-3-1-0017.B.01.2538",
+  "title": "Der Bayerische Rundfunk. Hörspielabteilung an Ulrich Becher, 1955",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/507586-5" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284486966",
+    "gnd": "https:\/\/d-nb.info\/1284486966"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 20100,
+  "key": "(DE-101)1284486966",
+  "iiif-manifest": ""
+}

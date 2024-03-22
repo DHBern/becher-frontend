@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "2 Fotos schwarz\/weiß" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Fritz Paul" ],
+  "lang": [  ],
+  "date": [ "" ],
+  "encl": [  ],
+  "note": [ "Verso Stempel des Fotografen: Fritz Paul, Photoreporter, DJV, Geismar-Göttingen [...]" ],
+  "signature": "DEA-B-3-1-0017.D.02.0015",
+  "title": "Konvolut von Szenenfotografien des Theaterstücks Feuerwasser (Göttingen, Uraufführung)",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1111529590" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128279146X",
+    "gnd": "https:\/\/d-nb.info\/128279146X"
+  },
+  "type": "collItem",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 40250,
+  "key": "(DE-101)128279146X",
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/6b6cf52c-a39c-4545-9102-a6bf356f4b26\/"
+}

@@ -1,0 +1,31 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt maschinenschriftlich (Fragment)" ],
+  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Hans-Bernhard Moeller", "University of Texas. Department of Germanic Languages" ],
+  "lang": [  ],
+  "date": [ "1977" ],
+  "encl": [  ],
+  "note": [
+    "Briefkopf: The University of Texas at Austin, Department of Germanic Languages",
+    "Vorliegende Namensform Verfasser: H.-B. Moeller"
+  ],
+  "signature": "SLA-UB-B-2-172",
+  "title": "Hans-Bernhard Moeller, University of Texas. Department of Germanic Languages an Ulrich Becher, 1977",
+  "content": [  ],
+  "recipient": [ "Ulrich Becher" ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11708168X", "https:\/\/d-nb.info\/gnd\/5107538-6" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284231976",
+    "gnd": "https:\/\/d-nb.info\/1284231976"
+  },
+  "type": "letter",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 201172,
+  "key": "(DE-101)1284231976",
+  "iiif-manifest": ""
+}

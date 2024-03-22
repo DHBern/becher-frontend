@@ -1,0 +1,25 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Blatt, 29,7 x 20,9 cm" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Ulrich Becher" ],
+  "lang": [  ],
+  "date": [ "1935" ],
+  "note": [ "Die Zeichnung trägt den Text: Duce! Duce! Führer! Führer! Duce! Führer! Tötet! Tötet!! Tötet!!!" ],
+  "signature": "DEA-B-3-1-0017.A.03.0033",
+  "title": "Armes Europa, [Zeichnung, Mussolini und Hitler]",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284025276",
+    "gnd": "https:\/\/d-nb.info\/1284025276"
+  },
+  "type": "work",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 10800,
+  "key": "(DE-101)1284025276",
+  "iiif-manifest": ""
+}

@@ -1,0 +1,26 @@
+{
+  "category_local_name": "",
+  "ext": [ "1 Heft (IX, 75 Blatt) maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "category_global_name": "",
+  "place": [ "Leipzig", "Frankfurt am Main" ],
+  "ext_num": -1,
+  "creator": [ "Dana Roda Becher" ],
+  "lang": [  ],
+  "date": [ "1933" ],
+  "encl": [  ],
+  "note": [ "Titelangabe auf dem Umschlag des Heftes, teilweise gestrichen: Artur K. Korman: Ein Mann von mittlerer Intelligenz [Pseudonym und Titel von Alexander Roda Roda]" ],
+  "signature": "DEA-B-3-1-0017.C.02.0002",
+  "title": "Häusliche Prüfungsarbeit",
+  "content": [  ],
+  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "links": {
+    "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284890600",
+    "gnd": "https:\/\/d-nb.info\/1284890600"
+  },
+  "type": "lifeDoc",
+  "holding_institution": "DEA",
+  "iiif": "",
+  "category": 30210,
+  "key": "(DE-101)1284890600",
+  "iiif-manifest": ""
+}
