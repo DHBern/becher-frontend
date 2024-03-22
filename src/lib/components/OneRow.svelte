@@ -70,25 +70,39 @@
 								: 'bg-tertiary-500 text-tertiary-500'} hover:brightness-110 relative
 								placeholder-circle animate-pulse h-[250px]"
 						>
-							<!-- region/size/rotation/quality.format
+							{#if item.iiif}
+								<!-- region/size/rotation/quality.format
 								cut 10% of the border of the image, make it 200px wide, don't turn it-->
-							<img
-								class="z-20 mx-auto h-full object-contain"
-								src="{item.iiif.replace('info.json', '')}pct:5,5,90,90/200,/0/default.jpg"
-								alt={item.title}
-								width="200"
-								loading="lazy"
-								use:setClasses
-								on:load={(/** @type {{ target: HTMLImageElement; }} */ e) => {
-									setClasses(e.target);
-								}}
-							/>
-							{#if item.ext_num}
-								<p
-									class="absolute right-0 bottom-0 px-2 bg-surface-backdrop-token text-on-surface-token"
-								>
-									{item.ext_num} <span class="sr-only">Seiten</span>
-								</p>
+								<img
+									class="z-20 mx-auto h-full object-contain"
+									src="{item.iiif.replace('info.json', '')}pct:5,5,90,90/200,/0/default.jpg"
+									alt={item.title}
+									width="200"
+									loading="lazy"
+									use:setClasses
+									on:load={(/** @type {{ target: HTMLImageElement; }} */ e) => {
+										setClasses(e.target);
+									}}
+								/>
+								{#if item.ext_num}
+									<p
+										class="absolute right-0 bottom-0 px-2 bg-surface-backdrop-token text-on-surface-token"
+									>
+										{item.ext_num} <span class="sr-only">Seiten</span>
+									</p>
+								{/if}
+							{:else}
+								<img
+									class="z-20 mx-auto h-full object-contain"
+									src="https://dummyimage.com/600x800/999395/ffffff.jpg&text={item.signature}"
+									alt={item.title}
+									width="200"
+									loading="lazy"
+									use:setClasses
+									on:load={(/** @type {{ target: HTMLImageElement; }} */ e) => {
+										setClasses(e.target);
+									}}
+								/>
 							{/if}
 						</div>
 						<figcaption>{item.title} [{item.date}]</figcaption>
