@@ -139,7 +139,7 @@
 
 			<a
 				class="h5 anchor text-black col-span-2 md:col-span-1 justify-self-start md:justify-self-end"
-				href="{base}/about"
+				href="{base}/impressum"
 			>
 				Impressum
 			</a>

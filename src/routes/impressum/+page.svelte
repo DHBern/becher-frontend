@@ -3,12 +3,6 @@
 </script>
 
 <ContentContainer>
-	<h1 class="h1">Über Uns</h1>
-	<p>
-		<i>Der Über-uns text fehlt noch.</i>
-	</p>
-</ContentContainer>
-<ContentContainer>
 	<h1 class="h1">Impressum</h1>
 	<p>
 		Ulrich Becher Digital ist ein gemeinsam entwickeltes und verantwortetes Kooperationsprojekt des
