@@ -107,12 +107,12 @@
 			</a>
 		</article>
 	{/each}
-	{#if items.length > visibleNumber}
-		<button
-			type="button"
-			class="btn variant-filled-primary h-fit self-end"
-			on:click={() => (visibleNumber = visibleNumber + Math.min(30, items.length - visibleNumber))}
-			>Mehr anzeigen</button
-		>
-	{/if}
 </div>
+{#if items.length > visibleNumber}
+	<button
+		type="button"
+		class="btn variant-filled-primary mx-auto block"
+		on:click={() => (visibleNumber = visibleNumber + Math.min(30, items.length - visibleNumber))}
+		>Mehr anzeigen</button
+	>
+{/if}
