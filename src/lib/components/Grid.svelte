@@ -33,10 +33,13 @@
 
 	/**
 	 *
+	 * Function that creates an IntersectionObserver instance and observes the element
+	 *
 	 * @param element {HTMLElement}
 	 * @param abort {boolean}
 	 */
 	function viewport(element, abort) {
+		// we only want the observer on the last Element, so we abort all but the last one i !== visibleItems.length - 1
 		if (abort) return;
 		ensureIntersectionObserver();
 
