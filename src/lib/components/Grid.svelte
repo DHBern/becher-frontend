@@ -58,11 +58,7 @@
 
 <div class="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] gap-4 pt-8 {className}">
 	{#each visibleItems as item, i (item.key)}
-		<article
-			class="hover:brightness-110"
-			use:viewport={i !== visibleItems.length - 1}
-			on:enterViewport={() => (visibleNumber = visibleNumber + 30)}
-		>
+		<article class="hover:brightness-110">
 			<a href="{base}/item/{item.key}">
 				<figure class="">
 					<div
@@ -111,4 +107,12 @@
 			</a>
 		</article>
 	{/each}
+	{#if items.length > visibleNumber}
+		<button
+			type="button"
+			class="btn variant-filled-primary h-fit self-end"
+			on:click={() => (visibleNumber = visibleNumber + Math.min(30, items.length - visibleNumber))}
+			>Mehr anzeigen</button
+		>
+	{/if}
 </div>
