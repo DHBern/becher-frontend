@@ -116,22 +116,25 @@
 			</div>
 			<dl class="grid grid-cols-[1fr_4fr] justify-between h-fit">
 				{#each data.structure.find((s) => s.type === d.type)?.fields || [] as { label, key }}
-					{#if d[key]}
+					{@const metadataVal = d[key]}
+					{#if metadataVal}
 						<dt class="border-r-4 border-current pr-4 pt-4">
 							{label}
 						</dt>
 						<dd class="pl-2 pt-4">
-							{#if Array.isArray(d[key])}
-								{#each d[key] as item, i}
-									{#if key === 'wit-info'}
-										test
-									{:else}
-										{item}
-										{#if d[`${key}_uri`]?.[i]}
+							{#if Array.isArray(metadataVal)}
+								{#each metadataVal as item, i}
+									{#if typeof item === 'object'}
+										{item.name}
+										{#if item.additional && item.additional !== 'undefined'}
+											({item.additional})
+										{/if}
+
+										{#if item.uri}
 											&nbsp;<a
 												title="nähere Informationen"
 												class="anchor"
-												href={d[`${key}_uri`][i]}
+												href={item.uri}
 												target="_blank"
 												rel="noopener"
 											>
@@ -139,18 +142,21 @@
 												<span class="sr-only">nähere Informationen</span>
 											</a>
 										{/if}
-										{#if i !== d[key].length - 1}
-											<br />
-										{/if}
+									{:else}
+										{item}
+									{/if}
+
+									{#if i !== metadataVal.length - 1}
+										<br />
 									{/if}
 								{/each}
-							{:else}
-								{d[key]}
-								{#if d[`${key}_uri`]}
+							{:else if typeof metadataVal === 'object'}
+								{metadataVal.name}
+								{#if metadataVal.uri}
 									&nbsp;<a
 										title="nähere Informationen"
 										class="anchor"
-										href={d[`${key}_uri`]}
+										href={metadataVal.uri}
 										target="_blank"
 										rel="noopener"
 									>
@@ -158,6 +164,8 @@
 										<span class="sr-only">nähere Informationen</span>
 									</a>
 								{/if}
+							{:else}
+								{metadataVal}
 							{/if}
 						</dd>
 					{/if}
