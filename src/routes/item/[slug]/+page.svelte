@@ -172,7 +172,15 @@
 		{/if}
 	</div>
 </ContentContainer>
-<ContentContainer dark>
-	<h2 class="h2">Verwandte Katalogisate</h2>
-	<OneRow items={data.related} />
-</ContentContainer>
+{#if data.related[0].length}
+	<ContentContainer dark>
+		<h2 class="h2">Verwandte Katalogisate (basierend auf Werknormdaten)</h2>
+		<OneRow items={data.related[0]} />
+	</ContentContainer>
+{/if}
+{#if data.related[1]?.length}
+	<ContentContainer dark>
+		<h2 class="h2">Verwandte Katalogisate (basierend auf Bestandesstruktur)</h2>
+		<OneRow items={data.related[1]} />
+	</ContentContainer>
+{/if}

@@ -10,13 +10,16 @@ export function load({ params }) {
 		key: params.slug,
 		metadata: item,
 		structure,
-		related: itemData
-			.filter((i) => /*i.prototype && */ i.category === item.category)
-			.map((item) => {
-				// eslint-disable-next-line no-unused-vars
-				const { entry_type, prototype, ...rest } = item;
-				return rest;
-			})
+		related: [
+			item?.wit ? itemData.filter((i) => i.wit.some((element) => item.wit.includes(element))) : [],
+			itemData
+				.filter((i) => /*i.prototype && */ i.category === item.category)
+				.map((item) => {
+					// eslint-disable-next-line no-unused-vars
+					const { entry_type, prototype, ...rest } = item;
+					return rest;
+				})
+		]
 	};
 }
 
