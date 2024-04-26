@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
+  "wit": [ "1088059252" ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "München" ],
   "ext_num": 0,
   "creator": [ "Weismann, Willi (1909-1983)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "9. April 1969" ],
   "encl": [  ],
   "note": [ "[Bemerkung] Briefpapier des Parabel Verlags" ],
@@ -16,6 +17,11 @@
   "recipient": [ "Becher, Ulrich (1910-1990)" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117287490" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1644564" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Erwähnt"
+    } ],
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Blatt 8 verso, in Heft" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Mimi Grossberg" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1970" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284907082",
     "gnd": "https:\/\/d-nb.info\/1284907082"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt Druck" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ernst Glaeser" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1936" ],
   "encl": [  ],
   "note": [ "Betrifft: Ulrich Becher: Die Eroberer; auch das Vorwort bzw. Geleitwort von Ernst Glaeser \"Die Kunst der Novelle\"" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284954722",
     "gnd": "https:\/\/d-nb.info\/1284954722"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

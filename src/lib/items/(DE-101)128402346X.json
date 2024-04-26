@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt, 20,3 x 13,4 cm. Aufgeklebt auf Karton, 30,0 x 24,0 cm" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "note": [  ],
   "signature": "DEA-B-3-1-0017.A.03.0020",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128402346X",
     "gnd": "https:\/\/d-nb.info\/128402346X"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

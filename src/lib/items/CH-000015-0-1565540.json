@@ -1,15 +1,16 @@
 {
   "category_local_name": "",
   "ext": [ "7 Briefe, maschinenschriftlich, 10 Seiten" ],
+  "wit": [  ],
   "category_global_name": "",
-  "place": [ "Basel;\nWien" ],
+  "place": [  ],
   "ext_num": 0,
   "creator": [
     "Schulenburg, Ulrich N. (1941-)",
     "Tuich-Teuchmann, Maria (20. Jh.)",
     "Zink, Helmut (20. Jh.)"
   ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "9. September 1986 bis 17. Dezember 1987" ],
   "encl": [ "1 Visitenkarte" ],
   "note": [  ],
@@ -18,6 +19,7 @@
   "content": [ "Korrespondenz zwischen Busek, Erhard; Roda Becher, Dana; Obermaier, Walter; Thomas Sessler Verlag GmbH; Tuich-Teuchmann, Maria; Zink, Helmut" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/132621185" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565540" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

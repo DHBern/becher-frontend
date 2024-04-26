@@ -1,6 +1,7 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Umschlag" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
@@ -9,7 +10,7 @@
     "Friedrich Torberg",
     "Warner Bros. Pictures Inc., West Coast Studios, Burbank, California"
   ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1941" ],
   "encl": [  ],
   "note": [ "Briefkopf:  Frederick Torberg, Writers Building, Warner Bros. Pictures Inc., West Coast Studios, Burbank, California" ],
@@ -22,6 +23,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284311805",
     "gnd": "https:\/\/d-nb.info\/1284311805"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

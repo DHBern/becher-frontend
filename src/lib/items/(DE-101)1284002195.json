@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Heft (29 Blatt) handschriftlich" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1981" ],
   "note": [
     "Enthält auch Notizen zum Text: Der Bockerer",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284002195",
     "gnd": "https:\/\/d-nb.info\/1284002195"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt, überwiegend maschinenschriftlicher Durchschlag auf Vordruck" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1943" ],
   "encl": [  ],
   "note": [ "Neben Ulrich Becher und Dana [Roda] Becher sind zahlreiche Mitglieder der Familien Becher und Roda Roda dokumentiert" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489746X",
     "gnd": "https:\/\/d-nb.info\/128489746X"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

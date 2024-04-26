@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Foto schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Christian Staub" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1950" ],
   "encl": [  ],
   "note": [ "Mit angeklebtem Zettel: Karl Skraup als \"Pfeifer von Wien\". - Verso Angabe zum Fotografen: C. Staub, Bienne [...]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284930513",
     "gnd": "https:\/\/d-nb.info\/1284930513"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

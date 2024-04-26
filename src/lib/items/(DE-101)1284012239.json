@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Schreibblock-Teile (insgesamt 22 Blatt) handschriftlich, überwiegend von Dana Becher" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [
     "Beginnt mit allgemeinen Notizen und mit einem Brief-Entwurf an Unbekannt (betrifft: Bio-Bibliographie, Antworten auf Fragebogen)",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284012239",
     "gnd": "https:\/\/d-nb.info\/1284012239"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

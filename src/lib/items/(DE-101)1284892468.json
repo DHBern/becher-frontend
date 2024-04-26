@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1940" ],
   "encl": [  ],
   "note": [ "Verfügt von: Eidgenössische Fremdenpolizei" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284892468",
     "gnd": "https:\/\/d-nb.info\/1284892468"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284892468_00000010.tif\/info.json",

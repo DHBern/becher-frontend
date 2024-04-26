@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Heft (16 Blatt mit 59 aufgeklebten Zeitungsausschnitten u. Ä.)" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Italienisch" ],
   "date": [ "1959" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284952908",
     "gnd": "https:\/\/d-nb.info\/1284952908"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

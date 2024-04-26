@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt handschriftlich mit Unterschrift" ],
+  "wit": [  ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ettore Gajpa" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
   "note": [  ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284859762",
     "gnd": "https:\/\/d-nb.info\/1284859762"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

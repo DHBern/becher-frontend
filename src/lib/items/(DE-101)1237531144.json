@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "9 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
   "creator": [ "Gisela Fittschen-Badura" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Verso Stempel der Fotografin: [...] Gisela Badura Tübingen [...]. - Und verso Angaben zu den Abgebildeten" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237531144",
     "gnd": "https:\/\/d-nb.info\/1237531144"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

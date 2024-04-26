@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 30 Blatt, Tb. + 29 Blatt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 30,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1927" ],
   "note": [
     "[Datierung] Einzige vom Autor konkret datierte Erzählung im Band.",
@@ -16,6 +17,7 @@
   "content": [ "Besucher landet auf dem Busen der Madonna im Atelier eines Malers, express. Reflexionen über das Christentum, vgl. Niemand." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557630" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-6-1_01.jpg\/info.json",

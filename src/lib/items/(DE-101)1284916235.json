@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Foto-Lohrisch-Achilles" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1962" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotostudios: [...] Lohrisch-Achilles, Bremen [...]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284916235",
     "gnd": "https:\/\/d-nb.info\/1284916235"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

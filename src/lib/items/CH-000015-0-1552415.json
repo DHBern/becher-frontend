@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Exemplar, 416 S." ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Zeller, Nancy Anne (1948-)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [  ],
@@ -14,6 +15,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1145571697" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552415" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Behandelt"
+    } ],
   "type": "collItem",
   "holding_institution": "SLA",
   "iiif": "",

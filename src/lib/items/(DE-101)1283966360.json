@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Band (23 Seiten) Druck. Mit Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1962" ],
   "note": [ "Zusatz zum Titel: Rede, gehalten am 7. Oktober 1962 zur Eröffnung der großen Grosz-Ausstellung in der Akademie der Künste West-Berlin" ],
   "signature": "DEA-B-3-1-0017.A.01.05.0064",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283966360",
     "gnd": "https:\/\/d-nb.info\/1283966360"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

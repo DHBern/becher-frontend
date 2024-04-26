@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 13 Blatt, unvollständig + Typoskript-Durchschlag, 13 Blatt, jeweils mit handschriftlichen und maschinellen Korrekturen" ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 39,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "20. Dezember 1981 bis Juni 1982" ],
   "note": [ "[Bemerkung] Auf Titelblatt \"Erzählung\" durchgestrichen und handschriftlich durch \"Roman\" ersetzt." ],
   "signature": "SLA-UB-A-2-f-2-1",
@@ -13,6 +14,11 @@
   "content": [ "Flucht, Kapitel 1-2 sowie Asyl, Kapitel 2-4, unvollständig." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558135" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-f-2-1_1M_01.jpg\/info.json",

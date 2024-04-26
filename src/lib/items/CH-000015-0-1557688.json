@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 9 Blatt, handschriftliche Korrekturen, paginiert. vollständig" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 9,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1958" ],
   "note": [
     "[Bemerkung] Originaltitel \"Der Armenhäusler\" zu neuem Titel korrigiert.",
@@ -16,6 +17,7 @@
   "content": [ "Josef sitzt im Armenhaus und sinniert über seinen Sohn, den Gekreuzigten und über den ewigen Frieden in der Welt." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557688" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-2-2_01.jpg\/info.json",

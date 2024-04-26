@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt, 21,0 x 14,9 xm" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [  ],
   "signature": "DEA-B-3-1-0017.A.03.0011",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284022013",
     "gnd": "https:\/\/d-nb.info\/1284022013"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

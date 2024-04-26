@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Band (51 Blatt) handschriftlich, überwiegend von Dana Becher" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Enthält gegebenenfalls Notizen zu weiteren, hier nicht aufgeführten Texten" ],
   "signature": "DEA-B-3-1-0017.A.01.06.0056",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284009939",
     "gnd": "https:\/\/d-nb.info\/1284009939"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

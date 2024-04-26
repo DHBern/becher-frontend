@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Barbara Pflaum" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "encl": [  ],
   "note": [ "Verso teils Stempel der Fotografin: [...] H. B. Pflaum-Gebhardt [...]. - Und verso teils Betitelung: \"Rose Berndt\" [sic!] von G. Hauptmann" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284921050",
     "gnd": "https:\/\/d-nb.info\/1284921050"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

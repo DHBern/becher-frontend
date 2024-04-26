@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Blatt maschinenschriftlich, Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "J. M. Ph. Uitman" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1979" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128494476X",
     "gnd": "https:\/\/d-nb.info\/128494476X"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

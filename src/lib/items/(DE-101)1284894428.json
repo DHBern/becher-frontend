@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich auf Vordruck" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Portugiesisch", "Portugiesisch Deutsch" ],
   "date": [ "1944" ],
   "encl": [  ],
   "note": [ "Betrifft: Quittung über Betrag für ihren österreichischen Identitätsausweis [Pass]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894428",
     "gnd": "https:\/\/d-nb.info\/1284894428"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284894428_00000010.tif\/info.json",

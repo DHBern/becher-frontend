@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "6 Fotos schwarz\/weiß, teilweise Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Kurt Wyss" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1970" ],
   "encl": [  ],
   "note": [ "Verso teils Stempel des Fotografen: [...] Kurt Wyss, diplomierter Photograph [...] Basel [...]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284914968",
     "gnd": "https:\/\/d-nb.info\/1284914968"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

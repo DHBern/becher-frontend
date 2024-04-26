@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
   "creator": [ "Fritz Paul" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotografen: Fritz Paul, Photoreporter, DJV, Geismar-Göttingen [...]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237546656",
     "gnd": "https:\/\/d-nb.info\/1237546656"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Sándor Retay" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Frau Dana Becher-Roda" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284885720",
     "gnd": "https:\/\/d-nb.info\/1284885720"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

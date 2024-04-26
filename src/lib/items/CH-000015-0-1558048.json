@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 78 Blatt (S. 7-14, 18-19, 24-25, 29-36, 39-46, 53, 57-60, 106-119, 124-146, 150, 194-199, 204), handschriftlich paginiert, mit zahlreichen handschriftlichen Korrekturen" ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 72,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945 bis 1969" ],
   "note": [ "[Bemerkung] Gleiches Typoskript wie Textstufe A (12. Teilkapitel), aber späterer Korrekturgang: Paginierung hs. korrigiert, Namen hs. korrigiert (Xane, ten Breukaa, Elsabé…), teilweise gelocht, vermutlich gleicher Korrekturgang wie Fassung R des 1. Buches" ],
   "signature": "SLA-UB-A-2-c-2-2-8",
@@ -13,6 +14,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558048" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-c-2-2-8_001.jpg\/info.json",

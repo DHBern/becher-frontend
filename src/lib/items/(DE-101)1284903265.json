@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag und maschinenschriftlich" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1900" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284903265",
     "gnd": "https:\/\/d-nb.info\/1284903265"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

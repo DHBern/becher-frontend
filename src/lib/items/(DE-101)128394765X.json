@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "138 Blatt maschinenschriftlich vervielfältigt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Tschechisch" ],
   "date": [ "1963" ],
   "note": [ "Reproduktion von: Rozmnoženo jako neprodejný rukopis, Bühnenexemplar" ],
   "signature": "DEA-B-3-1-0017.A.01.02.0062",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128394765X",
     "gnd": "https:\/\/d-nb.info\/128394765X"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

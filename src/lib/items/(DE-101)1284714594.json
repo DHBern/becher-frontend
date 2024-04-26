@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Ulrich N. Schulenburg" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Thomas-Sessler-Verlag (Wien)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "encl": [  ],
   "note": [ "Briefkopf: Thomas Sessler-Verlag GmbH Wien - München, Neue Edition, Georg Marton Verlag, Wiener Verlagsanstalt, Gloriette Verlag, Bühnen- und Musikverlage" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284714594",
     "gnd": "https:\/\/d-nb.info\/1284714594"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

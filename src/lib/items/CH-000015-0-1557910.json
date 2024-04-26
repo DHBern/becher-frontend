@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 3,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1960" ],
   "note": [
     "[Bemerkung] Entspricht der Urwaldepisode, die \"Grosspapa\" Henrique Kujath in Murmeljagd erzählt. Wortgleich bis auf incipit und Name. \"Pfeifer\" siehe auch f-47",
@@ -16,6 +17,7 @@
   "content": [ "Guilherme Pfeifer findet sich, aus seinem Mittagsschlaf im brasilianischen Urwald erwachend, von einer Anaconda bedroht. Als diese von ihm ablässt, holt er seine Waffe von der nahen Farm und erlegt die nun ihrerseits schlafende Schlange." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557910" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-56-1_01.jpg\/info.json",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlicher Durchschlag" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
   "creator": [ "Richard Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1943" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894290",
     "gnd": "https:\/\/d-nb.info\/1284894290"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284894290_00000010.tif\/info.json",

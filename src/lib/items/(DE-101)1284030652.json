@@ -1,6 +1,7 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
+  "wit": [  ],
   "recipient_uri": [
     "https:\/\/d-nb.info\/gnd\/139244077",
     "https:\/\/d-nb.info\/gnd\/118507958",
@@ -10,7 +11,7 @@
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Jean Bach" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "encl": [  ],
   "note": [  ],
@@ -23,6 +24,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284030652",
     "gnd": "https:\/\/d-nb.info\/1284030652"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

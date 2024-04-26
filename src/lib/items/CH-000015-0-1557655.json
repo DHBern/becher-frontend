@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript-Durchschlag, 12 Blatt, unpaginiert , wenige handschriftliche Korrekturen + Typoskript-Durchschlag, 11 Blatt, paginiert, wenige handschriftliche Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1936" ],
   "note": [
     "[Bemerkung] Auf dem Titelblatt Adresse hs. hinzugefügt: (Steinen bei Schwyz)",
@@ -16,6 +17,7 @@
   "content": [ "Geschichte von Karl dem Großen und seinem Roland." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557655" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

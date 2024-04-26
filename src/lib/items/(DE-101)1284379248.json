@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Dr. Hans Dieter Zimmermann, Sekretär der Abt. Literatur. Mit Empfangs-Vermerk auf der Rückseite" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Akademie der Künste (Berlin, West)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "encl": [  ],
   "note": [  ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284379248",
     "gnd": "https:\/\/d-nb.info\/1284379248"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

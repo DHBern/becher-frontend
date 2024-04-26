@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Seite 55-57, in Heft" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "encl": [  ],
   "note": [ "Mexico D.F. ist Verlagsort" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284015939",
     "gnd": "https:\/\/d-nb.info\/1284015939"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

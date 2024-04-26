@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag 49 Bl (S. 1-49)., paginiert + Typoskript Durchschlag, 16 Blatt, doppelt paginiert (308-316, 325-331\/1-9, 18-24, 26-32, 39, 41, 46, 64-136), unvollständig mit handschriftlichen Korrekturen + Typoskript, 37 Blatt (S. 67-103) + Durchschlag (S. 68-74 + doppelt S. 46, 67, 68, 72)" ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 442,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945 bis 1969" ],
   "note": [ "[Bemerkung] Alte Namen: Martha, Ferdinand, van Eghenk, Polari, Bonjour, Madame Tutt, Pfeifer, Florian Zgraggen, Dr. Tanuzzer Teilkapitel 5-7, 9-11, 13-17," ],
   "signature": "SLA-UB-A-2-c-2-2-1",
@@ -13,6 +14,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558041" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-c-2-2-11-1_01.jpg\/info.json",

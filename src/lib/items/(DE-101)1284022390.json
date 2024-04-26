@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt Kopie, 29,7 x 21,0 cm" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "note": [  ],
   "signature": "DEA-B-3-1-0017.A.03.0013",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284022390",
     "gnd": "https:\/\/d-nb.info\/1284022390"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

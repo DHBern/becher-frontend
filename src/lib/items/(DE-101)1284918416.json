@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Foto schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
   "creator": [ "Annie's Photo" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "encl": [  ],
   "note": [ "Verso Angabe des Fotostudios: Annie's Photo [...] N. Y." ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284918416",
     "gnd": "https:\/\/d-nb.info\/1284918416"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284918416_00000010.tif\/info.json",

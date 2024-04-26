@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Schreibblock (17 Blatt) handschriftlich. Mit Zeichnungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1964" ],
   "note": [
     "Beginnt mit allgemeinen Notizen",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284008177",
     "gnd": "https:\/\/d-nb.info\/1284008177"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

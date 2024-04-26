@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 10 Blatt, vollständig, unterschiedl. paginiert, zahlreiche handschriftliche Korrekturen und Ergänzungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1933" ],
   "note": [
     "[Bemerkung] Ursprüngl. Titel \"Blonde Dame reist nach Venedig\" durchgestrichen und neuer Name auf S. 10 zugefügt, urspr. paginiert außer Kraft gesetzt durch rote bzw. dicke blaue Zahlen von 10-16, rechts oben, S. 9f hs. in schwarz (da diese Art der paginiert auf mehreren Typoskript zu finden ist, handelt es sich vermutlich um das Projekt einer geplanten Edition).Durchgängige Ersetzung von blonder Dame und Nicole durch Tulpe\nunterschiedl. Blattformate",
@@ -16,6 +17,7 @@
   "content": [ "Heftiger Streit unter Liebenden und das Wundermittel Venedig." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557754" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

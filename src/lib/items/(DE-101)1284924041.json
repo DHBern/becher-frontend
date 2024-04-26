@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [  ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1800" ],
   "encl": [  ],
   "note": [ "Die Haarlocke stammt möglicherweise aus der Großelterngeneration von Ulrich Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284924041",
     "gnd": "https:\/\/d-nb.info\/1284924041"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

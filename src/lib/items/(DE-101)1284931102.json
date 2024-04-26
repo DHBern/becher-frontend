@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Foto schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ruth Wilhelmi" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1952" ],
   "encl": [  ],
   "note": [ "Verso Stempel der Fotografin: Ruth Wilhelmi Berlin-Steglitz [...]. - Und verso handschriftliche Angaben zu dem Abgebildeten und zu dem Theaterstück" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284931102",
     "gnd": "https:\/\/d-nb.info\/1284931102"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

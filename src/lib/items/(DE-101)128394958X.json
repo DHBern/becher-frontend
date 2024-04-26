@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "23 Blatt insgesamt maschinenschriftlicher Durchschlag und handschriftlich von Dana Becher" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 46,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1943" ],
   "note": [
     "Es handelt sich hierbei um Entwürfe für Vorworte-Nachworte und anderes",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128394958X",
     "gnd": "https:\/\/d-nb.info\/128394958X"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128394958X_00000180.tif\/info.json",

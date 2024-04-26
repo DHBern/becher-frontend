@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 2 Blatt (S. 1-2), unpaginiert, unvollständig und Durchschlag, 4 Blatt (2x S. 1-2)" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1929 bis 1930" ],
   "note": [
     "[Bemerkung] Seite 1-2 einer späteren Fassung, ohne Titel",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557758" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

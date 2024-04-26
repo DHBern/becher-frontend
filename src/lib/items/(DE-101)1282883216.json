@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "circa 80 Einheiten Druck, teilweise Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Tschechisch Englisch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282883216",
     "gnd": "https:\/\/d-nb.info\/1282883216"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

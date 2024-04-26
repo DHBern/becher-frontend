@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich, Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Peter Vodosek" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1969" ],
   "encl": [  ],
   "note": [ "Reproduktion von: Abschrift" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284946347",
     "gnd": "https:\/\/d-nb.info\/1284946347"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

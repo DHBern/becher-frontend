@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich (unvollständig)" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Fritz Stapenhorst", "Schmelzer & Stapenhorst GmbH & Co Film KG" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1978" ],
   "encl": [  ],
   "note": [ "Briefkopf: Schmelzer & Stapenhorst GmbH & Co Film KG" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284310450",
     "gnd": "https:\/\/d-nb.info\/1284310450"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

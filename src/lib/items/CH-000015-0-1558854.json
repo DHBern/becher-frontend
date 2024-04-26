@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt Din A4" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "note": [
     "[Bemerkung] brauner Buntstift auf Papier; vermutlich Entwurf zur Erzählung Drei Reiter",
@@ -16,6 +17,7 @@
   "content": [ "Reiter auf Kamelen, Rückseite Silhouette einer arabischen Stadt" ],
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558854" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

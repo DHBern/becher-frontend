@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1941" ],
   "encl": [  ],
   "note": [ "Betrifft: Kosten seit ihrer Ankunft in Brasilien mit der Gruppe Görgen [Aufstellung vermutlich verfasst von Hermann M. Görgen]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489407X",
     "gnd": "https:\/\/d-nb.info\/128489407X"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/128489407X_00000010.tif\/info.json",

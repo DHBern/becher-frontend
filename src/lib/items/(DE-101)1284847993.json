@@ -1,6 +1,7 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich" ],
+  "wit": [  ],
   "recipient_uri": [
     "https:\/\/d-nb.info\/gnd\/1215533845",
     "https:\/\/d-nb.info\/gnd\/1239212119",
@@ -10,7 +11,7 @@
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1983" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Damen E. Feitzinger, Chr. Binder, Herrn Ulrich N. Schulenburg, Thomas Sessler Verlag, Wien" ],
@@ -23,6 +24,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284847993",
     "gnd": "https:\/\/d-nb.info\/1284847993"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

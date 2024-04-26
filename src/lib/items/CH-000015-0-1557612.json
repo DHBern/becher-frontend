@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 10 Blatt, Tb. + 9 Blatt, paginiert, mit handschriftlichen Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 10,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1931" ],
   "note": [
     "[Bemerkung] Anderes Typoskript als A-1-a-1-1",
@@ -16,6 +17,7 @@
   "content": [ "Nebel im Hafen von Southampton, Whiskytraum angesichts eines amerikanischen Luxusdampfers." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557612" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-1-2_01.jpg\/info.json",

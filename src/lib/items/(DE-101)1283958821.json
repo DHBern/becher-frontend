@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Heft (II, 12 Blatt) handschriftlich und maschinenschriftlich. Mit Zeichnungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1942" ],
   "note": [
     "Enthält: Diener zweier Herren - Der rote Baum - Vater und Mutter unterm Möwenhimmel",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283958821",
     "gnd": "https:\/\/d-nb.info\/1283958821"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

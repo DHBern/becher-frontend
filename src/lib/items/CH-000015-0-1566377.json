@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1930 bis 1940" ],
   "encl": [  ],
   "note": [
@@ -18,6 +19,7 @@
   "content": [  ],
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566377" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

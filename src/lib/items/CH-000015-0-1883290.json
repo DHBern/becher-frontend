@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Manuskript, 11 Blatt" ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945 bis 1969" ],
   "note": [ "[Bemerkung] Entwürfe, Korrekturnotizen und kürzere Textkonvolute" ],
   "signature": "SLA-UB-A-2-c-1-1-9",
@@ -13,6 +14,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1883290" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

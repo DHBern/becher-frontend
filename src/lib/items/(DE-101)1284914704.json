@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Foto schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1956" ],
   "encl": [  ],
   "note": [ "Verso maschinenschriftliche und handschriftliche Angaben zu der Büste bzw. Plastik, die von Leo Österle (Leonhard Oesterle) 1956 geschaffen wurde. - Die Fotografie entstand 1969." ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284914704",
     "gnd": "https:\/\/d-nb.info\/1284914704"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

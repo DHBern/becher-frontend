@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt Druck" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1961" ],
   "encl": [  ],
   "note": [ "Betrifft: Ulrich Becher: Vorwort zu Ödön von Horvath, Stücke" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284956350",
     "gnd": "https:\/\/d-nb.info\/1284956350"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

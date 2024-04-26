@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "5 Blatt = 5 Einheiten Tinte und Farbstift, je 12,8 x 7,5 cm" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [  ],
   "signature": "DEA-B-3-1-0017.A.03.0009",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284021734",
     "gnd": "https:\/\/d-nb.info\/1284021734"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

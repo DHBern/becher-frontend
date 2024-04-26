@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript 36 Blatt, vollständig, unpaginiert" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1958" ],
   "note": [
     "[Bemerkung] Kapiteleinteilung 1-9.",
@@ -16,6 +17,7 @@
   "content": [ "Josua, \"Aushilfszitherspieler\" und Trinker, spürt durch die Gegenwart eines jungen Liebespaares noch einmal Leben und seinen Stolz und wird dafür vom einstigen Freund in der Gartenwirtschaft erschlagen." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1883280" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

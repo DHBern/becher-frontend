@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "19 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 39,
   "creator": [ "ORF, Abteilung Publizistik, Lichtbildstelle" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotostudios: ÖRF, Abteilung Publizistik, Lichtbildstelle Ing. Novak. - Und verso Angaben zu den Abgebildeten" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282791362",
     "gnd": "https:\/\/d-nb.info\/1282791362"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1282791362_00000270.tif\/info.json",

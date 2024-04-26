@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 9 Blatt, vollständig, unpaginiert, maschinelle Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1942 bis 1943" ],
   "note": [
     "[Bemerkung] Geringfügig geänderte Version der Notbücherei, Beispiel Abendland zu Raa-bendland. S. 9 anderes Farbband.",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558145" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

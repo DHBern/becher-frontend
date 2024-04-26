@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "I, 4 Blatt maschinenschriftlich, Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Marianne Viefhaus" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1975" ],
   "encl": [  ],
   "note": [ "Marianne Viefhaus-Mildenberger hat lediglich einen Teil des Typoskripts verfasst, zu Ulrich Becher: New Yorker Novellen" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284945987",
     "gnd": "https:\/\/d-nb.info\/1284945987"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

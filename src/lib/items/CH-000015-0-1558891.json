@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt A4, signiert" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1962" ],
   "note": [
     "[Bemerkung] Blauer Kugelschreiber auf Durchschlagpapier, Druckangaben in Bleistift, Beilageblatt mit Titel, Karikatur von Max Frisch, signiert mit UL 62",
@@ -16,6 +17,7 @@
   "content": [ "Karikatur von Max Frisch" ],
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558891" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

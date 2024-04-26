@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "4 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [
     "Reproduktion von: Frühe Fassung?",
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283986841",
     "gnd": "https:\/\/d-nb.info\/1283986841"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

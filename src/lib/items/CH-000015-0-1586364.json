@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Brief, masch. Dg., hs. Anm." ],
+  "wit": [ "1088059252" ],
   "recipient_uri": [  ],
   "category_global_name": "",
-  "place": [ "Basel;\nReinbek" ],
+  "place": [ "Basel (Stadt)", "Reinbek" ],
   "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "4. Dezember 1968" ],
   "encl": [  ],
   "note": [  ],
@@ -16,6 +17,11 @@
   "recipient": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586364" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Erwähnt"
+    } ],
   "type": "letter",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/B-1-ROW-2_01.jpg\/info.json",

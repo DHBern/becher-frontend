@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "" ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "Januar 1976" ],
   "encl": [  ],
   "note": [ "[Bemerkung] S. 27-36 in Poesie Heft 3\/1975" ],
@@ -14,6 +15,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535796" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "Publiziert"
+    } ],
   "type": "collItem",
   "holding_institution": "SLA",
   "iiif": "",

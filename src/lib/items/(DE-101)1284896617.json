@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Henry L. Mencken" ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1943" ],
   "encl": [  ],
   "note": [ "Betrifft: unter anderem Hilfe in Visa-Angelegenheit Ulrich Becher und Dana Roda Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284896617",
     "gnd": "https:\/\/d-nb.info\/1284896617"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

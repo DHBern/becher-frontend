@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 12 Blatt" ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 89,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "20. Dezember 1981 bis Juni 1982" ],
   "note": [  ],
   "signature": "SLA-UB-A-2-f-2-2",
@@ -13,6 +14,11 @@
   "content": [ "Asyl, Kap. 2-4 sowie Fight, Kapitel 1" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1884285" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-f-2-2_1M_17.jpg\/info.json",

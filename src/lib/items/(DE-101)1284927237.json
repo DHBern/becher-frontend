@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Heft (17 Blatt) handschriftlich, von Martin Roda Becher und Dana Becher" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Martin Roda Becher" ],
-  "lang": [  ],
+  "lang": [ "Französisch", "Französisch Deutsch" ],
   "date": [ "1958" ],
   "encl": [  ],
   "note": [ "Reproduktion von: Fragment", "Das Heft beginnt zunächst mit Hausaufgaben" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284927237",
     "gnd": "https:\/\/d-nb.info\/1284927237"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

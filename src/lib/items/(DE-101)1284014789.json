@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "249 Seiten. Hier mit handschriftlicher Widmung für Adolf Laimböck" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1983" ],
   "encl": [  ],
   "note": [ "Schriftenreihe: Litprint ; Band 32" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284014789",
     "gnd": "https:\/\/d-nb.info\/1284014789"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Bruno Völkel" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotografen: [...] Bruno Völkel Wien [...]. - Und verso Angaben zu den Abgebildeten" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282792245",
     "gnd": "https:\/\/d-nb.info\/1282792245"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

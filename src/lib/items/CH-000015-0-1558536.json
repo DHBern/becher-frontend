@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 9 Blatt, mit wenigen handschriftlichen Ergänzungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "note": [
     "[Bemerkung] Ältere Fassung: Name statt Bockerer: Karl Neidinger",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558536" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

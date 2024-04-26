@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Seite 2 und Seite 6-8, in Heft" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1946" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284016021",
     "gnd": "https:\/\/d-nb.info\/1284016021"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

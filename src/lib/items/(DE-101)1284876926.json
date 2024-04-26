@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Harro von Zeppelin" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
   "creator": [ "Lisi von Zeppelin" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1956" ],
   "encl": [  ],
   "note": [  ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284876926",
     "gnd": "https:\/\/d-nb.info\/1284876926"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284876926_00000010.tif\/info.json",

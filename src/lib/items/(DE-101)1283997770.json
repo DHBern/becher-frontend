@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "9 Blatt maschinenschriftlich. Mit Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1946" ],
   "note": [
     "Alternativer Titel: Vor 25 Jahren, Wir wollten sie nicht mehr sehn",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283997770",
     "gnd": "https:\/\/d-nb.info\/1283997770"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Heinrich Goertz" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Freie Volksbühne (Berlin, West)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1965" ],
   "encl": [  ],
   "note": [ "Briefkopf: Freie Volksbühne, FVB Theaterbetriebs-GmbH" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284487482",
     "gnd": "https:\/\/d-nb.info\/1284487482"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

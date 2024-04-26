@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt handschriftlich mit Unterschrift (Xerox)" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/115154256" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Frau Francesca Spinazzi, Berliner Festspiele GmbH, Berlin" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284786706",
     "gnd": "https:\/\/d-nb.info\/1284786706"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

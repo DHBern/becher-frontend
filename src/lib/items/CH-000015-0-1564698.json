@@ -1,8 +1,9 @@
 {
   "category_local_name": "",
   "ext": [ "1 Bogen, maschinenschriftlich, mit handschriftlichen Ergänzungen" ],
+  "wit": [  ],
   "category_global_name": "",
-  "place": [ "Basel;\nBerlin;\nTorres" ],
+  "place": [  ],
   "ext_num": 0,
   "creator": [
     "Becher, Ulrich (1910-1990)",
@@ -13,7 +14,7 @@
     "Zeppelin, Andres von (20. Jh.)",
     "Zeppelin, Elisabeth von (20.\/21.Jh.)"
   ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1960" ],
   "encl": [  ],
   "note": [  ],
@@ -27,6 +28,7 @@
     "https:\/\/d-nb.info\/gnd\/139357556"
   ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564698" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

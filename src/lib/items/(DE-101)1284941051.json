@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich, Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Carla Rhode" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1985" ],
   "encl": [  ],
   "note": [ "Carla Rhode hat lediglich einen Teil des Typoskripts verfasst, zu Ulrich Becher: Der Bockerer" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284941051",
     "gnd": "https:\/\/d-nb.info\/1284941051"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

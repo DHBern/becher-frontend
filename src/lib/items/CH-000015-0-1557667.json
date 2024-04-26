@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 11 Blatt, handschriftliche Korrekturen, unpaginiert + Typoskript, 7 Blatt, handschriftliche Korrekturen, unpaginiert + Typoskript-Durchschlag, 23 Blatt, handschriftliche Korrekturen, paginiert und unpaginiert" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [
     "[Bemerkung] Verschiedene Textkonvolute und Einzelblätter. Darunter Notizen zu Der schwarze Hut + Die Frau und der Tod sowie Typoskript für die Novellenreihenfolge einer geplante Edition der NY Novellen (in der Form nie realisiert): Erste Nacht: Katharina, Polka. Zweite Nacht: Beim Apfelwein. Dritte Nacht: Der schwarze Hut. Vierte Nacht: Die Frau und der Tod. Fünfte bis letzte Nacht: Feuerwasser. Zwei Tb. \"Aus dem leben eines Florentinerhuts\" Typoskript-Konvolute v.a. zu Kap. 3 und 4.",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557667" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

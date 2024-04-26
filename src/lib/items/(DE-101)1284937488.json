@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Korrekturen, Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Werner Helwig" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1972" ],
   "encl": [  ],
   "note": [ "Betrifft: Ulrich Becher: Das Herz des Hais" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284937488",
     "gnd": "https:\/\/d-nb.info\/1284937488"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

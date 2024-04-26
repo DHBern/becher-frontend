@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift Klaus Konjetzky und Joseph Westphalen [Xerox, Rundschreiben]. Mit handschriftlichem Zusatz von Klaus Konjetzky" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Klaus Konjetzky", "Verlag Steinhausen, München" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "encl": [  ],
   "note": [  ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284169200",
     "gnd": "https:\/\/d-nb.info\/1284169200"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

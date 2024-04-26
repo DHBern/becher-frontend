@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 7 Blatt, paginiert, mit handschriftlichen Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1943" ],
   "note": [
     "[Bemerkung] Farbband hellblau; handschriftlich über dem Titel: \"author of 'men made mistakes', 'Mr. Nobody', 'The conqueros', published in Oprecht Edition, Zurich\", Engl. Version von A-6-b-4-3",
@@ -16,6 +17,7 @@
   "content": [ "Zum Gedenken an die Schriftsteller, die dem 1. oder 2. Weltkrieg zum Opfer fielen, Selbstmord begangen, oder im Exil starben." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558695" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

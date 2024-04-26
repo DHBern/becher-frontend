@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "15 Blatt insgesamt = 5 Einheiten maschinenschriftlich Xerox und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Unbekannt" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282793020",
     "gnd": "https:\/\/d-nb.info\/1282793020"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

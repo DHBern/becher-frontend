@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Enrique Beck" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "encl": [  ],
   "note": [  ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284077268",
     "gnd": "https:\/\/d-nb.info\/1284077268"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

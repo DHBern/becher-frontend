@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "7 Blatt maschinenschriftlich und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [
     "Es handelt sich hierbei um verstreute Einzelblätter, Materialsammlung und Notizen",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283985543",
     "gnd": "https:\/\/d-nb.info\/1283985543"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

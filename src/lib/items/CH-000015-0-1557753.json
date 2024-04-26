@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 7 Blatt, vollständig, paginiert, wenige handschriftliche Korrekturen 2 Einzelblatt S. 6" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1933" ],
   "note": [
     "[Bemerkung] Typoskript wie f-4-4, auf S. 1 blonde Dame hs. durch Nicole ersetzt",
@@ -16,6 +17,7 @@
   "content": [ "Heftiger Streit unter Liebenden und das Wundermittel Venedig." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557753" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

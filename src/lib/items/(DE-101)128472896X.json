@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von [Maria] Hofbauer" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Universal-Edition" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1963" ],
   "encl": [  ],
   "note": [
@@ -22,6 +23,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128472896X",
     "gnd": "https:\/\/d-nb.info\/128472896X"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

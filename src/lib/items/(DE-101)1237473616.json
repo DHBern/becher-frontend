@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "10 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
   "creator": [ "Willi Gasché" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotografen: [...] W. Gasché [...] Bern [...]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237473616",
     "gnd": "https:\/\/d-nb.info\/1237473616"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

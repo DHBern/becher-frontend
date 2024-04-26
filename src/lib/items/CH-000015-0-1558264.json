@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Manuskript, 1 Blatt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1943 bis 1944" ],
   "note": [
     "[Bemerkung] Korrekturen für die drittletzte und vorletzte S. des \"Johann Damaszener\".",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558264" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-1-7_01.jpg\/info.json",

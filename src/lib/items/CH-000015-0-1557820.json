@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 4 Blatt, doppelt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [
     "[Bemerkung] 2x identischer Text, 1x Titel Die beiden Letzten, 1x Jahrtausende gingen dahin;  Adresse: Sekretariat Mechnig, Berlin-Friedenau, Niedstr. 5 Druckvorlage publizierter Text",
@@ -16,6 +17,7 @@
   "content": [ "Bechers Apokalypse - oder wie der langerwartete Messias am Weltuntergang doch noch den zwei allerletzten, uralten Juden vor ihrem Tode erscheint." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557820" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 18,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "encl": [  ],
   "note": [ "Dasselbe: 2 Sätze à 3 Fotos" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284915107",
     "gnd": "https:\/\/d-nb.info\/1284915107"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284915107_00000010.tif\/info.json",

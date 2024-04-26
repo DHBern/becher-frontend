@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript S. 1-29, vollständig, wenige maschinelle Korrekturen, paginiert, ungebunden" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "note": [
     "[Bemerkung] S. 18-22 anderes Farbband, ab S. 18 geändertes Papier, Titlblatt hs.",
@@ -16,6 +17,7 @@
   "content": [ "Filmexposé von Preses und Becher in Ergänzung zur gleichnamigen dramatischen Posse" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558549" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

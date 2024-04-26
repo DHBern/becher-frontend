@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 7 Blatt (S. 1-6; 9)" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 7,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1970 bis 1982" ],
   "note": [
     "[Bemerkung] S. 9 als loses Blatt überliefert, hinzugefügt; hs. Korrektur des Untertitels; Adressvermerk auf S. 1: Sekr. Elfriede Mechnig, 1 Berlin 41, Niedstrasse 5.",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557724" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-e-1-2_01.jpg\/info.json",

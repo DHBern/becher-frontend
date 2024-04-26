@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "George Grosz" ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
   "note": [ "Betrifft: Empfehlung für Uli [Ulrich] Becher und Dana [Roda] Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284900320",
     "gnd": "https:\/\/d-nb.info\/1284900320"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

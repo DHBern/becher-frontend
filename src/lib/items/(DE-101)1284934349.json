@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "11 Blatt maschinenschriftlich vervielfältigt. Mit handschriftlichen Anmerkungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Klaus Colberg" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1954" ],
   "encl": [  ],
   "note": [
@@ -21,6 +22,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284934349",
     "gnd": "https:\/\/d-nb.info\/1284934349"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

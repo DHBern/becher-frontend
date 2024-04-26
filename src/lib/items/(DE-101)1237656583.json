@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "6 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
   "creator": [ "Städtische Theater Leipzig" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotostudios[?]-Rechteinhabers und der Fotografin: [...] Städt. Theater Leipzig [...] Wallmüller. - Und verso Angaben zu den beteiligten Personen und zu den Abgebildeten" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237656583",
     "gnd": "https:\/\/d-nb.info\/1237656583"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 3 Blatt, paginiert, maschinelle Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 3,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "note": [
     "[Bemerkung] Fast wortgleich mit S. 215-218 der Murmeljagd (Neuauflage 2020) (Geschichte der Elsabé, Giaxas Frau und Xanes Mutter) unter Abbänderung Namen und Schluss",
@@ -16,6 +17,7 @@
   "content": [ "Geschichte der Freifrau Lena von Hahnenspor, nachempfunden der Elsbeth von Zeppelin der späteren Frau von Roda Roda und Dana Bechers Mutter." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557852" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-32-1_01.jpg\/info.json",

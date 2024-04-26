@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "18 Blatt = circa 13 Einheiten handschriftlich, auch von Dana Becher. Mit Zeichnungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Italienisch Spanisch" ],
   "date": [ "1936" ],
   "note": [
     "Es handelt sich hierbei um ein Konvolut von Notizen und Manuskript-Teilen, das bei den Notizbüchern überliefert ist",
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284013758",
     "gnd": "https:\/\/d-nb.info\/1284013758"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

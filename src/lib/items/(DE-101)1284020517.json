@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Blatt = 3 Einheiten, je 21,5 x 28,0 cm bzw. 28,0 x 21,5 cm" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [
     "Titel fingiert aus Überlieferung",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284020517",
     "gnd": "https:\/\/d-nb.info\/1284020517"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

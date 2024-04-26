@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "gebundenes Textbuch, A5, 208 S., handschriftliche Anmerkungen + Beilagen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1951" ],
   "note": [
     "[Bemerkung] Vervielfältigt durch Universal-Edition A. G. Wien.",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558594" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

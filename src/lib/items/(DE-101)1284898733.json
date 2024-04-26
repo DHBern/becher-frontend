@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Verso Notizen in Stenographie" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Frederick F. Fletcher" ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284898733",
     "gnd": "https:\/\/d-nb.info\/1284898733"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

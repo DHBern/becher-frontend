@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Blatt = 2 Einheiten maschinenschriftlich vervielfältigt und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Französisch", "Französisch Deutsch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform dokumentierte Person: Martin Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128276733X",
     "gnd": "https:\/\/d-nb.info\/128276733X"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

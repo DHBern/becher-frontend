@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Manuskript, handschriftlich, mit handschriftlichen Korrektur von Hand Dritter, 1 Bogen" ],
+  "wit": [  ],
   "category_global_name": "",
-  "place": [ "[Berlin]" ],
+  "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1928 bis 1932" ],
   "encl": [  ],
   "note": [
@@ -17,6 +18,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1526606" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

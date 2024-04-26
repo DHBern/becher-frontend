@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Richard Becher an Ulrich Becher" ],
+  "wit": [  ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
   "creator": [ "Richard Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1939" ],
   "encl": [  ],
   "note": [  ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284070433",
     "gnd": "https:\/\/d-nb.info\/1284070433"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284070433_00000010.tif\/info.json",

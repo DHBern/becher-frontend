@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Manuskript, 2 Blatt (4 S.)" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 4,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1943 bis 1944" ],
   "note": [
     "[Bemerkung] Schwarze Tinte, mit Zeichnungen Ulrich Bechers von João Damasceno Banmicha, Rückseite Ulric Becheor Zurique, Surik.",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558259" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-3-c-1-2_01.jpg\/info.json",

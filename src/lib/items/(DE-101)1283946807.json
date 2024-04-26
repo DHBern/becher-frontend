@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Heft  (182 Seiten) maschinenschriftlich vervielfältigt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1954" ],
   "note": [ "Reproduktion von: Unverkäufliches Manuskript" ],
   "signature": "DEA-B-3-1-0017.A.01.02.0043",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283946807",
     "gnd": "https:\/\/d-nb.info\/1283946807"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

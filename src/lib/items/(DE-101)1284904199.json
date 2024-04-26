@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich und maschinenschriftlich vervielfältigt, vermutlich unvollständig" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "International Rescue Committee" ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1945" ],
   "encl": [  ],
   "note": [ "Betrifft: allgemeine Informationen zu den Anträgen für Ulrich Bechers Eltern" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284904199",
     "gnd": "https:\/\/d-nb.info\/1284904199"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

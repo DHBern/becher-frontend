@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "14 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
   "creator": [ "Günter Dietel" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotografen: [...] Günter Dietel [...] Erfurt [...]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237660386",
     "gnd": "https:\/\/d-nb.info\/1237660386"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

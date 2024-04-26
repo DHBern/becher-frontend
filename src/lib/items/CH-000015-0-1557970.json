@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Manuskript, 50 Blatt Kopierbuch, paginiert + 48 Blatt Kopierbl (S. 3-50) Handschrift Dana" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1970 bis 1990" ],
   "note": [
     "[Bemerkung] S. 2: Makumba S. 3-47, 49-50: Hadestelefonate S. 48: Werkaufstellung \"Das Weibchen\" Schlussvariante abweichend von g-1-3, wo Becher Wotrubas Beerdigung fernbleibt.",
@@ -16,6 +17,7 @@
   "content": [ "Begräbnis Fritz Wotrubas und anschliessende Leichenfeier Kap. 2: Dezember 1961 in Wien, Silvester mit Fritz Wotruba Kap. 3: Unterhaltung mit Walter Muschg in Basel" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557970" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

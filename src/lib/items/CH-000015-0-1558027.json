@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 12 Blatt (S. 24-36), mit handschriftlichen Korrekturen, teilweise handschriftliche Korrekturen der Paginierung + Durchschlag, 8 Blatt (S. 25-28, doppelt)" ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 20,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945 bis 1969" ],
   "note": [ "[Bemerkung] S. 29-36 entspricht c-2-1-1;  Korr. Namen: Martha -> Xane, Lena-> Elsabé, Amanda -> Pola" ],
   "signature": "SLA-UB-A-2-c-2-1-4",
@@ -13,6 +14,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558027" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-c-2-1-4_01.jpg\/info.json",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "27 Blatt insgesamt maschinenschriftlich und handschriftlich von Dana Becher" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Reproduktion von: Fragmente" ],
   "signature": "DEA-B-3-1-0017.A.01.02.0004",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283945894",
     "gnd": "https:\/\/d-nb.info\/1283945894"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

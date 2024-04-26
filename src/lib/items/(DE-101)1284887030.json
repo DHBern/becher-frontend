@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag mit Unterschrift. Im Auftrag geschrieben von W. Nawrocki" ],
+  "wit": [  ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Wydawnictwo Śla̜sk" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1970" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Körperschaftlicher Verfasser: Zastepca, Redaktora Naczelnego" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284887030",
     "gnd": "https:\/\/d-nb.info\/1284887030"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript-Durchschlag, 111 Blatt, mit Unterstreichungen und wenigen handschriftlichen Korrekturen, paginiert, vollständig, gelocht" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Grosz, George (1893-1959)", "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [
     "[Bemerkung] Auf dem Deckblatt hs. Adresse: Becher, Basel Schweiz - Hirzbodenweg 5. Anmerkungen für den Setzer: \"Geschichten um Huelsenbeck und Grosz in New York (Basel)\"",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118542672", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557672" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

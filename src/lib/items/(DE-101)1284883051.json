@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Renate Nagel" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/124033186X" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Benziger Verlag" ],
-  "lang": [  ],
+  "lang": [ "Französisch" ],
   "date": [ "1973" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Körperschaftlicher Adressat: Éditions du Seuil, Mme Anne Frejer, Paris" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284883051",
     "gnd": "https:\/\/d-nb.info\/1284883051"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

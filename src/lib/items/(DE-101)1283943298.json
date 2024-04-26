@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "37 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 74,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Reproduktion von: Fragment" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0006",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943298",
     "gnd": "https:\/\/d-nb.info\/1283943298"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943298_00000010.tif\/info.json",

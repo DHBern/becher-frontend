@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Album-Heft (8 Blatt mit 29 Fotos schwarz\/weiß, davon 4 lose)" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1924" ],
   "encl": [  ],
   "note": [ "Das Album enthält Fotos aus den Kontexten Schule, Familie (Arthur Ulrich [?], Eltern Becher) und Freizeit" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284915689",
     "gnd": "https:\/\/d-nb.info\/1284915689"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

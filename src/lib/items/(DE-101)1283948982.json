@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "11 Blatt handschriftlich und anderes. Mit Zeichnungen und mit Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 22,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Es handelt sich hierbei um Notizen und um verstreute Einzelblätter. Blatt 9 enthält verso das Gedicht: Abendlied" ],
   "signature": "DEA-B-3-1-0017.A.01.03.0005",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948982",
     "gnd": "https:\/\/d-nb.info\/1283948982"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283948982_00000010.tif\/info.json",

@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Elise Becher-Ulrich. Mit Umschlag" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
   "creator": [ "Richard Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1942" ],
   "encl": [  ],
   "note": [  ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284070611",
     "gnd": "https:\/\/d-nb.info\/1284070611"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284070611_00000010.tif\/info.json",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Quartheft, blau, handschriftlich, 10 Bogen, gebunden; 9 Blatt, lose eingelegt; 1 Brief, eingelegt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Ulrich, Martin (1857-1926)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1919" ],
   "encl": [  ],
   "note": [
@@ -17,6 +18,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1224711882" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1566074" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

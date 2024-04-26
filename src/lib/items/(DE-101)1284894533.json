@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Heft (32 Seiten) handschriftlich auf Vordruck. Mit Fotos von Ulrich Becher und Dana Roda Becher. Und mit Siegel" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Tschechisch", "Tschechisch Französisch Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894533",
     "gnd": "https:\/\/d-nb.info\/1284894533"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

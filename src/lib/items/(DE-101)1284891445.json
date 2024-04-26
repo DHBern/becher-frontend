@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Rudolf Jeremias Kreutz" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1937" ],
   "encl": [  ],
   "note": [ "Betrifft: unter anderem Bemühung um Besprechung von Ulrich Bechers Büchern, Vertrag" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284891445",
     "gnd": "https:\/\/d-nb.info\/1284891445"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

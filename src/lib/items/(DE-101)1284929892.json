@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Foto schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Hermann Roth" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1978" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotografen: [...] Hermann Roth, TV-Pressefotos, 8 München [...]. - Und verso handschriftlicher Kommentar von Ulrich Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284929892",
     "gnd": "https:\/\/d-nb.info\/1284929892"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

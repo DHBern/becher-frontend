@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Blatt maschinenschriftlich, Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Nikolai Huebner" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284938018",
     "gnd": "https:\/\/d-nb.info\/1284938018"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

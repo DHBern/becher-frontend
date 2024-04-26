@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (beschädigt). Im Auftrag geschrieben von Walter Jensen" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Theaterverlag Kurt Desch" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Körperschaftlicher Verfasser: Theaterverlag Kurt Desch München" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284743969",
     "gnd": "https:\/\/d-nb.info\/1284743969"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

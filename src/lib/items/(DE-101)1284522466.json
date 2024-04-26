@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 gefaltete Karte Druck und handschriftlich. Mit Umschlag. Mit Einlegeblatt" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Österreich. Bundeskanzleramt" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "encl": [  ],
   "note": [
@@ -22,6 +23,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284522466",
     "gnd": "https:\/\/d-nb.info\/1284522466"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

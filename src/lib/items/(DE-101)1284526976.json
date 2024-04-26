@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Theo Pinkus" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Büchersuchdienst Pinkus & Co. (Zürich)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1964" ],
   "encl": [  ],
   "note": [ "Briefkopf: Pinkus & Co., Zürich, Büchersuchdienst, Antiquariat" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284526976",
     "gnd": "https:\/\/d-nb.info\/1284526976"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

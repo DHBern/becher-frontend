@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "5 Blatt = 2 Einheiten maschinenschriftlicher Durchschlag und anderes, teilweise Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 10,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1946" ],
   "encl": [  ],
   "note": [ "Betrifft: Kontroverse Torberg .\/. Becher-Preses wegen \"Der Neidinger\"" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284895440",
     "gnd": "https:\/\/d-nb.info\/1284895440"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1284895440_00000010.tif\/info.json",

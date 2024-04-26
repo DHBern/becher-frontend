@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Antwort-Entwurf. Verso: Anderer Brief-Entwurf und Aufstellung" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "James I. Ellmann" ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284899675",
     "gnd": "https:\/\/d-nb.info\/1284899675"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

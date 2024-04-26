@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Kopierbuch Nr. 1, Pfauenaugenmotiv und Leinenrücken rot, Manuskript 50 Blatt + herausgetrennte Doppel, S. 30-48" ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "31. Mai 1965" ],
   "note": [ "[Bemerkung] S. 3-29 sowie S. 49-50 Murmeljagd, hs. Ulrich Becher; S. 30-48 William's Ex-Casino, hs. Dana Becher; hinten eingelegt 4 Blatt Typoskript (S. 12 Ex-Casino) + 4 Blatt Typoskript (S. 553 Murmeljagd)" ],
   "signature": "SLA-UB-A-2-e-1-1",
@@ -13,6 +14,11 @@
   "content": [ "Entspricht Kap. 1 \"Youpy\". Ursprünglich vorgesehener und durchgestrichener Titel: \"Richard's Ex-Casino\" (S. 30)" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558101" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

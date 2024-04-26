@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt handschriftlich mit Unterschrift. Mit Zusatz" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Carl Raddatz" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1952" ],
   "encl": [  ],
   "note": [ "handschriftlicher Briefkopf: Raddatz, Deutsches Theater Göttingen" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284255212",
     "gnd": "https:\/\/d-nb.info\/1284255212"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

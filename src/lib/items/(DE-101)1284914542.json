@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "4 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Fritz Paul" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1955" ],
   "encl": [  ],
   "note": [ "Verso teils Stempel des Fotografen: [...] Fritz Paul, Photoreporter, DJV, Geismar-Göttingen [...]. - Und verso teils Foto-Betitelung: Autor Ulrich Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284914542",
     "gnd": "https:\/\/d-nb.info\/1284914542"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

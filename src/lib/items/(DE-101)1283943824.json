@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "245 Blatt maschinenschriftlicher Durchschlag und anderes, unvollständig, (Vorhandene Zählung: 1-238, darin Einfügungen alphanum.). Mit handschriftlichen Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 492,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [ "Reproduktion von: Neuere Fassung" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0027",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943824",
     "gnd": "https:\/\/d-nb.info\/1283943824"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943824_00000010.tif\/info.json",

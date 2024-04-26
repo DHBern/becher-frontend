@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "23 Blatt = 16 Einheiten maschinenschriftlich auf Vordruck und anderes. Teilweise Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Französisch" ],
   "date": [ "1951" ],
   "encl": [  ],
   "note": [ "Blatt 2 recto: Stempel Österreichische Zensurstelle" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128490590X",
     "gnd": "https:\/\/d-nb.info\/128490590X"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

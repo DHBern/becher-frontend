@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Fred [Alfred Schmeller?]" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Museum des Zwanzigsten Jahrhunderts" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1976" ],
   "encl": [  ],
   "note": [ "Briefkopf: Museum des 20. Jahrhunderts" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284520293",
     "gnd": "https:\/\/d-nb.info\/1284520293"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

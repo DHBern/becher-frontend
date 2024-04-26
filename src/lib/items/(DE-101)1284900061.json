@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift Elsa Grossmann, für Sheba Strunsky. Mit handschriftlichen Notizen von Alexander Roda Roda" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "International Rescue Committee" ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
   "note": [ "Betrifft: unter anderem Stand der Visa-Angelegenheiten von Ulrich Becher und Dana Roda Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284900061",
     "gnd": "https:\/\/d-nb.info\/1284900061"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "4 Blatt maschinenschriftlich, Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Hermann M. Görgen" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1979" ],
   "encl": [  ],
   "note": [ "Betrifft: Reise der Gruppe aus der Schweiz über Frankreich-Spanien nach Portugal; historischer Kontext" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128490749X",
     "gnd": "https:\/\/d-nb.info\/128490749X"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

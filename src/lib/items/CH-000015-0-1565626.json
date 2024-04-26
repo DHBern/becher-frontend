@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, maschinenschriftlich, Durchschlag, fragmentarisch, paginiert (1), 1 Seite" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Martin Roda (1944-)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1952 bis 1970" ],
   "encl": [  ],
   "note": [
@@ -17,6 +18,7 @@
   "content": [ "Erzählung, fragment" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565626" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

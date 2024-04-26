@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "53 Blatt = circa 53 Einheiten Druck. Teilweise Xerox, teilweise mit Korrekturen und Ergänzungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Portugiesisch" ],
   "date": [ "1970" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284019780",
     "gnd": "https:\/\/d-nb.info\/1284019780"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

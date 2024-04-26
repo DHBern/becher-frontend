@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Heft (II, 11 Blatt) maschinenschriftlich. Mit Zeichnungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Portugiesisch" ],
   "date": [ "1942" ],
   "note": [  ],
   "signature": "DEA-B-3-1-0017.A.01.05.0005",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283953501",
     "gnd": "https:\/\/d-nb.info\/1283953501"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

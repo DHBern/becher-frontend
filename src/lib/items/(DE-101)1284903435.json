@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich auf Vordruck mit Unterschrift H. K. Travers" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "USA, Department of State, Visa Division" ],
-  "lang": [  ],
+  "lang": [ "Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
   "note": [ "Betrifft: Visa-Angelegenheit Ulrich Becher und Dana [Roda] Becher, hier Erteilung von Visa zur Immigration" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284903435",
     "gnd": "https:\/\/d-nb.info\/1284903435"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

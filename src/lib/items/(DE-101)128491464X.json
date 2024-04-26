@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Foto schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Max Ehlert" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1956" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotografen: [...] Max Ehlert, Hamburg-Ohlstedt [...] - Und verso unter anderem Foto-Betitelung: Autor Ulrich Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128491464X",
     "gnd": "https:\/\/d-nb.info\/128491464X"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

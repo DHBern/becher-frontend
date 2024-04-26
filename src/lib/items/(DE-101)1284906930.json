@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "4 Blatt = 4 Einheiten handschriftlich auf Vordruck und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1965" ],
   "encl": [  ],
   "note": [ "Betrifft: unter anderem Kirchensteuer" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284906930",
     "gnd": "https:\/\/d-nb.info\/1284906930"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

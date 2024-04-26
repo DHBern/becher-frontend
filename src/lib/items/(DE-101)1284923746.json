@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift, unleserlich. Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Stadtgärtnerei und Friedhöfe (Basel)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1978" ],
   "encl": [  ],
   "note": [
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284923746",
     "gnd": "https:\/\/d-nb.info\/1284923746"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

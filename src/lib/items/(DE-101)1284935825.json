@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Oskar Maurus Fontana" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1951" ],
   "encl": [  ],
   "note": [ "Reproduktion von: Abschrift", "Betrifft: Ulrich Becher: Samba" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284935825",
     "gnd": "https:\/\/d-nb.info\/1284935825"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

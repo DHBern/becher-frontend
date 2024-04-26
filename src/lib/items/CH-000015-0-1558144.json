@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Heft A 5, 44 Blatt, Typoskript + Zeichnungen, handgeheftet" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "8. November 1942" ],
   "note": [
     "[Bemerkung] \"Erstmals gesungen auf dem familiären Jahrmarkt des 8. November 1942.\" NS-Karikaturen von Ulrich Becher.",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558144" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

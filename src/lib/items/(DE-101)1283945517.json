@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "15 Blatt insgesamt maschinenschriftlich und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Es handelt sich hierbei um das unveröffentlichte Kapitel mit dem Titel: Die verspielten Aufständischen [in 2 Fassungen]" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0071",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283945517",
     "gnd": "https:\/\/d-nb.info\/1283945517"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Band (102 Blatt) Druck, maschinenschriftlich und handschriftlich. Mit Zeichnungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1939" ],
   "note": [
     "Reproduktion von: Frühere Fassung",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283949695",
     "gnd": "https:\/\/d-nb.info\/1283949695"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

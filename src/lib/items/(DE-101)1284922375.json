@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Foto Farbe, auf Briefkarte" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1984" ],
   "encl": [  ],
   "note": [ "Verso handschriftlicher Gruß, vermutlich von Renate von Loeben" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284922375",
     "gnd": "https:\/\/d-nb.info\/1284922375"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

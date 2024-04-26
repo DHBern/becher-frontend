@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "91 Blatt maschinenschriftlicher Durchschlag und anderes. Mit handschriftlichen Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 182,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [ "Reproduktion von: Frühere Fassung, Fragment" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0028a",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943867",
     "gnd": "https:\/\/d-nb.info\/1283943867"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943867_00000010.tif\/info.json",

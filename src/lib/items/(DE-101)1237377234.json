@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "13 Blatt und 13 Hefte = 24 Einheiten Druck und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Chinesisch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237377234",
     "gnd": "https:\/\/d-nb.info\/1237377234"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

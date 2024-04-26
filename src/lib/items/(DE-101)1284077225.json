@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt Druck. Mit Umschlag" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Enrique Beck" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "encl": [  ],
   "note": [ "Betrifft: unter anderem Federico Garcia Lorca. Es handelt sich hierbei um einen Sonderdruck aus der Frankfurter Rundschau (5. Mai 1959), der von Enrique Beck an Ulrich Becher geschickt wurde; mit dem Titel: Vicenta Lorca Romero - Nachruf von Enrique Beck" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284077225",
     "gnd": "https:\/\/d-nb.info\/1284077225"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

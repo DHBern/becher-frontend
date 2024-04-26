@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Manuskript + Typoskript-Durchschlag, 30 Blatt" ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 48,
   "creator": [ "Becher, Ulrich (1910-1990)", "Nagel, Renate (1936-)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1975 bis 1982" ],
   "note": [ "[Bemerkung] Konvolut verschiedener Textträger. Rückseitig Brief (masch.) von Renate Nagel an Ulrich Becher vom 8.8.1974." ],
   "signature": "SLA-UB-A-2-f-2-5",
@@ -13,6 +14,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/116880252" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558138" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-f-2-5_17.jpg\/info.json",

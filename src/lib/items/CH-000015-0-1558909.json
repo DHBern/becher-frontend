@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt DinA5" ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "note": [ "[Bemerkung] Skizze mit blauem Kugelschreiber" ],
   "signature": "SLA-UB-A-8-a-32-1",
@@ -13,6 +14,11 @@
   "content": [ "ein dickes Buch mit Titeleinband (ursprüngl. geplanter Titel der Murmeljagd)" ],
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558909" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Gemalt"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

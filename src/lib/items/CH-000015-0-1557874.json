@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript und Durchschlag, 4 Blatt, paginiert, unvollständig + Durchschlag, 2 Blatt, (S. 2-3)" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 6,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "note": [
     "[Bemerkung] Ursprünglicher Teil aus der Spielmacherschule?",
@@ -16,6 +17,7 @@
   "content": [ "Nepomuk, Kellner im Café Wotruba in der Spiegelgasse klagt dem Herrn Kammerschauspieler sein \"Läuseleid\" - bedient gleichzeitig den Stammtisch von Stephan Toschek (Direktor des im 'Amerikanischen Sektor' situierten Schikaneder-Theaters), Winston Gould, ehemals Erwin Goldmacher, nachdem er seit 1949 seinen Job als US- 'Theateroffizier' abgedient hatte, zu Toscheks Stellvertreter, Oberspielleiter und Chefdramaturgen, Franz Neidel, Kritiker im Wiener Kurier. \"Daraufhin hatte Gould, damals Neidels Intimus, bei Direktor Toschek meine fristlose Entlassung durchzusetzen versucht\"" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557874" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-42-1_01.jpg\/info.json",

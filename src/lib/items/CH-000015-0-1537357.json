@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "ca. 40 Zeitungsausschnitte\/ Kopien + Klappentext der Auflage vom Benziger-Verlag + 6 Bl. Kop. eines Ts. + 1 Bl. Ts." ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1953 bis 1973" ],
   "encl": [  ],
   "note": [  ],
@@ -14,6 +15,11 @@
   "content": [ "Ankündigung (1953), dass der Autor sich zurückzieht um einen Roman mit dem Schauplatz St. Moritz zu schreiben; zahlreiche Rezensionen, Besprechungen und Ankündigungen, teilw. m. hs. o. masch. Anm. versehen (z.B. Brief an die Mutter, 21. 10. 1969); eine kritische Besprechung (Ts.), sign. v. \"Marek\"; frz. Pressurteile der fr. Übersetzung; enthält u.a. Artikel von Dieter Bachmann, Hans R. Lindner, Otto Breicha, Hans Bender" ],
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537357" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Rezensiert"
+    } ],
   "type": "collItem",
   "holding_institution": "SLA",
   "iiif": "",

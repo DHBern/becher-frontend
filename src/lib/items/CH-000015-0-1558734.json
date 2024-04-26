@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 3 Blatt, handschriftliche Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)", "Grosz, George (1893-1959)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1947" ],
   "note": [
     "[Bemerkung] Einzelblätter verschiedener Typoskripte",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/118542672" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558734" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "8 Blatt maschinenschriftlicher Durchschlag. Mit Unterschrift und mit Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ernst Buchholz" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1963" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284933946",
     "gnd": "https:\/\/d-nb.info\/1284933946"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

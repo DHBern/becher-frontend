@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "10 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 22,
   "creator": [ "Willi Gasché" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [ "Verso Stempel des Fotografen: [...] W. Gasché [...] Bern [...]" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282791109",
     "gnd": "https:\/\/d-nb.info\/1282791109"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1282791109_00000010.tif\/info.json",

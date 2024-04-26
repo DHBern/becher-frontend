@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 8 Blatt, vollständig, paginiert, mit zahlreichen handschriftlichen Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1932" ],
   "note": [
     "[Bemerkung] Durchschlag von f-11-2; Titel hs. auf S. 1, Ausstreichungen und Korrekturen stammen nicht von Becher, dafür auf S. 8 eigenh. Anmerkungen und die Frage nach einer Tätowierung mit Rotstift",
@@ -16,6 +17,7 @@
   "content": [ "Zwei Frauen im Krankenhaus, Bett an Bett. Die Erinnerungen an den wundervollen \"Franz\" lassen die Alte leben und die Junge sterben." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557777" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

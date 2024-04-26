@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1240286570", "https:\/\/d-nb.info\/gnd\/124028666X" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Richard Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1935" ],
   "encl": [  ],
   "note": [
@@ -22,6 +23,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284878058",
     "gnd": "https:\/\/d-nb.info\/1284878058"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "4 Hefte und 4 Blatt = 8 Einheiten Druck" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237387213",
     "gnd": "https:\/\/d-nb.info\/1237387213"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

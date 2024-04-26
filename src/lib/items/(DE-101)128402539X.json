@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "12 Blatt = 11 Einheiten, je 21,8 x 13,4 cm bzw. 13,4 x 21,8 cm" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1936" ],
   "note": [ "Titel fingiert aus Überlieferung" ],
   "signature": "DEA-B-3-1-0017.A.03.0033a",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128402539X",
     "gnd": "https:\/\/d-nb.info\/128402539X"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

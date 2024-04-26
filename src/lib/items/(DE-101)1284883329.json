@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich" ],
+  "wit": [  ],
   "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Berlin, Amtsgericht Alt Moabit" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1939" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Charlotte Sara. Im Auftrag geschrieben von Dr. Blume, Amtsgerichtsrat" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284883329",
     "gnd": "https:\/\/d-nb.info\/1284883329"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

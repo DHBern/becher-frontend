@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Lothar Creutz" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1950" ],
   "encl": [  ],
   "note": [ "Verfasser ist vermutlich Lothar Creutz", "Sendereihe: Das neue Buch" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284934721",
     "gnd": "https:\/\/d-nb.info\/1284934721"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

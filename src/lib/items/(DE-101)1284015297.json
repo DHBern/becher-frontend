@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "8 Blatt Druck. Mit Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
   "note": [ "Ursprünglicher, gestrichener Titel des Archivales lautet: Ödöns rätselhafter Tod bzw. Ödön von Horvaths rätselhafter Tod" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284015297",
     "gnd": "https:\/\/d-nb.info\/1284015297"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

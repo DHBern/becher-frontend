@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift H. K. Travers. Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "USA, Department of State, Visa Division" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1942" ],
   "encl": [  ],
   "note": [ "Betrifft: Stand der Einreise-Genehmigung für Richard Becher und Familie in die USA" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284896366",
     "gnd": "https:\/\/d-nb.info\/1284896366"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

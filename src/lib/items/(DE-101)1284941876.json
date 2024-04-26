@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "I, 5 Blatt maschinenschriftlich vervielfältigt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Sigurd Schimpf" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1969" ],
   "encl": [  ],
   "note": [ "Sendereihe: Buchbesprechung" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284941876",
     "gnd": "https:\/\/d-nb.info\/1284941876"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Heft (18 Blatt, Blatt 4 und 5 lose) handschriftlich, von verschiedenen Händen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1800" ],
   "encl": [  ],
   "note": [ "Das Heft stammt vermutlich aus der Großelterngeneration von Ulrich Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284924254",
     "gnd": "https:\/\/d-nb.info\/1284924254"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

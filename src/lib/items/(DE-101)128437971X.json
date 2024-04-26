@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt Druck" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Arnoldo Mondadori Editore" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1965" ],
   "encl": [  ],
   "note": [ "Betrifft: Arnoldo Mondadori Editore, Libri Periodici Officine Grafiche" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128437971X",
     "gnd": "https:\/\/d-nb.info\/128437971X"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

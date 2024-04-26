@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "4 Blatt maschinenschriftlicher Durchschlag" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1074659074" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Adressat: Herrn Dr. Peter Haensel, F. Bloch Erben Verlag, Berlin" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284798151",
     "gnd": "https:\/\/d-nb.info\/1284798151"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

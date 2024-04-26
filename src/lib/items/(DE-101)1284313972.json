@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 gefaltete Karte Druck" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ernst Weil" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1967" ],
   "encl": [  ],
   "note": [ "Betrifft: Einladung zur Ausstellungseröffnung Kunsthalle Nürnberg 21.10.67" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284313972",
     "gnd": "https:\/\/d-nb.info\/1284313972"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

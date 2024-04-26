@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Band (68 Blatt) handschriftlich, auch von Dana Becher" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1979" ],
   "note": [
     "Beginnt mit Notizen zu den Texten: Elefanten ändern nichts; Franz Patenkindt",
@@ -20,6 +21,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284001997",
     "gnd": "https:\/\/d-nb.info\/1284001997"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

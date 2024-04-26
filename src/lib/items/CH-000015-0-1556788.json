@@ -1,8 +1,9 @@
 {
   "category_local_name": "",
   "ext": [ "20 Briefe, maschinenschriftlich, 24 Seiten; 7 Rechnungen, maschinenschriftlich, 7 Seiten; 2 Typoskripte, maschinenschriftlich, 7 Seiten; 1 Mahnung, 1 Seite; 3 Couverts; div. Einzahlungsscheine" ],
+  "wit": [  ],
   "category_global_name": "",
-  "place": [ "Basel" ],
+  "place": [  ],
   "ext_num": 0,
   "creator": [
     "Eckert, Hans (1912-2011)",
@@ -11,7 +12,7 @@
     "Berger, Peter",
     "Becher, Ulrich (1910-1990)"
   ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "30. November 1967 bis 9. Januar 1969" ],
   "encl": [  ],
   "note": [
@@ -27,6 +28,7 @@
     "https:\/\/d-nb.info\/gnd\/118507958"
   ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556788" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

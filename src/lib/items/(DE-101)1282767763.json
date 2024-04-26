@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "40 Seiten insgesamt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "George Grosz" ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Englisch" ],
   "date": [ "" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282767763",
     "gnd": "https:\/\/d-nb.info\/1282767763"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

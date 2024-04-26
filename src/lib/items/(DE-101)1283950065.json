@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "6 Blatt maschinenschriftlicher Durchschlag" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Es handelt sich hierbei um Bildunterschriften zu einem Teil der Zeichnungen in der Moritat" ],
   "signature": "DEA-B-3-1-0017.A.01.03.0021",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283950065",
     "gnd": "https:\/\/d-nb.info\/1283950065"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

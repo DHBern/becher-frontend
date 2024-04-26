@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 36 Blatt, Tb. + 35 Blatt, mit handschriftlichen Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 36,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1931" ],
   "note": [
     "[Bemerkung] Runde Typen, hochgestellte Versalien. Typoskript wurde aus vier ungeordneten Dossiers zusammengefügt: Das langweilige Zwiegespräch - Die Orgie - Der Heimweg - Der Tagesanbruch.",
@@ -16,6 +17,7 @@
   "content": [ "Vater-Sohn-Konflikt oder die Folgen einer Moralpredigt. Junger Held prügelt sich aus Frust und Liebeskummer auf einer Fabrikhallenpartie, spürt die Dichotomie von Natur und Technik, erlebt einen kafkaesken Heimweg und den schweren Morgen danach." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557617" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-a-3-1_17.jpg\/info.json",

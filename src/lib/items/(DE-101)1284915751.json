@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "3 Fotos schwarz\/weiß" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1930" ],
   "encl": [  ],
   "note": [ "Die Fotografien wurden teilweise auf Briefpapier aufgeklebt, das mit einem handschriftlichen Gruß versehen wurde (Unbekannt, Hotel Vier Jahreszeiten - Restaurant Walterspiel an Ulrich Becher, März 1959)" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284915751",
     "gnd": "https:\/\/d-nb.info\/1284915751"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

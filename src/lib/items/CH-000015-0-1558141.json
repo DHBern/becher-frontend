@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Zeitungsausschnitt" ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "19. Januar 1976" ],
   "note": [ "[Bemerkung] 1 Zeitungsausschnitt mit handschriftlichen Anmerkungen Datum + \"Rodeo\". Inhalt: CIA-Enten in Massenmedien" ],
   "signature": "SLA-UB-A-2-f-3-1",
@@ -13,6 +14,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558141" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "Recherchiert"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-f-3-1_01.jpg\/info.json",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "200 Blatt handschriftlich und maschinenschriftlicher Durchschlag" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 408,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [ "Es handelt sich hierbei um Notizen und ähnliches. Teilweise unter dem Titel: Ich heiße Legion und Die Straße über San Gian" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0030",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943913",
     "gnd": "https:\/\/d-nb.info\/1283943913"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943913_00000010.tif\/info.json",

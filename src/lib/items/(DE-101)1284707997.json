@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Guido Frei" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Schweizerische Radio-und Fernsehgesellschaft" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1974" ],
   "encl": [  ],
   "note": [ "Briefkopf: Fernsehen der Deutschen und der Rätoromanischen Schweiz, Schweizerische Radio und Fernsehgesellschaft, Direktion" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284707997",
     "gnd": "https:\/\/d-nb.info\/1284707997"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

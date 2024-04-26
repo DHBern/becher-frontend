@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "50 Blatt = circa 30 Einheiten handschriftlich und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Italienisch", "Italienisch Deutsch" ],
   "date": [ "1900" ],
   "note": [
     "Es handelt sich hierbei um ein Konvolut von Notizen, Manuskript-Teilen und Materialsammlung, das bei den Notizbüchern überliefert ist",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284013820",
     "gnd": "https:\/\/d-nb.info\/1284013820"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

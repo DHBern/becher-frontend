@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript-Durchschlag rosa; Titelblatt + 82 Blatt (inkl. zahlreiche Doppel), handschriftliche und maschinelle Korrekturen" ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 10,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "note": [ "[Bemerkung] Aus verschiedenen Textträgern zusammengestelltes, unvollständiges Werktyposkript, manche Passagen in mehrfacher Ausführung. Darunter Vorstufen (\"Manhattan-Miniatur\") sowie Kapitel 5 \"Auskunft\", das in der postum publizierten Novellenausgabe von 1991 fehlt." ],
   "signature": "SLA-UB-A-2-f-2-3",
@@ -13,6 +14,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558136" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-f-2-3_01.jpg\/info.json",

@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 2 Blatt, vollständig" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 2,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1958" ],
   "note": [
     "[Bemerkung] kleine runde Typen, vgl. Franz f-11",
@@ -16,6 +17,7 @@
   "content": [ "Plötzliche Ruhe nach einer Diskussion und das unerwartete Ende einer Veranstaltung der Schnurrbart-Fraktion." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557833" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-27-1_01.jpg\/info.json",

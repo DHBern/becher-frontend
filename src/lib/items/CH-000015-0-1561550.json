@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "4 Gedicht, handschriftlich, 6 Seiten" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Richard (1875-1956)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1913 bis 1915" ],
   "encl": [  ],
   "note": [
@@ -17,6 +18,7 @@
   "content": [ "4 Gedichte an \"Mutti\"" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1561550" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

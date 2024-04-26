@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "38 Blatt (Seite 11-161) maschinenschriftlich hektografiert. Mit handschriftlichen Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1948" ],
   "note": [ "Reproduktion von: Veränderte Fassung, Bühnenexemplar" ],
   "signature": "DEA-B-3-1-0017.A.01.02.0010",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283945967",
     "gnd": "https:\/\/d-nb.info\/1283945967"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von [Günter] Caspar" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Aufbau-Verlag" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "encl": [  ],
   "note": [
@@ -22,6 +23,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128438179X",
     "gnd": "https:\/\/d-nb.info\/128438179X"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

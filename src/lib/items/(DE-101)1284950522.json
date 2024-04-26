@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "4 Blatt maschinenschriftlicher Durchschlag" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Unbekannt" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "encl": [  ],
   "note": [ "Betrifft: Ulrich Becher: Männer machen Fehler" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284950522",
     "gnd": "https:\/\/d-nb.info\/1284950522"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

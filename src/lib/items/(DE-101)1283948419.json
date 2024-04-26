@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Mappe, beschriftet mit Titelangaben" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Geplanter übergeordneter Titel des Theaterstücks, zusammen mit \"Biene gib mir Honig\": Liebe und Liebe" ],
   "signature": "DEA-B-3-1-0017.A.01.02.0081",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948419",
     "gnd": "https:\/\/d-nb.info\/1283948419"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

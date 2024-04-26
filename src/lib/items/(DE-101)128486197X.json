@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Wolfgang Kraus" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Paul-Zsolnay-Verlag (Wien)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
   "note": [
@@ -23,6 +24,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128486197X",
     "gnd": "https:\/\/d-nb.info\/128486197X"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

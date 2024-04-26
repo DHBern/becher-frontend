@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "26 Blatt = circa 26 Einheiten Druck. Teilweise Xerox, teilweise mit Korrekturen und Ergänzungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
   "note": [ "Im Konvolut sind teilweise Doppelexemplare etc. vorhanden" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284018040",
     "gnd": "https:\/\/d-nb.info\/1284018040"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

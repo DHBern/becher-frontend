@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Manuskript, handschriftlich, 4 Bogen" ],
+  "wit": [  ],
   "category_global_name": "",
-  "place": [ "St. Moritz" ],
+  "place": [  ],
   "ext_num": 0,
   "creator": [ "Roda Becher, Dana (1909-1992)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1950 bis 1992" ],
   "encl": [  ],
   "note": [
@@ -17,6 +18,7 @@
   "content": [ "Fragment einer Geschichte" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564872" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

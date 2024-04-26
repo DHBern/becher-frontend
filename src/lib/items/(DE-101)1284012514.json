@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Band (59 Blatt) handschriftlich, auch von Dana Becher" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1977" ],
   "note": [
     "Enthält auch Notizen zum Text: Anthologie Europa",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284012514",
     "gnd": "https:\/\/d-nb.info\/1284012514"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

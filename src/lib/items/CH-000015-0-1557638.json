@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript-Durchschlag, 73 Blatt (Tb. + 72 Blatt), paginiert + Typoskript-Durchschlag, 50 Blatt, unpaginiert" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1936" ],
   "note": [
     "[Bemerkung] Typoskript wurde aus unzähligen ungeordneten Dossiers zusammengefügt.",
@@ -16,6 +17,7 @@
   "content": [ "Junger bulgarischer Geiger, der in Berlin Musik studiert, wird aus seinem Leben herausgerissen, an die Kriegsfront versetzt, erobert nach Schwejkscher Manier eine Kleinstadt, bewältigt die lang ersehnte Chaconne und verliert am Ende \"nur\" seine für sein Spiel unersetzbare linke Hand." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557638" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

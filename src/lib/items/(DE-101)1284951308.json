@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "4 Blatt maschinenschriftlich vervielfältigt und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Unbekannt" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1969" ],
   "encl": [  ],
   "note": [ "Sendereihe: Kulturkritik" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284951308",
     "gnd": "https:\/\/d-nb.info\/1284951308"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

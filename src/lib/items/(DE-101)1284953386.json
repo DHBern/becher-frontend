@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt Druck. In Versand-Rolle" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1960" ],
   "encl": [  ],
   "note": [ "Auf dem Plakat sind auch zwei Fotos abgedruckt: das Eine zeigt Ulrich Becher mit Henry Miller, das Andere zeigt einen Band von \"Das Herz des Hais\"" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284953386",
     "gnd": "https:\/\/d-nb.info\/1284953386"
   },
+  "wit-info": [  ],
   "type": "collItem",
   "holding_institution": "DEA",
   "iiif": "",

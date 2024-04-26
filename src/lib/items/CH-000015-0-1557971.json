@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Manuskript, 24 Blatt (S. 1-11, 22-24, 26-32, 37, 49-50), paginiert, unvollständig Handschrift Dana und Ulrich" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 24,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1970 bis 1990" ],
   "note": [
     "[Bemerkung] Kopierblätter stammen vermutlich aus demselben Kopierbuch",
@@ -16,6 +17,7 @@
   "content": [ "Silversterabend bei Wotrubas mit Helmut Qualtinger. 1951 kurz nach Uraufführung von Samba Zusammentreffen mit Qualtinger und Leinfellner. Doderer in Wotrubas Atelier." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557971" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-g-1-5_01.jpg\/info.json",

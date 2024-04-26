@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Zeitungsartikel (Ankündigung einer Lesung)" ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "18. November 1991" ],
   "encl": [  ],
   "note": [  ],
@@ -14,6 +15,11 @@
   "content": [ "Rezensionen" ],
   "creator_uri": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551505" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "Rezensiert"
+    } ],
   "type": "collItem",
   "holding_institution": "SLA",
   "iiif": "",

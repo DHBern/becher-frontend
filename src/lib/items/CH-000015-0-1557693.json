@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 28 Blatt, vollständig, paginiert, maschinenschriftliche und handschriftliche Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 28,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1944 bis 1945" ],
   "note": [
     "[Bemerkung] S. 1 mit Titel, Untertitel und Widmung für Grosz, George",
@@ -16,6 +17,7 @@
   "content": [ "Nebelnacht im Oktober 1944, Nucciarone's Inn, eine Bar in Manhattan und ihr darin versammeltes \"menschliches Strandgut\"." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557693" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-4-2_01.jpg\/info.json",

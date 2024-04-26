@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Druckexemplar mit handschriftlichen Anmerkungen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1949" ],
   "note": [
     "[Bemerkung] Handexemplar des Autors mit handschriftlichen Korrekturen und Anmerkungen. Aufbau-Verlag, Berlin 1949  Auf 1. Seite, hs. Goethe-Zitat (Wilhelm Meisters Lehrjahre): \"Goethe: Das Menschenpack fürchtet sich vor nichts mehr als vor dem Verstand. Vor der Dummheit soillten sie sich fürchten, wenn sie wüssten [begriffen], was fürchterlich ist.\"",
@@ -16,6 +17,7 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558544" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

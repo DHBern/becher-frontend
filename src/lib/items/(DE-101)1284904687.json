@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "26 Blatt und 1 Heft = 27 Einheiten handschriftlich auf Vordruck und anderes. Teilweise Xerox" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Französisch Italienisch" ],
   "date": [ "1949" ],
   "encl": [  ],
   "note": [ "Betrifft: unter anderem auch Martin Roda Becher" ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284904687",
     "gnd": "https:\/\/d-nb.info\/1284904687"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

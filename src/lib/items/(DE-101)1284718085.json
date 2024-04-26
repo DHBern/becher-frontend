@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Karte maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Traute [van Witt]" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Universal-Edition" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "encl": [  ],
   "note": [  ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284718085",
     "gnd": "https:\/\/d-nb.info\/1284718085"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

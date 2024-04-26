@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich vervielfältigt. Im Auftrag geschrieben von Andrew Gregoriades, Leiter der Nachrichtenabteilung" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Die Neue Zeitung" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "encl": [  ],
   "note": [ "Briefkopf: Die Neue Zeitung, Die Amerikanische Zeitung in Deutschland" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284522032",
     "gnd": "https:\/\/d-nb.info\/1284522032"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

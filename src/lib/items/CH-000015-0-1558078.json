@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag 8 Blatt + Manuskript 3 Blatt" ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 13,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "note": [  ],
   "signature": "SLA-UB-A-2-c-3-1",
@@ -13,6 +14,11 @@
   "content": [ "Versch. Titel und Werkaufstellungen: Die Strasse über San Gian. Roman. (2 Teile: Licht im See, Die dumme Kraft) Das Herz auf der Stirn. Roman. (8 Bücher: Tote Zeit, der Landadvokat, Licht im See, Ein Lastwagen der Marke Saurier, Die Geisterbahn I-III, Die Strasse über San Gian) Ich heisse Legion (5 Bücher: Tote Zeit, Licht im See, Die Geisterbahn I-II, Die Strasse über San Gian Murmeljagd (5 Bücher, wie oben) 1 Blatt versch. Mögliche Romantitel: Die Strasse über San Dschan, Ich heisse Legion, Die Geisterbahn, Am Ende der Toten Zeit Mehrere TitelBlatt enthalten als Motto ein Zitat aus dem 8. Lukas-Evangelium" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558078" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-c-3-1_01.jpg\/info.json",

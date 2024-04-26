@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt = 2 Einheiten Xerox, nachbearbeitet, 29,0 x 19,0 cm und 30,3 x 19,3 cm" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "note": [ "Vorliegende Namensform Künstler: UL" ],
   "signature": "DEA-B-3-1-0017.A.03.0014",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284022528",
     "gnd": "https:\/\/d-nb.info\/1284022528"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

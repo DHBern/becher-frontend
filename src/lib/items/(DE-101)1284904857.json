@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "55 Blatt = 55 Einheiten handschriftlich auf Vordruck und anderes" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [  ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Deutsch Französisch" ],
   "date": [ "1951" ],
   "encl": [  ],
   "note": [  ],
@@ -17,6 +18,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284904857",
     "gnd": "https:\/\/d-nb.info\/1284904857"
   },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "DEA",
   "iiif": "",

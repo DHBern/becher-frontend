@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "11 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [
     "Titel fingiert (gemäß Benennung des Konvoluts, in dem das Archivale überliefert wurde)",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283991055",
     "gnd": "https:\/\/d-nb.info\/1283991055"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Umschlag" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Robert Blum" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1951" ],
   "encl": [  ],
   "note": [ "Brief vom 05.06.1951 gehört vermutlich zu diesem Umschlag" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284090760",
     "gnd": "https:\/\/d-nb.info\/1284090760"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

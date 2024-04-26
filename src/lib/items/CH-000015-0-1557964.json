@@ -1,22 +1,24 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 1 Blatt, unvollständig (S.11)" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 1,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "note": [  ],
-  "signature": "SLA-UB-A-1-f-75-1",
+  "signature": "SLA-UB-A-1-f-71-1",
   "title": "Becher, Ulrich: Fragment der Petra Z.",
   "content": [ "Der Erzähler erkennt nordische Sehnsucht in den Augen der Petra Z." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557964" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
-  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-75-1_01.jpg\/info.json",
+  "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-f-71-1_01.jpg\/info.json",
   "category": 10160,
   "key": "CH-000015-0-1557964",
-  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/f39e8c74-0ff2-4e82-a706-cf970fa46ca7\/"
+  "iiif-manifest": "https:\/\/iiif.ub.unibe.ch\/presentation\/v2.1\/manifest\/42462a38-675a-497e-9d3d-5e6edcd713e5\/"
 }

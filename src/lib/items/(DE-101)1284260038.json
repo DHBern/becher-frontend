@@ -1,12 +1,13 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift Ernst T. Richter" ],
+  "wit": [  ],
   "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ernst Theo Richter" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1980" ],
   "encl": [  ],
   "note": [ "Vorliegende Namensform Verfasser: Ernst-Theo Richter" ],
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284260038",
     "gnd": "https:\/\/d-nb.info\/1284260038"
   },
+  "wit-info": [  ],
   "type": "letter",
   "holding_institution": "DEA",
   "iiif": "",

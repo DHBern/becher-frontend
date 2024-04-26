@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 14 Blatt, vollständig, paginiert, handschriftliche Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 25,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1933" ],
   "note": [
     "[Bemerkung] Auf Titelblatt Madam durch Frau ersetzt, Ziffer 11\/16 mit Blaustift. Älteste Fassung, aufgrund der Typen und der verwechselten Lampreten. Nach 1919 galten diese gigantischen Hüte als Symbol des Veralteten, Überlebten.",
@@ -16,6 +17,7 @@
   "content": [ "Absinthgeschwängerter Traum des Dieners Vigneau und Verwandlung von Frau und Hut, einer jeglichen Modernität abholde Dame und ein Paris zw. den Kriegen." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557699" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-1-d-5-1_01.jpg\/info.json",

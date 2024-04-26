@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript Durchschlag, 77 Blatt, mit zahlreichen handschriftlichen und maschinellen Korrekturen, nicht zusammenhängend + ca. 9 Blatt Kopien\/Durchschlag" ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 118,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "" ],
   "note": [ "[Bemerkung] Konvolut von Material zu den Teilkapiteln 1-9: Fragmente, Notizen, Vorstufen: oft werden gewisse Szenen über ein paar Seiten ausgearbeitet und dementsprechend paginiert. Z. B. \"Schluss Pinaszene\", \"Kap. Charlott 1-4\"," ],
   "signature": "SLA-UB-A-2-c-2-5-7",
@@ -13,6 +14,11 @@
   "content": [  ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558076" },
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "Verfasst"
+    } ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/A-2-c-2-5-7_01.jpg\/info.json",

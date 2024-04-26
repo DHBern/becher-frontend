@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 4 Blatt, vollständig, paginiert, handschriftliche und maschinelle Korrekturen" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "note": [
     "[Bemerkung] Adresse: Basel, Lilienhof 6 und Titel später zugefügt. Neuere Version, detailliertere Ortsbeschreibungen; hier Oberstudiendirektor Poebelfeindt aus Würzburg",
@@ -16,6 +17,7 @@
   "content": [ "Haarsträubendes Abenteuer eines biedereren Reisenden, der in Marseille auf sein Schiff wartet und am Vorabend der Abreise im berüchtigten Hafen, der sogenannten Unterwelt, auf einen gefährlichen Gangster trifft, der sich später als der Regierungsrat Poebelfeindt aus Würzburg erweist." ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557765" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

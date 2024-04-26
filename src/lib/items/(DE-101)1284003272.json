@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Band (circa 300 Blatt) handschriftlich, auch von Dana Becher" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "note": [
     "Enthält auch Notizen zu den Texten: Feuerwasser; SIFF, Selektive Identifizierung von Freund und Feind",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284003272",
     "gnd": "https:\/\/d-nb.info\/1284003272"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

@@ -1,16 +1,17 @@
 {
   "category_local_name": "",
   "ext": [ "10 Briefentwürfe, maschinenschriftlich und handschriftlich, 13 Seiten; 6 Briefe, 5 maschinenschriftlich, 1 handschriftlich, 5 Seiten; 5 Typoskript, maschinenschriftlich, 5 Blatt; 1 Mappe, handschriftlich beschrieben, mit eingeklebtem Couvert, ungeöffnet; Notizen, handschriftlich, 1 Blatt" ],
+  "wit": [  ],
   "category_global_name": "",
-  "place": [ "New York," ],
+  "place": [  ],
   "ext_num": 0,
   "creator": [
-    "Chalat, Jakob S. (19.-20. Jh.)",
+    "Chalat, Jakob S. (19.\/20. Jh.)",
     "Hamburger, Adolf (20. Jh.)",
     "Becher, Richard (1875-1956)",
     "Preses, Peter (1907-1961)"
   ],
-  "lang": [  ],
+  "lang": [ "Deutsch", "Englisch" ],
   "date": [ "1946 bis 1947" ],
   "encl": [  ],
   "note": [ "[Darin] 1 ungeöffneter Brief auf der Innenseite der Mappe" ],
@@ -19,6 +20,7 @@
   "content": [ "Vollmacht für Richard Becher, unterzeichnet von Peter Preses und Ulrich Becher; Briefe, Entwürfe und Durchschläge von und an Richard Becher; Vergleich der Klage; Aussage von Mariane Walla; Statement von Peter Preses und Ulrich Becher; Notizen; Entwurf \"Agreement\"" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/116282614" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553382" },
+  "wit-info": [  ],
   "type": "lifeDoc",
   "holding_institution": "SLA",
   "iiif": "",

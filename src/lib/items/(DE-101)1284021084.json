@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Blatt Xerox, 15,7 x 20,5 cm. Mit Widmung für Prinzessin Löwenstein" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Latein", "Latein Deutsch" ],
   "date": [ "1900" ],
   "note": [
     "Der Titel lautet ausgeschrieben vermutlich: Evangelium Lucae Capitulum 24, Versus 41",
@@ -19,6 +20,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284021084",
     "gnd": "https:\/\/d-nb.info\/1284021084"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",

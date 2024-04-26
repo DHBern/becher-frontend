@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "Typoskript, 7 Blatt, vollständig, mit handschriftlichen Korrekturen,handschriftlich und maschinell, paginiert" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
   "creator": [ "Becher, Ulrich (1910-1990)" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "note": [
     "[Bemerkung] Auf Zettel hs. Notiz für andere Titelvorschläge: Der Jan-Podje-Beutel oder auch Jean- Poudieux-Beutel, Erwähnung des Bildhauers Wotruba;\nAus diversen Dossiers der Murmeljagd zusammengefügtes Ex. (S. 3-5).",
@@ -16,6 +17,7 @@
   "content": [ "Eine arme russische Klavierlehrerin versucht erstmals nach 35 Jahren in Paris ihre Kochkünste zu reaktivieren und kehrt nach dem misslungenen Experiment frustriert nach Charkow zurück: \"weil man in Paris nicht kochen kann\"" ],
   "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557794" },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "SLA",
   "iiif": "",

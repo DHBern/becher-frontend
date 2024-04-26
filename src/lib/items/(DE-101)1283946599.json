@@ -1,11 +1,12 @@
 {
   "category_local_name": "",
   "ext": [ "1 Band (270 Seiten) maschinenschriftlich vervielfältigt" ],
+  "wit": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [ "Ulrich Becher" ],
-  "lang": [  ],
+  "lang": [ "Deutsch" ],
   "date": [ "1958" ],
   "note": [ "Reproduktion von: Rohfassung, unverkäufliches Manuskript" ],
   "signature": "DEA-B-3-1-0017.A.01.02.0035",
@@ -16,6 +17,7 @@
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283946599",
     "gnd": "https:\/\/d-nb.info\/1283946599"
   },
+  "wit-info": [  ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "",
