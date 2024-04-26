@@ -2,11 +2,16 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Willy Keller", "Instituto Cultural Brasil Alemanha (Rio de Janeiro)" ],
+  "creator": [
+    { "name":"Willy Keller", "uri":"https:\/\/d-nb.info\/gnd\/116174897" },
+    {
+      "name": "Instituto Cultural Brasil Alemanha (Rio de Janeiro)",
+      "uri": "https:\/\/d-nb.info\/gnd\/221362-X"
+    }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "encl": [  ],
@@ -14,8 +19,7 @@
   "signature": "SLA-UB-B-2-137",
   "title": "Willy Keller, Instituto Cultural Brasil Alemanha (Rio de Janeiro) an Ulrich Becher, 1959",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116174897", "https:\/\/d-nb.info\/gnd\/221362-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284147088",
     "gnd": "https:\/\/d-nb.info\/1284147088"

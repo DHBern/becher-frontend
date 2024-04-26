@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/119232383" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1964" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-1-026",
   "title": "Ulrich Becher an Axl Leskoschek, 1964",
   "content": [  ],
-  "recipient": [ "Axl Leskoschek" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Axl Leskoschek", "uri":"https:\/\/d-nb.info\/gnd\/119232383" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284801721",
     "gnd": "https:\/\/d-nb.info\/1284801721"

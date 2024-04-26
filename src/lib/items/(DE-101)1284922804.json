@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Olavo Bilac" ],
+  "creator": [ { "name":"Olavo Bilac", "uri":"https:\/\/d-nb.info\/gnd\/121751961" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1941" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.01.01.0002",
   "title": "Meiner Mutter!, Sonett",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121751961" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284922804",
     "gnd": "https:\/\/d-nb.info\/1284922804"

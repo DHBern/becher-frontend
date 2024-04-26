@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt Druck und maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von ... Lux, Absatzleiterin, ... Mohr, Werbebearbeiterin" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Bibliographisches Institut (Leipzig)" ],
+  "creator": [ {
+      "name": "Bibliographisches Institut (Leipzig)",
+      "uri": "https:\/\/d-nb.info\/gnd\/2004604-2"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1967" ],
   "encl": [  ],
@@ -17,8 +19,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3556",
   "title": "Bibliographisches Institut (Leipzig) an Ulrich Becher, 1967",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2004604-2" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128473160X",
     "gnd": "https:\/\/d-nb.info\/128473160X"

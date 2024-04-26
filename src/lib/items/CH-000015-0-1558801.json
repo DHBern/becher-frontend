@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1978" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-6-b-1-1",
   "title": "Becher, Ulrich: SIFF. Handexemplar",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558801" },
   "wit-info": [  ],
   "type": "work",

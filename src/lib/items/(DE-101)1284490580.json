@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Anne Hutzenlaub, Intendanzsekretärin" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Westfälisches Landestheater" ],
+  "creator": [ { "name":"Westfälisches Landestheater", "uri":"https:\/\/d-nb.info\/gnd\/1030047-8" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2615",
   "title": "Westfälisches Landestheater an Ulrich Becher, 1971",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1030047-8" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284490580",
     "gnd": "https:\/\/d-nb.info\/1284490580"

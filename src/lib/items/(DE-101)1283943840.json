@@ -1,23 +1,26 @@
 {
   "category_local_name": "",
   "ext": [ "100 Blatt maschinenschriftlicher Durchschlag und anderes. Mit handschriftlichen Korrekturen" ],
-  "wit": [  ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 200,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [ "Reproduktion von: Frühere Fassung, Fragment" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0028",
   "title": "Murmeljagd, [Roman] - Dann kam ihre wie ... [Incipit]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943840",
     "gnd": "https:\/\/d-nb.info\/1283943840"
   },
-  "wit-info": [  ],
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "undefined"
+    } ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943840_00000010.tif\/info.json",

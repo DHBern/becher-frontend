@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Albert Ehrenstein" ],
+  "creator": [ { "name":"Albert Ehrenstein", "uri":"https:\/\/d-nb.info\/gnd\/118688227" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1948" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0468",
   "title": "Albert Ehrenstein an Ulrich Becher, 1948",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118688227" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284110702",
     "gnd": "https:\/\/d-nb.info\/1284110702"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Berlin, Amtsgericht Alt Moabit" ],
+  "creator": [ { "name":"Berlin, Amtsgericht Alt Moabit", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1939" ],
   "encl": [  ],
@@ -15,7 +14,6 @@
   "title": "Berlin, Amtsgericht Alt Moabit an , 1939",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284883329",
     "gnd": "https:\/\/d-nb.info\/1284883329"

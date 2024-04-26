@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Oscar Fritz Schuh", "Theater am Kurfürstendamm" ],
+  "creator": [
+    { "name":"Oscar Fritz Schuh", "uri":"https:\/\/d-nb.info\/gnd\/118611208" },
+    { "name":"Theater am Kurfürstendamm", "uri":"https:\/\/d-nb.info\/gnd\/4723464-7" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "encl": [  ],
@@ -17,8 +19,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1714",
   "title": "Oscar Fritz Schuh, Theater am Kurfürstendamm an Ulrich Becher, 1953",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118611208", "https:\/\/d-nb.info\/gnd\/4723464-7" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284288471",
     "gnd": "https:\/\/d-nb.info\/1284288471"

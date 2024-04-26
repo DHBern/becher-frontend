@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Wilhelm Herzog" ],
+  "creator": [ { "name":"Wilhelm Herzog", "uri":"https:\/\/d-nb.info\/gnd\/119445980" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1950" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0756",
   "title": "Wilhelm Herzog an Ulrich Becher, 1950",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119445980" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284140083",
     "gnd": "https:\/\/d-nb.info\/1284140083"

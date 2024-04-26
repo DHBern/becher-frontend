@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich. Verso: Ulrich Becher an The International Who's Who, maschinenschriftlicher Durchschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116880252" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1972" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.02.0146",
   "title": "Ulrich Becher an Renate Nagel, 1972",
   "content": [  ],
-  "recipient": [ "Renate Nagel" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Renate Nagel", "uri":"https:\/\/d-nb.info\/gnd\/116880252" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284785440",
     "gnd": "https:\/\/d-nb.info\/1284785440"

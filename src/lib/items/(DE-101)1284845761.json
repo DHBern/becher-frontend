@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (beschädigt)" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1968" ],
   "encl": [  ],
@@ -15,7 +14,6 @@
   "title": "Ulrich Becher an , 1968",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284845761",
     "gnd": "https:\/\/d-nb.info\/1284845761"

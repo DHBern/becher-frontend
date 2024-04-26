@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von H. H. Carwin" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Felix Bloch Erben" ],
+  "creator": [ { "name":"Felix Bloch Erben", "uri":"https:\/\/d-nb.info\/gnd\/504859-X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2691",
   "title": "Felix Bloch Erben an Ulrich Becher, 1953",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/504859-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284494985",
     "gnd": "https:\/\/d-nb.info\/1284494985"

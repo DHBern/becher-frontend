@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Werner Schendell" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Verband Deutscher Bühnenschriftsteller und Bühnenkomponisten" ],
+  "creator": [ {
+      "name": "Verband Deutscher Bühnenschriftsteller und Bühnenkomponisten",
+      "uri": "https:\/\/d-nb.info\/gnd\/1011383-6"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3557",
   "title": "Verband Deutscher Bühnenschriftsteller und Bühnenkomponisten an Ulrich Becher, 1955",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1011383-6" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284731642",
     "gnd": "https:\/\/d-nb.info\/1284731642"

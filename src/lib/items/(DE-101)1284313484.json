@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Hermann Wedekind", "Stadttheater (Basel)" ],
+  "creator": [
+    { "name":"Hermann Wedekind", "uri":"https:\/\/d-nb.info\/gnd\/119520893" },
+    { "name":"Stadttheater (Basel)", "uri":"https:\/\/d-nb.info\/gnd\/2022734-6" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1859",
   "title": "Hermann Wedekind, Stadttheater (Basel) an Ulrich Becher, 1957",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119520893", "https:\/\/d-nb.info\/gnd\/2022734-6" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284313484",
     "gnd": "https:\/\/d-nb.info\/1284313484"

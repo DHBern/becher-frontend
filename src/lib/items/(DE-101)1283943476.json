@@ -1,23 +1,26 @@
 {
   "category_local_name": "",
   "ext": [ "11 Blatt handschriftlich, auch von Dana Becher, und anderes" ],
-  "wit": [  ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 24,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Es handelt sich hierbei um Notizen, Materialsammlung" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0014",
   "title": "Abseits vom Rodeo, [Novelle] - beiliegendes Material",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943476",
     "gnd": "https:\/\/d-nb.info\/1283943476"
   },
-  "wit-info": [  ],
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "undefined"
+    } ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943476_00000010.tif\/info.json",

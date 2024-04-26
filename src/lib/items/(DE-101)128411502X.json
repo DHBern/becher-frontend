@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Elisabeth Freundlich" ],
+  "creator": [ { "name":"Elisabeth Freundlich", "uri":"https:\/\/d-nb.info\/gnd\/119079518" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-2-051",
   "title": "Elisabeth Freundlich an Ulrich Becher, 1945",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119079518" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128411502X",
     "gnd": "https:\/\/d-nb.info\/128411502X"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag. Mit Unterschrift von Kyle Crichton" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Collier's" ],
+  "creator": [ { "name":"Collier's", "uri":"" } ],
   "lang": [ "Englisch" ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2621",
   "title": "Collier's an Ulrich Becher, 1945",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284490998",
     "gnd": "https:\/\/d-nb.info\/1284490998"

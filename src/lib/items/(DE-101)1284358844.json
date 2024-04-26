@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Erwin Reuben Jacobi" ],
+  "creator": [ { "name":"Erwin Reuben Jacobi", "uri":"https:\/\/d-nb.info\/gnd\/118775774" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2289",
   "title": "Erwin Reuben Jacobi an Ulrich Becher, 1955",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118775774" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284358844",
     "gnd": "https:\/\/d-nb.info\/1284358844"

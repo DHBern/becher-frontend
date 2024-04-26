@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-f-22-2",
   "title": "Becher, Ulrich: Die beiden Letzten (2. Fassung)",
   "content": [ "Bechers Apokalypse - oder wie der langerwartete Messias am Weltuntergang doch noch den zwei allerletzten, uralten Juden vor ihrem Tode erscheint." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557818" },
   "wit-info": [  ],
   "type": "work",

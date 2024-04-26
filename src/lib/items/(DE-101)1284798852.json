@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich (Durchschrift) und maschinenschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1012288137" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1977" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.02.0210",
   "title": "Ulrich Becher an Ulrich Melchinger, 1977",
   "content": [  ],
-  "recipient": [ "Ulrich Melchinger" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Ulrich Melchinger", "uri":"https:\/\/d-nb.info\/gnd\/1012288137" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284798852",
     "gnd": "https:\/\/d-nb.info\/1284798852"

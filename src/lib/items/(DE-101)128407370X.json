@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/121205207" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "Elise Becher-Ulrich" ],
+  "creator": [ { "name":"Elise Becher-Ulrich", "uri":"https:\/\/d-nb.info\/gnd\/1215308086" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1958" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-3-272",
   "title": "Elise Becher-Ulrich an Martin Roda Becher, 1958",
   "content": [  ],
-  "recipient": [ "Martin Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "recipient": [ { "name":"Martin Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/121205207" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128407370X",
     "gnd": "https:\/\/d-nb.info\/128407370X"

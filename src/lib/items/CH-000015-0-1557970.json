@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970 bis 1990" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-g-1-4",
   "title": "Becher, Ulrich: Hades-Telefonate: Silvester in Wien und Begräbnis Wotrubas",
   "content": [ "Begräbnis Fritz Wotrubas und anschliessende Leichenfeier Kap. 2: Dezember 1961 in Wien, Silvester mit Fritz Wotruba Kap. 3: Unterhaltung mit Walter Muschg in Basel" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557970" },
   "wit-info": [  ],
   "type": "work",

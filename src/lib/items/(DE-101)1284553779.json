@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift ... Haver?. Im Auftrag geschrieben von A. Becker-Berke" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Rowohlt Verlag" ],
+  "creator": [ { "name":"Rowohlt Verlag", "uri":"https:\/\/d-nb.info\/gnd\/2020049-3" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1972" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3308",
   "title": "Rowohlt Verlag an Ulrich Becher, 1972",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2020049-3" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284553779",
     "gnd": "https:\/\/d-nb.info\/1284553779"

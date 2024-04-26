@@ -5,7 +5,10 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Grosz, George (1893-1959)", "Becher, Ulrich (1910-1990)" ],
+  "creator": [
+    { "name":"Grosz, George (1893-1959)", "uri":"https:\/\/d-nb.info\/gnd\/118542672" },
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [
@@ -15,7 +18,6 @@
   "signature": "SLA-UB-A-1-c-4-2",
   "title": "Becher, Ulrich: Nachtigall will zum Vater fliegen (2. Fassung)",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118542672", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557672" },
   "wit-info": [  ],
   "type": "work",

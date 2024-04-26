@@ -5,7 +5,10 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Glaeser, Ernst (1902-1963)", "Becher, Ulrich (1910-1990)" ],
+  "creator": [
+    { "name":"Glaeser, Ernst (1902-1963)", "uri":"https:\/\/d-nb.info\/gnd\/118539604" },
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1936" ],
   "note": [
@@ -15,7 +18,6 @@
   "signature": "SLA-UB-A-1-b-6-2",
   "title": "Becher, Ulrich: Die Eroberer. Handexemplar",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118539604", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557658" },
   "wit-info": [  ],
   "type": "work",

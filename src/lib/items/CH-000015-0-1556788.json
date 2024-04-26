@@ -6,11 +6,11 @@
   "place": [  ],
   "ext_num": 0,
   "creator": [
-    "Eckert, Hans (1912-2011)",
-    "Pfaltz, Carl Rudolf (1922-2003)",
-    "Stein, Peter",
-    "Berger, Peter",
-    "Becher, Ulrich (1910-1990)"
+    { "name":"Eckert, Hans (1912-2011)", "uri":"https:\/\/d-nb.info\/gnd\/107534641X" },
+    { "name":"Pfaltz, Carl Rudolf (1922-2003)", "uri":"https:\/\/d-nb.info\/gnd\/101934489X" },
+    { "name":"Stein, Peter", "uri":"" },
+    { "name":"Berger, Peter", "uri":"" },
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" }
   ],
   "lang": [ "Deutsch" ],
   "date": [ "30. November 1967 bis 9. Januar 1969" ],
@@ -22,11 +22,6 @@
   "signature": "SLA-UB-C-1-e-3-b",
   "title": "Korrespondenz zur Schadenersatzklage, Basel",
   "content": [ "Korrespondenz zwischen Anwälten, Becher, Ulrich, dem Strafgericht Basel-Stadt und dem Konkursamt Basel-Stadt; Bestätigungen zur Rückführung von Akten, teilweise gezeichnet; Ärtztliche Berichte; Rechnungen und Mahnungen, Einzahlungsscheine" ],
-  "creator_uri": [
-    "https:\/\/d-nb.info\/gnd\/107534641X",
-    "https:\/\/d-nb.info\/gnd\/101934489X",
-    "https:\/\/d-nb.info\/gnd\/118507958"
-  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1556788" },
   "wit-info": [  ],
   "type": "lifeDoc",

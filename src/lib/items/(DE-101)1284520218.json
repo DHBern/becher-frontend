@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Armin Eichholz" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Münchner Merkur" ],
+  "creator": [ { "name":"Münchner Merkur", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1968" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3019",
   "title": "Münchner Merkur an Ulrich Becher, 1968",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284520218",
     "gnd": "https:\/\/d-nb.info\/1284520218"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich vervielfältigt. Mit Unterschrift. Im Auftrag geschrieben von Werner Bucher und Peter K. Wehrli. Verso: Ulrich Becher an Hansres Jacobi,  maschinenschriftlicher Durchschlag, ohne Datum" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Orte, eine Schweizer Literaturzeitschrift" ],
+  "creator": [ { "name":"Orte, eine Schweizer Literaturzeitschrift", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1980" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3073",
   "title": "Orte, eine Schweizer Literaturzeitschrift an Ulrich Becher, 1980",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284522970",
     "gnd": "https:\/\/d-nb.info\/1284522970"

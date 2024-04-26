@@ -5,14 +5,13 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Es handelt sich hierbei um Notizen und verstreute Einzelblätter" ],
   "signature": "DEA-B-3-1-0017.A.01.02.0084",
   "title": "Önone, Spiel in 2 Akten, [Theater-Projekt] - beiliegendes Material",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948532",
     "gnd": "https:\/\/d-nb.info\/1283948532"

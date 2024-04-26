@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "Dana Roda Becher" ],
+  "creator": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1940" ],
   "encl": [  ],
@@ -16,7 +16,6 @@
   "signature": "DEA-B-3-1-0017.C.02.0015",
   "title": "Brief",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128489262X",
     "gnd": "https:\/\/d-nb.info\/128489262X"

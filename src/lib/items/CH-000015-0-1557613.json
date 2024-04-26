@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 1,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1931" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-a-1-3",
   "title": "Becher, Ulrich: Vom Unzulänglichen der Wirklichkeit (Fragment)",
   "content": [ "Nebel im Hafen von Southampton, Whiskytraum angesichts eines amerikanischen Luxusdampfers." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557613" },
   "wit-info": [  ],
   "type": "work",

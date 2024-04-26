@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Josef-Hermann Sauter" ],
+  "creator": [ { "name":"Josef-Hermann Sauter", "uri":"https:\/\/d-nb.info\/gnd\/1047068680" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.01.1668",
   "title": "Josef-Hermann Sauter an Dana Roda Becher, Ulrich Becher, 1982",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher", "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1047068680" ],
+  "recipient": [
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" },
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284287165",
     "gnd": "https:\/\/d-nb.info\/1284287165"

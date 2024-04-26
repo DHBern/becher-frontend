@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/121658575X" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Englisch" ],
   "date": [ "1971" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.02.0401",
   "title": "Ulrich Becher an Ivan Salyk, 1971",
   "content": [  ],
-  "recipient": [ "Ivan Salyk" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Ivan Salyk", "uri":"https:\/\/d-nb.info\/gnd\/121658575X" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128484689X",
     "gnd": "https:\/\/d-nb.info\/128484689X"

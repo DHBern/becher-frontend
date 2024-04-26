@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Suhrkamp, Peter (1891-1959)" ],
+  "creator": [ { "name":"Suhrkamp, Peter (1891-1959)", "uri":"https:\/\/d-nb.info\/gnd\/118619977" } ],
   "lang": [ "Deutsch" ],
   "date": [ "17. Januar 1932 bis Februar 1959" ],
   "encl": [  ],
@@ -16,7 +16,6 @@
     "enthält abgetippte Rezensionen (Urteile über die beiden früheren Novellen-Sammlungen Ulrich Bechers, Kurz nach 4 und Die Eroberer); Ausschnitt des rororo-Katalogs (Neue Taschenbücher); Rezensionen in zahlreichen Zeitungen",
     "Rezension von Peter Suhrkamp in der Literarischen Umschau der Vossischen Zeitung vom 17.01.1932"
   ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118619977" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1537306" },
   "wit-info": [  ],
   "type": "collItem",

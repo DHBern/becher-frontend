@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970 bis 1990" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-g-1-2",
   "title": "Becher, Ulrich: Hades-Telefonate: Schluss letztes Kap. Hades-Telefonate",
   "content": [ "Mai 72: Eine der letzten Zusammenkünfte mit \"Heinzlein\" (Heinz Leinfellner), Dozent in der Kunstgewerbeschule, dessen Frau Theres' früh starb, woraufhin er eine geschiedene Wienerin heiratete. \"Schreibasyl\" in Salzburg vom Spätsommer 1972 an, im Austriahof - ein Geheimtipp, der Becher von Hanns Eisler, Schüler Arnold Schönbergs anvertraut worden war.  15.Januar 1975: Erhalt des \"Parte-Zettels\" Franz Futterknechts, ein gebildeter Wiener im Kreis um Wotruba, der sich in der Frührente in sein Weinhauerhaus zurückzog. Telefonat mit Wotruba." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557968" },
   "wit-info": [  ],
   "type": "work",

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Carl Zuckmayer" ],
+  "creator": [ { "name":"Carl Zuckmayer", "uri":"https:\/\/d-nb.info\/gnd\/118637304" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "SLA-UB-B-3-559",
   "title": "Carl Zuckmayer an Ulrich Becher, Dana Roda Becher, 1900",
   "content": [  ],
-  "recipient": [ "Ulrich Becher", "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118637304" ],
+  "recipient": [
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284330664",
     "gnd": "https:\/\/d-nb.info\/1284330664"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Thomas B. Schumann" ],
+  "creator": [ { "name":"Thomas B. Schumann", "uri":"https:\/\/d-nb.info\/gnd\/117303453" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2332",
   "title": "Thomas B. Schumann an Ulrich Becher, 1970",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117303453" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284377059",
     "gnd": "https:\/\/d-nb.info\/1284377059"

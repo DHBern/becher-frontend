@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1088792871" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-1-021",
   "title": "Ulrich Becher an Eva Koralnik Rottenberg, 1982",
   "content": [  ],
-  "recipient": [ "Eva Koralnik Rottenberg" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Eva Koralnik Rottenberg", "uri":"https:\/\/d-nb.info\/gnd\/1088792871" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284801950",
     "gnd": "https:\/\/d-nb.info\/1284801950"

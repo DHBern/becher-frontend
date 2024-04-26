@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Brief, masch." ],
   "wit": [ "1088059252" ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "",
   "place": [ "New York, NY (City); New York (Staat)" ],
   "ext_num": 1,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "3. November 1947" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-1-BECH-225",
   "title": "Becher, Ulrich an Becher, Elise; Korrespondenz, New York",
   "content": [ "UB wünscht Eltern baldige Genesung und hofft, sich endlich als Autor durchsetzen zu können; Grosz, Mehring; Arbeit am Roman \"Murmeljagd\"." ],
-  "recipient": [ "Becher-Ulrich, Elise (1881-1973)" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Becher-Ulrich, Elise (1881-1973)", "uri":"https:\/\/d-nb.info\/gnd\/1215308086" } ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553644" },
   "wit-info": [
     {

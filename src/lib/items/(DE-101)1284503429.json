@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Otto Friedrich Regner" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Frankfurter Allgemeine Zeitung für Deutschland" ],
+  "creator": [ { "name":"Frankfurter Allgemeine Zeitung für Deutschland", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1960" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2812",
   "title": "Frankfurter Allgemeine Zeitung für Deutschland an Ulrich Becher, 1960",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284503429",
     "gnd": "https:\/\/d-nb.info\/1284503429"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Maria Pierenkämper-Rowohlt" ],
+  "creator": [ { "name":"Maria Pierenkämper-Rowohlt", "uri":"https:\/\/d-nb.info\/gnd\/116184620" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1620",
   "title": "Maria Pierenkämper-Rowohlt an Ulrich Becher, 1971",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116184620" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284285987",
     "gnd": "https:\/\/d-nb.info\/1284285987"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt Druck und handschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Grete und Wanny Schaeffer, 12.12.1959" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Maximilian Steigmann" ],
+  "creator": [ { "name":"Maximilian Steigmann", "uri":"https:\/\/d-nb.info\/gnd\/1216665362" } ],
   "lang": [ "Deutsch", "Deutsch Englisch" ],
   "date": [ "1959" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-2-226",
   "title": "Maximilian Steigmann an Ulrich Becher, 1959",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216665362" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284310728",
     "gnd": "https:\/\/d-nb.info\/1284310728"

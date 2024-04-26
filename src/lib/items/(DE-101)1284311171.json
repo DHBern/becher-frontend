@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt Druck und handschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Helen Sütterlin-Monka" ],
+  "creator": [ { "name":"Helen Sütterlin-Monka", "uri":"https:\/\/d-nb.info\/gnd\/1216667314" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1973" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1805",
   "title": "Helen Sütterlin-Monka an Ulrich Becher, 1973",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216667314" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284311171",
     "gnd": "https:\/\/d-nb.info\/1284311171"

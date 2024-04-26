@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11745625X", "https:\/\/d-nb.info\/gnd\/116469986" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1977" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "SLA-UB-B-1-008",
   "title": "Ulrich Becher an Alfred Schmeller, Otto Breicha, 1977",
   "content": [  ],
-  "recipient": [ "Alfred Schmeller", "Otto Breicha" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [
+    { "name":"Alfred Schmeller", "uri":"https:\/\/d-nb.info\/gnd\/11745625X" },
+    { "name":"Otto Breicha", "uri":"https:\/\/d-nb.info\/gnd\/116469986" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284789489",
     "gnd": "https:\/\/d-nb.info\/1284789489"

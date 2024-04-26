@@ -1,23 +1,26 @@
 {
   "category_local_name": "",
   "ext": [ "200 Blatt handschriftlich und maschinenschriftlicher Durchschlag" ],
-  "wit": [  ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 408,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "note": [ "Es handelt sich hierbei um Notizen und ähnliches. Teilweise unter dem Titel: Ich heiße Legion und Die Straße über San Gian" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0030",
   "title": "Murmeljagd, [Roman] - beiliegendes Material",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943913",
     "gnd": "https:\/\/d-nb.info\/1283943913"
   },
-  "wit-info": [  ],
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "undefined"
+    } ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943913_00000010.tif\/info.json",

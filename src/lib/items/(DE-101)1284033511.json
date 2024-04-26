@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte Druck" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Marie-Louise Baumgartner" ],
+  "creator": [ { "name":"Marie-Louise Baumgartner", "uri":"https:\/\/d-nb.info\/gnd\/1215294204" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -15,7 +14,6 @@
   "title": "Marie-Louise Baumgartner an , 1900",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215294204" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284033511",
     "gnd": "https:\/\/d-nb.info\/1284033511"

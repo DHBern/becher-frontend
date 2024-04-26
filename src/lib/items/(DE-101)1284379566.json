@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (Xerox) (Rundschreiben). Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Klaus Staeck", "Aktion für mehr Demokratie" ],
+  "creator": [
+    { "name":"Klaus Staeck", "uri":"https:\/\/d-nb.info\/gnd\/118616609" },
+    { "name":"Aktion für mehr Demokratie", "uri":"" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2383",
   "title": "Klaus Staeck, Aktion für mehr Demokratie an Ulrich Becher, 1982",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118616609" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284379566",
     "gnd": "https:\/\/d-nb.info\/1284379566"

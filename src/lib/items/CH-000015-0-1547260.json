@@ -5,7 +5,10 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Naumann, Uwe", "Töteberg, Michael (1951-)" ],
+  "creator": [
+    { "name":"Naumann, Uwe", "uri":"" },
+    { "name":"Töteberg, Michael (1951-)", "uri":"https:\/\/d-nb.info\/gnd\/118047175" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "5. April 1986" ],
   "encl": [ "hs. Notiz vom 04.08.1986: Liebe Bechers, hier kommt (endlich) der Lexikonartikel! Erbauliche Lektüre wünscht Ihr Uwe Naumann" ],
@@ -13,7 +16,6 @@
   "signature": "SLA-UB-D-3-h",
   "title": "Naumann, Uwe\/Töteberg, Michael: Auf dem dünnen Seil der Wirklichkeit. Über den Schriftsteller Ulrich Becher. Kritisches Lexikon der Gegenwartsliteratur",
   "content": [ "Lexikonartikel über Ulrich Becher  im Kritischen Lexikon der Gegenwartsliteratur" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118047175" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1547260" },
   "wit-info": [  ],
   "type": "collItem",

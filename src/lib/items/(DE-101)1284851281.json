@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1219178098", "https:\/\/d-nb.info\/gnd\/1215795971" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1979" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.02.0499",
   "title": "Ulrich Becher an Inez Koebner, Eleanor Brywolf, 1979",
   "content": [  ],
-  "recipient": [ "Inez Koebner", "Eleanor Brywolf" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [
+    { "name":"Inez Koebner", "uri":"https:\/\/d-nb.info\/gnd\/1219178098" },
+    { "name":"Eleanor Brywolf", "uri":"https:\/\/d-nb.info\/gnd\/1215795971" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284851281",
     "gnd": "https:\/\/d-nb.info\/1284851281"

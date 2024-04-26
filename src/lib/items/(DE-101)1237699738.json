@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
-  "creator": [ "Foto-Stachowski" ],
+  "creator": [ { "name":"Foto-Stachowski", "uri":"" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.02.0029",
   "title": "Konvolut von Szenenfotografien des Theaterstücks Samba (Bautzen)",
   "content": [  ],
-  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237699738",
     "gnd": "https:\/\/d-nb.info\/1237699738"

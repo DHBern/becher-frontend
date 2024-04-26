@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltete Karte handschriftlich mit Unterschrift Otto Zumstein und andere (Klasse 8b)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Otto Zumstein" ],
+  "creator": [ { "name":"Otto Zumstein", "uri":"https:\/\/d-nb.info\/gnd\/1217462619" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2344",
   "title": "Otto Zumstein an Ulrich Becher, 1900",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1217462619" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284377377",
     "gnd": "https:\/\/d-nb.info\/1284377377"

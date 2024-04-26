@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Anton Doliwa" ],
+  "creator": [ { "name":"Anton Doliwa", "uri":"https:\/\/d-nb.info\/gnd\/1237694574" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1953" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.02.0026",
   "title": "Szenenfotografie des Theaterstücks Der Pfeifer von Wien",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237694574" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284930831",
     "gnd": "https:\/\/d-nb.info\/1284930831"

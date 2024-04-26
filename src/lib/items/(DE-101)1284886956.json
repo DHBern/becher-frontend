@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Annemarie Wohl" ],
+  "creator": [ { "name":"Annemarie Wohl", "uri":"https:\/\/d-nb.info\/gnd\/1240352417" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1947" ],
   "encl": [  ],
@@ -15,7 +14,6 @@
   "title": "Annemarie Wohl an , 1947",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1240352417" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284886956",
     "gnd": "https:\/\/d-nb.info\/1284886956"

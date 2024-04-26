@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1219179760" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1977" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.02.0439",
   "title": "Ulrich Becher an Gaby Sessler, 1977",
   "content": [  ],
-  "recipient": [ "Gaby Sessler" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Gaby Sessler", "uri":"https:\/\/d-nb.info\/gnd\/1219179760" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284847810",
     "gnd": "https:\/\/d-nb.info\/1284847810"

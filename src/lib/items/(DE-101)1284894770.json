@@ -5,7 +5,10 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
-  "creator": [ "USA. Immigration and Naturalization Service" ],
+  "creator": [ {
+      "name": "USA. Immigration and Naturalization Service",
+      "uri": "https:\/\/d-nb.info\/gnd\/120036-7"
+    } ],
   "lang": [ "Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
@@ -16,7 +19,6 @@
   "signature": "DEA-B-3-1-0017.C.02.0031b",
   "title": "Briefe",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/120036-7" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284894770",
     "gnd": "https:\/\/d-nb.info\/1284894770"

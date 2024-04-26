@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Richard Kleineibst" ],
+  "creator": [ { "name":"Richard Kleineibst", "uri":"https:\/\/d-nb.info\/gnd\/116213205" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.01.0899",
   "title": "Richard Kleineibst an Ulrich Becher, Dana Roda Becher, 1945",
   "content": [  ],
-  "recipient": [ "Ulrich Becher", "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116213205" ],
+  "recipient": [
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284168948",
     "gnd": "https:\/\/d-nb.info\/1284168948"

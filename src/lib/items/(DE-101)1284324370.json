@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Lucy Wotruba" ],
+  "creator": [ { "name":"Lucy Wotruba", "uri":"https:\/\/d-nb.info\/gnd\/1207116688" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1962" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.01.1923",
   "title": "Lucy Wotruba, Fritz Wotruba an Dana Roda Becher, Ulrich Becher, 1962",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher", "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1207116688" ],
+  "recipient": [
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" },
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284324370",
     "gnd": "https:\/\/d-nb.info\/1284324370"

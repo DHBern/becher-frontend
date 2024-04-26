@@ -5,14 +5,13 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Vorliegende Namensform Künstler, gedruckt: Uli Becher" ],
   "signature": "DEA-B-3-1-0017.A.03.0018a",
   "title": "Ohne Titel, [Zeichnung, Miniatur-Porträt Hubertus Prinz zu Löwensteins?]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284023230",
     "gnd": "https:\/\/d-nb.info\/1284023230"

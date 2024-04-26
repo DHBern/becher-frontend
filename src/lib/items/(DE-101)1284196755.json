@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Elisabeth Leinfellner" ],
+  "creator": [ { "name":"Elisabeth Leinfellner", "uri":"https:\/\/d-nb.info\/gnd\/107906481" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1983" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.01.1043",
   "title": "Elisabeth Leinfellner an Ulrich Becher, Dana Roda Becher, 1983",
   "content": [  ],
-  "recipient": [ "Ulrich Becher", "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/107906481" ],
+  "recipient": [
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284196755",
     "gnd": "https:\/\/d-nb.info\/1284196755"

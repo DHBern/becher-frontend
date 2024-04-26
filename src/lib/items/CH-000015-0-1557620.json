@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 11,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1931" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-a-4-2",
   "title": "Becher, Ulrich: Eskapade (2. Fassung)",
   "content": [ "Berliner Milliardärssohn Luzifer zieht aus Überdruss als einfacher, unbekannter Soldat in den Krieg, um den Sonnenaufgang bzw. das wirkliche Dasein zu erleben." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557620" },
   "wit-info": [  ],
   "type": "work",

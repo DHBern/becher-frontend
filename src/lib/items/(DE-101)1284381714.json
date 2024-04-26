@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Günter Caspar. Mit Zusatz" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Aufbau-Verlag" ],
+  "creator": [ { "name":"Aufbau-Verlag", "uri":"https:\/\/d-nb.info\/gnd\/5058957-X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1968" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2455",
   "title": "Aufbau-Verlag an Ulrich Becher, 1968",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/5058957-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284381714",
     "gnd": "https:\/\/d-nb.info\/1284381714"

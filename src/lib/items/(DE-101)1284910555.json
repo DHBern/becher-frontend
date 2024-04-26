@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Willy Saeger" ],
+  "creator": [ { "name":"Willy Saeger", "uri":"https:\/\/d-nb.info\/gnd\/1114187119" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.01.0008",
   "title": "Fotografie Ulrich Becher, Porträtaufnahme",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1114187119" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284910555",
     "gnd": "https:\/\/d-nb.info\/1284910555"

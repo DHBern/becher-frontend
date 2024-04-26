@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "A. Melik-Simonian", "Allunionsagentur für Urheberrechte (WAAP) der UdSSR" ],
+  "creator": [
+    { "name":"A. Melik-Simonian", "uri":"https:\/\/d-nb.info\/gnd\/1216293481" },
+    { "name":"Allunionsagentur für Urheberrechte (WAAP) der UdSSR", "uri":"" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1978" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1251",
   "title": "A. Melik-Simonian, Allunionsagentur für Urheberrechte (WAAP) der UdSSR an Ulrich Becher, 1978",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216293481" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128422449X",
     "gnd": "https:\/\/d-nb.info\/128422449X"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt Druck, 1 Blatt Druck und maschinenschriftlich (Xerox) (2 Exemplare)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Who's Who in the World" ],
+  "creator": [ { "name":"Who's Who in the World", "uri":"" } ],
   "lang": [ "Englisch" ],
   "date": [ "1978" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3683",
   "title": "Who's Who in the World an Ulrich Becher, 1978",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128475197X",
     "gnd": "https:\/\/d-nb.info\/128475197X"

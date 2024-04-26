@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-f-15-1",
   "title": "Becher, Ulrich:  Der Iwan-Podje-Beutel  (1. Fassung)",
   "content": [ "Eine arme russische Klavierlehrerin versucht erstmals nach 35 Jahren in Paris ihre Kochkünste zu reaktivieren und kehrt nach dem misslungenen Experiment frustriert nach Charkow zurück: \"weil man in Paris nicht kochen kann\"" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557794" },
   "wit-info": [  ],
   "type": "work",

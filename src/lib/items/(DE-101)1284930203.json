@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Leopold Herrmann" ],
+  "creator": [ { "name":"Leopold Herrmann", "uri":"https:\/\/d-nb.info\/gnd\/1237657962" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1958" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.02.0022",
   "title": "Szenenfotografie des Theaterstücks Mademoiselle Löwenzorn (České Budějovice)",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237657962" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284930203",
     "gnd": "https:\/\/d-nb.info\/1284930203"

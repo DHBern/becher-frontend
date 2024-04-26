@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
-  "creator": [ "Fritz Paul" ],
+  "creator": [ { "name":"Fritz Paul", "uri":"https:\/\/d-nb.info\/gnd\/1111529590" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.02.0015",
   "title": "Konvolut von Szenenfotografien des Theaterstücks Feuerwasser (Göttingen, Uraufführung)",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1111529590" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128279146X",
     "gnd": "https:\/\/d-nb.info\/128279146X"

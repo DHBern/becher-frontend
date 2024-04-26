@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Esther Pfirter-Merkle" ],
+  "creator": [ { "name":"Esther Pfirter-Merkle", "uri":"https:\/\/d-nb.info\/gnd\/1220868035" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.01.0020",
   "title": "Konvolut von Fotografien Ulrich Becher, Porträtaufnahmen-Sequenz, an Pult mit Zeitung",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1220868035" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284913937",
     "gnd": "https:\/\/d-nb.info\/1284913937"

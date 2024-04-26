@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Martin Munkacsi" ],
+  "creator": [ { "name":"Martin Munkacsi", "uri":"https:\/\/d-nb.info\/gnd\/119306581" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1932" ],
   "encl": [  ],
@@ -16,7 +16,6 @@
   "signature": "DEA-B-3-1-0017.C.04.03.0029",
   "title": "Fotografie Alexander Roda Roda, Porträtaufnahme, auf steigendem Pferd",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119306581" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284921190",
     "gnd": "https:\/\/d-nb.info\/1284921190"

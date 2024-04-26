@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Adolf Frisé" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Hessischer Rundfunk" ],
+  "creator": [ { "name":"Hessischer Rundfunk", "uri":"https:\/\/d-nb.info\/gnd\/1009716-8" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2891",
   "title": "Hessischer Rundfunk an Ulrich Becher, 1970",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1009716-8" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284508048",
     "gnd": "https:\/\/d-nb.info\/1284508048"

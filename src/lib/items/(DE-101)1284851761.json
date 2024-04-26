@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte maschinenschriftllich und handschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215371292" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1939" ],
   "encl": [  ],
@@ -18,8 +17,7 @@
   "signature": "SLA-UB-B-1-004",
   "title": "Ulrich Becher an Rolf Becher, 1939",
   "content": [  ],
-  "recipient": [ "Rolf Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Rolf Becher", "uri":"https:\/\/d-nb.info\/gnd\/1215371292" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284851761",
     "gnd": "https:\/\/d-nb.info\/1284851761"

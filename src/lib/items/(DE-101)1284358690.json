@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltete Karte handschriftlich mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Hans Gumpert" ],
+  "creator": [ { "name":"Hans Gumpert", "uri":"https:\/\/d-nb.info\/gnd\/1168817064" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-2-114 SLA-UB-B-4-565",
   "title": "Hans Gumpert an Ulrich Becher, 1955",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1168817064" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284358690",
     "gnd": "https:\/\/d-nb.info\/1284358690"

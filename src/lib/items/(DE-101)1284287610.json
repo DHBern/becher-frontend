@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Otto Schmalhausen" ],
+  "creator": [ { "name":"Otto Schmalhausen", "uri":"https:\/\/d-nb.info\/gnd\/117455334" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "SLA-UB-B-2-207",
   "title": "Otto Schmalhausen an Dana Roda Becher, Ulrich Becher, 1957",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher", "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117455334" ],
+  "recipient": [
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" },
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284287610",
     "gnd": "https:\/\/d-nb.info\/1284287610"

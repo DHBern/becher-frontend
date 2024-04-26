@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von A. Blatter. Verso: Brief von Ulrich Becher an Rowohlt, 17.01.1970, maschinenschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Radio der Deutschen und der Rätoromanischen Schweiz. Radiostudio Basel" ],
+  "creator": [ {
+      "name": "Radio der Deutschen und der Rätoromanischen Schweiz. Radiostudio Basel",
+      "uri": "https:\/\/d-nb.info\/gnd\/1090612397"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970" ],
   "encl": [  ],
@@ -17,8 +19,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3112",
   "title": "Radio der Deutschen und der Rätoromanischen Schweiz. Radiostudio Basel an Ulrich Becher, 1970",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1090612397" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284528685",
     "gnd": "https:\/\/d-nb.info\/1284528685"

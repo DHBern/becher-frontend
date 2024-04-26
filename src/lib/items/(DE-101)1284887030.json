@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag mit Unterschrift. Im Auftrag geschrieben von W. Nawrocki" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Wydawnictwo Śla̜sk" ],
+  "creator": [ { "name":"Wydawnictwo Śla̜sk", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970" ],
   "encl": [  ],
@@ -15,7 +14,6 @@
   "title": "Wydawnictwo Śla̜sk an , 1970",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284887030",
     "gnd": "https:\/\/d-nb.info\/1284887030"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich. Mit handschriftlichem Zusatz von Harro von Zeppelin" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "Lisi von Zeppelin" ],
+  "creator": [ { "name":"Lisi von Zeppelin", "uri":"https:\/\/d-nb.info\/gnd\/1240212518" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.04.0069",
   "title": "Lisi von Zeppelin an Elsbeth Roda Roda, Dana Roda Becher, 1955",
   "content": [  ],
-  "recipient": [ "Elsbeth Roda Roda", "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1240212518" ],
+  "recipient": [
+    { "name":"Elsbeth Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/107126613" },
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284876748",
     "gnd": "https:\/\/d-nb.info\/1284876748"

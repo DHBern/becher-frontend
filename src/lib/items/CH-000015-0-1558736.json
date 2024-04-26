@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1947 bis 1975" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-6-a-15-1",
   "title": "Becher, Ulrich: So hätt's auch kommen können",
   "content": [ "Persiflage Görings" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558736" },
   "wit-info": [ {
       "ref": "https:\/\/d-nb.info\/gnd\/1088059252",

@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Joachim G. Jung" ],
+  "creator": [ { "name":"Joachim G. Jung", "uri":"https:\/\/d-nb.info\/gnd\/1236283899" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1959" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.03.0036",
   "title": "Konvolut von Fotografien George Grosz, Porträtaufnahmen-Sequenz, an Tisch",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1236283899" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284922138",
     "gnd": "https:\/\/d-nb.info\/1284922138"

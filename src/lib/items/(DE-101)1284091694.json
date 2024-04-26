@@ -2,11 +2,16 @@
   "category_local_name": "",
   "ext": [ "1 Karte Druck mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Willy Brandt", "Deutschland (Bundesrepublik). Bundeskanzler" ],
+  "creator": [
+    { "name":"Willy Brandt", "uri":"https:\/\/d-nb.info\/gnd\/11851444X" },
+    {
+      "name": "Deutschland (Bundesrepublik). Bundeskanzler",
+      "uri": "https:\/\/d-nb.info\/gnd\/4133805-4"
+    }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1974" ],
   "encl": [  ],
@@ -14,8 +19,7 @@
   "signature": "SLA-UB-B-2-069",
   "title": "Willy Brandt, Deutschland (Bundesrepublik). Bundeskanzler an Ulrich Becher, 1974",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11851444X", "https:\/\/d-nb.info\/gnd\/4133805-4" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284091694",
     "gnd": "https:\/\/d-nb.info\/1284091694"

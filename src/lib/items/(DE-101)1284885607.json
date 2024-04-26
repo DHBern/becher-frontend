@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift Sasa und Ilona" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Sándor Retay" ],
+  "creator": [ { "name":"Sándor Retay", "uri":"https:\/\/d-nb.info\/gnd\/1219333484" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0111",
   "title": "Sándor Retay an Dana Roda Becher, 1956",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219333484" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284885607",
     "gnd": "https:\/\/d-nb.info\/1284885607"

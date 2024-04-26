@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Unbekannt" ],
+  "creator": [ { "name":"Unbekannt", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -18,7 +17,6 @@
   "title": "Unbekannt an , 1955",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128488922X",
     "gnd": "https:\/\/d-nb.info\/128488922X"

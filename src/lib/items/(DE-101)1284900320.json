@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "George Grosz" ],
+  "creator": [ { "name":"George Grosz", "uri":"https:\/\/d-nb.info\/gnd\/118542672" } ],
   "lang": [ "Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.02.01.0022",
   "title": "To whom it may concern, [Brief, Empfehlungsschreiben]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118542672" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284900320",
     "gnd": "https:\/\/d-nb.info\/1284900320"

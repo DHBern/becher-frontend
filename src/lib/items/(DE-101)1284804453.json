@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlicher Durchschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118603493" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1947" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.02.0348",
   "title": "Ulrich Becher an Ernst Rowohlt, 1947",
   "content": [  ],
-  "recipient": [ "Ernst Rowohlt" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Ernst Rowohlt", "uri":"https:\/\/d-nb.info\/gnd\/118603493" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284804453",
     "gnd": "https:\/\/d-nb.info\/1284804453"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift. Mit Zusatz von Ulrich Becher" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Walter Mehring" ],
+  "creator": [ { "name":"Walter Mehring", "uri":"https:\/\/d-nb.info\/gnd\/118579983" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0106",
   "title": "Walter Mehring an Alexander Roda Roda, 1900",
   "content": [  ],
-  "recipient": [ "Alexander Roda Roda" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118579983" ],
+  "recipient": [ { "name":"Alexander Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/11874562X" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284885259",
     "gnd": "https:\/\/d-nb.info\/1284885259"

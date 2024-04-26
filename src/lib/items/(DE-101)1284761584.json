@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Hans-J. Weitz" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Neue Schauspiel-AG Zürich" ],
+  "creator": [ { "name":"Neue Schauspiel-AG Zürich", "uri":"https:\/\/d-nb.info\/gnd\/2000544-1" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1966" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3734",
   "title": "Neue Schauspiel-AG Zürich an Ulrich Becher, 1966",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2000544-1" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284761584",
     "gnd": "https:\/\/d-nb.info\/1284761584"

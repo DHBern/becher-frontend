@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "Julius Roda" ],
+  "creator": [ { "name":"Julius Roda", "uri":"https:\/\/d-nb.info\/gnd\/126310912" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1941" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0041",
   "title": "Julius Roda an Dana Roda Becher, 1941",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/126310912" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284863174",
     "gnd": "https:\/\/d-nb.info\/1284863174"

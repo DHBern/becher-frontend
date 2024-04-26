@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1935" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-f-8-3",
   "title": "Becher, Ulrich: Bruch in Arosa (3. Fassung)",
   "content": [ "Das tragische Ende einer geheimgehaltenen Liebesbeziehung und wie es aufgrund mangelnder Gelegenheiten nach einem Skiunfall dazu kam." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557769" },
   "wit-info": [  ],
   "type": "work",

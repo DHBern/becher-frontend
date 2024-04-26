@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11700443X", "https:\/\/d-nb.info\/gnd\/117004448" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1951" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.02.0505",
   "title": "Ulrich Becher an Annie R. Lifczis, Hugo Lifczis, 1951",
   "content": [  ],
-  "recipient": [ "Annie R. Lifczis", "Hugo Lifczis" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [
+    { "name":"Annie R. Lifczis", "uri":"https:\/\/d-nb.info\/gnd\/11700443X" },
+    { "name":"Hugo Lifczis", "uri":"https:\/\/d-nb.info\/gnd\/117004448" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284852288",
     "gnd": "https:\/\/d-nb.info\/1284852288"

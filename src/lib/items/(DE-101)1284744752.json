@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Matthyas Jenny" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Verlag Nachtmaschine" ],
+  "creator": [ { "name":"Verlag Nachtmaschine", "uri":"https:\/\/d-nb.info\/gnd\/1064053122" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1980" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3636",
   "title": "Verlag Nachtmaschine an Ulrich Becher, 1980",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1064053122" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284744752",
     "gnd": "https:\/\/d-nb.info\/1284744752"

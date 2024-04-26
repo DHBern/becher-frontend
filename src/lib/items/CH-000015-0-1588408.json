@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Karte, hs." ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Flims", "Basel (Stadt); Basel-Stadt" ],
   "ext_num": 2,
-  "creator": [ "Becher, Richard (1875-1956)", "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator": [
+    { "name":"Becher, Richard (1875-1956)", "uri":"https:\/\/d-nb.info\/gnd\/1215307357" },
+    { "name":"Becher-Ulrich, Elise (1881-1973)", "uri":"https:\/\/d-nb.info\/gnd\/1215308086" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "6. September 1968" ],
   "encl": [  ],
@@ -14,8 +16,10 @@
   "signature": "SLA-UB-B-2-BECH-47",
   "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Flims;\nBasel",
   "content": [  ],
-  "recipient": [ "Becher, Ulrich (1910-1990)", "Roda Becher, Dana (1909-1992)" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "recipient": [
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Roda Becher, Dana (1909-1992)", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1588408" },
   "wit-info": [  ],
   "type": "letter",

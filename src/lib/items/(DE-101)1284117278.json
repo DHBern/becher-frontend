@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Jorge Fulda" ],
+  "creator": [ { "name":"Jorge Fulda", "uri":"https:\/\/d-nb.info\/gnd\/121554068X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-2-104",
   "title": "Jorge Fulda an Ulrich Becher, 1945",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121554068X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284117278",
     "gnd": "https:\/\/d-nb.info\/1284117278"

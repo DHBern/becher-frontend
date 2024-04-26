@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "Harro von Zeppelin" ],
+  "creator": [ { "name":"Harro von Zeppelin", "uri":"https:\/\/d-nb.info\/gnd\/139357556" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-3-553",
   "title": "Harro von Zeppelin an Elsbeth Roda Roda, 1955",
   "content": [  ],
-  "recipient": [ "Elsbeth Roda Roda" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139357556" ],
+  "recipient": [ { "name":"Elsbeth Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/107126613" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284876519",
     "gnd": "https:\/\/d-nb.info\/1284876519"

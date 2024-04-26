@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118558846" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Otto Hahn" ],
+  "creator": [ { "name":"Otto Hahn", "uri":"https:\/\/d-nb.info\/gnd\/118544853" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1961" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0029",
   "title": "Otto Hahn an Robert Jungk, 1961",
   "content": [  ],
-  "recipient": [ "Robert Jungk" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118544853" ],
+  "recipient": [ { "name":"Robert Jungk", "uri":"https:\/\/d-nb.info\/gnd\/118558846" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284860035",
     "gnd": "https:\/\/d-nb.info\/1284860035"

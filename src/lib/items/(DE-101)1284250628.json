@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Wilhelm Preetorius", "Deutsches Theater in Göttingen" ],
+  "creator": [
+    { "name":"Wilhelm Preetorius", "uri":"https:\/\/d-nb.info\/gnd\/1012572978" },
+    { "name":"Deutsches Theater in Göttingen", "uri":"https:\/\/d-nb.info\/gnd\/2008964-8" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1958" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1397",
   "title": "Wilhelm Preetorius, Deutsches Theater in Göttingen an Ulrich Becher, 1958",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1012572978", "https:\/\/d-nb.info\/gnd\/2008964-8" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284250628",
     "gnd": "https:\/\/d-nb.info\/1284250628"

@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Miécio Askanasy" ],
+  "creator": [ { "name":"Miécio Askanasy", "uri":"https:\/\/d-nb.info\/gnd\/126142041" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0001",
   "title": "Das Rezept",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/126142041" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284931730",
     "gnd": "https:\/\/d-nb.info\/1284931730"

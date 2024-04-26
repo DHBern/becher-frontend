@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift auf Brief-Telegramm-Formular. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Erich Kästner" ],
+  "creator": [ { "name":"Erich Kästner", "uri":"https:\/\/d-nb.info\/gnd\/118559206" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0031",
   "title": "Erich Kästner an Dana Roda Becher, 1959",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118559206" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284860418",
     "gnd": "https:\/\/d-nb.info\/1284860418"

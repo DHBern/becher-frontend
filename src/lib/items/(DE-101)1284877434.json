@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Dr. Wagner, Kurdirektor" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Badenweiler. Kurverwaltung" ],
+  "creator": [ { "name":"Badenweiler. Kurverwaltung", "uri":"https:\/\/d-nb.info\/gnd\/1028215-4" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1960" ],
   "encl": [  ],
@@ -19,7 +18,6 @@
   "title": "Badenweiler. Kurverwaltung an , 1960",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1028215-4" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284877434",
     "gnd": "https:\/\/d-nb.info\/1284877434"

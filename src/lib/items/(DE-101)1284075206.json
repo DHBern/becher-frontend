@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
-  "creator": [ "Rolf Becher" ],
+  "creator": [ { "name":"Rolf Becher", "uri":"https:\/\/d-nb.info\/gnd\/1215371292" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1938" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-2-061",
   "title": "Rolf Becher an Ulrich Becher, 1938",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215371292" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284075206",
     "gnd": "https:\/\/d-nb.info\/1284075206"

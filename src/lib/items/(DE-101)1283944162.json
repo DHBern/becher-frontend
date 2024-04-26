@@ -1,23 +1,26 @@
 {
   "category_local_name": "",
   "ext": [ "13 Blatt maschinenschriftlich und anderes. Mit Zeichnungen und mit Korrekturen" ],
-  "wit": [  ],
+  "wit": [ "1088059252" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 26,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Reproduktion von: Frühe Fassung, Fragment" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0039",
   "title": "Murmeljagd, [Roman] – Adelhard Edler von Stepantschitsch … [Incipit]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944162",
     "gnd": "https:\/\/d-nb.info\/1283944162"
   },
-  "wit-info": [  ],
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "name": "Becher, Ulrich: Murmeljagd",
+      "type": "undefined"
+    } ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283944162_00000010.tif\/info.json",

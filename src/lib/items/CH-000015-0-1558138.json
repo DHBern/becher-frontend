@@ -5,14 +5,16 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 48,
-  "creator": [ "Becher, Ulrich (1910-1990)", "Nagel, Renate (1936-)" ],
+  "creator": [
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Nagel, Renate (1936-)", "uri":"https:\/\/d-nb.info\/gnd\/116880252" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1975 bis 1982" ],
   "note": [ "[Bemerkung] Konvolut verschiedener Textträger. Rückseitig Brief (masch.) von Renate Nagel an Ulrich Becher vom 8.8.1974." ],
   "signature": "SLA-UB-A-2-f-2-5",
   "title": "Becher, Ulrich: Abseits vom Rodeo. Vorstufen",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/116880252" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558138" },
   "wit-info": [ {
       "ref": "https:\/\/d-nb.info\/gnd\/130802990X",

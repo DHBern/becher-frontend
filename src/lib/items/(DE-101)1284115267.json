@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt handschriftlich mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Elisabeth Freundlich" ],
+  "creator": [ { "name":"Elisabeth Freundlich", "uri":"https:\/\/d-nb.info\/gnd\/119079518" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0537",
   "title": "Elisabeth Freundlich an Dana Roda Becher, 1957",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119079518" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284115267",
     "gnd": "https:\/\/d-nb.info\/1284115267"

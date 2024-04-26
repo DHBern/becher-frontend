@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Jaroslav Mikulášek" ],
+  "creator": [ { "name":"Jaroslav Mikulášek", "uri":"https:\/\/d-nb.info\/gnd\/1237663601" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.02.0024",
   "title": "Konvolut von Szenenfotografien des Theaterstücks Mademoiselle Löwenzorn (Jihlava)",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1237663601" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1282792105",
     "gnd": "https:\/\/d-nb.info\/1282792105"

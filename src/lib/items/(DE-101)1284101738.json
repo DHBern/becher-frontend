@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Zusatz" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Otto Breicha", "Europa-Verlag (Wien; Zürich)" ],
+  "creator": [
+    { "name":"Otto Breicha", "uri":"https:\/\/d-nb.info\/gnd\/116469986" },
+    { "name":"Europa-Verlag (Wien; Zürich)", "uri":"https:\/\/d-nb.info\/gnd\/2009923-X" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1967" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "SLA-UB-B-2-070",
   "title": "Otto Breicha, Europa-Verlag (Wien; Zürich) an Ulrich Becher, 1967",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116469986", "https:\/\/d-nb.info\/gnd\/2009923-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284101738",
     "gnd": "https:\/\/d-nb.info\/1284101738"

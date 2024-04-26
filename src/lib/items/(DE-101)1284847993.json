@@ -2,15 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [
-    "https:\/\/d-nb.info\/gnd\/1215533845",
-    "https:\/\/d-nb.info\/gnd\/1239212119",
-    "https:\/\/d-nb.info\/gnd\/132621185"
-  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1983" ],
   "encl": [  ],
@@ -18,8 +13,11 @@
   "signature": "SLA-UB-B-1-036",
   "title": "Ulrich Becher an Eva Feitzinger, Christa Binder, Ulrich N. Schulenburg, 1983",
   "content": [  ],
-  "recipient": [ "Eva Feitzinger", "Christa Binder", "Ulrich N. Schulenburg" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [
+    { "name":"Eva Feitzinger", "uri":"https:\/\/d-nb.info\/gnd\/1215533845" },
+    { "name":"Christa Binder", "uri":"https:\/\/d-nb.info\/gnd\/1239212119" },
+    { "name":"Ulrich N. Schulenburg", "uri":"https:\/\/d-nb.info\/gnd\/132621185" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284847993",
     "gnd": "https:\/\/d-nb.info\/1284847993"

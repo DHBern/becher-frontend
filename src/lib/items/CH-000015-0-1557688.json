@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 9,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1958" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-d-2-2",
   "title": "Becher, Ulrich: Kleiner Streit im Armenhaus",
   "content": [ "Josef sitzt im Armenhaus und sinniert über seinen Sohn, den Gekreuzigten und über den ewigen Frieden in der Welt." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557688" },
   "wit-info": [  ],
   "type": "work",

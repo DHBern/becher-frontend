@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Verso: 1 Aquarellzeichnung" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Reinhold Metz" ],
+  "creator": [ { "name":"Reinhold Metz", "uri":"https:\/\/d-nb.info\/gnd\/119018047" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1972" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-2-168",
   "title": "Reinhold Metz an Ulrich Becher, 1972",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119018047" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284228428",
     "gnd": "https:\/\/d-nb.info\/1284228428"

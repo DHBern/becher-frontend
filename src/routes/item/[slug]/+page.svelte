@@ -123,21 +123,25 @@
 						<dd class="pl-2 pt-4">
 							{#if Array.isArray(d[key])}
 								{#each d[key] as item, i}
-									{item}
-									{#if d[`${key}_uri`]?.[i]}
-										&nbsp;<a
-											title="nähere Informationen"
-											class="anchor"
-											href={d[`${key}_uri`][i]}
-											target="_blank"
-											rel="noopener"
-										>
-											<i class="fa-solid fa-circle-info"></i>
-											<span class="sr-only">nähere Informationen</span>
-										</a>
-									{/if}
-									{#if i !== d[key].length - 1}
-										<br />
+									{#if key === 'wit-info'}
+										test
+									{:else}
+										{item}
+										{#if d[`${key}_uri`]?.[i]}
+											&nbsp;<a
+												title="nähere Informationen"
+												class="anchor"
+												href={d[`${key}_uri`][i]}
+												target="_blank"
+												rel="noopener"
+											>
+												<i class="fa-solid fa-circle-info"></i>
+												<span class="sr-only">nähere Informationen</span>
+											</a>
+										{/if}
+										{#if i !== d[key].length - 1}
+											<br />
+										{/if}
 									{/if}
 								{/each}
 							{:else}

@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Vera Botterbusch" ],
+  "creator": [ { "name":"Vera Botterbusch", "uri":"https:\/\/d-nb.info\/gnd\/1023739267" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1975" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0008",
   "title": "Ulrich Becher, Kurz nach 4, Bayerisches Fernsehen, [Rundfunk-Typoskript]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1023739267" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284933660",
     "gnd": "https:\/\/d-nb.info\/1284933660"

@@ -1,0 +1,14 @@
+{ "works":[
+    { "130802990X":{
+        "date": "1910-1990",
+        "creator": "Becher, Ulrich",
+        "authority": "https:\/\/d-nb.info\/gnd\/130802990X",
+        "title": "Abseits vom Rodeo"
+      } },
+    { "1088059252":{
+        "date": "1910-1990",
+        "creator": "Becher, Ulrich",
+        "authority": "https:\/\/d-nb.info\/gnd\/1088059252",
+        "title": "Murmeljagd"
+      } }
+  ] }

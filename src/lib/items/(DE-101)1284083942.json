@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118544527" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ludwig Berger" ],
+  "creator": [ { "name":"Ludwig Berger", "uri":"https:\/\/d-nb.info\/gnd\/118655957" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1952" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0335",
   "title": "Ludwig Berger an Carl Haensel, 1952",
   "content": [  ],
-  "recipient": [ "Carl Haensel" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118655957" ],
+  "recipient": [ { "name":"Carl Haensel", "uri":"https:\/\/d-nb.info\/gnd\/118544527" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284083942",
     "gnd": "https:\/\/d-nb.info\/1284083942"

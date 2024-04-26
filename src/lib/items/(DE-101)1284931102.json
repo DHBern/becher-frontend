@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ruth Wilhelmi" ],
+  "creator": [ { "name":"Ruth Wilhelmi", "uri":"https:\/\/d-nb.info\/gnd\/1214839991" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1952" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.02.0028",
   "title": "Szenenfotografie des Theaterstücks Samba (Berlin-Steglitz)",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1214839991" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284931102",
     "gnd": "https:\/\/d-nb.info\/1284931102"

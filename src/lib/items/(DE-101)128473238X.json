@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Wolfgang Wiens" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Verlag der Autoren" ],
+  "creator": [ { "name":"Verlag der Autoren", "uri":"https:\/\/d-nb.info\/gnd\/516452-7" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3566",
   "title": "Verlag der Autoren an Ulrich Becher, 1970",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/516452-7" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128473238X",
     "gnd": "https:\/\/d-nb.info\/128473238X"

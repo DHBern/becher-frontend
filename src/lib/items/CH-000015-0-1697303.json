@@ -2,18 +2,17 @@
   "category_local_name": "",
   "ext": [ "1 Brief" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Basel (Stadt)", "Manila" ],
   "ext_num": 0,
   "creator": [
-    "Roda Becher, Dana (1909-1992)",
-    "Becher, Ulrich (1910-1990)",
-    "Becher, Martin Roda (1944-)",
-    "Zeppelin, Harro von (1901-)",
-    "Zeppelin, Elisabeth von (20.\/21.Jh.)",
-    "Zeppelin, Marius von (20.\/21. Jh.)",
-    "Zeppelin, Andres von (20. Jh.)"
+    { "name":"Roda Becher, Dana (1909-1992)", "uri":"https:\/\/d-nb.info\/gnd\/139244077" },
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Becher, Martin Roda (1944-)", "uri":"https:\/\/d-nb.info\/gnd\/121205207" },
+    { "name":"Zeppelin, Harro von (1901-)", "uri":"https:\/\/d-nb.info\/gnd\/139357556" },
+    { "name":"Zeppelin, Elisabeth von (20.\/21.Jh.)", "uri":"" },
+    { "name":"Zeppelin, Marius von (20.\/21. Jh.)", "uri":"" },
+    { "name":"Zeppelin, Andres von (20. Jh.)", "uri":"" }
   ],
   "lang": [ "Deutsch" ],
   "date": [ "3. August 1960" ],
@@ -23,12 +22,6 @@
   "title": "Trauerbrief zum Tod von Elsbeth Roda Roda, Basel, Manila",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [
-    "https:\/\/d-nb.info\/gnd\/139244077",
-    "https:\/\/d-nb.info\/gnd\/118507958",
-    "https:\/\/d-nb.info\/gnd\/121205207",
-    "https:\/\/d-nb.info\/gnd\/139357556"
-  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1697303" },
   "wit-info": [  ],
   "type": "letter",

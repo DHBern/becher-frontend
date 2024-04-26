@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (unleserlich)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Walter de Gruyter & Co." ],
+  "creator": [ { "name":"Walter de Gruyter & Co.", "uri":"https:\/\/d-nb.info\/gnd\/2026268-1" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3664",
   "title": "Walter de Gruyter & Co. an Ulrich Becher, 1956",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2026268-1" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284749649",
     "gnd": "https:\/\/d-nb.info\/1284749649"

@@ -6,9 +6,9 @@
   "place": [  ],
   "ext_num": 0,
   "creator": [
-    "Schulenburg, Ulrich N. (1941-)",
-    "Tuich-Teuchmann, Maria (20. Jh.)",
-    "Zink, Helmut (20. Jh.)"
+    { "name":"Schulenburg, Ulrich N. (1941-)", "uri":"https:\/\/d-nb.info\/gnd\/132621185" },
+    { "name":"Tuich-Teuchmann, Maria (20. Jh.)", "uri":"" },
+    { "name":"Zink, Helmut (20. Jh.)", "uri":"" }
   ],
   "lang": [ "Deutsch" ],
   "date": [ "9. September 1986 bis 17. Dezember 1987" ],
@@ -17,7 +17,6 @@
   "signature": "SLA-UB-C-3-d-3-a-3",
   "title": "Zu Alexander Roda Rodas Nachlass; Korrespondenz, Basel;\nWien",
   "content": [ "Korrespondenz zwischen Busek, Erhard; Roda Becher, Dana; Obermaier, Walter; Thomas Sessler Verlag GmbH; Tuich-Teuchmann, Maria; Zink, Helmut" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/132621185" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1565540" },
   "wit-info": [  ],
   "type": "lifeDoc",

@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 1,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-e-2-2",
   "title": "Becher, Ulrich: Miniplay X. v. Y. (Vorstufe)",
   "content": [ "Ein Spielmacher (identifizierbar mit Ödön von Horváth) erzählt von seinem Traum, indem er \"untüchtiger Handlungsreisender\" und \"Vertreter von Juxartikel\" war." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557727" },
   "wit-info": [  ],
   "type": "work",

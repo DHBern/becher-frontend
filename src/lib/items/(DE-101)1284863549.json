@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Elsbeth Roda Roda an Richard Becher" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
-  "creator": [ "Julius Roda" ],
+  "creator": [ { "name":"Julius Roda", "uri":"https:\/\/d-nb.info\/gnd\/126310912" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1937" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0042",
   "title": "Julius Roda an Alexander Roda Roda, 1937",
   "content": [  ],
-  "recipient": [ "Alexander Roda Roda" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/126310912" ],
+  "recipient": [ { "name":"Alexander Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/11874562X" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284863549",
     "gnd": "https:\/\/d-nb.info\/1284863549"

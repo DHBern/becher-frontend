@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte Druck. Mit Unterschrift und handschriftlichem Zusatz. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ernst Bloch" ],
+  "creator": [ { "name":"Ernst Bloch", "uri":"https:\/\/d-nb.info\/gnd\/118511742" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1975" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0362",
   "title": "Ernst Bloch an Ulrich Becher, 1975",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118511742" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284089835",
     "gnd": "https:\/\/d-nb.info\/1284089835"

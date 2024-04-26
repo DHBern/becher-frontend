@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Renate von Loeben" ],
+  "creator": [ { "name":"Renate von Loeben", "uri":"https:\/\/d-nb.info\/gnd\/1216278423" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1985" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "SLA-UB-B-2-153",
   "title": "Renate von Loeben, Monika von Loeben an Ulrich Becher, 1985",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216278423" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284203034",
     "gnd": "https:\/\/d-nb.info\/1284203034"

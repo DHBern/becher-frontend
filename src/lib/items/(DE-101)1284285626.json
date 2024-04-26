@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich und  handschriftlich mit Unterschrift (davon 1 Blatt von Roda Roda). Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 6,
-  "creator": [ "Elsbeth Roda Roda" ],
+  "creator": [ { "name":"Elsbeth Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/107126613" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1943" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-3-456",
   "title": "Elsbeth Roda Roda, Alexander Roda Roda an Dana Roda Becher, 1943",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284285626",
     "gnd": "https:\/\/d-nb.info\/1284285626"

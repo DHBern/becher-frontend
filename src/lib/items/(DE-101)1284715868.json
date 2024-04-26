@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Fritz Herterich" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Landestheater Württemberg-Hohenzollern (Tübingen)" ],
+  "creator": [ {
+      "name": "Landestheater Württemberg-Hohenzollern (Tübingen)",
+      "uri": "https:\/\/d-nb.info\/gnd\/32929-0"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1963" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3453",
   "title": "Landestheater Württemberg-Hohenzollern (Tübingen) an Ulrich Becher, 1963",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/32929-0" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284715868",
     "gnd": "https:\/\/d-nb.info\/1284715868"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt Druck mit Unterschrift J. & K. Gehring. Im Auftrag geschrieben von K. Gehring-Kleinert" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Hotel Victoria" ],
+  "creator": [ { "name":"Hotel Victoria", "uri":"https:\/\/d-nb.info\/gnd\/117293598X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3745",
   "title": "Hotel Victoria an Ulrich Becher, 1900",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117293598X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284763803",
     "gnd": "https:\/\/d-nb.info\/1284763803"

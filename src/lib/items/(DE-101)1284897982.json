@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Arnold Wolfers" ],
+  "creator": [ { "name":"Arnold Wolfers", "uri":"https:\/\/d-nb.info\/gnd\/119262819" } ],
   "lang": [ "Englisch" ],
   "date": [ "1943" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.02.01.0014",
   "title": "To Whom It May Concern, [Brief, Empfehlungsschreiben]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/119262819" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284897982",
     "gnd": "https:\/\/d-nb.info\/1284897982"

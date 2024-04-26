@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltete Karte Druck und handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Unbekannt" ],
+  "creator": [ { "name":"Unbekannt", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1981" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0137",
   "title": "Unbekannt an Dana Roda Becher, 1981",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284887545",
     "gnd": "https:\/\/d-nb.info\/1284887545"

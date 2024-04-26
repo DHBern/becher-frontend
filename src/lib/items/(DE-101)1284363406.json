@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Roger C. Norton", "State University of New York" ],
+  "creator": [
+    { "name":"Roger C. Norton", "uri":"https:\/\/d-nb.info\/gnd\/1219178179" },
+    { "name":"State University of New York", "uri":"https:\/\/d-nb.info\/gnd\/16163282-8" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1978" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2313",
   "title": "Roger C. Norton, State University of New York an Ulrich Becher, 1978",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219178179", "https:\/\/d-nb.info\/gnd\/16163282-8" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284363406",
     "gnd": "https:\/\/d-nb.info\/1284363406"

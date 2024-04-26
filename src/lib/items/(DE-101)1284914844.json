@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Georg Schödl" ],
+  "creator": [ { "name":"Georg Schödl", "uri":"https:\/\/d-nb.info\/gnd\/1029998248" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1966" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.01.0036",
   "title": "Konvolut von Fotografien Ulrich Becher, Porträtaufnahmen-Sequenz",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1029998248" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284914844",
     "gnd": "https:\/\/d-nb.info\/1284914844"

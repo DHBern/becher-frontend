@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1933" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-b-4-2",
   "title": "Becher, Ulrich: Nur ein toller Hund (2. Fassung)",
   "content": [ "Ein Fremder, zerlumpt, hungrig und dazu noch ohne Pass, wird in einer idyllischen Kleinstadt vom Forstadjunkten, dem Mann in Uniform, ganz legal abgeknallt." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557652" },
   "wit-info": [  ],
   "type": "work",

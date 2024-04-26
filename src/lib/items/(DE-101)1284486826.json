@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von [Eberhard?] Klagemann und Dr. Meister" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Bavaria Filmkunst AG" ],
+  "creator": [ { "name":"Bavaria Filmkunst AG", "uri":"https:\/\/d-nb.info\/gnd\/10353284-5" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2529",
   "title": "Bavaria Filmkunst AG an Ulrich Becher, 1957",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/10353284-5" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284486826",
     "gnd": "https:\/\/d-nb.info\/1284486826"

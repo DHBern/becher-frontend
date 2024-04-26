@@ -5,7 +5,10 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Grosz, George (1893-1959)", "Becher, Ulrich (1910-1990)" ],
+  "creator": [
+    { "name":"Grosz, George (1893-1959)", "uri":"https:\/\/d-nb.info\/gnd\/118542672" },
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "" ],
   "encl": [  ],
@@ -13,7 +16,6 @@
   "signature": "SLA-UB-D-4-44",
   "title": "\n                     \n                  ",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118542672", "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1552414" },
   "wit-info": [  ],
   "type": "collItem",

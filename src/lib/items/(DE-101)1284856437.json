@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift (Initial). Mit handschriftlichem Zusatz" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11874562X", "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
-  "creator": [ "Dana Roda Becher" ],
+  "creator": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1941" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "SLA-UB-B-3-290 SLA-UB-B-3-BECHM-_RODA",
   "title": "Dana Roda Becher an Alexander Roda Roda, Elsbeth Roda Roda, 1941",
   "content": [  ],
-  "recipient": [ "Alexander Roda Roda", "Elsbeth Roda Roda" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "recipient": [
+    { "name":"Alexander Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/11874562X" },
+    { "name":"Elsbeth Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/107126613" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284856437",
     "gnd": "https:\/\/d-nb.info\/1284856437"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (Breitenstein?)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Institut Athenaeum Basel" ],
+  "creator": [ { "name":"Institut Athenaeum Basel", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1962" ],
   "encl": [  ],
@@ -18,8 +17,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0100",
   "title": "Institut Athenaeum Basel an Dana Roda Becher, 1962",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284884791",
     "gnd": "https:\/\/d-nb.info\/1284884791"

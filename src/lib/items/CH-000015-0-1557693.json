@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 28,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1944 bis 1945" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-d-4-2",
   "title": "Becher, Ulrich: Katharinapolka. Abendbulletin aus der Höllenküche (2. Fassung)",
   "content": [ "Nebelnacht im Oktober 1944, Nucciarone's Inn, eine Bar in Manhattan und ihr darin versammeltes \"menschliches Strandgut\"." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557693" },
   "wit-info": [  ],
   "type": "work",

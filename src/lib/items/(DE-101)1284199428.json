@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltete Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Lilo Linder" ],
+  "creator": [ { "name":"Lilo Linder", "uri":"https:\/\/d-nb.info\/gnd\/1216277486" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1980" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1078d",
   "title": "Lilo Linder, Hans Rudolf Linder an Ulrich Becher, 1980",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216277486" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284199428",
     "gnd": "https:\/\/d-nb.info\/1284199428"

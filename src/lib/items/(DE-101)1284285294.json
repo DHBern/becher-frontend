@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 gefaltete Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 8,
-  "creator": [ "Elsbeth Roda Roda" ],
+  "creator": [ { "name":"Elsbeth Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/107126613" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1937" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-3-456",
   "title": "Elsbeth Roda Roda an Dana Roda Becher, 1937",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284285294",
     "gnd": "https:\/\/d-nb.info\/1284285294"

@@ -5,14 +5,16 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)", "Grosz, George (1893-1959)" ],
+  "creator": [
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Grosz, George (1893-1959)", "uri":"https:\/\/d-nb.info\/gnd\/118542672" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1947" ],
   "note": [ "[Biblio] Das andere Deutschland, Jg. 9 1947 (01.01.1947), Nr. 133, S. 14-15." ],
   "signature": "SLA-UB-A-6-a-14-2",
   "title": "Becher, Ulrich: Mein Dreissigjähriger Krieg gegen den Krieg",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/118542672" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558733" },
   "wit-info": [  ],
   "type": "work",

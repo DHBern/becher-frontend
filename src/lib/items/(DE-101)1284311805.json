@@ -2,13 +2,15 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [
-    "Friedrich Torberg",
-    "Warner Bros. Pictures Inc., West Coast Studios, Burbank, California"
+    { "name":"Friedrich Torberg", "uri":"https:\/\/d-nb.info\/gnd\/118623362" },
+    {
+      "name": "Warner Bros. Pictures Inc., West Coast Studios, Burbank, California",
+      "uri": ""
+    }
   ],
   "lang": [ "Deutsch" ],
   "date": [ "1941" ],
@@ -17,8 +19,10 @@
   "signature": "DEA-B-3-1-0017.B.01.1822",
   "title": "Friedrich Torberg, Warner Bros. Pictures Inc., West Coast Studios, Burbank, California an Ulrich Becher, Dana Roda Becher, 1941",
   "content": [  ],
-  "recipient": [ "Ulrich Becher", "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118623362" ],
+  "recipient": [
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284311805",
     "gnd": "https:\/\/d-nb.info\/1284311805"

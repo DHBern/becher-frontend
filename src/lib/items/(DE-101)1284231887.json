@@ -2,11 +2,16 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Hans-Bernhard Moeller", "University of Texas. Department of Germanic Languages" ],
+  "creator": [
+    { "name":"Hans-Bernhard Moeller", "uri":"https:\/\/d-nb.info\/gnd\/11708168X" },
+    {
+      "name": "University of Texas. Department of Germanic Languages",
+      "uri": "https:\/\/d-nb.info\/gnd\/5107538-6"
+    }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1977" ],
   "encl": [  ],
@@ -17,8 +22,7 @@
   "signature": "SLA-UB-B-2-172",
   "title": "Hans-Bernhard Moeller, University of Texas. Department of Germanic Languages an Ulrich Becher, 1977",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11708168X", "https:\/\/d-nb.info\/gnd\/5107538-6" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284231887",
     "gnd": "https:\/\/d-nb.info\/1284231887"

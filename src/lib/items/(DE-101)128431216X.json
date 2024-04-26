@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "2 Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Edith Humphrey Ulrich" ],
+  "creator": [ { "name":"Edith Humphrey Ulrich", "uri":"https:\/\/d-nb.info\/gnd\/1216725977" } ],
   "lang": [ "Englisch" ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1832",
   "title": "Edith Humphrey Ulrich an Ulrich Becher, 1945",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216725977" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128431216X",
     "gnd": "https:\/\/d-nb.info\/128431216X"

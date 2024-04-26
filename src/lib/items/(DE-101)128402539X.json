@@ -5,14 +5,13 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1936" ],
   "note": [ "Titel fingiert aus Überlieferung" ],
   "signature": "DEA-B-3-1-0017.A.03.0033a",
   "title": "Der Führer, Olympiade 36, [Zeichnungen, Karikaturen]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128402539X",
     "gnd": "https:\/\/d-nb.info\/128402539X"

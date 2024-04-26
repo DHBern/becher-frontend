@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Carola Kalff" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1088792871" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Verlag Das Beste (Stuttgart)" ],
+  "creator": [ { "name":"Verlag Das Beste (Stuttgart)", "uri":"https:\/\/d-nb.info\/gnd\/2104693-1" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "encl": [  ],
@@ -18,8 +17,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0092",
   "title": "Verlag Das Beste (Stuttgart) an Eva Koralnik Rottenberg, 1982",
   "content": [  ],
-  "recipient": [ "Eva Koralnik Rottenberg" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2104693-1" ],
+  "recipient": [ { "name":"Eva Koralnik Rottenberg", "uri":"https:\/\/d-nb.info\/gnd\/1088792871" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284883655",
     "gnd": "https:\/\/d-nb.info\/1284883655"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Susanne Bach" ],
+  "creator": [ { "name":"Susanne Bach", "uri":"https:\/\/d-nb.info\/gnd\/12269886X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-3-263",
   "title": "Susanne Bach an Dana Roda Becher, 1956",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/12269886X" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284031462",
     "gnd": "https:\/\/d-nb.info\/1284031462"

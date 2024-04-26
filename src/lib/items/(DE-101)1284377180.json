@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit aufgeklebtem Zeitungsartikel zum 75. Geburtstag von Ulrich Becher aus der Süddeutschen Zeitung, Nr. 2., 2.1.85" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Nelly Veres" ],
+  "creator": [ { "name":"Nelly Veres", "uri":"https:\/\/d-nb.info\/gnd\/1217461558" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1985" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2341",
   "title": "Nelly Veres, Tibor Veres an Ulrich Becher, 1985",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1217461558" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284377180",
     "gnd": "https:\/\/d-nb.info\/1284377180"

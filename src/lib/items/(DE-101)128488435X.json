@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Ursula Veit" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1088792871" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Éditions Jean-Claude Lattès" ],
+  "creator": [ { "name":"Éditions Jean-Claude Lattès", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1982" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0094",
   "title": "Éditions Jean-Claude Lattès an Eva Koralnik Rottenberg, 1982",
   "content": [  ],
-  "recipient": [ "Eva Koralnik Rottenberg" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Eva Koralnik Rottenberg", "uri":"https:\/\/d-nb.info\/gnd\/1088792871" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128488435X",
     "gnd": "https:\/\/d-nb.info\/128488435X"

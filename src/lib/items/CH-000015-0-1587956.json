@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Brief, masch." ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Rio de Janeiro" ],
   "ext_num": 1,
-  "creator": [ "Becher, Richard (1875-1956)", "Becher-Ulrich, Elise (1881-1973)" ],
+  "creator": [
+    { "name":"Becher, Richard (1875-1956)", "uri":"https:\/\/d-nb.info\/gnd\/1215307357" },
+    { "name":"Becher-Ulrich, Elise (1881-1973)", "uri":"https:\/\/d-nb.info\/gnd\/1215308086" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "23. August 1944" ],
   "encl": [  ],
@@ -14,8 +16,10 @@
   "signature": "SLA-UB-B-2-BECH-19",
   "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Rio de Janeiro",
   "content": [ "Lagebericht, UBs Start der schriftstellerischen Karriere in den USA" ],
-  "recipient": [ "Becher, Ulrich (1910-1990)", "Roda Becher, Dana (1909-1992)" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
+  "recipient": [
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Roda Becher, Dana (1909-1992)", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1587956" },
   "wit-info": [  ],
   "type": "letter",

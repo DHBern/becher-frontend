@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Unbekannt" ],
+  "creator": [ { "name":"Unbekannt", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1969" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0057",
   "title": "\"Murmeljagd\", erschienen im Rowohlt Verlag ... [Incipit, Rundfunk-Typoskript], Bayerischer Rundfunk",
   "content": [  ],
-  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284951308",
     "gnd": "https:\/\/d-nb.info\/1284951308"

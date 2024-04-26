@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Freda Marie Agnes zu Dohna" ],
+  "creator": [ { "name":"Freda Marie Agnes zu Dohna", "uri":"https:\/\/d-nb.info\/gnd\/1238662528" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.03.0001a",
   "title": "Fotografie eines Wohnzimmers-Salons",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1238662528" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284916669",
     "gnd": "https:\/\/d-nb.info\/1284916669"

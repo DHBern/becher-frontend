@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Josef-Hermann Sauter" ],
+  "creator": [ { "name":"Josef-Hermann Sauter", "uri":"https:\/\/d-nb.info\/gnd\/1047068680" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1969" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0038",
   "title": "Ulrich Becher, Murmeljagd [... Rundfunk-Typoskript], Berliner Welle",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1047068680" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284941523",
     "gnd": "https:\/\/d-nb.info\/1284941523"

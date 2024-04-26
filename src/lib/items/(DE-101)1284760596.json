@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Silvia Weimar. Verso: Ulrich Becher an Silvia Weimar, 20.02.73" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Zürich. Präsidialabteilung" ],
+  "creator": [ { "name":"Zürich. Präsidialabteilung", "uri":"https:\/\/d-nb.info\/gnd\/1085883027" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1973" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3729",
   "title": "Zürich. Präsidialabteilung an Ulrich Becher, 1973",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1085883027" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284760596",
     "gnd": "https:\/\/d-nb.info\/1284760596"

@@ -5,14 +5,13 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Reproduktion von: Fragment", "Betrifft: William S. Schlamm [?]" ],
   "signature": "DEA-B-3-1-0017.A.01.05.0002",
   "title": "Antischlamm",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283952947",
     "gnd": "https:\/\/d-nb.info\/1283952947"

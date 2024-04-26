@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Prof. Dr. Frhr. v. Buttlar" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Staatliche Hochschule für Bildende Künste Hamburg" ],
+  "creator": [ {
+      "name": "Staatliche Hochschule für Bildende Künste Hamburg",
+      "uri": "https:\/\/d-nb.info\/gnd\/2022380-8"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1969" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3378",
   "title": "Staatliche Hochschule für Bildende Künste Hamburg an Ulrich Becher, 1969",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2022380-8" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284709140",
     "gnd": "https:\/\/d-nb.info\/1284709140"

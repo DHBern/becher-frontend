@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Hans Frevert" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Signal-Verlag Hans Frevert (Baden-Baden)" ],
+  "creator": [ {
+      "name": "Signal-Verlag Hans Frevert (Baden-Baden)",
+      "uri": "https:\/\/d-nb.info\/gnd\/2021996-9"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1962" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3364",
   "title": "Signal-Verlag Hans Frevert (Baden-Baden) an Ulrich Becher, 1962",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2021996-9" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284708586",
     "gnd": "https:\/\/d-nb.info\/1284708586"

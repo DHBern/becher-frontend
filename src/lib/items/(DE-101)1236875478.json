@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
-  "creator": [ "Martin Ulrich" ],
+  "creator": [ { "name":"Martin Ulrich", "uri":"https:\/\/d-nb.info\/gnd\/1236872320" } ],
   "lang": [ "Deutsch" ],
   "date": [ "" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.01.01.0010",
   "title": "Konvolut von Briefen von Martin Ulrich [?]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1236872320" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1236875478",
     "gnd": "https:\/\/d-nb.info\/1236875478"

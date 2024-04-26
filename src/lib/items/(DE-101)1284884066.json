@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltete Karte Druck und handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Margot Dugo" ],
+  "creator": [ { "name":"Margot Dugo", "uri":"https:\/\/d-nb.info\/gnd\/1219332305" } ],
   "lang": [ "Englisch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0093",
   "title": "Margot Dugo an Dana Roda Becher, 1900",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219332305" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284884066",
     "gnd": "https:\/\/d-nb.info\/1284884066"

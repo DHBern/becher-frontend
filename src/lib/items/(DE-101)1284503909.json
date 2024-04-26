@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich vervielfältigt" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Genossenschaft Dramatischer Schriftsteller und Komponisten in Wien" ],
+  "creator": [ {
+      "name": "Genossenschaft Dramatischer Schriftsteller und Komponisten in Wien",
+      "uri": ""
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2835",
   "title": "Genossenschaft Dramatischer Schriftsteller und Komponisten in Wien an Ulrich Becher, 1953",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284503909",
     "gnd": "https:\/\/d-nb.info\/1284503909"

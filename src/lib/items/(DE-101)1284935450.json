@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Axel Eggebrecht" ],
+  "creator": [ { "name":"Axel Eggebrecht", "uri":"https:\/\/d-nb.info\/gnd\/11852903X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
@@ -16,7 +16,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0011",
   "title": "Kurz nach 4, Axel Eggebrecht spricht über ein Buch von Ulrich Becher, UKW, [Rundfunk-Typoskript]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11852903X" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284935450",
     "gnd": "https:\/\/d-nb.info\/1284935450"

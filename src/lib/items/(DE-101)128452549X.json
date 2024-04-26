@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Franz Horch" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Paul-Zsolnay-Verlag (Wien)" ],
+  "creator": [ { "name":"Paul-Zsolnay-Verlag (Wien)", "uri":"https:\/\/d-nb.info\/gnd\/2017722-7" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1936" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3091",
   "title": "Paul-Zsolnay-Verlag (Wien) an Ulrich Becher, 1936",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2017722-7" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128452549X",
     "gnd": "https:\/\/d-nb.info\/128452549X"

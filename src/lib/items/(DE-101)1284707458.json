@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt Druck und maschinenschriftlich mit Unterschrift (Vordruck). Im Auftrag geschrieben von Dr. Klüter. Mit Zusatz von H. Dollinger. Verso: Ulrich Becher an Scherz-Verlag, 31.07.1967, maschinenschriftlicher Durchschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Scherz-Verlag" ],
+  "creator": [ { "name":"Scherz-Verlag", "uri":"https:\/\/d-nb.info\/gnd\/2021315-3" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1967" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3342",
   "title": "Scherz-Verlag an Ulrich Becher, 1967",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2021315-3" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284707458",
     "gnd": "https:\/\/d-nb.info\/1284707458"

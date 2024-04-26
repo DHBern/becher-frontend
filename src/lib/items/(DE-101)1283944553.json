@@ -5,14 +5,13 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 30,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Reproduktion von: Frühe Fassung, Fragment" ],
   "signature": "DEA-B-3-1-0017.A.01.01.0050",
   "title": "Murmeljagd, [Roman] – Joop Van Eggenk … [Incipit]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283944553",
     "gnd": "https:\/\/d-nb.info\/1283944553"

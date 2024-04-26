@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (beschädigt). Mit Zusatz" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Marian Wotruba" ],
+  "creator": [ { "name":"Marian Wotruba", "uri":"https:\/\/d-nb.info\/gnd\/1216731837" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1950" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.01.1905",
   "title": "Marian Wotruba, Fritz Wotruba an Ulrich Becher, Dana Roda Becher, 1950",
   "content": [  ],
-  "recipient": [ "Ulrich Becher", "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216731837" ],
+  "recipient": [
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284316963",
     "gnd": "https:\/\/d-nb.info\/1284316963"

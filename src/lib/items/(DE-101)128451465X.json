@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Wm-L. Brown" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Library of Congress. Copyright Office" ],
+  "creator": [ {
+      "name": "Library of Congress. Copyright Office",
+      "uri": "https:\/\/d-nb.info\/gnd\/38649-2"
+    } ],
   "lang": [ "Englisch" ],
   "date": [ "1934" ],
   "encl": [  ],
@@ -17,8 +19,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2955",
   "title": "Library of Congress. Copyright Office an Ulrich Becher, 1934",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/38649-2" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128451465X",
     "gnd": "https:\/\/d-nb.info\/128451465X"

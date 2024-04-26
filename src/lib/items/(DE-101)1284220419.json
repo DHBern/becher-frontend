@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Elfriede Mechnig" ],
+  "creator": [ { "name":"Elfriede Mechnig", "uri":"https:\/\/d-nb.info\/gnd\/1026358825" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1965" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-3-412",
   "title": "Elfriede Mechnig an Dana Roda Becher, 1965",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1026358825" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284220419",
     "gnd": "https:\/\/d-nb.info\/1284220419"

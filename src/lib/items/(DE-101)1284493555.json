@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Luc de Goustine" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Éditions du Seuil (Paris)" ],
+  "creator": [ { "name":"Éditions du Seuil (Paris)", "uri":"https:\/\/d-nb.info\/gnd\/301377-7" } ],
   "lang": [ "Französisch" ],
   "date": [ "1971" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2667",
   "title": "Éditions du Seuil (Paris) an Ulrich Becher, 1971",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/301377-7" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284493555",
     "gnd": "https:\/\/d-nb.info\/1284493555"

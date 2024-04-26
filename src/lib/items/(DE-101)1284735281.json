@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Walter Jensen" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Theaterverlag Kurt Desch" ],
+  "creator": [ { "name":"Theaterverlag Kurt Desch", "uri":"https:\/\/d-nb.info\/gnd\/32759-1" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3583",
   "title": "Theaterverlag Kurt Desch an Ulrich Becher, 1956",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/32759-1" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284735281",
     "gnd": "https:\/\/d-nb.info\/1284735281"

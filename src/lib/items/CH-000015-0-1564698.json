@@ -6,13 +6,13 @@
   "place": [  ],
   "ext_num": 0,
   "creator": [
-    "Becher, Ulrich (1910-1990)",
-    "Roda Becher, Dana (1909-1992)",
-    "Becher, Martin Roda (1944-)",
-    "Zeppelin, Harro von (1901-)",
-    "Zeppelin, Marius von (20.\/21. Jh.)",
-    "Zeppelin, Andres von (20. Jh.)",
-    "Zeppelin, Elisabeth von (20.\/21.Jh.)"
+    { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Roda Becher, Dana (1909-1992)", "uri":"https:\/\/d-nb.info\/gnd\/139244077" },
+    { "name":"Becher, Martin Roda (1944-)", "uri":"https:\/\/d-nb.info\/gnd\/121205207" },
+    { "name":"Zeppelin, Harro von (1901-)", "uri":"https:\/\/d-nb.info\/gnd\/139357556" },
+    { "name":"Zeppelin, Marius von (20.\/21. Jh.)", "uri":"" },
+    { "name":"Zeppelin, Andres von (20. Jh.)", "uri":"" },
+    { "name":"Zeppelin, Elisabeth von (20.\/21.Jh.)", "uri":"" }
   ],
   "lang": [ "Deutsch" ],
   "date": [ "1960" ],
@@ -21,12 +21,6 @@
   "signature": "SLA-UB-C-3-d-1-b-2",
   "title": "Todesanzeige von Elsbeth Roda Roda geb. Leuckfeld von Weysen, Basel;\nBerlin;\nTorres",
   "content": [  ],
-  "creator_uri": [
-    "https:\/\/d-nb.info\/gnd\/118507958",
-    "https:\/\/d-nb.info\/gnd\/139244077",
-    "https:\/\/d-nb.info\/gnd\/121205207",
-    "https:\/\/d-nb.info\/gnd\/139357556"
-  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1564698" },
   "wit-info": [  ],
   "type": "lifeDoc",

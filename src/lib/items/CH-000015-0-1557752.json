@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1933" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-f-4-4",
   "title": "Becher, Ulrich: Blonde Dame reist nach Venedig (4. Fassung)",
   "content": [ "Heftiger Streit unter Liebenden und das Wundermittel Venedig." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557752" },
   "wit-info": [  ],
   "type": "work",

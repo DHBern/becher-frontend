@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
-  "creator": [ "Gisela Fittschen-Badura" ],
+  "creator": [ { "name":"Gisela Fittschen-Badura", "uri":"https:\/\/d-nb.info\/gnd\/1011936887" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.02.0011",
   "title": "Konvolut von Szenenfotografien des Theaterstücks Der Bockerer (Tübingen, Erstaufführung)",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1011936887" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237531144",
     "gnd": "https:\/\/d-nb.info\/1237531144"

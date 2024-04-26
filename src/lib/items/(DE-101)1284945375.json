@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Marianne Viefhaus" ],
+  "creator": [ { "name":"Marianne Viefhaus", "uri":"https:\/\/d-nb.info\/gnd\/117041548" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1974" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0046",
   "title": "Für Bücherbord und Diskothek, ein literarisch-musikalisches Magazin, Süddeutscher Rundfunk, [Rundfunk-Typoskript]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117041548" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284945375",
     "gnd": "https:\/\/d-nb.info\/1284945375"

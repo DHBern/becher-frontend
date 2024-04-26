@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "4 Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118570757" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Dana Roda Becher" ],
+  "creator": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1969" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0075",
   "title": "Dana Roda Becher an Heinrich Maria Ledig-Rowohlt, 1969",
   "content": [  ],
-  "recipient": [ "Heinrich Maria Ledig-Rowohlt" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
+  "recipient": [ { "name":"Heinrich Maria Ledig-Rowohlt", "uri":"https:\/\/d-nb.info\/gnd\/118570757" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284877736",
     "gnd": "https:\/\/d-nb.info\/1284877736"

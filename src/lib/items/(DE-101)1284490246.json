@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift Ingrid Grimm (Xerox). Im Auftrag geschrieben von Klaus Konjetzky, Joseph von Westphalen und Ingrid Grimm" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "C.-Bertelsmann-Verlag (München)" ],
+  "creator": [ { "name":"C.-Bertelsmann-Verlag (München)", "uri":"https:\/\/d-nb.info\/gnd\/2029240-5" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1983" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2611",
   "title": "C.-Bertelsmann-Verlag (München), Mosaik Verlag (München) an Ulrich Becher, 1983",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2029240-5" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284490246",
     "gnd": "https:\/\/d-nb.info\/1284490246"

@@ -6,10 +6,10 @@
   "place": [  ],
   "ext_num": 0,
   "creator": [
-    "Chalat, Jakob S. (19.\/20. Jh.)",
-    "Hamburger, Adolf (20. Jh.)",
-    "Becher, Richard (1875-1956)",
-    "Preses, Peter (1907-1961)"
+    { "name":"Chalat, Jakob S. (19.\/20. Jh.)", "uri":"" },
+    { "name":"Hamburger, Adolf (20. Jh.)", "uri":"" },
+    { "name":"Becher, Richard (1875-1956)", "uri":"https:\/\/d-nb.info\/gnd\/1215307357" },
+    { "name":"Preses, Peter (1907-1961)", "uri":"https:\/\/d-nb.info\/gnd\/116282614" }
   ],
   "lang": [ "Deutsch", "Englisch" ],
   "date": [ "1946 bis 1947" ],
@@ -18,7 +18,6 @@
   "signature": "SLA-UB-C-1-e-1-b",
   "title": "Mappe \"Torberg Br II\"; Unterlagen von Richard Becher, New York,",
   "content": [ "Vollmacht für Richard Becher, unterzeichnet von Peter Preses und Ulrich Becher; Briefe, Entwürfe und Durchschläge von und an Richard Becher; Vergleich der Klage; Aussage von Mariane Walla; Statement von Peter Preses und Ulrich Becher; Notizen; Entwurf \"Agreement\"" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/116282614" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553382" },
   "wit-info": [  ],
   "type": "lifeDoc",

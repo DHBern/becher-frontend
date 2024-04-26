@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt Druck mit Unterschrift. Im Auftrag geschrieben von Vilmos Désy" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Stadttheater Solothurn (Solothurn)" ],
+  "creator": [ {
+      "name": "Stadttheater Solothurn (Solothurn)",
+      "uri": "https:\/\/d-nb.info\/gnd\/1067698744"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1980" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3372",
   "title": "Stadttheater Solothurn (Solothurn) an Ulrich Becher, 1980",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1067698744" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284708918",
     "gnd": "https:\/\/d-nb.info\/1284708918"

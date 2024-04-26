@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von F. Hindermann" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Atlantis Verlag (Zürich)" ],
+  "creator": [ { "name":"Atlantis Verlag (Zürich)", "uri":"https:\/\/d-nb.info\/gnd\/4003389-2" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1947" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0072",
   "title": "Atlantis Verlag (Zürich) an Elise Becher-Ulrich, 1947",
   "content": [  ],
-  "recipient": [ "Elise Becher-Ulrich" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/4003389-2" ],
+  "recipient": [ { "name":"Elise Becher-Ulrich", "uri":"https:\/\/d-nb.info\/gnd\/1215308086" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284877272",
     "gnd": "https:\/\/d-nb.info\/1284877272"

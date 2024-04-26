@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Wolfgang Kraus" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Paul-Zsolnay-Verlag (Wien)" ],
+  "creator": [ { "name":"Paul-Zsolnay-Verlag (Wien)", "uri":"https:\/\/d-nb.info\/gnd\/2017722-7" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "encl": [  ],
@@ -18,8 +17,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0035",
   "title": "Paul-Zsolnay-Verlag (Wien) an Elsbeth Roda Roda, 1953",
   "content": [  ],
-  "recipient": [ "Elsbeth Roda Roda" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2017722-7" ],
+  "recipient": [ { "name":"Elsbeth Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/107126613" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284861031",
     "gnd": "https:\/\/d-nb.info\/1284861031"

@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Paul Schwarz" ],
+  "creator": [ { "name":"Paul Schwarz", "uri":"https:\/\/d-nb.info\/gnd\/133756238" } ],
   "lang": [ "Englisch" ],
   "date": [ "1943" ],
   "encl": [  ],
@@ -16,7 +16,6 @@
   "signature": "DEA-B-3-1-0017.C.02.01.0011",
   "title": "Brief",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/133756238" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284897311",
     "gnd": "https:\/\/d-nb.info\/1284897311"

@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Elizabeth Krukowski", "Miami University (Oxford, Ohio)" ],
+  "creator": [
+    { "name":"Elizabeth Krukowski", "uri":"https:\/\/d-nb.info\/gnd\/1216207534" },
+    { "name":"Miami University (Oxford, Ohio)", "uri":"https:\/\/d-nb.info\/gnd\/1020474-X" }
+  ],
   "lang": [ "Englisch" ],
   "date": [ "1977" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0924",
   "title": "Elizabeth Krukowski, Miami University (Oxford, Ohio) an Ulrich Becher, 1977",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216207534", "https:\/\/d-nb.info\/gnd\/1020474-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284169324",
     "gnd": "https:\/\/d-nb.info\/1284169324"

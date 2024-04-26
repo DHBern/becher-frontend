@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von Rolf Defrank" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Süddeutscher Rundfunk" ],
+  "creator": [ { "name":"Süddeutscher Rundfunk", "uri":"https:\/\/d-nb.info\/gnd\/1009721-1" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1963" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3408",
   "title": "Süddeutscher Rundfunk an Ulrich Becher, 1963",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1009721-1" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284710513",
     "gnd": "https:\/\/d-nb.info\/1284710513"

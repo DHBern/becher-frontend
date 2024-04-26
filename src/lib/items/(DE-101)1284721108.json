@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von [Maria] Hofbauer" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Universal-Edition" ],
+  "creator": [ { "name":"Universal-Edition", "uri":"https:\/\/d-nb.info\/gnd\/2045143-X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1960" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3496",
   "title": "Universal-Edition an Ulrich Becher, 1960",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2045143-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284721108",
     "gnd": "https:\/\/d-nb.info\/1284721108"

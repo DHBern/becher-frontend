@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Hanns-Jochen Kaffsack" ],
+  "creator": [ { "name":"Hanns-Jochen Kaffsack", "uri":"https:\/\/d-nb.info\/gnd\/1078425116" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1976" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0020",
   "title": "Ulrich Becher, William's Ex-Casino, NDR II, [Rundfunk-Typoskript]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1078425116" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284938298",
     "gnd": "https:\/\/d-nb.info\/1284938298"

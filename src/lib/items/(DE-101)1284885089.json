@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/107126613" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Karin Lisz" ],
+  "creator": [ { "name":"Karin Lisz", "uri":"https:\/\/d-nb.info\/gnd\/1219333115" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0104",
   "title": "Karin Lisz an Elsbeth Roda Roda, 1957",
   "content": [  ],
-  "recipient": [ "Elsbeth Roda Roda" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219333115" ],
+  "recipient": [ { "name":"Elsbeth Roda Roda", "uri":"https:\/\/d-nb.info\/gnd\/107126613" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284885089",
     "gnd": "https:\/\/d-nb.info\/1284885089"

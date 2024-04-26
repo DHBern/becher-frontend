@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltete Karte Druck und handschriftlich mit Unterschrift. Mit Abbildung einer Zeichnung von Marc Chagall" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ida Chagall" ],
+  "creator": [ { "name":"Ida Chagall", "uri":"https:\/\/d-nb.info\/gnd\/131875183" } ],
   "lang": [ "Französisch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1271",
   "title": "Ida Chagall an Ulrich Becher, 1900",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/131875183" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284228614",
     "gnd": "https:\/\/d-nb.info\/1284228614"

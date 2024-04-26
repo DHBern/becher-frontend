@@ -5,14 +5,13 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1933" ],
   "note": [ "Es handelt sich hierbei um ein Typoskript mit dem Titel: Am Grabmal des unbekannten Soldaten" ],
   "signature": "DEA-B-3-1-0017.A.01.05.0056",
   "title": "Gefallene Kameraden der Freiheit - beiliegendes Material",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283964260",
     "gnd": "https:\/\/d-nb.info\/1283964260"

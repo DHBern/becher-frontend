@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von H. Zaslawski" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Globus, Zeitungs-, Druck-und Verlagsanstalt" ],
+  "creator": [ {
+      "name": "Globus, Zeitungs-, Druck-und Verlagsanstalt",
+      "uri": "https:\/\/d-nb.info\/gnd\/2044250-6"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1962" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2847",
   "title": "Globus, Zeitungs-, Druck-und Verlagsanstalt an Ulrich Becher, 1962",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2044250-6" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284504263",
     "gnd": "https:\/\/d-nb.info\/1284504263"

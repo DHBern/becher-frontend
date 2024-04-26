@@ -2,15 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [
-    "https:\/\/d-nb.info\/gnd\/1215308086",
-    "https:\/\/d-nb.info\/gnd\/139244077",
-    "https:\/\/d-nb.info\/gnd\/118507958"
-  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Susanne Bach" ],
+  "creator": [ { "name":"Susanne Bach", "uri":"https:\/\/d-nb.info\/gnd\/12269886X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -18,8 +13,11 @@
   "signature": "DEA-B-3-1-0017.B.01.0040",
   "title": "Susanne Bach an Elise Becher-Ulrich, Dana Roda Becher, Ulrich Becher, 1945",
   "content": [  ],
-  "recipient": [ "Elise Becher-Ulrich", "Dana Roda Becher", "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/12269886X" ],
+  "recipient": [
+    { "name":"Elise Becher-Ulrich", "uri":"https:\/\/d-nb.info\/gnd\/1215308086" },
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" },
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284031144",
     "gnd": "https:\/\/d-nb.info\/1284031144"

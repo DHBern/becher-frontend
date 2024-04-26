@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Mimi Grossberg" ],
+  "creator": [ { "name":"Mimi Grossberg", "uri":"https:\/\/d-nb.info\/gnd\/121228223" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.03.0016",
   "title": "Bio-bibliographische Notiz [...] Ulrich Becher",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121228223" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284907082",
     "gnd": "https:\/\/d-nb.info\/1284907082"

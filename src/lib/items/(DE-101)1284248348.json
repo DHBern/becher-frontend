@@ -2,11 +2,16 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Erwin Piscator", "New School for Social Research (1919-1997)" ],
+  "creator": [
+    { "name":"Erwin Piscator", "uri":"https:\/\/d-nb.info\/gnd\/118594648" },
+    {
+      "name": "New School for Social Research (1919-1997)",
+      "uri": "https:\/\/d-nb.info\/gnd\/41565-0"
+    }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1948" ],
   "encl": [  ],
@@ -14,8 +19,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1382",
   "title": "Erwin Piscator, New School for Social Research (1919-1997) an Ulrich Becher, 1948",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118594648", "https:\/\/d-nb.info\/gnd\/41565-0" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284248348",
     "gnd": "https:\/\/d-nb.info\/1284248348"

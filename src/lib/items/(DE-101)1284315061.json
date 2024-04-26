@@ -2,11 +2,16 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Eva Wisten", "Deutsche Akademie der Künste zu Berlin" ],
+  "creator": [
+    { "name":"Eva Wisten", "uri":"https:\/\/d-nb.info\/gnd\/1216731535" },
+    {
+      "name": "Deutsche Akademie der Künste zu Berlin",
+      "uri": "https:\/\/d-nb.info\/gnd\/1000631-X"
+    }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +19,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1885",
   "title": "Eva Wisten, Deutsche Akademie der Künste zu Berlin an Ulrich Becher, 1900",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216731535", "https:\/\/d-nb.info\/gnd\/1000631-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284315061",
     "gnd": "https:\/\/d-nb.info\/1284315061"

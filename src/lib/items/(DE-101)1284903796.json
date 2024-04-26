@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "USA, Embassy, Brasilien, Consular Section" ],
+  "creator": [ { "name":"USA, Embassy, Brasilien, Consular Section", "uri":"" } ],
   "lang": [ "Englisch" ],
   "date": [ "1944" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.02.01.0036",
   "title": "Brief",
   "content": [  ],
-  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284903796",
     "gnd": "https:\/\/d-nb.info\/1284903796"

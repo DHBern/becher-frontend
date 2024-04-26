@@ -5,7 +5,10 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Comité de Proteção dos Interêsses Austríacos no Brasil" ],
+  "creator": [ {
+      "name": "Comité de Proteção dos Interêsses Austríacos no Brasil",
+      "uri": "https:\/\/d-nb.info\/gnd\/1051627540"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1944" ],
   "encl": [  ],
@@ -16,7 +19,6 @@
   "signature": "DEA-B-3-1-0017.C.02.01.0032",
   "title": "Brief",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1051627540" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284903087",
     "gnd": "https:\/\/d-nb.info\/1284903087"

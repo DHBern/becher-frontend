@@ -2,11 +2,16 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Walter Landauer", "Allert de Lange (Amsterdam). Deutsche Abteilung" ],
+  "creator": [
+    { "name":"Walter Landauer", "uri":"https:\/\/d-nb.info\/gnd\/11667198X" },
+    {
+      "name": "Allert de Lange (Amsterdam). Deutsche Abteilung",
+      "uri": "https:\/\/d-nb.info\/gnd\/2131612-0"
+    }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1938" ],
   "encl": [  ],
@@ -17,8 +22,7 @@
   "signature": "SLA-UB-B-2-049",
   "title": "Walter Landauer, Allert de Lange (Amsterdam). Deutsche Abteilung an Ulrich Becher, 1938",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11667198X", "https:\/\/d-nb.info\/gnd\/2131612-0" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284193462",
     "gnd": "https:\/\/d-nb.info\/1284193462"

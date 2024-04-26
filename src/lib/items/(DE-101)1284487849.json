@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Im Auftrag geschrieben von [Peter] Thilo" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Berlin (West). Senator für Wissenschaft und Kunst" ],
+  "creator": [ {
+      "name": "Berlin (West). Senator für Wissenschaft und Kunst",
+      "uri": "https:\/\/d-nb.info\/gnd\/2028483-4"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1971" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2570",
   "title": "Berlin (West). Senator für Wissenschaft und Kunst an Ulrich Becher, 1971",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2028483-4" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284487849",
     "gnd": "https:\/\/d-nb.info\/1284487849"

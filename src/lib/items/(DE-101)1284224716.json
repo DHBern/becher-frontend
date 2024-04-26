@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt handschriftlich mit Unterschrift. Mit Umschlag" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Grete Mende-Hacks" ],
+  "creator": [ { "name":"Grete Mende-Hacks", "uri":"https:\/\/d-nb.info\/gnd\/121629433X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1957" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1252",
   "title": "Grete Mende-Hacks an Ulrich Becher, 1957",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/121629433X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284224716",
     "gnd": "https:\/\/d-nb.info\/1284224716"

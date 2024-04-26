@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Bernd Engroff" ],
+  "creator": [ { "name":"Bernd Engroff", "uri":"https:\/\/d-nb.info\/gnd\/1235104842" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.01.0023",
   "title": "Fotografie Ulrich Becher, Porträtaufnahme",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1235104842" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284914089",
     "gnd": "https:\/\/d-nb.info\/1284914089"

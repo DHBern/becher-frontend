@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958", "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Walter H. Perl" ],
+  "creator": [ { "name":"Walter H. Perl", "uri":"https:\/\/d-nb.info\/gnd\/116079487" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.01.1374",
   "title": "Walter H. Perl an Ulrich Becher, Dana Roda Becher, 1945",
   "content": [  ],
-  "recipient": [ "Ulrich Becher", "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116079487" ],
+  "recipient": [
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284245411",
     "gnd": "https:\/\/d-nb.info\/1284245411"

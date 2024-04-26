@@ -2,15 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [
-    "https:\/\/d-nb.info\/gnd\/139244077",
-    "https:\/\/d-nb.info\/gnd\/118507958",
-    "https:\/\/d-nb.info\/gnd\/121205207"
-  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Jean Bach" ],
+  "creator": [ { "name":"Jean Bach", "uri":"https:\/\/d-nb.info\/gnd\/1215293216" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "encl": [  ],
@@ -18,8 +13,11 @@
   "signature": "DEA-B-3-1-0017.B.01.0036",
   "title": "Jean Bach an Dana Roda Becher, Ulrich Becher, Martin Roda Becher, 1959",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher", "Ulrich Becher", "Martin Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1215293216" ],
+  "recipient": [
+    { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" },
+    { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" },
+    { "name":"Martin Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/121205207" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284030652",
     "gnd": "https:\/\/d-nb.info\/1284030652"

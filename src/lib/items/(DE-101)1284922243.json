@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Foto-Lohrisch-Achilles" ],
+  "creator": [ { "name":"Foto-Lohrisch-Achilles", "uri":"" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1960" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.03.0037",
   "title": "Konvolut von Fotografien Henry Miller, Porträtaufnahmen-Sequenz, an Tisch",
   "content": [  ],
-  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284922243",
     "gnd": "https:\/\/d-nb.info\/1284922243"

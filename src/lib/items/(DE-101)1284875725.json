@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlicher Durchschlag (Abschrift)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116832827" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Peter Ustinov" ],
+  "creator": [ { "name":"Peter Ustinov", "uri":"https:\/\/d-nb.info\/gnd\/118625705" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1956" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0061",
   "title": "Peter Ustinov an Herbert Greuèl, 1956",
   "content": [  ],
-  "recipient": [ "Herbert Greuèl" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118625705" ],
+  "recipient": [ { "name":"Herbert Greuèl", "uri":"https:\/\/d-nb.info\/gnd\/116832827" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284875725",
     "gnd": "https:\/\/d-nb.info\/1284875725"

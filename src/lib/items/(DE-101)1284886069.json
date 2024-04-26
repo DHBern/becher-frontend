@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte maschinenschriftlich mit Unterschrift (unleserlich)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/139244077" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Verlagsanstalt Hermann Klemm" ],
+  "creator": [ { "name":"Verlagsanstalt Hermann Klemm", "uri":"https:\/\/d-nb.info\/gnd\/1047226790" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1955" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0117",
   "title": "Verlagsanstalt Hermann Klemm an Dana Roda Becher, 1955",
   "content": [  ],
-  "recipient": [ "Dana Roda Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1047226790" ],
+  "recipient": [ { "name":"Dana Roda Becher", "uri":"https:\/\/d-nb.info\/gnd\/139244077" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284886069",
     "gnd": "https:\/\/d-nb.info\/1284886069"

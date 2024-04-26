@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Adalbert Defner" ],
+  "creator": [ { "name":"Adalbert Defner", "uri":"https:\/\/d-nb.info\/gnd\/123820529" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1948" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.03.0034",
   "title": "Fotografie mehrerer Personen, Küchenpersonal an Büfett",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123820529" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284921875",
     "gnd": "https:\/\/d-nb.info\/1284921875"

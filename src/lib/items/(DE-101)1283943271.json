@@ -1,11 +1,11 @@
 {
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlicher Durchschlag. Mit Korrekturen" ],
-  "wit": [  ],
+  "wit": [ "130802990X" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 4,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [
@@ -15,12 +15,15 @@
   "signature": "DEA-B-3-1-0017.A.01.01.0005",
   "title": "Abseits vom Rodeo, [Novelle]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283943271",
     "gnd": "https:\/\/d-nb.info\/1283943271"
   },
-  "wit-info": [  ],
+  "wit-info": [ {
+      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "name": "Becher, Ulrich: Abseits vom Rodeo",
+      "type": "undefined"
+    } ],
   "type": "work",
   "holding_institution": "DEA",
   "iiif": "https:\/\/iiif.ub.unibe.ch\/image\/v3\/dsl_dev\/1283943271_00000010.tif\/info.json",

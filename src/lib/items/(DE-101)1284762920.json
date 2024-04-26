@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich und handschriftlich mit Unterschrift (unleserlich)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Central European Rehabilitation Association, Inc." ],
+  "creator": [ { "name":"Central European Rehabilitation Association, Inc.", "uri":"" } ],
   "lang": [ "Englisch" ],
   "date": [ "1946" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3741",
   "title": "Central European Rehabilitation Association, Inc. an Ulrich Becher, 1946",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284762920",
     "gnd": "https:\/\/d-nb.info\/1284762920"

@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Fritz Stapenhorst", "Schmelzer & Stapenhorst GmbH & Co Film KG" ],
+  "creator": [
+    { "name":"Fritz Stapenhorst", "uri":"https:\/\/d-nb.info\/gnd\/1062262328" },
+    { "name":"Schmelzer & Stapenhorst GmbH & Co Film KG", "uri":"" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1769",
   "title": "Fritz Stapenhorst, Schmelzer & Stapenhorst GmbH & Co Film KG an Ulrich Becher, 1900",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1062262328" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284310426",
     "gnd": "https:\/\/d-nb.info\/1284310426"

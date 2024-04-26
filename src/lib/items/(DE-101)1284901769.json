@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Frederick F. Fletcher" ],
+  "creator": [ { "name":"Frederick F. Fletcher", "uri":"https:\/\/d-nb.info\/gnd\/1232842052" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1944" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.02.01.0026",
   "title": "Brief",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1232842052" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284901769",
     "gnd": "https:\/\/d-nb.info\/1284901769"

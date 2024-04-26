@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Herbert Spaich" ],
+  "creator": [ { "name":"Herbert Spaich", "uri":"https:\/\/d-nb.info\/gnd\/109737261" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1987" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0042",
   "title": "Ulrich Becher, Murmeljagd, Süddeut. Rundf., [Rundfunk-Typoskript]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/109737261" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284943127",
     "gnd": "https:\/\/d-nb.info\/1284943127"

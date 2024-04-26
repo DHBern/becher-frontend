@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Jan Van Loewen", "International Copyright Agency" ],
+  "creator": [
+    { "name":"Jan Van Loewen", "uri":"https:\/\/d-nb.info\/gnd\/117168173" },
+    { "name":"International Copyright Agency", "uri":"" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1973" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1840",
   "title": "Jan Van Loewen, International Copyright Agency an Ulrich Becher, 1973",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/117168173" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284312615",
     "gnd": "https:\/\/d-nb.info\/1284312615"

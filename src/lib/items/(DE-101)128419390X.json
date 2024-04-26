@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift Dr. Kaltofen und Lang" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ottomar Lang", "Deutscher Fernsehfunk" ],
+  "creator": [
+    { "name":"Ottomar Lang", "uri":"https:\/\/d-nb.info\/gnd\/1216208557" },
+    { "name":"Deutscher Fernsehfunk", "uri":"https:\/\/d-nb.info\/gnd\/2008285-X" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1961" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0967",
   "title": "Ottomar Lang, Deutscher Fernsehfunk an Ulrich Becher, 1961",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216208557", "https:\/\/d-nb.info\/gnd\/2008285-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128419390X",
     "gnd": "https:\/\/d-nb.info\/128419390X"

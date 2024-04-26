@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "3 Blatt handschriftlich mit Unterschrift (Xerox)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1076880762" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1981" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.02.0158",
   "title": "Ulrich Becher an Dieter Sturm, 1981",
   "content": [  ],
-  "recipient": [ "Dieter Sturm" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [ { "name":"Dieter Sturm", "uri":"https:\/\/d-nb.info\/gnd\/1076880762" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284786579",
     "gnd": "https:\/\/d-nb.info\/1284786579"

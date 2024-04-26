@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Brief, maschinenschriftlich" ],
   "wit": [ "1088059252" ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Salzburg", "Basel (Stadt); Basel-Stadt" ],
   "ext_num": 0,
-  "creator": [ "Weichselbaum, Hans (1946-)", "Hofmann, Helene" ],
+  "creator": [
+    { "name":"Weichselbaum, Hans (1946-)", "uri":"https:\/\/d-nb.info\/gnd\/112463703" },
+    { "name":"Hofmann, Helene", "uri":"" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "13. Januar 1983" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "SLA-UB-B-2-LES-1",
   "title": "Leselampe an Becher, Ulrich; Korrespondenz, Salzburg;\nBasel",
   "content": [  ],
-  "recipient": [ "Becher, Ulrich (1910-1990)" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/112463703" ],
+  "recipient": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1641981" },
   "wit-info": [ {
       "ref": "https:\/\/d-nb.info\/gnd\/1088059252",

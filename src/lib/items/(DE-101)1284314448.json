@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift Margot Weyrauch" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Wolfgang Weyrauch" ],
+  "creator": [ { "name":"Wolfgang Weyrauch", "uri":"https:\/\/d-nb.info\/gnd\/118632078" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1964" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "SLA-UB-B-2-201",
   "title": "Wolfgang Weyrauch an Ulrich Becher, 1964",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118632078" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284314448",
     "gnd": "https:\/\/d-nb.info\/1284314448"

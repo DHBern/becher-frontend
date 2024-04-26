@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (beschädigt). Im Auftrag geschrieben von Traute [van Witt]" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Universal-Edition" ],
+  "creator": [ { "name":"Universal-Edition", "uri":"https:\/\/d-nb.info\/gnd\/2045143-X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1966" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3536",
   "title": "Universal-Edition an Ulrich Becher, 1966",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2045143-X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128473031X",
     "gnd": "https:\/\/d-nb.info\/128473031X"

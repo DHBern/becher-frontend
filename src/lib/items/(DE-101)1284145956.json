@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Mit Umschlag. Verso: Ulrich Becher an Aufbau-Verlag Berlin, 07.01.1978" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ján Juračka" ],
+  "creator": [ { "name":"Ján Juračka", "uri":"https:\/\/d-nb.info\/gnd\/1216139520" } ],
   "lang": [ "Englisch" ],
   "date": [ "1977" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0823",
   "title": "Ján Juračka an Ulrich Becher, 1977",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216139520" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284145956",
     "gnd": "https:\/\/d-nb.info\/1284145956"

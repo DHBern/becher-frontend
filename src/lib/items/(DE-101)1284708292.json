@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich mit Unterschrift. Im Auftrag geschrieben von F. K. Mathys" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Schweizerisches Turn-und Sportmuseum" ],
+  "creator": [ {
+      "name": "Schweizerisches Turn-und Sportmuseum",
+      "uri": "https:\/\/d-nb.info\/gnd\/2087802-3"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1976" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.3358",
   "title": "Schweizerisches Turn-und Sportmuseum an Ulrich Becher, 1976",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/2087802-3" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284708292",
     "gnd": "https:\/\/d-nb.info\/1284708292"

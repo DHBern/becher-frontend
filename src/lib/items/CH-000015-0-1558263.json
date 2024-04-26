@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 7,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1943 bis 1944" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-3-c-1-6",
   "title": "Becher, Ulrich: Romanze der Begegnung mit Johann Damaszener Vanille",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558263" },
   "wit-info": [  ],
   "type": "work",

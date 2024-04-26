@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ferdinand Bruckner", "Schiller-Theater (Berlin, West)" ],
+  "creator": [
+    { "name":"Ferdinand Bruckner", "uri":"https:\/\/d-nb.info\/gnd\/118515802" },
+    { "name":"Schiller-Theater (Berlin, West)", "uri":"https:\/\/d-nb.info\/gnd\/813087-5" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1953" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0408",
   "title": "Ferdinand Bruckner, Schiller-Theater (Berlin, West) an Ulrich Becher, 1953",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118515802", "https:\/\/d-nb.info\/gnd\/813087-5" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284101819",
     "gnd": "https:\/\/d-nb.info\/1284101819"

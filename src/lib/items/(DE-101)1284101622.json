@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz von Lucy Breicha. Verso maschinenschriftlicher Durchschlag des Schreibens von Ulrich Becher an Otto Breicha vom 25.06.1977" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Otto Breicha", "Kulturhaus (Graz)" ],
+  "creator": [
+    { "name":"Otto Breicha", "uri":"https:\/\/d-nb.info\/gnd\/116469986" },
+    { "name":"Kulturhaus (Graz)", "uri":"https:\/\/d-nb.info\/gnd\/1044730-1" }
+  ],
   "lang": [ "Deutsch" ],
   "date": [ "1977" ],
   "encl": [  ],
@@ -14,8 +16,7 @@
   "signature": "SLA-UB-B-2-070",
   "title": "Otto Breicha, Kulturhaus (Graz) an Ulrich Becher, 1977",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/116469986", "https:\/\/d-nb.info\/gnd\/1044730-1" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284101622",
     "gnd": "https:\/\/d-nb.info\/1284101622"

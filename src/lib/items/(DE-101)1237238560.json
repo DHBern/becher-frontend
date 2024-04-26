@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": -1,
-  "creator": [ "George Grosz" ],
+  "creator": [ { "name":"George Grosz", "uri":"https:\/\/d-nb.info\/gnd\/118542672" } ],
   "lang": [ "Deutsch", "Deutsch Englisch" ],
   "date": [ "" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.01.04.0001",
   "title": "Konvolut von Zeitschriften-Beiträgen von und über George Grosz, in Heften",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118542672" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1237238560",
     "gnd": "https:\/\/d-nb.info\/1237238560"

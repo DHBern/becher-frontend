@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt handschriftlich" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/11708168X", "https:\/\/d-nb.info\/gnd\/1145571697" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.02.0300",
   "title": "Ulrich Becher an Hans-Bernhard Moeller, Nancy Anne Zeller, 1900",
   "content": [  ],
-  "recipient": [ "Hans-Bernhard Moeller", "Nancy Anne Zeller" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
+  "recipient": [
+    { "name":"Hans-Bernhard Moeller", "uri":"https:\/\/d-nb.info\/gnd\/11708168X" },
+    { "name":"Nancy Anne Zeller", "uri":"https:\/\/d-nb.info\/gnd\/1145571697" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284802760",
     "gnd": "https:\/\/d-nb.info\/1284802760"

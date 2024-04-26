@@ -2,13 +2,15 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
   "creator": [
-    "Stephan Hermlin",
-    "Deutsche Akademie der Künste zu Berlin. Sektion Dichtkunst und Sprachpflege"
+    { "name":"Stephan Hermlin", "uri":"https:\/\/d-nb.info\/gnd\/118549812" },
+    {
+      "name": "Deutsche Akademie der Künste zu Berlin. Sektion Dichtkunst und Sprachpflege",
+      "uri": "https:\/\/d-nb.info\/gnd\/2007367-7"
+    }
   ],
   "lang": [ "Deutsch" ],
   "date": [ "1961" ],
@@ -17,8 +19,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0718",
   "title": "Stephan Hermlin an Ulrich Becher, 1961",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118549812", "https:\/\/d-nb.info\/gnd\/2007367-7" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284134997",
     "gnd": "https:\/\/d-nb.info\/1284134997"

@@ -2,11 +2,13 @@
   "category_local_name": "",
   "ext": [ "2 Blatt maschinenschriftlich mit Unterschrift (Xerox). Im Auftrag geschrieben von Dr. V. Strnad" ],
   "wit": [  ],
-  "recipient_uri": [  ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Divadelní Literární a Jednatelství" ],
+  "creator": [ {
+      "name": "Divadelní Literární a Jednatelství",
+      "uri": "https:\/\/d-nb.info\/gnd\/5266579-3"
+    } ],
   "lang": [ "Deutsch" ],
   "date": [ "1959" ],
   "encl": [  ],
@@ -19,7 +21,6 @@
   "title": "Divadelní Literární a Jednatelství an , 1959",
   "content": [  ],
   "recipient": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/5266579-3" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284493091",
     "gnd": "https:\/\/d-nb.info\/1284493091"

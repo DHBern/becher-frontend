@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichen Zusatz von Wilhelm Kiefer. Mit handschriftlicher Anmerkung von Ulrich Becher" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Wilhelm Kiefer" ],
+  "creator": [ { "name":"Wilhelm Kiefer", "uri":"https:\/\/d-nb.info\/gnd\/11615652X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1937" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.0878",
   "title": "Wilhelm Kiefer an Ulrich Becher, 1937",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/11615652X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284166147",
     "gnd": "https:\/\/d-nb.info\/1284166147"

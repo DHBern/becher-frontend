@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift Ernst T. Richter" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Ernst Theo Richter" ],
+  "creator": [ { "name":"Ernst Theo Richter", "uri":"https:\/\/d-nb.info\/gnd\/13485098X" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1980" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.1456",
   "title": "Ernst Theo Richter an Ulrich Becher, 1980",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/13485098X" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284260038",
     "gnd": "https:\/\/d-nb.info\/1284260038"

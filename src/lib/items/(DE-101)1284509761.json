@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich vervielfältigt mit Unterschrift (unleserlich)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Argus der Presse AG" ],
+  "creator": [ { "name":"Argus der Presse AG", "uri":"https:\/\/d-nb.info\/gnd\/1086161424" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1936" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2906",
   "title": "Argus der Presse AG an Ulrich Becher, 1936",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1086161424" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284509761",
     "gnd": "https:\/\/d-nb.info\/1284509761"

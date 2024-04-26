@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 7,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970 bis 1982" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-e-1-2",
   "title": "Becher, Ulrich: Die Passion des Napoleon Bonaparte. Eine ethnologische Miniatur (2. Fassung)",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557724" },
   "wit-info": [  ],
   "type": "work",

@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "International Rescue Committee" ],
+  "creator": [ { "name":"International Rescue Committee", "uri":"https:\/\/d-nb.info\/gnd\/4456301-2" } ],
   "lang": [ "Englisch" ],
   "date": [ "1945" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.02.01.0038",
   "title": "Brief, [Beilage zur Sachakte USA-Einreise, Merkblatt]",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/4456301-2" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284904199",
     "gnd": "https:\/\/d-nb.info\/1284904199"

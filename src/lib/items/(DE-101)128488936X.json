@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Karte handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/116805420" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Unbekannt" ],
+  "creator": [ { "name":"Unbekannt", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1961" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0151",
   "title": "Unbekannt an Theodor Sapper, 1961",
   "content": [  ],
-  "recipient": [ "Theodor Sapper" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Theodor Sapper", "uri":"https:\/\/d-nb.info\/gnd\/116805420" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128488936X",
     "gnd": "https:\/\/d-nb.info\/128488936X"

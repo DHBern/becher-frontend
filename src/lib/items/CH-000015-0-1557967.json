@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 30,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1970 bis 1990" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-g-1-1",
   "title": "Becher, Ulrich: Hades-Telefonate: Fortsetzung Hades-Telefonate",
   "content": [ "Ulrich Becher besucht den Bildhauer Fritz Wotruba in Begleitung des Basler Literaturprofessors Walter Muschg in dessen Atelier und sie unterhalten sich über dessen \"Hausdohle\" Koko. Hadestelefonat an Walter Muschg Basel Bruderholz am 22. November 63: Ermordung John F. Kennedys. Hadestelefonat an Fritz Wotruba, um diesen über Walter Muschgs plötzliches Dahinscheiden zu informieren. Boeckl-Kapitel: Bekanntschaft mit Herbert Boeckl 1950, Boeckl-Ausstellung in Wien 1962 und Tod durch Schlaganfall genau zu diesem Anlass. Telefonat mit Wotruba. 1966: Telefonat mit Wotruba, der den Tod Heimito von Doderers mitteilt." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557967" },
   "wit-info": [  ],
   "type": "work",

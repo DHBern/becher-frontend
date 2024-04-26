@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 gefaltetes Blatt Druck" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Arnoldo Mondadori Editore" ],
+  "creator": [ { "name":"Arnoldo Mondadori Editore", "uri":"https:\/\/d-nb.info\/gnd\/272168-5" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1965" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.01.2397",
   "title": "Arnoldo Mondadori Editore an Ulrich Becher, 1965",
   "content": [  ],
-  "recipient": [ "Ulrich Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/272168-5" ],
+  "recipient": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128437971X",
     "gnd": "https:\/\/d-nb.info\/128437971X"

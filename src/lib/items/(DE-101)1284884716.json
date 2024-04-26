@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (unleserlich)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1026358825" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Illustrierte Berliner Zeitschrift" ],
+  "creator": [ { "name":"Illustrierte Berliner Zeitschrift", "uri":"" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1960" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0099",
   "title": "Illustrierte Berliner Zeitschrift an Elfriede Mechnig, 1960",
   "content": [  ],
-  "recipient": [ "Elfriede Mechnig" ],
-  "creator_uri": [  ],
+  "recipient": [ { "name":"Elfriede Mechnig", "uri":"https:\/\/d-nb.info\/gnd\/1026358825" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284884716",
     "gnd": "https:\/\/d-nb.info\/1284884716"

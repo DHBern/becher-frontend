@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Joachim Bechtle-Bechtinger" ],
+  "creator": [ { "name":"Joachim Bechtle-Bechtinger", "uri":"https:\/\/d-nb.info\/gnd\/1216712506" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.03.0002",
   "title": "Nachwort",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216712506" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284932028",
     "gnd": "https:\/\/d-nb.info\/1284932028"

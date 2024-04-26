@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "3 Blatt handschriftlich mit Unterschrift" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Bruno Buchwald" ],
+  "creator": [ { "name":"Bruno Buchwald", "uri":"https:\/\/d-nb.info\/gnd\/1171142099" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1935" ],
   "encl": [  ],
@@ -14,8 +13,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0026",
   "title": "Bruno Buchwald an Richard Becher, 1935",
   "content": [  ],
-  "recipient": [ "Richard Becher" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1171142099" ],
+  "recipient": [ { "name":"Richard Becher", "uri":"https:\/\/d-nb.info\/gnd\/1215307357" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284859665",
     "gnd": "https:\/\/d-nb.info\/1284859665"

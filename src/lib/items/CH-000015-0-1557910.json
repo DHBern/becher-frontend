@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 3,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1960" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-f-56-1",
   "title": "Becher, Ulrich: Unfair zu einer blonden Schlange?",
   "content": [ "Guilherme Pfeifer findet sich, aus seinem Mittagsschlaf im brasilianischen Urwald erwachend, von einer Anaconda bedroht. Als diese von ihm ablässt, holt er seine Waffe von der nahen Farm und erlegt die nun ihrerseits schlafende Schlange." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557910" },
   "wit-info": [  ],
   "type": "work",

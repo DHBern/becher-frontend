@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "E. Doubrava" ],
+  "creator": [ { "name":"E. Doubrava", "uri":"https:\/\/d-nb.info\/gnd\/123624639X" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1935" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.03.0030",
   "title": "Fotografie Alexander Roda Roda und Elsbeth Roda Roda",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/123624639X" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128492131X",
     "gnd": "https:\/\/d-nb.info\/128492131X"

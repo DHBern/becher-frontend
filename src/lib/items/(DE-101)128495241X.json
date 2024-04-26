@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Lion Feuchtwanger" ],
+  "creator": [ { "name":"Lion Feuchtwanger", "uri":"https:\/\/d-nb.info\/gnd\/118532715" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1937" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.D.04.0001a",
   "title": "Ulrich Becher",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118532715" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128495241X",
     "gnd": "https:\/\/d-nb.info\/128495241X"

@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift. Mit handschriftlichem Zusatz" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1215307357", "https:\/\/d-nb.info\/gnd\/1215308086" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "Trude Pinner" ],
+  "creator": [ { "name":"Trude Pinner", "uri":"https:\/\/d-nb.info\/gnd\/1219333336" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1939" ],
   "encl": [  ],
@@ -14,8 +13,10 @@
   "signature": "DEA-B-3-1-0017.B.04.0109",
   "title": "Trude Pinner an Richard Becher, Elise Becher-Ulrich, 1939",
   "content": [  ],
-  "recipient": [ "Richard Becher", "Elise Becher-Ulrich" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1219333336" ],
+  "recipient": [
+    { "name":"Richard Becher", "uri":"https:\/\/d-nb.info\/gnd\/1215307357" },
+    { "name":"Elise Becher-Ulrich", "uri":"https:\/\/d-nb.info\/gnd\/1215308086" }
+  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-128488547X",
     "gnd": "https:\/\/d-nb.info\/128488547X"

@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1932" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-1-f-11-2",
   "title": "Becher, Ulrich: Franz (2. Fassung)",
   "content": [ "Zwei Frauen im Krankenhaus, Bett an Bett. Die Erinnerungen an den wundervollen \"Franz\" lassen die Alte leben und die Junge sterben." ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1557776" },
   "wit-info": [  ],
   "type": "work",

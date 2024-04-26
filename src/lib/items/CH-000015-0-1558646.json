@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [  ],
   "ext_num": 0,
-  "creator": [ "Becher, Ulrich (1910-1990)" ],
+  "creator": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1958" ],
   "note": [
@@ -15,7 +15,6 @@
   "signature": "SLA-UB-A-4-h-3-2",
   "title": "Becher, Ulrich: Der Herr kommt aus Bahia (Makumba). Schauspiel in drei Akten. Handexemplar",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558646" },
   "wit-info": [  ],
   "type": "work",

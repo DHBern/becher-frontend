@@ -5,14 +5,13 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 22,
-  "creator": [ "Ulrich Becher" ],
+  "creator": [ { "name":"Ulrich Becher", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1900" ],
   "note": [ "Es handelt sich hierbei um Notizen und um verstreute Einzelblätter. Blatt 9 enthält verso das Gedicht: Abendlied" ],
   "signature": "DEA-B-3-1-0017.A.01.03.0005",
   "title": "Brasilianischer Romanzero, [Lyrik] - beiliegendes Material",
   "content": [  ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/118507958" ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1283948982",
     "gnd": "https:\/\/d-nb.info\/1283948982"

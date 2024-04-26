@@ -5,7 +5,7 @@
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": 2,
-  "creator": [ "Annie's Photo" ],
+  "creator": [ { "name":"Annie's Photo", "uri":"" } ],
   "lang": [ "Kein linguistischer Inhalt" ],
   "date": [ "1900" ],
   "encl": [  ],
@@ -13,7 +13,6 @@
   "signature": "DEA-B-3-1-0017.C.04.03.0011",
   "title": "Fotografie Martin Roda Becher, Porträtaufnahme, als Kind",
   "content": [  ],
-  "creator_uri": [  ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284918416",
     "gnd": "https:\/\/d-nb.info\/1284918416"

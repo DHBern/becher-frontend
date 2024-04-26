@@ -2,11 +2,10 @@
   "category_local_name": "",
   "ext": [ "1 Blatt maschinenschriftlich mit Unterschrift (Xerox)" ],
   "wit": [  ],
-  "recipient_uri": [ "https:\/\/d-nb.info\/gnd\/1114086150" ],
   "category_global_name": "",
   "place": [ "Leipzig", "Frankfurt am Main" ],
   "ext_num": -1,
-  "creator": [ "A. Melik-Simonian" ],
+  "creator": [ { "name":"A. Melik-Simonian", "uri":"https:\/\/d-nb.info\/gnd\/1216293481" } ],
   "lang": [ "Deutsch" ],
   "date": [ "1978" ],
   "encl": [  ],
@@ -17,8 +16,7 @@
   "signature": "DEA-B-3-1-0017.B.04.0107",
   "title": "A. Melik-Simonian an Anne-Lotte Becker-Berke, 1978",
   "content": [  ],
-  "recipient": [ "Anne-Lotte Becker-Berke" ],
-  "creator_uri": [ "https:\/\/d-nb.info\/gnd\/1216293481" ],
+  "recipient": [ { "name":"Anne-Lotte Becker-Berke", "uri":"https:\/\/d-nb.info\/gnd\/1114086150" } ],
   "links": {
     "culturegraph": "http:\/\/hub.culturegraph.org\/resource\/DNB-1284885356",
     "gnd": "https:\/\/d-nb.info\/1284885356"
