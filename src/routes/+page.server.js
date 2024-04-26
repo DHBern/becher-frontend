@@ -117,6 +117,18 @@ export async function load() {
 			// eslint-disable-next-line no-unused-vars
 			let { prototype, iiif, ...rest } = item;
 			iiif = iiif.replaceAll('\\', '');
+			//loop over rest and check if value is an Object, if so, just take the key "name"
+			for (const key in rest) {
+				if (Array.isArray(rest[key])) {
+					rest[key] = rest[key].map((element) => {
+						if (typeof element === 'object') {
+							return element.name;
+						} else {
+							return element;
+						}
+					});
+				}
+			}
 			return { ...rest, iiif };
 		});
 

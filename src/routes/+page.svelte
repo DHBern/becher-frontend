@@ -49,7 +49,6 @@
 	) => {
 		return new Promise((resolve) => {
 			const searchresults = miniSearch.search(query, config);
-			console.log('searchresults', searchresults);
 			resolve(searchresults);
 		});
 	};
