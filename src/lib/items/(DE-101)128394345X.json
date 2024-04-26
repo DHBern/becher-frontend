@@ -17,9 +17,9 @@
     "gnd": "https:\/\/d-nb.info\/128394345X"
   },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "additional": "undefined",
       "name": "Becher, Ulrich: Abseits vom Rodeo",
-      "type": "undefined"
+      "uri": "https:\/\/d-nb.info\/gnd\/130802990X"
     } ],
   "type": "work",
   "holding_institution": "DEA",

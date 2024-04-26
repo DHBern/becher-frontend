@@ -13,7 +13,7 @@
       { "label":"Signatur \/ Notation", "key":"signature" },
       { "label":"Kategorie", "key":"category_global_name" },
       { "label":"Identifikator", "key":"key" },
-      { "label":"Werkzugehörigkeit (WIT)", "key":"wit" }
+      { "label":"Werkzugehörigkeit (WIT)", "key":"wit-info" }
     ]
   },
   {
@@ -32,7 +32,7 @@
       { "label":"Signatur \/ Notation", "key":"signature" },
       { "label":"Kategorie", "key":"category_global_name" },
       { "label":"Identifikator", "key":"key" },
-      { "label":"Werkzugehörigkeit (WIT)", "key":"wit" }
+      { "label":"Werkzugehörigkeit (WIT)", "key":"wit-info" }
     ]
   },
   {
@@ -50,7 +50,7 @@
       { "label":"Signatur \/ Notation", "key":"signature" },
       { "label":"Kategorie", "key":"category_global_name" },
       { "label":"Identifikator", "key":"key" },
-      { "label":"Werkzugehörigkeit (WIT)", "key":"wit" }
+      { "label":"Werkzugehörigkeit (WIT)", "key":"wit-info" }
     ]
   },
   {
@@ -68,7 +68,7 @@
       { "label":"Signatur \/ Notation", "key":"signature" },
       { "label":"Kategorie", "key":"category_global_name" },
       { "label":"Identifikator", "key":"key" },
-      { "label":"Werkzugehörigkeit (WIT)", "key":"wit" }
+      { "label":"Werkzugehörigkeit (WIT)", "key":"wit-info" }
     ]
   }
 ]

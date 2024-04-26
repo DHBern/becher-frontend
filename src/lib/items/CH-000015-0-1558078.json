@@ -14,9 +14,9 @@
   "content": [ "Versch. Titel und Werkaufstellungen: Die Strasse über San Gian. Roman. (2 Teile: Licht im See, Die dumme Kraft) Das Herz auf der Stirn. Roman. (8 Bücher: Tote Zeit, der Landadvokat, Licht im See, Ein Lastwagen der Marke Saurier, Die Geisterbahn I-III, Die Strasse über San Gian) Ich heisse Legion (5 Bücher: Tote Zeit, Licht im See, Die Geisterbahn I-II, Die Strasse über San Gian Murmeljagd (5 Bücher, wie oben) 1 Blatt versch. Mögliche Romantitel: Die Strasse über San Dschan, Ich heisse Legion, Die Geisterbahn, Am Ende der Toten Zeit Mehrere TitelBlatt enthalten als Motto ein Zitat aus dem 8. Lukas-Evangelium" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558078" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "Verfasst",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "Verfasst"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     } ],
   "type": "work",
   "holding_institution": "SLA",

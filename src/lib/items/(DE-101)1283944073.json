@@ -21,9 +21,9 @@
     "gnd": "https:\/\/d-nb.info\/1283944073"
   },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "undefined",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "undefined"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     } ],
   "type": "work",
   "holding_institution": "DEA",

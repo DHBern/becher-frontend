@@ -16,9 +16,9 @@
   "recipient": [ { "name":"Steckel, Leonard (1901-1971)", "uri":"https:\/\/d-nb.info\/gnd\/117224685" } ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1586376" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "Verfasst",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "Verfasst"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     } ],
   "type": "letter",
   "holding_institution": "SLA",

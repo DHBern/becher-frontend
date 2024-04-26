@@ -15,9 +15,9 @@
   "content": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1535796" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "additional": "Publiziert",
       "name": "Becher, Ulrich: Abseits vom Rodeo",
-      "type": "Publiziert"
+      "uri": "https:\/\/d-nb.info\/gnd\/130802990X"
     } ],
   "type": "collItem",
   "holding_institution": "SLA",

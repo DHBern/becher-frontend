@@ -14,9 +14,9 @@
   "content": [ "In der Druckfassung nicht übernommene Szenen, die nicht mehr klar einem bestimmten Buch\/ Kapitel zugeordnet werden können: Exhibitionist in der Metro \"Hier wurde Albert von *** […] füsiliert…\" Xane als Studentin und ihre Eltern + zahlreiche masch. Vorstufen, häufig handschriftlich ergänzt, teilweise recto-verso beschrieben, mehrere Zeichnungen" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558082" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "Verfasst",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "Verfasst"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     } ],
   "type": "work",
   "holding_institution": "SLA",

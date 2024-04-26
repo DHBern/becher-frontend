@@ -16,9 +16,9 @@
   "recipient": [ { "name":"Becher-Ulrich, Elise (1881-1973)", "uri":"https:\/\/d-nb.info\/gnd\/1215308086" } ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1554349" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "Rezensiert",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "Rezensiert"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     } ],
   "type": "letter",
   "holding_institution": "SLA",

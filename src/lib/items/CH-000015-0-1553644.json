@@ -17,14 +17,14 @@
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1553644" },
   "wit-info": [
     {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "Behandelt",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "Behandelt"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     },
     {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "Erwähnt",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "Erwähnt"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     }
   ],
   "type": "letter",

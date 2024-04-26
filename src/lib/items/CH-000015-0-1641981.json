@@ -19,9 +19,9 @@
   "recipient": [ { "name":"Becher, Ulrich (1910-1990)", "uri":"https:\/\/d-nb.info\/gnd\/118507958" } ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1641981" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "Erwähnt",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "Erwähnt"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     } ],
   "type": "letter",
   "holding_institution": "SLA",

@@ -15,9 +15,9 @@
   "content": [ "Rezensionen" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1551505" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "additional": "Rezensiert",
       "name": "Becher, Ulrich: Abseits vom Rodeo",
-      "type": "Rezensiert"
+      "uri": "https:\/\/d-nb.info\/gnd\/130802990X"
     } ],
   "type": "collItem",
   "holding_institution": "SLA",

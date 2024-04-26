@@ -14,9 +14,9 @@
   "content": [  ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1558044" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/1088059252",
+      "additional": "Verfasst",
       "name": "Becher, Ulrich: Murmeljagd",
-      "type": "Verfasst"
+      "uri": "https:\/\/d-nb.info\/gnd\/1088059252"
     } ],
   "type": "work",
   "holding_institution": "SLA",

@@ -14,9 +14,9 @@
   "content": [ "Asyl, Kap. 2-4 sowie Fight, Kapitel 1" ],
   "links": { "helveticArchives":"https:\/\/www.helveticarchives.ch\/archivplansuche.aspx?ID=1884285" },
   "wit-info": [ {
-      "ref": "https:\/\/d-nb.info\/gnd\/130802990X",
+      "additional": "Verfasst",
       "name": "Becher, Ulrich: Abseits vom Rodeo",
-      "type": "Verfasst"
+      "uri": "https:\/\/d-nb.info\/gnd\/130802990X"
     } ],
   "type": "work",
   "holding_institution": "SLA",
