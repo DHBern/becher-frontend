@@ -61,10 +61,9 @@
 	</p>
 	<h2 class="h2">Storytelling</h2>
 	<iframe
-		title="adno"
-		src="https://dhbern.github.io/adno/#/embed?url=https://dhbern.github.io/becher-frontend/Familienportraet.json&delay=1&rotation=false&anno_bounds=true"
-		height="500"
-		width="1200"
+		class="w-full h-[70vh]"
+		title="adno viewer"
+		src="https://dhbern.github.io/adno/#/embed?url=https://dhbern.github.io/becher-frontend/Familienportraet.json&delay=7&startfirst=true&anno_bounds=true&toolbarsfs=true"
 		allowfullscreen
 	></iframe>
 </ContentContainer>
