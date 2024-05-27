@@ -63,7 +63,7 @@
 	<iframe
 		class="w-full h-[70vh]"
 		title="adno viewer"
-		src="https://dhbern.github.io/adno/#/embed?url=https://dhbern.github.io/becher-frontend/familienbild.json&delay=7&startfirst=true&anno_bounds=true&toolbarsfs=true"
+		src="https://dhbern.github.io/adno/#/embed?url=https://dhbern.github.io/becher-frontend/familienbild.json&delay=7&startfirst=true&anno_bounds=false&toolbarsfs=true"
 		allowfullscreen
 	></iframe>
 </ContentContainer>
