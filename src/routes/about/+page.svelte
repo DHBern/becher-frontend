@@ -6,10 +6,12 @@
 	<h1 class="h1">Über das Projekt</h1>
 	<p>
 		Das binationale Kooperationsprojekt Ulrich Becher Digital soll den Zugang zum Nachlass des
-		Exilschriftstellers Ulrich Becher vereinfachen und ist eine Initiative des Deutschen Exilarchivs
-		1933-1945 der Deutschen Nationalbibliothek und des Schweizerischen Literaturarchivs der
-		Schweizerischen Nationalbibliothek. Die technische Umsetzung erfolgt durch das Data Science Lab
-		der Universität Bern.
+		Exilschriftstellers Ulrich Becher vereinfachen und ist eine Initiative des 
+		<a href="https://exilarchiv.dnb.de/" target="_blank">Deutschen Exilarchivs 1933-1945 der 
+		Deutschen Nationalbibliothek</a> und des <a 
+		href="https://www.nb.admin.ch/snl/de/home/ueber-uns/sla.html" target="_blank">Schweizerischen 
+		Literaturarchivs der Schweizerischen Nationalbibliothek</a>. Die technische Umsetzung erfolgt 
+		durch das <a href="https://dsl.unibe.ch" target="_blank">Data Science Lab der Universität Bern</a>.
 	</p>
 
 	<p>
@@ -24,9 +26,11 @@
 
 	<p>
 		Ulrich Bechers Nachlass weist eine verwickelte, für Exilnachlässe indes durchaus typische
-		Überlieferungsgeschichte auf und wird heute sowohl im Deutschen Exilarchiv 1933-1945 (DEA) der
-		Deutschen Nationalbibliothek in Frankfurt als auch im Schweizerischen Literaturarchiv (SLA) der
-		Schweizerischen Nationalbibliothek in Bern jeweils als Teilnachlass aufbewahrt.
+		Überlieferungsgeschichte auf und wird heute sowohl im <a href="https://d-nb.info/981903096" 
+		target="_blank">Deutschen Exilarchiv 1933-1945 (DEA)</a> der Deutschen Nationalbibliothek in 
+		Frankfurt als auch im <a href="https://ead.nb.admin.ch/html/ubecher_D.html" target="_blank">
+		Schweizerischen Literaturarchiv (SLA)</a> der Schweizerischen Nationalbibliothek in Bern 
+		jeweils als Teilnachlass aufbewahrt.
 	</p>
 
 	<p>
@@ -50,7 +54,8 @@
 
 	<p>
 		Einen wichtigen Meilenstein der Kooperation bildete die im virtuellen Museum Künste im Exil
-		gemeinsam kuratierte Sonderausstellung zu Ulrich Becher, die Mitte Mai 2021 freigeschaltet
+		gemeinsam kuratierte <a href="src/routes/about/+page.svelte" target="_blank">Sonderausstellung 
+		zu Ulrich Becher</a>, die Mitte Mai 2021 freigeschaltet
 		wurde.
 	</p>
 
