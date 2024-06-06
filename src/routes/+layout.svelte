@@ -90,7 +90,7 @@
 	buttonDismiss="btn-icon btn-icon-md variant-ghost"
 />
 <!-- App Shell -->
-<AppShell slotPageFooter="bg-secondary-500 p-4" slotPageContent="space-y-8">
+<AppShell slotPageFooter="bg-secondary-500 p-4">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<AppBar padding="px-4" slotDefault="h-full" background="bg-surface-100-900-token">
