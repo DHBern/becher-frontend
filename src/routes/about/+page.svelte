@@ -62,7 +62,7 @@
 		Anforderungen sollten dabei im Fokus stehen.
 	</p>
 
-	<ol>
+	<ol class="list-decimal list-outside ml-4">
 		<li>Verknüpfung der normierten Metadaten aus den beiden Teilnachlässen und Datenbanken</li>
 		<li>
 			Modellierung und Auswertung der Metadaten in Form von georeferenzierten und navigierbaren
