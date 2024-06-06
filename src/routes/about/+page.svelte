@@ -54,9 +54,8 @@
 
 	<p>
 		Einen wichtigen Meilenstein der Kooperation bildete die im virtuellen Museum Künste im Exil
-		gemeinsam kuratierte <a href="src/routes/about/+page.svelte" target="_blank">Sonderausstellung 
-		zu Ulrich Becher</a>, die Mitte Mai 2021 freigeschaltet
-		wurde.
+		gemeinsam kuratierte <a href="https://kuenste-im-exil.de/KIE/Web/DE/Navigation/Sonderausstellungen/UlrichBecher/ulrich-becher_node.html" 
+		target="_blank">Sonderausstellung zu Ulrich Becher</a>, die Mitte Mai 2021 freigeschaltet wurde.
 	</p>
 
 	<p>
