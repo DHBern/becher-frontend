@@ -69,31 +69,6 @@ function addSubcatsToSeenIDs(subcats, seenIds) {
 	return seenIds;
 }
 
-/**
- * @param {any[]} data
- */
-function getUniqueFields(data) {
-	/** @type {{ [key: string]: { label: string; key: any; } }} */
-	const uniqueFields = {}; // Object to hold unique label-key pairs
-
-	// Iterate through each item in the data array
-	data.forEach((item) => {
-		// Iterate through each field in the current item
-		item.fields.forEach((/** @type {{ label: any; key: any; }} */ field) => {
-			// Use label and key as a unique identifier
-			const identifier = `${field.label}-${field.key}`;
-
-			// If this identifier hasn't been seen before, add it to uniqueFields
-			if (!uniqueFields[identifier]) {
-				uniqueFields[identifier] = { label: field.label, key: field.key };
-			}
-		});
-	});
-
-	// Convert the uniqueFields object back into an array of its values
-	return Object.values(uniqueFields);
-}
-
 /** @type {import('./$types').PageServerLoad} */
 export async function load() {
 	/** @type {import('@skeletonlabs/skeleton').TreeViewNode[]} */
@@ -161,7 +136,7 @@ export async function load() {
 	return {
 		categories: filteredCategories,
 		itemstructure: fullstructure,
-		allFields: getUniqueFields(fullstructure),
+		allFields: fullstructure.find((structure) => structure.type === 'search')?.fields,
 		items: filteredItems
 	};
 }
