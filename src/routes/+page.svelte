@@ -30,7 +30,10 @@
 			'signature'
 		], // fields to return with search results
 		idField: 'key', // document property to use as id field
-		tokenize: (text) => text.split(CUSTOM_SPACE_OR_PUNCT)
+		tokenize: (text) => text.split(CUSTOM_SPACE_OR_PUNCT),
+		searchOptions: {
+			weights: { fuzzy: 0.3, prefix: 0.2 }
+		}
 	});
 	miniSearch.addAll(data.items);
 	const searchConfig = {
