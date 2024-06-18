@@ -138,7 +138,7 @@
 </script>
 
 <ContentContainer
-	class="h-[223px] lg:h-[345px] grid grid-cols-2 md:grid-cols-[1fr_max-content]"
+	class="h-[376px] sm:h-[223px] lg:h-[345px] grid grid-cols-1 sm:grid-cols-2 md:grid-cols-[1fr_max-content]"
 	dark
 >
 	<div class="z-10 col-span-full md:col-span-1 row-start-1">
@@ -148,9 +148,9 @@
 			Schweizerischen Literaturarchivs
 		</p>
 	</div>
-	<div class="col-start-2 row-span-2 row-start-1">
+	<div class="col-start-1 sm:col-start-2 row-span-2 row-start-1">
 		<enhanced:img
-			class="relative float-right w-[150px] lg:w-[222px]"
+			class="relative float-right sm:w-[150px] lg:w-[222px]"
 			src="$lib/assets/nachexil-basel.png?w=222"
 			alt="Ulrich Becher in Basel"
 		/>
