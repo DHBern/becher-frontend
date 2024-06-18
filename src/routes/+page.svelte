@@ -1,7 +1,13 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Grid from '$lib/components/Grid.svelte';
-	import { RecursiveTreeView, SlideToggle, RadioGroup, RadioItem } from '@skeletonlabs/skeleton';
+	import {
+		RecursiveTreeView,
+		SlideToggle,
+		RadioGroup,
+		RadioItem,
+		popup
+	} from '@skeletonlabs/skeleton';
 	import MiniSearch from 'minisearch';
 	import { slide } from 'svelte/transition';
 
@@ -188,19 +194,43 @@
 					/>
 				</label>
 			{:else}
-				{#each uniqueKeys.filter((i) => i !== 'category_global_name') as item}
+				{#each uniqueKeys.filter((i) => i !== 'category_global_name') as item, i}
+					{@const fields = data.allFields.filter((f) => f.key === item)}
+					{@const fieldInfo = fields.map((i) => i.info).join(' / ')}
 					<label class="label" transition:slide|global>
 						<span>
-							{data.allFields
-								.filter((f) => f.key === item)
-								.map((i) => i.label)
-								.join(', ')}
+							{fields.map((i) => i.label).join(', ')}
 						</span>
-						<input
-							class="input text-primary-500 p-6 placeholder-primary-500"
-							type="text"
-							bind:value={advancedFields[item]}
-						/>
+						{#if fieldInfo}
+							<input
+								class="input text-primary-500 p-6 placeholder-primary-500"
+								type="text"
+								bind:value={advancedFields[item]}
+								use:popup={{
+									event: 'focus-blur',
+									target: `popupFocusBlur-${i}`,
+									placement: 'left',
+									middleware: {
+										flip: {
+											fallbackAxisSideDirection: 'start'
+										}
+									}
+								}}
+							/>
+							<div
+								class="card p-4 !bg-secondary-500 text-primary-500 max-w-96"
+								data-popup={`popupFocusBlur-${i}`}
+							>
+								<p>{fieldInfo}</p>
+								<div class="arrow !bg-secondary-500" />
+							</div>
+						{:else}
+							<input
+								class="input text-primary-500 p-6 placeholder-primary-500"
+								type="text"
+								bind:value={advancedFields[item]}
+							/>
+						{/if}
 					</label>
 				{/each}
 				<div transition:slide|global>

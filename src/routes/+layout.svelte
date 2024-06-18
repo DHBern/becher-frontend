@@ -16,6 +16,9 @@
 	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
 	import { afterNavigate } from '$app/navigation';
+	import { computePosition, autoUpdate, offset, shift, flip, arrow } from '@floating-ui/dom';
+	import { storePopup } from '@skeletonlabs/skeleton';
+	storePopup.set({ computePosition, autoUpdate, offset, shift, flip, arrow });
 
 	afterNavigate((/** @type import('@sveltejs/kit').AfterNavigate */ params) => {
 		const isNewPage = params.from?.url.pathname !== params.to?.url.pathname;
