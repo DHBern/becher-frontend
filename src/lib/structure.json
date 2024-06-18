@@ -1,94 +1,112 @@
 [
-	{
-		"type": "search",
-		"fields": [
-			{ "label": "Titel", "key": "title" },
-			{ "label": "Verfasser", "key": "creator" },
-			{ "label": "Empfänger", "key": "recipient" },
-			{ "label": "Entstehungszeitraum", "key": "date" },
-			{ "label": "Entstehungszeitraum (normalisiert)", "key": "date_reg" },
-			{ "label": "Entstehungsort", "key": "place" },
-			{ "label": "Sprache", "key": "lang" },
-			{ "label": "Umfang / Kollation", "key": "ext" },
-			{ "label": "Beilage", "key": "encl" },
-			{ "label": "Anmerkungen", "key": "note" },
-			{ "label": "Inhalt", "key": "content" },
-			{ "label": "Signatur / Notation", "key": "signature" },
-			{ "label": "Kategorie", "key": "category_global_name" },
-			{ "label": "Identifikator", "key": "key" },
-			{ "label": "Werkzugehörigkeit (WIT)", "key": "wit-info" }
-		]
-	},
-	{
-		"type": "work",
-		"fields": [
-			{ "label": "Titel", "key": "title" },
-			{ "label": "Verfasser", "key": "creator" },
-			{ "label": "Entstehungszeitraum", "key": "date" },
-			{ "label": "Entstehungsort", "key": "place" },
-			{ "label": "Sprache", "key": "lang" },
-			{ "label": "Umfang / Kollation", "key": "ext" },
-			{ "label": "Anmerkungen", "key": "note" },
-			{ "label": "Inhalt", "key": "content" },
-			{ "label": "Signatur / Notation", "key": "signature" },
-			{ "label": "Kategorie", "key": "category_global_name" },
-			{ "label": "Identifikator", "key": "key" },
-			{ "label": "Werkzugehörigkeit (WIT)", "key": "wit-info" }
-		]
-	},
-	{
-		"type": "letter",
-		"fields": [
-			{ "label": "Titel", "key": "title" },
-			{ "label": "Absender", "key": "creator" },
-			{ "label": "Empfänger", "key": "recipient" },
-			{ "label": "Entstehungszeitraum", "key": "date" },
-			{ "label": "Absendeort", "key": "place" },
-			{ "label": "Sprache", "key": "lang" },
-			{ "label": "Umfang / Kollation", "key": "ext" },
-			{ "label": "Beilage", "key": "encl" },
-			{ "label": "Anmerkungen", "key": "note" },
-			{ "label": "Inhalt", "key": "content" },
-			{ "label": "Signatur / Notation", "key": "signature" },
-			{ "label": "Kategorie", "key": "category_global_name" },
-			{ "label": "Identifikator", "key": "key" },
-			{ "label": "Werkzugehörigkeit (WIT)", "key": "wit-info" }
-		]
-	},
-	{
-		"type": "lifeDoc",
-		"fields": [
-			{ "label": "Titel", "key": "title" },
-			{ "label": "Person", "key": "creator" },
-			{ "label": "Entstehungszeitraum", "key": "date" },
-			{ "label": "Entstehungsort", "key": "place" },
-			{ "label": "Sprache", "key": "lang" },
-			{ "label": "Umfang / Kollation", "key": "ext" },
-			{ "label": "Beilagen", "key": "encl" },
-			{ "label": "Anmerkungen", "key": "note" },
-			{ "label": "Inhalt", "key": "content" },
-			{ "label": "Signatur / Notation", "key": "signature" },
-			{ "label": "Kategorie", "key": "category_global_name" },
-			{ "label": "Identifikator", "key": "key" },
-			{ "label": "Werkzugehörigkeit (WIT)", "key": "wit-info" }
-		]
-	},
-	{
-		"type": "collItem",
-		"fields": [
-			{ "label": "Titel", "key": "title" },
-			{ "label": "Person", "key": "creator" },
-			{ "label": "Entstehungszeitraum", "key": "date" },
-			{ "label": "Entstehungsort", "key": "place" },
-			{ "label": "Sprache", "key": "lang" },
-			{ "label": "Umfang / Kollation", "key": "ext" },
-			{ "label": "Beilagen", "key": "encl" },
-			{ "label": "Anmerkungen", "key": "note" },
-			{ "label": "Inhalt", "key": "content" },
-			{ "label": "Signatur / Notation", "key": "signature" },
-			{ "label": "Kategorie", "key": "category_global_name" },
-			{ "label": "Identifikator", "key": "key" },
-			{ "label": "Werkzugehörigkeit (WIT)", "key": "wit-info" }
-		]
-	}
+  {
+    "type": "search",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      {
+        "label": "Verfasser \/ Absender",
+        "key": "creator",
+        "info": "Die aktuelle Umsetzung berücksichtigt die Feldinhalte der Datenbank(en). Vorgesehen ist eine Normdaten-basierte Suche, die z.B. Namensvarianten mitberücksichtigt."
+      },
+      { "label":"Empfänger", "key":"recipient" },
+      {
+        "label": "Entstehungszeitraum",
+        "key": "date_reg",
+        "info": "Die aktuelle Umsetzung berücksichtigt normalisierte Kalenderdaten der Form JJJJ-MM-DD. Perioden sind vorerst nur über das Anfangsdatum abfragbar."
+      },
+      {
+        "label": "Entstehungsort \/ Absendeort",
+        "key": "place",
+        "info": "Die aktuelle Umsetzung berücksichtigt die Feldinhalte der Datenbank(en). Vorgesehen ist eine Normdaten-basierte Suche, die z.B. Ortsnamensvarianten mitberücksichtigt."
+      },
+      {
+        "label": "Sprache",
+        "key": "lang",
+        "info": "Z.B. 'Deutsch', 'Englisch', 'Französisch', 'Italienisch', 'Latein', 'Portugiesisch', 'Spanisch', 'Slowakisch', 'Tschechisch'"
+      },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Beilage(n)", "key":"encl" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Identifikator", "key":"key" },
+      {
+        "label": "Werkzugehörigkeit (WIT)",
+        "key": "wit-info",
+        "info": "Aktuelle Testfälle: 'Abseits vom Rodeo', 'Murmeljagd'"
+      }
+    ]
+  },
+  {
+    "type": "work",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      { "label":"Verfasser", "key":"creator" },
+      { "label":"Entstehungszeitraum", "key":"date" },
+      { "label":"Entstehungsort", "key":"place" },
+      { "label":"Sprache", "key":"lang" },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Kategorie", "key":"category_global_name" },
+      { "label":"Identifikator", "key":"key" },
+      { "label":"Werkzugehörigkeit (WIT)", "key":"wit-info" }
+    ]
+  },
+  {
+    "type": "letter",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      { "label":"Absender", "key":"creator" },
+      { "label":"Empfänger", "key":"recipient" },
+      { "label":"Entstehungszeitraum", "key":"date" },
+      { "label":"Absendeort", "key":"place" },
+      { "label":"Sprache", "key":"lang" },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Beilage", "key":"encl" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Kategorie", "key":"category_global_name" },
+      { "label":"Identifikator", "key":"key" },
+      { "label":"Werkzugehörigkeit (WIT)", "key":"wit-info" }
+    ]
+  },
+  {
+    "type": "lifeDoc",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      { "label":"Person", "key":"creator" },
+      { "label":"Entstehungszeitraum", "key":"date" },
+      { "label":"Entstehungsort", "key":"place" },
+      { "label":"Sprache", "key":"lang" },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Beilagen", "key":"encl" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Kategorie", "key":"category_global_name" },
+      { "label":"Identifikator", "key":"key" },
+      { "label":"Werkzugehörigkeit (WIT)", "key":"wit-info" }
+    ]
+  },
+  {
+    "type": "collItem",
+    "fields": [
+      { "label":"Titel", "key":"title" },
+      { "label":"Person", "key":"creator" },
+      { "label":"Entstehungszeitraum", "key":"date" },
+      { "label":"Entstehungsort", "key":"place" },
+      { "label":"Sprache", "key":"lang" },
+      { "label":"Umfang \/ Kollation", "key":"ext" },
+      { "label":"Beilagen", "key":"encl" },
+      { "label":"Anmerkungen", "key":"note" },
+      { "label":"Inhalt", "key":"content" },
+      { "label":"Signatur \/ Notation", "key":"signature" },
+      { "label":"Kategorie", "key":"category_global_name" },
+      { "label":"Identifikator", "key":"key" },
+      { "label":"Werkzugehörigkeit (WIT)", "key":"wit-info" }
+    ]
+  }
 ]
