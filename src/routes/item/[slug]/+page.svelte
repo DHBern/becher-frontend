@@ -2,7 +2,7 @@
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import OneRow from '$lib/components/OneRow.svelte';
 	import { onMount } from 'svelte';
-	import { assets } from '$app/paths';
+	import { assets, base } from '$app/paths';
 
 	/**
 	 * @type {import('openseadragon') | undefined}
@@ -181,6 +181,9 @@
 					</dd>
 				{/each}
 			</dl>
+			<a class="anchor col-start-2" href="{base}/related-tests?s={d.key}"
+				>Zum Ähnlichkeitsvergleich (Testseite) für dieses Katalogisat</a
+			>
 		{/if}
 	</div>
 </ContentContainer>
