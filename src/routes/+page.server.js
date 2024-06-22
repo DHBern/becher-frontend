@@ -93,9 +93,10 @@ export async function load() {
 			let { prototype, iiif, ...rest } = item;
 			iiif = iiif.replaceAll('\\', '');
 			//loop over rest and check if value is an Object, if so, just take the key "name"
-			for (const key in rest) {
-				if (Array.isArray(rest[key])) {
-					rest[key] = rest[key].map((element) => {
+			for (const [key, value] of Object.entries(rest)) {
+				if (Array.isArray(value)) {
+					// @ts-ignore
+					rest[key] = value.map((element) => {
 						if (typeof element === 'object') {
 							return element.name;
 						} else {
