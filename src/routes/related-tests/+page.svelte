@@ -6,7 +6,10 @@
 	/** @type {import('./$types').PageData} */
 	export let data;
 
-	let search = '';
+	let selected = {};
+	let results = {};
+	let search = data.search || '';
+	if (search) doSearch({ preventDefault: () => {} });
 
 	async function doSearch(event) {
 		event.preventDefault();
@@ -15,8 +18,6 @@
 		results = found;
 		selected = itemData.find((item) => item.key === search);
 	}
-	let selected = {};
-	let results = {};
 </script>
 
 <ContentContainer>
@@ -78,6 +79,10 @@
 				.split(',')
 				.map((id) => itemData.find((item) => item.key === id))}
 			<h3 class="h3">{key}</h3>
+			{#if items.some((i) => !i)}
+				<p>Einige Items konnten nicht gefunden werden. Roher Output:</p>
+				{value}
+			{/if}
 			<OneRow {items} />
 		{/each}
 	</ContentContainer>
