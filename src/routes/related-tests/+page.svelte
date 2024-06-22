@@ -65,17 +65,22 @@
 
 {#if selected?.key}
 	<ContentContainer dark>
-		<h2 class="h2">Ausgewähltes Objekt</h2>
+		<h2 class="h2">Ausgewähltes Dokument</h2>
 		<OneRow items={[selected]} />
 	</ContentContainer>
 {/if}
-{#each Object.entries(results) as [key, value]}
-	{@const items = value
-		.replaceAll('"', '')
-		.split(',')
-		.map((id) => itemData.find((item) => item.key === id))}
+{#if Object.keys(results).length}
 	<ContentContainer>
-		<h2 class="h2">{key}</h2>
-		<OneRow {items} />
+		<h2 class="h2">Ähnliche Dokumente</h2>
+		{#each Object.entries(results) as [key, value]}
+			{@const items = value
+				.replaceAll('"', '')
+				.split(',')
+				.map((id) => itemData.find((item) => item.key === id))}
+			<h3 class="h3">{key}</h3>
+			<OneRow {items} />
+		{/each}
 	</ContentContainer>
-{/each}
+{:else}
+	{Object.keys(results)}
+{/if}
