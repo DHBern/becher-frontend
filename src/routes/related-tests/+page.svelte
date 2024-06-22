@@ -2,6 +2,8 @@
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import OneRow from '$lib/components/OneRow.svelte';
 	import itemData from '$lib/becher_full_json.json';
+	import { goto } from '$app/navigation';
+	import { base } from '$app/paths';
 
 	/** @type {import('./$types').PageData} */
 	export let data;
@@ -14,9 +16,12 @@
 	async function doSearch(event) {
 		event.preventDefault();
 		const found = structuredClone(data.csv.find((row) => row.id.slice(1, -1) === search));
-		delete found.id;
+		if (found?.id) delete found.id;
 		results = found;
 		selected = itemData.find((item) => item.key === search);
+		if (search !== data.search) {
+			goto(`${base}/related-tests?s=${search}`);
+		}
 	}
 </script>
 
@@ -70,8 +75,8 @@
 		<OneRow items={[selected]} />
 	</ContentContainer>
 {/if}
-{#if Object.keys(results).length}
-	<ContentContainer>
+<ContentContainer>
+	{#if results && Object.keys(results).length}
 		<h2 class="h2">Ähnliche Dokumente</h2>
 		{#each Object.entries(results) as [key, value]}
 			{@const items = value
@@ -85,7 +90,7 @@
 			{/if}
 			<OneRow {items} />
 		{/each}
-	</ContentContainer>
-{:else}
-	{Object.keys(results)}
-{/if}
+	{:else}
+		<p>keine Ergebnisse</p>
+	{/if}
+</ContentContainer>
