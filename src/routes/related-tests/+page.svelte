@@ -67,9 +67,9 @@
 
 <ContentContainer dark>
 	<h2 class="h2">Glossar</h2>
-	<div class="flex gap-4 flex-wrap justify-between">
-		<div class="max-w-lg">
-			<p><strong>Bag of Words</strong></p>
+	<div class="grid gap-4 grid-cols-[repeat(auto-fit,minmax(36rem,1fr))]">
+		<div>
+			<p class="mt-4 mb-1"><strong>Bag of Words</strong></p>
 			<p>
 				“Bag-of-Words” bezeichnet die Auflistung aller in einem Dokument vorkommenden Wörter nach
 				Häufigkeit, d.h. es wird jedes distinkte Wort aufgeführt mit der Angabe wie oft es vorkommt
@@ -85,7 +85,7 @@
 				dient er als Vergleichsbasis gegenüber spezifischeren Methoden zur Ähnlichkeitsermittlung.
 			</p>
 
-			<p><strong>Ngram</strong></p>
+			<p class="mt-4 mb-1"><strong>Ngram</strong></p>
 			<p>
 				Natürliche Sprache verwendet Zeichen und Wörter nicht (nur) isoliert, sondern häufig in
 				typischen Kombinationen. N-Gramm-Ansätze vergleichen solche Zeichen- und Wortsequenzen (z.B.
@@ -93,30 +93,30 @@
 				Ausmaß).
 			</p>
 
-			<p><strong>TF-IDF (term frequency-inverse document frequency)</strong></p>
+			<p class="mt-4 mb-1"><strong>TF-IDF (term frequency-inverse document frequency)</strong></p>
 			<p>
 				Produkt aus absoluter Häufigkeit eines Begriffs und seinem relativen Vorkommen in der
 				Gesamtheit der Dokumente. Insgesamt seltener vorkommende Begriffe erhalten dadurch höhere
 				Gewichtung.
 			</p>
 		</div>
-		<div class="max-w-lg">
-			<p><strong>Ähnlichkeitsmetrik:</strong></p>
+		<div>
+			<p class="mt-4 mb-1"><strong>Ähnlichkeitsmetrik:</strong></p>
 
-			<p><strong>Cosinus-Ähnlichkeit</strong></p>
+			<p class="mt-4 mb-1"><strong>Cosinus-Ähnlichkeit</strong></p>
 			<p>
 				Die Cosinus-Ähnlichkeit vergleicht die Winkel zwischen Vektoren. Sie ist ein Maß dafür, wie
 				ausgeprägt zwei Vektoren in die gleiche Richtung zeigen.
 			</p>
 
-			<p><strong>Euklidischer Abstand</strong></p>
+			<p class="mt-4 mb-1"><strong>Euklidischer Abstand</strong></p>
 			<p>
 				Der Euklidische Abstanz misst die geradlinige Distanz zwischen zwei Punkten in einem
 				mehrdimensionalen Raum. Liegen zwei Dokumente (bzw. deren Vektorrepräsentation) nahe bei
 				einander, gelten sie als ähnlich.
 			</p>
 
-			<p><strong>Jaccard-Index</strong></p>
+			<p class="mt-4 mb-1"><strong>Jaccard-Index</strong></p>
 			<p>
 				Die Häufigkeit der Begriffe wird in Proportion gesetzt zur Gesamtheit distinkter Begriffe in
 				den verglichenen Dokumenten.
