@@ -4,14 +4,20 @@
 	import itemData from '$lib/becher_full_json.json';
 	import { goto } from '$app/navigation';
 	import { base } from '$app/paths';
+	import { page } from '$app/stores';
+	import { onMount } from 'svelte';
 
 	/** @type {import('./$types').PageData} */
 	export let data;
 
 	let selected = {};
 	let results = {};
-	let search = data.search || '';
-	if (search) doSearch({ preventDefault: () => {} });
+	let search = '';
+
+	onMount(() => {
+		search = $page.url.searchParams.get('s');
+		if (search) doSearch({ preventDefault: () => {} });
+	});
 
 	async function doSearch(event) {
 		event.preventDefault();
