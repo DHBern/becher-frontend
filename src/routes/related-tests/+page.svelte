@@ -67,57 +67,62 @@
 
 <ContentContainer dark>
 	<h2 class="h2">Glossar</h2>
+	<div class="flex gap-4 flex-wrap justify-between">
+		<div class="max-w-lg">
+			<p><strong>Bag of Words</strong></p>
+			<p>
+				“Bag-of-Words” bezeichnet die Auflistung aller in einem Dokument vorkommenden Wörter nach
+				Häufigkeit, d.h. es wird jedes distinkte Wort aufgeführt mit der Angabe wie oft es vorkommt
+				(nach Eliminierung von Satzzeichen, Stopwörtern usw.). Dokumente mit hoher Überlappung der
+				häufigsten Begriffe gelten als ähnlich (ohne Berücksichtigung bestimmter Wortkombinationen).
+			</p>
+			<p>
+				Basierend auf den Worthäufigkeit lassen sich Dokumente als (vieldimensionale) Vektoren
+				auffassen, woran verschiedene Ähnlichkeitsberechnungen anschließen können.
+			</p>
+			<p>
+				Der BOW-Ansatz ist nützlich zum Vergleich sehr kurzer Dokumente. Bei längeren Dokumenten
+				dient er als Vergleichsbasis gegenüber spezifischeren Methoden zur Ähnlichkeitsermittlung.
+			</p>
 
-	<p><strong>Bag of Words</strong></p>
-	<p>
-		“Bag-of-Words” bezeichnet die Auflistung aller in einem Dokument vorkommenden Wörter nach
-		Häufigkeit, d.h. es wird jedes distinkte Wort aufgeführt mit der Angabe wie oft es vorkommt
-		(nach Eliminierung von Satzzeichen, Stopwörtern usw.). Dokumente mit hoher Überlappung der
-		häufigsten Begriffe gelten als ähnlich (ohne Berücksichtigung bestimmter Wortkombinationen).
-	</p>
-	<p>
-		Basierend auf den Worthäufigkeit lassen sich Dokumente als (vieldimensionale) Vektoren
-		auffassen, woran verschiedene Ähnlichkeitsberechnungen anschließen können.
-	</p>
-	<p>
-		Der BOW-Ansatz ist nützlich zum Vergleich sehr kurzer Dokumente. Bei längeren Dokumenten dient
-		er als Vergleichsbasis gegenüber spezifischeren Methoden zur Ähnlichkeitsermittlung.
-	</p>
+			<p><strong>Ngram</strong></p>
+			<p>
+				Natürliche Sprache verwendet Zeichen und Wörter nicht (nur) isoliert, sondern häufig in
+				typischen Kombinationen. N-Gramm-Ansätze vergleichen solche Zeichen- und Wortsequenzen (z.B.
+				Bigramm, Trigramm) und berücksichtigen damit Kontextinformation (wenngleich in limitiertem
+				Ausmaß).
+			</p>
 
-	<p><strong>Ngram</strong></p>
-	<p>
-		Natürliche Sprache verwendet Zeichen und Wörter nicht (nur) isoliert, sondern häufig in
-		typischen Kombinationen. N-Gramm-Ansätze vergleichen solche Zeichen- und Wortsequenzen (z.B.
-		Bigramm, Trigramm) und berücksichtigen damit Kontextinformation (wenngleich in limitiertem
-		Ausmaß).
-	</p>
+			<p><strong>TF-IDF (term frequency-inverse document frequency)</strong></p>
+			<p>
+				Produkt aus absoluter Häufigkeit eines Begriffs und seinem relativen Vorkommen in der
+				Gesamtheit der Dokumente. Insgesamt seltener vorkommende Begriffe erhalten dadurch höhere
+				Gewichtung.
+			</p>
+		</div>
+		<div class="max-w-lg">
+			<p><strong>Ähnlichkeitsmetrik:</strong></p>
 
-	<p><strong>TF-IDF (term frequency-inverse document frequency)</strong></p>
-	<p>
-		Produkt aus absoluter Häufigkeit eines Begriffs und seinem relativen Vorkommen in der Gesamtheit
-		der Dokumente. Insgesamt seltener vorkommende Begriffe erhalten dadurch höhere Gewichtung.
-	</p>
+			<p><strong>Cosinus-Ähnlichkeit</strong></p>
+			<p>
+				Die Cosinus-Ähnlichkeit vergleicht die Winkel zwischen Vektoren. Sie ist ein Maß dafür, wie
+				ausgeprägt zwei Vektoren in die gleiche Richtung zeigen.
+			</p>
 
-	<p><strong>Ähnlichkeitsmetrik:</strong></p>
+			<p><strong>Euklidischer Abstand</strong></p>
+			<p>
+				Der Euklidische Abstanz misst die geradlinige Distanz zwischen zwei Punkten in einem
+				mehrdimensionalen Raum. Liegen zwei Dokumente (bzw. deren Vektorrepräsentation) nahe bei
+				einander, gelten sie als ähnlich.
+			</p>
 
-	<p><strong>Cosinus-Ähnlichkeit</strong></p>
-	<p>
-		Die Cosinus-Ähnlichkeit vergleicht die Winkel zwischen Vektoren. Sie ist ein Maß dafür, wie
-		ausgeprägt zwei Vektoren in die gleiche Richtung zeigen.
-	</p>
-
-	<p><strong>Euklidischer Abstand</strong></p>
-	<p>
-		Der Euklidische Abstanz misst die geradlinige Distanz zwischen zwei Punkten in einem
-		mehrdimensionalen Raum. Liegen zwei Dokumente (bzw. deren Vektorrepräsentation) nahe bei
-		einander, gelten sie als ähnlich.
-	</p>
-
-	<p><strong>Jaccard-Index</strong></p>
-	<p>
-		Die Häufigkeit der Begriffe wird in Proportion gesetzt zur Gesamtheit distinkter Begriffe in den
-		verglichenen Dokumenten.
-	</p>
+			<p><strong>Jaccard-Index</strong></p>
+			<p>
+				Die Häufigkeit der Begriffe wird in Proportion gesetzt zur Gesamtheit distinkter Begriffe in
+				den verglichenen Dokumenten.
+			</p>
+		</div>
+	</div>
 </ContentContainer>
 
 <ContentContainer class="max-w-lg">
