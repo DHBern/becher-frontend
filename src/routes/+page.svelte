@@ -51,6 +51,18 @@
 		}
 	});
 
+	/** @type {import('./$types').Snapshot<{searchtext: string | import('minisearch').Query, advancedToggle: boolean, advancedFields: { [key: string]: string; }}>} */
+	export const snapshot = {
+		capture: () => {
+			return { searchtext, advancedToggle, advancedFields };
+		},
+		restore: (value) => {
+			advancedFields = value.advancedFields;
+			searchtext = value.searchtext;
+			advancedToggle = value.advancedToggle;
+		}
+	};
+
 	const searchConfig = {
 		prefix: (/** @type {string} */ term) => term.length <= 6,
 		fuzzy: (
