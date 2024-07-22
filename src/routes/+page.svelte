@@ -22,6 +22,8 @@
 
 	const uniqueKeys = [...new Set(data.allFields?.map((i) => i.key))];
 
+	let allDocumentsAdded = Promise.resolve();
+
 	onMount(() => {
 		if (!$miniSearch) {
 			const CUSTOM_SPACE_OR_PUNCT =
@@ -45,9 +47,19 @@
 					weights: { fuzzy: 0.3, prefix: 0.2 }
 				}
 			});
-			$miniSearch.addAll(data.items);
+			allDocumentsAdded = new Promise((resolve) => {
+				$miniSearch.addAllAsync(data.items, { chunkSize: 4000 }).then(() => {
+					console.log('all documents added');
+					resolve();
+				});
+			});
 		} else {
-			$miniSearch.addAll(data.items);
+			allDocumentsAdded = new Promise((resolve) => {
+				$miniSearch.addAllAsync(data.items, { chunkSize: 4000 }).then(() => {
+					console.log('all documents added');
+					resolve();
+				});
+			});
 		}
 	});
 
@@ -100,12 +112,14 @@
 	$: {
 		if (checkedNodes && checkedNodes.length > 0) {
 			if (searchtext) {
-				asyncSearch(searchtext, searchConfig).then((results) => {
-					// filter all items for checked categories and search results
-					filtereditems = results.filter(
-						(/** @type {{ category: { toString: () => string; }; }} */ i) =>
-							checkedNodes.includes(i.category.toString())
-					);
+				allDocumentsAdded.then(() => {
+					asyncSearch(searchtext, searchConfig).then((results) => {
+						// filter all items for checked categories and search results
+						filtereditems = results.filter(
+							(/** @type {{ category: { toString: () => string; }; }} */ i) =>
+								checkedNodes.includes(i.category.toString())
+						);
+					});
 				});
 			} else {
 				filtereditems = data.items.filter((item) =>
