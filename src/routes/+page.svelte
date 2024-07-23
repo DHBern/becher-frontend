@@ -1,7 +1,7 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Grid from '$lib/components/Grid.svelte';
-	import { MapLibre } from 'svelte-maplibre';
+	import { MapLibre, GeoJSON, CircleLayer } from 'svelte-maplibre';
 	import {
 		RecursiveTreeView,
 		SlideToggle,
@@ -9,8 +9,7 @@
 		RadioItem,
 		popup,
 		TabGroup,
-		Tab,
-		TabAnchor
+		Tab
 	} from '@skeletonlabs/skeleton';
 	import MiniSearch from 'minisearch';
 	import { miniSearch } from '$lib/stores.js';
@@ -319,12 +318,47 @@
 		<svelte:fragment slot="panel">
 			{#if tabSet === 0}
 				<MapLibre
-					center={[50, 20]}
+					center={[7.5, 47]}
 					zoom={7}
 					class="map h-[600px]"
 					standardControls
 					style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json"
-				/>
+				>
+					<GeoJSON
+						id="items"
+						data={{
+							type: 'FeatureCollection',
+							features: [
+								{
+									type: 'Feature',
+									properties: {
+										title: 'DEA',
+										description: 'Deutsches Exilarchiv 1933-1945',
+										icon: 'marker'
+									},
+									geometry: {
+										type: 'Point',
+										coordinates: [7.5, 47, 0]
+									}
+								}
+							]
+						}}
+						cluster={{
+							radius: 50,
+							maxZoom: 14
+						}}
+					>
+						<CircleLayer
+							id="items"
+							paint={{
+								'circle-color': '#11b4da',
+								'circle-radius': 4,
+								'circle-stroke-width': 1,
+								'circle-stroke-color': '#fff'
+							}}
+						></CircleLayer>
+					</GeoJSON>
+				</MapLibre>
 			{:else if tabSet === 1}
 				<iframe
 					src="https://dhbern.github.io/vikus-viewer/"
