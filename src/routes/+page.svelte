@@ -1,12 +1,16 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Grid from '$lib/components/Grid.svelte';
+	import { MapLibre } from 'svelte-maplibre';
 	import {
 		RecursiveTreeView,
 		SlideToggle,
 		RadioGroup,
 		RadioItem,
-		popup
+		popup,
+		TabGroup,
+		Tab,
+		TabAnchor
 	} from '@skeletonlabs/skeleton';
 	import MiniSearch from 'minisearch';
 	import { miniSearch } from '$lib/stores.js';
@@ -172,6 +176,8 @@
 	}
 	/** @type { "DEA"|"SLA"|false }*/
 	let holdingInstitutionToggle = false;
+
+	let tabSet = 0;
 </script>
 
 <ContentContainer
@@ -302,9 +308,30 @@
 <ContentContainer>
 	<Grid items={filtereditems} />
 </ContentContainer>
-<iframe
-	src="https://dhbern.github.io/vikus-viewer/"
-	class="w-full h-[600px]"
-	title="vikus-viewer"
-	allow="fullscreen"
-></iframe>
+
+<ContentContainer>
+	<h2 class="h2 mb-4">Visualisierungen</h2>
+	<TabGroup>
+		<Tab bind:group={tabSet} name="tab1" value={0}>Karte</Tab>
+		<Tab bind:group={tabSet} name="tab2" value={1}>Vikus Viewer</Tab>
+		<!-- Tab Panels --->
+		<svelte:fragment slot="panel">
+			{#if tabSet === 0}
+				<MapLibre
+					center={[50, 20]}
+					zoom={7}
+					class="map h-[600px]"
+					standardControls
+					style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json"
+				/>
+			{:else if tabSet === 1}
+				<iframe
+					src="https://dhbern.github.io/vikus-viewer/"
+					class="w-full h-[600px]"
+					title="vikus-viewer"
+					allow="fullscreen"
+				></iframe>
+			{/if}
+		</svelte:fragment>
+	</TabGroup>
+</ContentContainer>
