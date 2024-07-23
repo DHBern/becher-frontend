@@ -53,11 +53,12 @@
 			});
 			allDocumentsAdded = new Promise((resolve) => {
 				$miniSearch.addAllAsync(data.items, { chunkSize: 4000 }).then(() => {
-					console.log('all documents added');
+					console.log($miniSearch.documentCount + ' documents added');
 					resolve();
 				});
 			});
-		} else if ($miniSearch.documentCount() <= 1) {
+		} else if ($miniSearch.documentCount <= 1) {
+			console.log('adding documents');
 			allDocumentsAdded = new Promise((resolve) => {
 				$miniSearch.addAllAsync(data.items, { chunkSize: 4000 }).then(() => {
 					console.log('all documents added');
