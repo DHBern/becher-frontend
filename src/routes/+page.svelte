@@ -53,13 +53,15 @@
 					resolve();
 				});
 			});
-		} else {
+		} else if ($miniSearch.documentCount() <= 1) {
 			allDocumentsAdded = new Promise((resolve) => {
 				$miniSearch.addAllAsync(data.items, { chunkSize: 4000 }).then(() => {
 					console.log('all documents added');
 					resolve();
 				});
 			});
+		} else {
+			allDocumentsAdded = Promise.resolve();
 		}
 	});
 
