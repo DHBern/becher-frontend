@@ -13,6 +13,7 @@ export type Item = {
 	links: {
 		culturegraph: string;
 		gnd: string;
+		helveticArchives: string;
 	};
 	place: Array<string>;
 	lang: Array<any>;
