@@ -135,6 +135,8 @@ export async function load() {
 		}
 	}
 
+	geo.features = geo.features.filter((feature) => feature.geometry.coordinates.length);
+
 	return {
 		categories: filteredCategories,
 		itemstructure: fullstructure,

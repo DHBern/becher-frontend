@@ -178,6 +178,21 @@
 	let holdingInstitutionToggle = false;
 
 	let tabSet = 0;
+
+	function getHexFromVar(varName) {
+		const rgbArray = getComputedStyle(document.querySelector('.map'))
+			.getPropertyValue(varName)
+			.match(/\d+/g);
+
+		if (!rgbArray || rgbArray.length < 3) {
+			return '#000000';
+		}
+
+		return (
+			'#' +
+			((1 << 24) | (rgbArray[0] << 16) | (rgbArray[1] << 8) | rgbArray[2]).toString(16).slice(1)
+		);
+	}
 </script>
 
 <ContentContainer
@@ -328,14 +343,41 @@
 						id="items"
 						data={data.geo}
 						cluster={{
-							radius: 50,
+							radius: 380,
 							maxZoom: 14
 						}}
 					>
 						<CircleLayer
 							id="items"
+							applyToClusters
 							paint={{
-								'circle-color': '#11b4da',
+								'circle-color': [
+									'step',
+									['get', 'point_count'],
+									getHexFromVar('--color-tertiary-500'),
+									10,
+									getHexFromVar('--color-tertiary-600'),
+									30,
+									getHexFromVar('--color-tertiary-900')
+								],
+								'circle-radius': ['step', ['get', 'point_count'], 15, 10, 20, 30, 30, 60, 40],
+								'circle-stroke-color': '#f00',
+								'circle-stroke-width': 1,
+								'circle-stroke-opacity': [
+									'case',
+									['boolean', ['feature-state', 'hover'], false],
+									0,
+									1
+								]
+							}}
+						></CircleLayer>
+
+						<CircleLayer
+							id="objects_circle"
+							applyToClusters={false}
+							hoverCursor="pointer"
+							paint={{
+								'circle-color': getHexFromVar('--color-tertiary-400'),
 								'circle-radius': 4,
 								'circle-stroke-width': 1,
 								'circle-stroke-color': '#fff'
