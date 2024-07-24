@@ -179,7 +179,11 @@
 
 	let tabSet = 0;
 
+	/**
+	 * @param {string} varName
+	 */
 	function getHexFromVar(varName) {
+		// @ts-ignore
 		const rgbArray = getComputedStyle(document.querySelector('.map'))
 			.getPropertyValue(varName)
 			.match(/\d+/g);
@@ -190,7 +194,9 @@
 
 		return (
 			'#' +
-			((1 << 24) | (rgbArray[0] << 16) | (rgbArray[1] << 8) | rgbArray[2]).toString(16).slice(1)
+			((1 << 24) | (Number(rgbArray[0]) << 16) | (Number(rgbArray[1]) << 8) | Number(rgbArray[2]))
+				.toString(16)
+				.slice(1)
 		);
 	}
 </script>
