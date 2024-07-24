@@ -1,0 +1,14 @@
+[
+	{
+		"key": "gnd",
+		"label": "DNB-Portal"
+	},
+	{
+		"key": "culturegraph",
+		"label": "Culturegraph"
+	},
+	{
+		"key": "helveticArchives",
+		"label": "HelveticArchives"
+	}
+]
