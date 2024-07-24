@@ -1,7 +1,7 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Grid from '$lib/components/Grid.svelte';
-	import { MapLibre, GeoJSON, CircleLayer, SymbolLayer } from 'svelte-maplibre';
+	import { MapLibre, GeoJSON, CircleLayer, SymbolLayer, Popup } from 'svelte-maplibre';
 	import {
 		RecursiveTreeView,
 		SlideToggle,
@@ -15,6 +15,7 @@
 	import { miniSearch } from '$lib/stores.js';
 	import { onMount } from 'svelte';
 	import { slide } from 'svelte/transition';
+	import { base } from '$app/paths';
 
 	/**
 	 * @type {string[]}
@@ -405,7 +406,17 @@
 								'circle-stroke-width': 1,
 								'circle-stroke-color': '#fff'
 							}}
-						></CircleLayer>
+						>
+							<Popup openOn="click" closeOnClickOutside let:features>
+								{@const props = JSON.parse(features?.[0]?.properties.foreign_becher)}
+								<strong><a href={props?.gnd} target="_blank">{props?.placename}</a></strong>
+								<ul>
+									{#each props.links as link}
+										<li><a href="{base}/item/{link.key}" target="_blank">{link.title}</a></li>
+									{/each}
+								</ul>
+							</Popup>
+						</CircleLayer>
 					</GeoJSON>
 				</MapLibre>
 			{:else if tabSet === 1}
