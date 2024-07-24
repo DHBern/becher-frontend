@@ -1,7 +1,7 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Grid from '$lib/components/Grid.svelte';
-	import { MapLibre, GeoJSON, CircleLayer } from 'svelte-maplibre';
+	import { MapLibre, GeoJSON, CircleLayer, SymbolLayer } from 'svelte-maplibre';
 	import {
 		RecursiveTreeView,
 		SlideToggle,
@@ -367,7 +367,7 @@
 									getHexFromVar('--color-tertiary-900')
 								],
 								'circle-radius': ['step', ['get', 'point_count'], 15, 10, 20, 30, 30, 60, 40],
-								'circle-stroke-color': '#f00',
+								'circle-stroke-color': getHexFromVar('--color-primary-800'),
 								'circle-stroke-width': 1,
 								'circle-stroke-opacity': [
 									'case',
@@ -376,7 +376,24 @@
 									1
 								]
 							}}
+							manageHoverState
 						></CircleLayer>
+						<SymbolLayer
+							id="cluster_labels"
+							interactive={false}
+							applyToClusters
+							layout={{
+								'text-field': [
+									'format',
+									['get', 'point_count_abbreviated'],
+									{
+										'text-color': getHexFromVar('--on-tertiary')
+									}
+								],
+								'text-size': 12,
+								'text-offset': [0, -0.1]
+							}}
+						/>
 
 						<CircleLayer
 							id="objects_circle"
