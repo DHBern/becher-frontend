@@ -1,6 +1,7 @@
 import categories from '$lib/becher_categories_json.json';
 import items from '$lib/becher_full_json.json';
 import fullstructure from '$lib/structure.json';
+import geo from '$lib/geo.json';
 
 /**
  * @typedef {Object.<import('@skeletonlabs/skeleton').TreeViewNode, {id: number}>} TreeNodeInteger
@@ -137,6 +138,7 @@ export async function load() {
 	return {
 		categories: filteredCategories,
 		itemstructure: fullstructure,
+		geo,
 		allFields: fullstructure.find((structure) => structure.type === 'search')?.fields,
 		items: filteredItems
 	};

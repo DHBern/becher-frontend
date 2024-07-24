@@ -326,23 +326,7 @@
 				>
 					<GeoJSON
 						id="items"
-						data={{
-							type: 'FeatureCollection',
-							features: [
-								{
-									type: 'Feature',
-									properties: {
-										title: 'DEA',
-										description: 'Deutsches Exilarchiv 1933-1945',
-										icon: 'marker'
-									},
-									geometry: {
-										type: 'Point',
-										coordinates: [7.5, 47, 0]
-									}
-								}
-							]
-						}}
+						data={data.geo}
 						cluster={{
 							radius: 50,
 							maxZoom: 14
