@@ -23,7 +23,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/${{ github.event.repository.name }}'
+          BASE_PATH: '/${{ github.event.repository.name }}/pr/${{ github.event.number }}'
           NODE_OPTIONS: '--max_old_space_size=9000'
         run: |
           npm run build
@@ -43,7 +43,7 @@ jobs:
 
     environment:
       name: development
-      url: ${{ steps.deployment.outputs.page_url }}/pr/${{ github.event.number }}
+      url: ${{ steps.deployment.outputs.page_url }}pr/${{ github.event.number }}
 
     steps:
       - name: Deploy
