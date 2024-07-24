@@ -171,11 +171,12 @@
 					{/if}
 				{/each}
 				{#each Object.entries(d['links']) as link}
-					{@const [label, url] = link}
-					<dt class="border-r-4 border-current pr-4 pt-4">{label}</dt>
+					{@const [key, url] = link}
+					{@const label = data.linkstructure.find((s) => s.key === key)?.label}
+					<dt class="border-r-4 border-current pr-4 pt-4">{label ?? key}</dt>
 					<dd class="pl-2 pt-4">
 						<a class="anchor" href={url} target="_blank" rel="noopener">{url}</a>
-						{#if label === 'gnd' || label === 'helveticArchives'}
+						{#if key === 'gnd' || key === 'helveticArchives'}
 							<span>[{d.category_local_name}]</span>
 						{/if}
 					</dd>

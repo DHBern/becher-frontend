@@ -1,5 +1,6 @@
 import itemData from '$lib/becher_full_json.json';
 import structure from '$lib/structure.json';
+import linkstructure from '$lib/linkstructure.json';
 
 /** @type {import('./$types').PageLoad} */
 export function load({ params }) {
@@ -10,6 +11,7 @@ export function load({ params }) {
 		key: params.slug,
 		metadata: item,
 		structure,
+		linkstructure,
 		related: [
 			item?.wit ? itemData.filter((i) => i.wit.some((element) => item.wit.includes(element))) : [],
 			itemData
