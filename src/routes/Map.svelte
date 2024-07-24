@@ -91,12 +91,14 @@
 		>
 			<Popup openOn="click" closeOnClickOutside let:features>
 				{@const props = JSON.parse(features?.[0]?.properties.foreign_becher)}
-				<strong><a href={props?.gnd} target="_blank">{props?.placename}</a></strong>
-				<ul>
-					{#each props.links as link}
-						<li><a href="{base}/item/{link.key}" target="_blank">{link.title}</a></li>
-					{/each}
-				</ul>
+				<div class="max-h-44 overflow-y-scroll">
+					<strong><a href={props?.gnd} target="_blank">{props?.placename}</a></strong>
+					<ul>
+						{#each props.links as link}
+							<li><a href="{base}/item/{link.key}" target="_blank">{link.title}</a></li>
+						{/each}
+					</ul>
+				</div>
 			</Popup>
 		</CircleLayer>
 	</GeoJSON>
