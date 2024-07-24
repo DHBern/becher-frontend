@@ -43,7 +43,7 @@ jobs:
 
     environment:
       name: development
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}/pr/${{ github.event.number }}
 
     steps:
       - name: Deploy
