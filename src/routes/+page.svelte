@@ -143,6 +143,13 @@
 		}
 	}
 
+	$: filteredGeo = {
+		...data.geo,
+		features: data.geo.features.filter((i) =>
+			filtereditems.some((j) => i.properties.foreign_becher.links.some((k) => k.key === j.key))
+		)
+	};
+
 	$: {
 		if (advancedToggle) {
 			if (Object.values(advancedFields).some((i) => !!i) || holdingInstitutionToggle) {
@@ -327,19 +334,17 @@
 	</div>
 </ContentContainer>
 <ContentContainer>
-	<Grid items={filtereditems} />
-</ContentContainer>
-
-<ContentContainer>
-	<h2 class="h2 mb-4">Visualisierungen</h2>
 	<TabGroup>
-		<Tab bind:group={tabSet} name="tab1" value={0}>Karte</Tab>
-		<Tab bind:group={tabSet} name="tab2" value={1}>Vikus Viewer</Tab>
+		<Tab bind:group={tabSet} name="tab0" value={0}>Raster</Tab>
+		<Tab bind:group={tabSet} name="tab1" value={1}>Karte</Tab>
+		<Tab bind:group={tabSet} name="tab2" value={2}>Vikus Viewer</Tab>
 		<!-- Tab Panels --->
 		<svelte:fragment slot="panel">
 			{#if tabSet === 0}
-				<Map data={data.geo}></Map>
+				<Grid items={filtereditems} />
 			{:else if tabSet === 1}
+				<Map data={filteredGeo}></Map>
+			{:else if tabSet === 2}
 				<iframe
 					src="https://dhbern.github.io/vikus-viewer/"
 					class="w-full h-[600px]"

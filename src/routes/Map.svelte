@@ -84,7 +84,7 @@
 			hoverCursor="pointer"
 			paint={{
 				'circle-color': getHexFromVar('--color-tertiary-400'),
-				'circle-radius': 4,
+				'circle-radius': 5,
 				'circle-stroke-width': 1,
 				'circle-stroke-color': '#fff'
 			}}
