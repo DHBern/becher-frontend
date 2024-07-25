@@ -1,7 +1,7 @@
 <script>
 	import { MapLibre, GeoJSON, CircleLayer, SymbolLayer, Popup } from 'svelte-maplibre';
-	import { base } from '$app/paths';
 	import { PUBLIC_MAPTILER_KEY } from '$env/static/public';
+	import MapPopup from './MapPopup.svelte';
 
 	export let data;
 
@@ -61,7 +61,11 @@
 				'circle-stroke-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 0, 1]
 			}}
 			manageHoverState
-		></CircleLayer>
+		>
+			<Popup openOn="click" closeOnClickOutside let:features>
+				<MapPopup feature={features?.[0]} />
+			</Popup>
+		</CircleLayer>
 		<SymbolLayer
 			id="cluster_labels"
 			interactive={false}
@@ -91,15 +95,7 @@
 			}}
 		>
 			<Popup openOn="click" closeOnClickOutside let:features>
-				{@const props = JSON.parse(features?.[0]?.properties.foreign_becher)}
-				<div class="max-h-44 overflow-y-scroll">
-					<strong><a href={props?.gnd} target="_blank">{props?.placename}</a></strong>
-					<ul>
-						{#each props.links as link}
-							<li><a href="{base}/item/{link.key}" target="_blank">{link.title}</a></li>
-						{/each}
-					</ul>
-				</div>
+				<MapPopup feature={features?.[0]} />
 			</Popup>
 		</CircleLayer>
 	</GeoJSON>
