@@ -69,15 +69,16 @@
 		}
 	});
 
-	/** @type {import('./$types').Snapshot<{searchtext: string | import('minisearch').Query, advancedToggle: boolean, advancedFields: { [key: string]: string; }}>} */
+	/** @type {import('./$types').Snapshot<{searchtext: string | import('minisearch').Query, tabSet: 0|1|2, advancedToggle: boolean, advancedFields: { [key: string]: string; }}>} */
 	export const snapshot = {
 		capture: () => {
-			return { searchtext, advancedToggle, advancedFields };
+			return { searchtext, advancedToggle, advancedFields, tabSet };
 		},
 		restore: (value) => {
 			advancedFields = value.advancedFields;
 			searchtext = value.searchtext;
 			advancedToggle = value.advancedToggle;
+			tabSet = value.tabSet;
 		}
 	};
 
@@ -184,6 +185,7 @@
 	/** @type { "DEA"|"SLA"|false }*/
 	let holdingInstitutionToggle = false;
 
+	/** @type {0 | 1 | 2} */
 	let tabSet = 0;
 
 	/**
