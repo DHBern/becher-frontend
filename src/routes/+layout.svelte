@@ -96,7 +96,7 @@
 <AppShell slotPageFooter="bg-secondary-500 p-4">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
-		<AppBar padding="px-4" slotDefault="h-full" background="bg-surface-100-900-token">
+		<AppBar padding="px-4" background="bg-surface-100-900-token">
 			<nav class="flex-none items-center h-full hidden md:flex">
 				{#each pages as page}
 					<a
