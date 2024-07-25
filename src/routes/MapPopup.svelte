@@ -19,14 +19,17 @@
 			});
 	} else {
 		innerFeatures = [
-			{ ...feature, properties: { foreign_becher: JSON.parse(feature.properties.foreign_becher) } }
+			{
+				...feature,
+				properties: { ...feature.properties, links: JSON.parse(feature.properties.links) }
+			}
 		];
 	}
 </script>
 
 <div class="max-h-44 overflow-y-scroll">
 	{#each innerFeatures as feature}
-		{@const props = feature?.properties.foreign_becher}
+		{@const props = feature?.properties}
 		<strong><a href={props?.gnd} target="_blank">{props?.placename}</a></strong>
 		<ul>
 			{#each props.links as link}

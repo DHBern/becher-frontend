@@ -147,7 +147,7 @@
 	$: filteredGeo = {
 		...data.geo,
 		features: data.geo.features.filter((i) =>
-			filtereditems.some((j) => i.properties.foreign_becher.links.some((k) => k.key === j.key))
+			filtereditems.some((j) => i.properties.links.some((k) => k.key === j.key))
 		)
 	};
 
