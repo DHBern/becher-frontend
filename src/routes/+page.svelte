@@ -82,7 +82,20 @@
 		}
 	};
 
-	const searchConfig = {
+	/** @type {Number} */
+	let minDate = 1910;
+	/** @type {Number} */
+	let maxDate = 1995;
+
+	function dateFilter(/** @type {any} */ item) {
+		if (!item.date_reg[0]) {
+			return false;
+		}
+		const date = parseInt(item.date_reg[0].substring(0, 4));
+		return date >= minDate && date <= maxDate;
+	}
+
+	$: searchConfig = {
 		prefix: (/** @type {string} */ term) => term.length <= 6,
 		fuzzy: (
 			/** @type {string} */ term,
@@ -94,7 +107,8 @@
 			}
 			return 0.2;
 		},
-		boost: { title: 2, date_reg: 2 }
+		boost: { title: 2, date_reg: 2 },
+		filter: minDate !== 1910 || maxDate !== 1995 ? dateFilter : undefined
 	};
 
 	/**
@@ -110,8 +124,10 @@
 		/** @type {import("minisearch").SearchOptions | undefined} */ config
 	) => {
 		return new Promise((resolve) => {
-			const searchresults = $miniSearch.search(query, config);
-			resolve(searchresults);
+			allDocumentsAdded.then(() => {
+				const searchresults = $miniSearch.search(query, config);
+				resolve(searchresults);
+			});
 		});
 	};
 
@@ -119,20 +135,26 @@
 	$: {
 		if (checkedNodes && checkedNodes.length > 0) {
 			if (searchtext) {
-				allDocumentsAdded.then(() => {
-					asyncSearch(searchtext, searchConfig).then((results) => {
-						// filter all items for checked categories and search results
-						filtereditems = results.filter(
-							(/** @type {{ category: { toString: () => string; }; }} */ i) =>
-								checkedNodes.includes(i.category.toString())
-						);
-					});
+				asyncSearch(searchtext, searchConfig).then((results) => {
+					// filter all items for checked categories and search results
+					filtereditems = results.filter(
+						(/** @type {{ category: { toString: () => string; }; }} */ i) =>
+							checkedNodes.includes(i.category.toString())
+					);
 				});
 			} else {
-				filtereditems = data.items.filter((item) =>
+				filtereditems = data.items.filter((item) => {
 					// filter all items for checked categories
-					checkedNodes.includes(item.category.toString())
-				);
+					if (checkedNodes.includes(item.category.toString())) {
+						if (minDate !== 1910 || maxDate !== 1995) {
+							return dateFilter(item);
+						} else {
+							return true;
+						}
+					} else {
+						return false;
+					}
+				});
 			}
 		} else if (searchtext) {
 			// filter all items for search results
@@ -140,7 +162,8 @@
 				filtereditems = results;
 			});
 		} else {
-			filtereditems = data.items;
+			filtereditems =
+				minDate !== 1910 || maxDate !== 1995 ? data.items.filter(dateFilter) : data.items;
 		}
 	}
 
@@ -187,27 +210,6 @@
 
 	/** @type {0 | 1 | 2} */
 	let tabSet = 0;
-
-	/**
-	 * @param {string} varName
-	 */
-	function getHexFromVar(varName) {
-		// @ts-ignore
-		const rgbArray = getComputedStyle(document.querySelector('.map'))
-			.getPropertyValue(varName)
-			.match(/\d+/g);
-
-		if (!rgbArray || rgbArray.length < 3) {
-			return '#000000';
-		}
-
-		return (
-			'#' +
-			((1 << 24) | (Number(rgbArray[0]) << 16) | (Number(rgbArray[1]) << 8) | Number(rgbArray[2]))
-				.toString(16)
-				.slice(1)
-		);
-	}
 </script>
 
 <ContentContainer
@@ -266,6 +268,18 @@
 						bind:value={searchtext}
 					/>
 				</label>
+				<div class="grid grid-cols-[1fr_auto] gap-4 mt-4">
+					<label transition:slide>
+						<input type="range" min="1910" max="1995" bind:value={minDate} />
+					</label>
+					<p>{minDate}</p>
+				</div>
+				<div class="grid grid-cols-[1fr_auto] gap-4 mt-4">
+					<label transition:slide>
+						<input type="range" min="1910" max="1995" bind:value={maxDate} />
+					</label>
+					<p>{maxDate}</p>
+				</div>
 			{:else}
 				{#each uniqueKeys.filter((i) => i !== 'category_global_name') as item, i}
 					{@const fields = data.allFields?.filter((f) => f.key === item)}
