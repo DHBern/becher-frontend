@@ -31,6 +31,7 @@ jobs:
         env:
           BASE_PATH: '/${{ github.event.repository.name }}'
           NODE_OPTIONS: '--max_old_space_size=9000'
+          PUBLIC_MAPTILER_KEY: ${{ vars.PUBLIC_MAPTILER_KEY }}
         run: |
           npm run build
 
