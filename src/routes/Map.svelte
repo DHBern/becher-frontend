@@ -49,15 +49,7 @@
 			id="items"
 			applyToClusters
 			paint={{
-				'circle-color': [
-					'step',
-					['get', 'total_links'],
-					getHexFromVar('--color-tertiary-400'),
-					10,
-					getHexFromVar('--color-tertiary-600'),
-					40,
-					getHexFromVar('--color-tertiary-900')
-				],
+				'circle-color': getHexFromVar('--color-tertiary-600'),
 				'circle-radius': ['interpolate', ['linear'], ['get', 'total_links'], 5, 7, 50, 60],
 				'circle-stroke-color': getHexFromVar('--color-primary-800'),
 				'circle-stroke-width': 1,
@@ -81,8 +73,7 @@
 						'text-color': getHexFromVar('--on-tertiary')
 					}
 				],
-				'text-size': 12,
-				'text-offset': [0, -0.1]
+				'text-size': 12
 			}}
 		/>
 
@@ -91,15 +82,7 @@
 			applyToClusters={false}
 			hoverCursor="pointer"
 			paint={{
-				'circle-color': [
-					'step',
-					['length', ['array', ['get', 'links']]],
-					getHexFromVar('--color-tertiary-400'),
-					10,
-					getHexFromVar('--color-tertiary-600'),
-					40,
-					getHexFromVar('--color-tertiary-900')
-				],
+				'circle-color': getHexFromVar('--color-tertiary-600'),
 				'circle-radius': [
 					'interpolate',
 					['linear'],
@@ -129,8 +112,7 @@
 						'text-color': getHexFromVar('--on-tertiary')
 					}
 				],
-				'text-size': 12,
-				'text-offset': [0, -0.1]
+				'text-size': 12
 			}}
 		/>
 	</GeoJSON>
