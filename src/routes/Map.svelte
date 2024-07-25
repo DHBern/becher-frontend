@@ -39,7 +39,10 @@
 		{data}
 		cluster={{
 			radius: 380,
-			maxZoom: 14
+			maxZoom: 14,
+			properties: {
+				total_links: ['+', ['length', ['array', ['get', 'links']]]]
+			}
 		}}
 	>
 		<CircleLayer
@@ -48,14 +51,14 @@
 			paint={{
 				'circle-color': [
 					'step',
-					['get', 'point_count'],
-					getHexFromVar('--color-tertiary-500'),
+					['get', 'total_links'],
+					getHexFromVar('--color-tertiary-400'),
 					10,
 					getHexFromVar('--color-tertiary-600'),
-					30,
+					40,
 					getHexFromVar('--color-tertiary-900')
 				],
-				'circle-radius': ['step', ['get', 'point_count'], 15, 10, 20, 30, 30, 60, 40],
+				'circle-radius': ['interpolate', ['linear'], ['get', 'total_links'], 5, 7, 50, 60],
 				'circle-stroke-color': getHexFromVar('--color-primary-800'),
 				'circle-stroke-width': 1,
 				'circle-stroke-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 0, 1]
@@ -73,7 +76,7 @@
 			layout={{
 				'text-field': [
 					'format',
-					['get', 'point_count_abbreviated'],
+					['get', 'total_links'],
 					{
 						'text-color': getHexFromVar('--on-tertiary')
 					}
@@ -88,15 +91,47 @@
 			applyToClusters={false}
 			hoverCursor="pointer"
 			paint={{
-				'circle-color': getHexFromVar('--color-tertiary-400'),
-				'circle-radius': 5,
-				'circle-stroke-width': 1,
-				'circle-stroke-color': '#fff'
+				'circle-color': [
+					'step',
+					['length', ['array', ['get', 'links']]],
+					getHexFromVar('--color-tertiary-400'),
+					10,
+					getHexFromVar('--color-tertiary-600'),
+					40,
+					getHexFromVar('--color-tertiary-900')
+				],
+				'circle-radius': [
+					'interpolate',
+					['linear'],
+					['length', ['array', ['get', 'links']]],
+					5,
+					7,
+					50,
+					60
+				],
+				'circle-stroke-color': getHexFromVar('--color-primary-800'),
+				'circle-stroke-width': 1
 			}}
 		>
 			<Popup openOn="click" closeOnClickOutside let:features>
 				<MapPopup feature={features?.[0]} />
 			</Popup>
 		</CircleLayer>
+		<SymbolLayer
+			id="labels"
+			applyToClusters={false}
+			interactive={false}
+			layout={{
+				'text-field': [
+					'format',
+					['number-format', ['length', ['array', ['get', 'links']]], {}],
+					{
+						'text-color': getHexFromVar('--on-tertiary')
+					}
+				],
+				'text-size': 12,
+				'text-offset': [0, -0.1]
+			}}
+		/>
 	</GeoJSON>
 </MapLibre>
