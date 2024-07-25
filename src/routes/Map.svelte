@@ -1,6 +1,7 @@
 <script>
 	import { MapLibre, GeoJSON, CircleLayer, SymbolLayer, Popup } from 'svelte-maplibre';
 	import { base } from '$app/paths';
+	import { PUBLIC_MAPTILER_KEY } from '$env/static/public';
 
 	export let data;
 
@@ -31,7 +32,7 @@
 	zoom={7}
 	class="map h-[600px]"
 	standardControls
-	style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json"
+	style="https://api.maptiler.com/maps/b5479c2c-728c-4a4f-a482-b575c9ea335f/style.json?key={PUBLIC_MAPTILER_KEY}"
 >
 	<GeoJSON
 		id="items"
