@@ -4,6 +4,7 @@
 	import Map from '$lib/components/Map.svelte';
 	import { onMount } from 'svelte';
 	import { assets, base } from '$app/paths';
+	import { popup } from '@skeletonlabs/skeleton';
 
 	/**
 	 * @type {import('openseadragon') | undefined}
@@ -144,7 +145,19 @@
 											</a>
 										{/if}
 										{#if item.coordinates && item.coordinates.length === 2}
-											<a href="{base}/?map={JSON.stringify(item.coordinates)}">
+											<a
+												href="{base}/?map={JSON.stringify(item.coordinates)}"
+												use:popup={{
+													event: 'hover',
+													target: `popupHover`,
+													placement: 'left',
+													middleware: {
+														flip: {
+															fallbackAxisSideDirection: 'start'
+														}
+													}
+												}}
+											>
 												<Map
 													data={{
 														type: 'FeatureCollection',
@@ -168,6 +181,13 @@
 													zoom={5}
 												/>
 											</a>
+											<div
+												class="card p-4 !bg-secondary-500 text-primary-500 max-w-96"
+												data-popup={`popupHover`}
+											>
+												<p>zur Kartenansicht</p>
+												<div class="arrow !bg-secondary-500" />
+											</div>
 										{/if}
 									{:else}
 										{item}

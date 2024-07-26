@@ -91,10 +91,11 @@
 
 			if ($page.url.searchParams.has('map')) {
 				tabSet = 1;
-				// @ts-ignore
 				zoom = 6;
+				// @ts-ignore
 				flyTo = JSON.parse($page.url.searchParams.get('map'));
 				console.log('scrolling to map');
+				// @ts-ignore
 				document.querySelector('.tab-group').scrollIntoView(true);
 			} else if ($page.url.searchParams.has('t')) {
 				// @ts-ignore
