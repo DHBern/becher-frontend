@@ -33,7 +33,14 @@
 		<strong><a href={props?.gnd} target="_blank">{props?.placename}</a></strong>
 		<ul>
 			{#each props.links as link}
-				<li><a href="{base}/item/{link.key}" target="_blank">{link.title}</a></li>
+				{@const variant =
+					link.archive === 'SLA' ? 'variant-filled-primary' : 'variant-filled-tertiary'}
+				<li>
+					<a href="{base}/item/{link.key}" target="_blank">{link.title}</a>
+					{#if link.archive}
+						<span class="badge {variant}">{link.archive} </span>
+					{/if}
+				</li>
 			{/each}
 		</ul>
 	{/each}
