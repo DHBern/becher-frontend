@@ -38,7 +38,7 @@
 		id="items"
 		{data}
 		cluster={{
-			radius: 380,
+			radius: 450,
 			maxZoom: 14,
 			properties: {
 				total_links: ['+', ['length', ['array', ['get', 'links']]]]
@@ -50,7 +50,7 @@
 			applyToClusters
 			paint={{
 				'circle-color': getHexFromVar('--color-tertiary-600'),
-				'circle-radius': ['interpolate', ['linear'], ['get', 'total_links'], 5, 7, 50, 60],
+				'circle-radius': ['interpolate', ['linear'], ['get', 'total_links'], 5, 7, 300, 60],
 				'circle-stroke-color': getHexFromVar('--color-primary-800'),
 				'circle-stroke-width': 1,
 				'circle-stroke-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 0, 1]
@@ -89,7 +89,7 @@
 					['length', ['array', ['get', 'links']]],
 					5,
 					7,
-					50,
+					300,
 					60
 				],
 				'circle-stroke-color': getHexFromVar('--color-primary-800'),
