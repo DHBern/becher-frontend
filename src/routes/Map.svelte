@@ -28,8 +28,8 @@
 </script>
 
 <MapLibre
-	center={[7.5, 47]}
-	zoom={7}
+	center={[10, 50.5]}
+	zoom={4.7}
 	class="map h-[600px]"
 	standardControls
 	style="https://api.maptiler.com/maps/b5479c2c-728c-4a4f-a482-b575c9ea335f/style.json?key={PUBLIC_MAPTILER_KEY}"
