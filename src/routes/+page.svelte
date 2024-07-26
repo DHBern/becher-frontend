@@ -268,17 +268,38 @@
 						bind:value={searchtext}
 					/>
 				</label>
+				<h4 class="h4 mt-4">Datumsbereich</h4>
 				<div class="grid grid-cols-[1fr_auto] gap-4 mt-4">
 					<label transition:slide>
-						<input type="range" min="1910" max="1995" bind:value={minDate} />
+						<input
+							type="range"
+							min="1910"
+							max="1995"
+							bind:value={minDate}
+							on:input={() => {
+								if (minDate > maxDate) {
+									maxDate = minDate;
+								}
+							}}
+						/>
 					</label>
-					<p>{minDate}</p>
+					<p>ab: {minDate}</p>
 				</div>
 				<div class="grid grid-cols-[1fr_auto] gap-4 mt-4">
 					<label transition:slide>
-						<input type="range" min="1910" max="1995" bind:value={maxDate} />
+						<input
+							type="range"
+							min="1910"
+							max="1995"
+							bind:value={maxDate}
+							on:input={() => {
+								if (maxDate < minDate) {
+									minDate = maxDate;
+								}
+							}}
+						/>
 					</label>
-					<p>{maxDate}</p>
+					<p>bis: {maxDate}</p>
 				</div>
 			{:else}
 				{#each uniqueKeys.filter((i) => i !== 'category_global_name') as item, i}
