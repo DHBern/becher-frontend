@@ -371,10 +371,11 @@
 	</div>
 </ContentContainer>
 <ContentContainer>
+	<h3 class="h3">Zugänge</h3>
 	<TabGroup>
-		<Tab bind:group={tabSet} name="tab0" value={0}>Raster</Tab>
+		<Tab bind:group={tabSet} name="tab0" value={0}>Katalogisate</Tab>
 		<Tab bind:group={tabSet} name="tab1" value={1}>Karte</Tab>
-		<Tab bind:group={tabSet} name="tab2" value={2}>Vikus Viewer</Tab>
+		<Tab bind:group={tabSet} name="tab2" value={2}>Ähnlichkeit</Tab>
 		<!-- Tab Panels --->
 		<svelte:fragment slot="panel">
 			{#if tabSet === 0}
