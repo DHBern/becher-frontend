@@ -14,6 +14,8 @@
 	import MiniSearch from 'minisearch';
 	import { miniSearch } from '$lib/stores.js';
 	import { onMount } from 'svelte';
+	import { page } from '$app/stores';
+	import { afterNavigate } from '$app/navigation';
 	import { slide } from 'svelte/transition';
 
 	/**
@@ -26,6 +28,8 @@
 	const uniqueKeys = [...new Set(data.allFields?.map((i) => i.key))];
 
 	let allDocumentsAdded = Promise.resolve();
+
+	let flyTo = '';
 
 	onMount(() => {
 		if (!$miniSearch) {
@@ -57,7 +61,6 @@
 				});
 			});
 		} else if ($miniSearch.documentCount <= 1) {
-			console.log('adding documents');
 			allDocumentsAdded = new Promise((resolve) => {
 				$miniSearch.addAllAsync(data.items, { chunkSize: 4000 }).then(() => {
 					console.log('all documents added');
@@ -68,17 +71,50 @@
 			allDocumentsAdded = Promise.resolve();
 		}
 	});
+	afterNavigate(() => {
+		if ($page.url.searchParams.size !== 0) {
+			if ($page.url.searchParams.has('s')) {
+				// @ts-ignore
+				searchtext = $page.url.searchParams.get('s');
+			} else if ($page.url.searchParams.has('a')) {
+				advancedToggle = true;
+				// @ts-ignore
+				advancedFields = JSON.parse($page.url.searchParams.get('a'));
+			}
 
-	/** @type {import('./$types').Snapshot<{searchtext: string | import('minisearch').Query, tabSet: 0|1|2, advancedToggle: boolean, advancedFields: { [key: string]: string; }}>} */
+			if ($page.url.searchParams.has('c')) {
+				// @ts-ignore
+				checkedNodes = JSON.parse($page.url.searchParams.get('c'));
+			}
+
+			if ($page.url.searchParams.has('map')) {
+				tabSet = 1;
+				// @ts-ignore
+				flyTo = JSON.parse($page.url.searchParams.get('map'));
+			} else if ($page.url.searchParams.has('t')) {
+				// @ts-ignore
+				tabSet = parseInt($page.url.searchParams.get('t'));
+			}
+
+			// delete all searchParams from url
+			$page.url.searchParams.forEach((_value, key) => {
+				$page.url.searchParams.delete(key);
+			});
+			history.replaceState(null, '', $page.url.toString());
+		}
+	});
+
+	/** @type {import('./$types').Snapshot<{searchtext: string | import('minisearch').Query, checkedNodes:string[], tabSet: 0|1|2, advancedToggle: boolean, advancedFields: { [key: string]: string; }}>} */
 	export const snapshot = {
 		capture: () => {
-			return { searchtext, advancedToggle, advancedFields, tabSet };
+			return { searchtext, checkedNodes, advancedToggle, advancedFields, tabSet };
 		},
 		restore: (value) => {
 			advancedFields = value.advancedFields;
 			searchtext = value.searchtext;
 			advancedToggle = value.advancedToggle;
 			tabSet = value.tabSet;
+			checkedNodes = value.checkedNodes;
 		}
 	};
 
@@ -381,7 +417,7 @@
 			{#if tabSet === 0}
 				<Grid items={filtereditems} />
 			{:else if tabSet === 1}
-				<Map data={filteredGeo}></Map>
+				<Map data={filteredGeo} {flyTo}></Map>
 			{:else if tabSet === 2}
 				<iframe
 					src="https://dhbern.github.io/vikus-viewer/"

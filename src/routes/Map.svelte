@@ -5,6 +5,7 @@
 
 	export let data;
 
+	export let flyTo;
 	/**
 	 * @param {string} varName
 	 */
@@ -28,7 +29,7 @@
 </script>
 
 <MapLibre
-	center={[10, 50.5]}
+	center={flyTo ? flyTo : [10, 50.5]}
 	zoom={4.7}
 	class="map h-[600px]"
 	standardControls
