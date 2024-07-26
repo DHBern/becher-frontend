@@ -1,6 +1,7 @@
 <script>
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import OneRow from '$lib/components/OneRow.svelte';
+	import Map from '$lib/components/Map.svelte';
 	import { onMount } from 'svelte';
 	import { assets, base } from '$app/paths';
 
@@ -140,6 +141,32 @@
 											>
 												<i class="fa-solid fa-circle-info"></i>
 												<span class="sr-only">nähere Informationen</span>
+											</a>
+										{/if}
+										{#if item.coordinates && item.coordinates.length === 2}
+											<a href="{base}/?map={JSON.stringify(item.coordinates)}">
+												<Map
+													data={{
+														type: 'FeatureCollection',
+														features: [
+															{
+																geometry: {
+																	coordinates: item.coordinates,
+																	type: 'point'
+																},
+																type: 'Feature',
+																properties: {
+																	placename: item.name
+																}
+															}
+														]
+													}}
+													center={item.coordinates}
+													standardControls={false}
+													className="h-[300px]"
+													interactive={false}
+													zoom={5}
+												/>
 											</a>
 										{/if}
 									{:else}

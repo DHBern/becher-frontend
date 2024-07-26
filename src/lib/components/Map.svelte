@@ -1,11 +1,17 @@
 <script>
 	import { MapLibre, GeoJSON, CircleLayer, SymbolLayer, Popup } from 'svelte-maplibre';
 	import { PUBLIC_MAPTILER_KEY } from '$env/static/public';
-	import MapPopup from './MapPopup.svelte';
+	import MapPopup from '$lib/components/MapPopup.svelte';
 
 	export let data;
 
-	export let flyTo;
+	/** @type {[number, number]} */
+	export let center = [10, 15];
+	export let zoom = 1.1;
+	export let standardControls = true;
+	export let className = 'h-[600px]';
+	export let style = `https://api.maptiler.com/maps/b5479c2c-728c-4a4f-a482-b575c9ea335f/style.json?key=${PUBLIC_MAPTILER_KEY}`;
+	export let interactive = true;
 	/**
 	 * @param {string} varName
 	 */
@@ -28,13 +34,7 @@
 	}
 </script>
 
-<MapLibre
-	center={flyTo ? flyTo : [10, 50.5]}
-	zoom={4.7}
-	class="map h-[600px]"
-	standardControls
-	style="https://api.maptiler.com/maps/b5479c2c-728c-4a4f-a482-b575c9ea335f/style.json?key={PUBLIC_MAPTILER_KEY}"
->
+<MapLibre {center} {zoom} class="map {className}" {standardControls} {style} {interactive}>
 	<GeoJSON
 		id="items"
 		{data}
@@ -81,7 +81,7 @@
 		<CircleLayer
 			id="objects_circle"
 			applyToClusters={false}
-			hoverCursor="pointer"
+			hoverCursor={interactive ? 'pointer' : 'default'}
 			paint={{
 				'circle-color': getHexFromVar('--color-tertiary-600'),
 				'circle-radius': [
@@ -97,9 +97,11 @@
 				'circle-stroke-width': 1
 			}}
 		>
-			<Popup openOn="click" closeOnClickOutside let:features>
-				<MapPopup feature={features?.[0]} />
-			</Popup>
+			{#if interactive}
+				<Popup openOn="click" closeOnClickOutside let:features>
+					<MapPopup feature={features?.[0]} />
+				</Popup>
+			{/if}
 		</CircleLayer>
 		<SymbolLayer
 			id="labels"

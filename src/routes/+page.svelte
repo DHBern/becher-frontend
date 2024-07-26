@@ -1,5 +1,5 @@
 <script>
-	import Map from './Map.svelte';
+	import Map from '$lib/components/Map.svelte';
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import Grid from '$lib/components/Grid.svelte';
 	import {
@@ -29,7 +29,9 @@
 
 	let allDocumentsAdded = Promise.resolve();
 
-	let flyTo = '';
+	/** @type {[number,number]} */
+	let flyTo = [10, 15];
+	let zoom = 1.1;
 
 	onMount(() => {
 		if (!$miniSearch) {
@@ -90,7 +92,10 @@
 			if ($page.url.searchParams.has('map')) {
 				tabSet = 1;
 				// @ts-ignore
+				zoom = 6;
 				flyTo = JSON.parse($page.url.searchParams.get('map'));
+				console.log('scrolling to map');
+				document.querySelector('.tab-group').scrollIntoView(true);
 			} else if ($page.url.searchParams.has('t')) {
 				// @ts-ignore
 				tabSet = parseInt($page.url.searchParams.get('t'));
@@ -417,7 +422,7 @@
 			{#if tabSet === 0}
 				<Grid items={filtereditems} />
 			{:else if tabSet === 1}
-				<Map data={filteredGeo} {flyTo}></Map>
+				<Map data={filteredGeo} {zoom} center={flyTo}></Map>
 			{:else if tabSet === 2}
 				<iframe
 					src="https://dhbern.github.io/vikus-viewer/"
