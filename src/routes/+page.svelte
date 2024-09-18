@@ -417,16 +417,17 @@
 	<TabGroup>
 		<Tab bind:group={tabSet} name="tab0" value={0}>Katalogisate</Tab>
 		<Tab bind:group={tabSet} name="tab1" value={1}>Karte</Tab>
-		<Tab bind:group={tabSet} name="tab2" value={2}>Ähnlichkeit</Tab>
+		<Tab bind:group={tabSet} name="tab2" value={2}>Chronologie</Tab>
+		<Tab bind:group={tabSet} name="tab3" value={3}>Ähnlichkeit</Tab>
 		<!-- Tab Panels --->
 		<svelte:fragment slot="panel">
 			{#if tabSet === 0}
 				<Grid items={filtereditems} />
 			{:else if tabSet === 1}
 				<Map data={filteredGeo} {zoom} center={flyTo}></Map>
-			{:else if tabSet === 2}
+			{:else}
 				<iframe
-					src="https://dhbern.github.io/vikus-viewer/"
+					src="https://dhbern.github.io/vikus-viewer/{tabSet === 3 ? '?view=second' : ''}"
 					class="w-full h-[600px]"
 					title="vikus-viewer"
 					allow="fullscreen"
