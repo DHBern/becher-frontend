@@ -1159,309 +1159,1149 @@
     "title": "Briefe Dritter, 1930-1990"
   },
   { "corresp":"*B-3-256", "title2":"", "id":203256, "title":"" },
-  { "corresp":"*B-3-257", "title2":"", "id":203257, "title":"" },
+  {
+    "corresp": "*B-3-257",
+    "title2": "",
+    "id": 203257,
+    "title": "Albertsen, Elisabeth an Becher, Dana; Korrespondenz, Rom"
+  },
   { "corresp":"*B-3-258", "title2":"", "id":203258, "title":"" },
-  { "corresp":"*B-3-259", "title2":"", "id":203259, "title":"" },
+  {
+    "corresp": "*B-3-259",
+    "title2": "",
+    "id": 203259,
+    "title": "Amato, Familie an Becher, Dana; Korrespondenz, Bellinzona"
+  },
   { "corresp":"*B-3-260", "title2":"", "id":203260, "title":"" },
-  { "corresp":"*B-3-261", "title2":"", "id":203261, "title":"" },
+  {
+    "corresp": "*B-3-261",
+    "title2": "",
+    "id": 203261,
+    "title": "Anders, W. an Becher, Dana; Korrespondenz, Flushing;\nN.J."
+  },
   { "corresp":"*B-3-262", "title2":"", "id":203262, "title":"" },
-  { "corresp":"*B-3-263", "title2":"", "id":203263, "title":"" },
+  {
+    "corresp": "*B-3-263",
+    "title2": "",
+    "id": 203263,
+    "title": "Bach, Susanne an Becher Dana; Korrespondenz, Bellerive sur Allier;\nParis;\nRio de Janeiro;\nIteer;\nMorro Azul;\nMünchen"
+  },
   { "corresp":"*B-3-264", "title2":"", "id":203264, "title":"" },
-  { "corresp":"*B-3-265", "title2":"", "id":203265, "title":"" },
+  {
+    "corresp": "*B-3-265",
+    "title2": "",
+    "id": 203265,
+    "title": "Bächler, Wolfgang an Becher Dana; Korrespondenz, München;\nNangis"
+  },
   { "corresp":"*B-3-266", "title2":"", "id":203266, "title":"" },
-  { "corresp":"*B-3-267", "title2":"", "id":203267, "title":"" },
+  {
+    "corresp": "*B-3-267",
+    "title2": "",
+    "id": 203267,
+    "title": "Basler Theater an Kurt Reiss Verlag; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-268", "title2":"", "id":203268, "title":"" },
-  { "corresp":"*B-3-269", "title2":"", "id":203269, "title":"" },
+  {
+    "corresp": "*B-3-269",
+    "title2": "",
+    "id": 203269,
+    "title": "Baumgartner, Ilse an Becher Dana; Korrespondenz, Tokyo;\nWien"
+  },
   { "corresp":"*B-3-270", "title2":"", "id":203270, "title":"" },
-  { "corresp":"*B-3-271", "title2":"", "id":203271, "title":"" },
-  { "corresp":"*B-3-272", "title2":"", "id":203272, "title":"" },
-  { "corresp":"*B-3-273", "title2":"", "id":203273, "title":"" },
-  { "corresp":"*B-3-274", "title2":"", "id":203274, "title":"" },
-  { "corresp":"*B-3-275", "title2":"", "id":203275, "title":"" },
-  { "corresp":"*B-3-276", "title2":"", "id":203276, "title":"" },
-  { "corresp":"*B-3-277", "title2":"", "id":203277, "title":"" },
-  { "corresp":"*B-3-278", "title2":"", "id":203278, "title":"" },
+  {
+    "corresp": "*B-3-271",
+    "title2": "",
+    "id": 203271,
+    "title": "Becher, Richard an Ärzteverband Zürich; Korrespondenz, Rio de Janeiro"
+  },
+  {
+    "corresp": "*B-3-272",
+    "title2": "",
+    "id": 203272,
+    "title": "Becher, Elise an Becher, Martin Roda; Korrespondenz, St. Moritz"
+  },
+  {
+    "corresp": "*B-3-273",
+    "title2": "",
+    "id": 203273,
+    "title": "Becher, Richard an Bezirksamt Maloja; Korrespondenz, Celerina"
+  },
+  {
+    "corresp": "*B-3-274",
+    "title2": "",
+    "id": 203274,
+    "title": "Becher, Richard an Kantonale Wehropferverwaltung Schwyz; Korrespondenz, Rio de Janeiro"
+  },
+  {
+    "corresp": "*B-3-275",
+    "title2": "",
+    "id": 203275,
+    "title": "Becher, Richard an Oprecht-Verlag; Korrespondenz, New York"
+  },
+  {
+    "corresp": "*B-3-276",
+    "title2": "",
+    "id": 203276,
+    "title": "Becher, Richard an Roda Roda, Alexander und Elsbeth; Korrespondenz, Zürich;\nRio de Janeiro;\nPoços de Caldas"
+  },
+  {
+    "corresp": "*B-3-277",
+    "title2": "",
+    "id": 203277,
+    "title": "Becher, Richard an Steinberg Verlag; Korrespondenz, São Paulo"
+  },
+  {
+    "corresp": "*B-3-278",
+    "title2": "",
+    "id": 203278,
+    "title": "Becher, Richard an Treuhandverwaltung für jüdisches und polnisches Vermögen; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-279", "title2":"", "id":203279, "title":"" },
-  { "corresp":"*B-3-280", "title2":"", "id":203280, "title":"" },
-  { "corresp":"*B-3-281", "title2":"", "id":203281, "title":"" },
-  { "corresp":"*B-3-282", "title2":"", "id":203282, "title":"" },
-  { "corresp":"*B-3-283", "title2":"", "id":203283, "title":"" },
-  { "corresp":"*B-3-284", "title2":"", "id":203284, "title":"" },
-  { "corresp":"*B-3-285", "title2":"", "id":203285, "title":"" },
-  { "corresp":"*B-3-286", "title2":"", "id":203286, "title":"" },
-  { "corresp":"*B-3-287", "title2":"", "id":203287, "title":"" },
-  { "corresp":"*B-3-288", "title2":"", "id":203288, "title":"" },
-  { "corresp":"*B-3-289", "title2":"", "id":203289, "title":"" },
-  { "corresp":"*B-3-290", "title2":"", "id":203290, "title":"" },
-  { "corresp":"*B-3-291", "title2":"", "id":203291, "title":"" },
-  { "corresp":"*B-3-292", "title2":"", "id":203292, "title":"" },
+  {
+    "corresp": "*B-3-280",
+    "title2": "",
+    "id": 203280,
+    "title": "Becher, Dana an Bach, Susanne; Korrespondenz, München"
+  },
+  {
+    "corresp": "*B-3-281",
+    "title2": "",
+    "id": 203281,
+    "title": "Becher, Dana an Becher, Richard und Elise; Korrespondenz, Paris;\nBern;\nZuoz;\nSão Paulo;\nNew York;\nBasel;\nNizza"
+  },
+  {
+    "corresp": "*B-3-282",
+    "title2": "",
+    "id": 203282,
+    "title": "Becher, Dana an Diakonat Bethesda; Korrespondenz, Basel"
+  },
+  {
+    "corresp": "*B-3-283",
+    "title2": "",
+    "id": 203283,
+    "title": "Becher, Dana an Hackermüller, Rotraut; Korrespondenz, Basel;\nWien"
+  },
+  {
+    "corresp": "*B-3-284",
+    "title2": "",
+    "id": 203284,
+    "title": "Becher, Dana an Haeusserman, Ernst; Korrespondenz, Basel"
+  },
+  {
+    "corresp": "*B-3-285",
+    "title2": "",
+    "id": 203285,
+    "title": "Becher, Dana an Hellmannsberger,?; Korrespondenz, Basel"
+  },
+  {
+    "corresp": "*B-3-286",
+    "title2": "",
+    "id": 203286,
+    "title": "Becher, Dana an Fräulein Josy; Korrespondenz, Arosa"
+  },
+  {
+    "corresp": "*B-3-287",
+    "title2": "",
+    "id": 203287,
+    "title": "Becher, Dana an Luft, Friedrich; Korrespondenz, Basel"
+  },
+  {
+    "corresp": "*B-3-288",
+    "title2": "",
+    "id": 203288,
+    "title": "Becher Dana, an Neumann, Robert; Korrespondenz, Basel"
+  },
+  {
+    "corresp": "*B-3-289",
+    "title2": "",
+    "id": 203289,
+    "title": "Becher, Dana an Prochnow, Günter; Korrespondenz, Basel"
+  },
+  {
+    "corresp": "*B-3-290",
+    "title2": "",
+    "id": 203290,
+    "title": "Becher, Dana an  Roda Roda, Alexander und Elsbeth; Korrespondenz, München;\nTherezopolis;\nRio de Janeiro;\nNew Foundland;\nBasel;\nBerlin;\nJesolo"
+  },
+  {
+    "corresp": "*B-3-291",
+    "title2": "",
+    "id": 203291,
+    "title": "Becher, Dana an Röver, Maria; Korrespondenz, Zürich"
+  },
+  {
+    "corresp": "*B-3-292",
+    "title2": "",
+    "id": 203292,
+    "title": "Becher, Dana an Paul Zsolnay Verlag; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-293", "title2":"", "id":203293, "title":"" },
-  { "corresp":"*B-3-294", "title2":"", "id":203294, "title":"" },
+  {
+    "corresp": "*B-3-294",
+    "title2": "",
+    "id": 203294,
+    "title": "Becher, Luz an Becher, Elise; Korrespondenz, Tel Aviv"
+  },
   { "corresp":"*B-3-295", "title2":"", "id":203295, "title":"" },
-  { "corresp":"*B-3-296", "title2":"", "id":203296, "title":"" },
-  { "corresp":"*B-3-297", "title2":"", "id":203297, "title":"" },
+  {
+    "corresp": "*B-3-296",
+    "title2": "",
+    "id": 203296,
+    "title": "Becher, Martin Roda an Becher Dana; Korrespondenz, Bern;\nParis;\nWien;\nIsola Bella;\nS. Margherita Ligure"
+  },
+  {
+    "corresp": "*B-3-297",
+    "title2": "",
+    "id": 203297,
+    "title": "Becher, Martin Roda an Roda Roda, Elsbeth; Korrespondenz, Cros-de-Cagnes;\nBasel;\nSt. Moritz"
+  },
   { "corresp":"*B-3-298", "title2":"", "id":203298, "title":"" },
-  { "corresp":"*B-3-299", "title2":"", "id":203299, "title":"" },
+  {
+    "corresp": "*B-3-299",
+    "title2": "",
+    "id": 203299,
+    "title": "Becher, Rolf an Becher, Richard und Elise; Korrespondenz, Ostseebad Arendsee;\nZürich;\nGrenoble"
+  },
   { "corresp":"*B-3-300", "title2":"", "id":203300, "title":"" },
-  { "corresp":"*B-3-301", "title2":"", "id":203301, "title":"" },
+  {
+    "corresp": "*B-3-301",
+    "title2": "",
+    "id": 203301,
+    "title": "Belmont, Y. an Becher, Dana; Korrespondenz, s.l."
+  },
   { "corresp":"*B-3-302", "title2":"", "id":203302, "title":"" },
-  { "corresp":"*B-3-303", "title2":"", "id":203303, "title":"" },
+  {
+    "corresp": "*B-3-303",
+    "title2": "",
+    "id": 203303,
+    "title": "Berger, Ludwig an Becher, Dana; Korrespondenz, Schlangenbad;\nTaunus"
+  },
   { "corresp":"*B-3-304", "title2":"", "id":203304, "title":"" },
-  { "corresp":"*B-3-305", "title2":"", "id":203305, "title":"" },
+  {
+    "corresp": "*B-3-305",
+    "title2": "",
+    "id": 203305,
+    "title": "Bernoulli, ? an Becher, Richard und Elise; Korrespondenz, Zürich"
+  },
   { "corresp":"*B-3-306", "title2":"", "id":203306, "title":"" },
-  { "corresp":"*B-3-307", "title2":"", "id":203307, "title":"" },
+  {
+    "corresp": "*B-3-307",
+    "title2": "",
+    "id": 203307,
+    "title": "Boiter, Irina an Becher, Dana; Korrespondenz, München"
+  },
   { "corresp":"*B-3-308", "title2":"", "id":203308, "title":"" },
-  { "corresp":"*B-3-309", "title2":"", "id":203309, "title":"" },
+  {
+    "corresp": "*B-3-309",
+    "title2": "",
+    "id": 203309,
+    "title": "Brandt, Conrad an Becher, Dana; Korrespondenz, Paris"
+  },
   { "corresp":"*B-3-310", "title2":"", "id":203310, "title":"" },
-  { "corresp":"*B-3-311", "title2":"", "id":203311, "title":"" },
+  {
+    "corresp": "*B-3-311",
+    "title2": "",
+    "id": 203311,
+    "title": "Britall, Wolfgang an Becher, Dana; Korrespondenz, Kleinmachnow"
+  },
   { "corresp":"*B-3-312", "title2":"", "id":203312, "title":"" },
-  { "corresp":"*B-3-313", "title2":"", "id":203313, "title":"" },
+  {
+    "corresp": "*B-3-313",
+    "title2": "",
+    "id": 203313,
+    "title": "Brody, Peter an Becher, Dana; Korrespondenz, s.l."
+  },
   { "corresp":"*B-3-314", "title2":"", "id":203314, "title":"" },
-  { "corresp":"*B-3-315", "title2":"", "id":203315, "title":"" },
+  {
+    "corresp": "*B-3-315",
+    "title2": "",
+    "id": 203315,
+    "title": "Buch, Eva an Becher, Dana; Korrespondenz, New York;\nJerusalem;\nBagur"
+  },
   { "corresp":"*B-3-316", "title2":"", "id":203316, "title":"" },
-  { "corresp":"*B-3-317", "title2":"", "id":203317, "title":"" },
+  {
+    "corresp": "*B-3-317",
+    "title2": "",
+    "id": 203317,
+    "title": "Burckhardt-Furrer, Sophie an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-318", "title2":"", "id":203318, "title":"" },
-  { "corresp":"*B-3-319", "title2":"", "id":203319, "title":"" },
+  {
+    "corresp": "*B-3-319",
+    "title2": "",
+    "id": 203319,
+    "title": "Christen, Hanns U. an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-320", "title2":"", "id":203320, "title":"" },
-  { "corresp":"*B-3-321", "title2":"", "id":203321, "title":"" },
+  {
+    "corresp": "*B-3-321",
+    "title2": "",
+    "id": 203321,
+    "title": "Cluysille, ? an Becher, Dana; Korrespondenz, München"
+  },
   { "corresp":"*B-3-322", "title2":"", "id":203322, "title":"" },
-  { "corresp":"*B-3-323", "title2":"", "id":203323, "title":"" },
+  {
+    "corresp": "*B-3-323",
+    "title2": "",
+    "id": 203323,
+    "title": "DEFA Studio für Spielfilme an Spitzer, ?; Korrespondenz, Potsdam-Babelsberg"
+  },
   { "corresp":"*B-3-324", "title2":"", "id":203324, "title":"" },
-  { "corresp":"*B-3-325", "title2":"", "id":203325, "title":"" },
+  {
+    "corresp": "*B-3-325",
+    "title2": "",
+    "id": 203325,
+    "title": "Dilia-Agentur an Reiss AG; Korrespondenz, Prag"
+  },
   { "corresp":"*B-3-326", "title2":"", "id":203326, "title":"" },
-  { "corresp":"*B-3-327", "title2":"", "id":203327, "title":"" },
+  {
+    "corresp": "*B-3-327",
+    "title2": "",
+    "id": 203327,
+    "title": "Döbler, Katharina an Becher, Dana; Korrespondenz, Berlin"
+  },
   { "corresp":"*B-3-328", "title2":"", "id":203328, "title":"" },
-  { "corresp":"*B-3-329", "title2":"", "id":203329, "title":"" },
-  { "corresp":"*B-3-330", "title2":"", "id":203330, "title":"" },
+  {
+    "corresp": "*B-3-329",
+    "title2": "",
+    "id": 203329,
+    "title": "Eisenberg, Katharina an Becher, Dana; Korrespondenz, Rio de Janeiro, Stein;\nBasel"
+  },
+  {
+    "corresp": "*B-3-330",
+    "title2": "",
+    "id": 203330,
+    "title": "Eisenberg, Katharina an Leskoschek, Axl; Korrespondenz, Zürich"
+  },
   { "corresp":"*B-3-331", "title2":"", "id":203331, "title":"" },
-  { "corresp":"*B-3-332", "title2":"", "id":203332, "title":"" },
+  {
+    "corresp": "*B-3-332",
+    "title2": "",
+    "id": 203332,
+    "title": "Engel, H. J. an Becher, Dana; Korrespondenz, New York"
+  },
   { "corresp":"*B-3-333", "title2":"", "id":203333, "title":"" },
-  { "corresp":"*B-3-334", "title2":"", "id":203334, "title":"" },
+  {
+    "corresp": "*B-3-334",
+    "title2": "",
+    "id": 203334,
+    "title": "Engelhardt, Jürgen von an Becher, Dana; Korrespondenz, Bregenz;\nSchwarzach;\nMumbai;\nAugsburg"
+  },
   { "corresp":"*B-3-335", "title2":"", "id":203335, "title":"" },
-  { "corresp":"*B-3-336", "title2":"", "id":203336, "title":"" },
+  {
+    "corresp": "*B-3-336",
+    "title2": "",
+    "id": 203336,
+    "title": "Espenak, Liljan an Becher, Dana; Korrespondenz, New York;\nMannheim"
+  },
   { "corresp":"*B-3-337", "title2":"", "id":203337, "title":"" },
-  { "corresp":"*B-3-338", "title2":"", "id":203338, "title":"" },
+  {
+    "corresp": "*B-3-338",
+    "title2": "",
+    "id": 203338,
+    "title": "Eulenspiegel-Verlag an Becher, Dana; Korrespondenz, Ost-Berlin"
+  },
   { "corresp":"*B-3-339", "title2":"", "id":203339, "title":"" },
-  { "corresp":"*B-3-340", "title2":"", "id":203340, "title":"" },
+  {
+    "corresp": "*B-3-340",
+    "title2": "",
+    "id": 203340,
+    "title": "Freie Schule Wickersdorf an Becher, Richard; Korrespondenz, Wickersdorf"
+  },
   { "corresp":"*B-3-341", "title2":"", "id":203341, "title":"" },
-  { "corresp":"*B-3-342", "title2":"", "id":203342, "title":"" },
+  {
+    "corresp": "*B-3-342",
+    "title2": "",
+    "id": 203342,
+    "title": "Frisé, Adolf an Becher, Dana; Korrespondenz, Bad Homsburg"
+  },
   { "corresp":"*B-3-343", "title2":"", "id":203343, "title":"" },
-  { "corresp":"*B-3-344", "title2":"", "id":203344, "title":"" },
+  {
+    "corresp": "*B-3-344",
+    "title2": "",
+    "id": 203344,
+    "title": "Fürst, Reinmar an Becher, Dana; Korrespondenz, Sirmione;\nBardolino"
+  },
   { "corresp":"*B-3-345", "title2":"", "id":203345, "title":"" },
-  { "corresp":"*B-3-346", "title2":"", "id":203346, "title":"" },
+  {
+    "corresp": "*B-3-346",
+    "title2": "",
+    "id": 203346,
+    "title": "Grünigen, Milly von an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-347", "title2":"", "id":203347, "title":"" },
-  { "corresp":"*B-3-348", "title2":"", "id":203348, "title":"" },
+  {
+    "corresp": "*B-3-348",
+    "title2": "",
+    "id": 203348,
+    "title": "Hackermüller, Rotraut an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-349", "title2":"", "id":203349, "title":"" },
-  { "corresp":"*B-3-350", "title2":"", "id":203350, "title":"" },
+  {
+    "corresp": "*B-3-350",
+    "title2": "",
+    "id": 203350,
+    "title": "Heider, Wolf an Becher, Dana; Korrespondenz, BAsel"
+  },
   { "corresp":"*B-3-351", "title2":"", "id":203351, "title":"" },
-  { "corresp":"*B-3-352", "title2":"", "id":203352, "title":"" },
+  {
+    "corresp": "*B-3-352",
+    "title2": "",
+    "id": 203352,
+    "title": "Hepp, Michael an Becher, Dana; Korrespondenz, Oldenburg"
+  },
   { "corresp":"*B-3-353", "title2":"", "id":203353, "title":"" },
-  { "corresp":"*B-3-354", "title2":"", "id":203354, "title":"" },
+  {
+    "corresp": "*B-3-354",
+    "title2": "",
+    "id": 203354,
+    "title": "Herrnstadt-Oettingen, Edith an Becher, Dana; Korrespondenz, Shanghai"
+  },
   { "corresp":"*B-3-355", "title2":"", "id":203355, "title":"" },
   { "corresp":"*B-3-356", "title2":"", "id":203356, "title":"" },
-  { "corresp":"*B-3-357", "title2":"", "id":203357, "title":"" },
+  {
+    "corresp": "*B-3-357",
+    "title2": "",
+    "id": 203357,
+    "title": "Heuenfeldt, Irina an Becher, Dana; Korrespondenz, Savannah;\nGa."
+  },
   { "corresp":"*B-3-358", "title2":"", "id":203358, "title":"" },
-  { "corresp":"*B-3-359", "title2":"", "id":203359, "title":"" },
+  {
+    "corresp": "*B-3-359",
+    "title2": "",
+    "id": 203359,
+    "title": "Horch, Franz an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-360", "title2":"", "id":203360, "title":"" },
-  { "corresp":"*B-3-361", "title2":"", "id":203361, "title":"" },
+  {
+    "corresp": "*B-3-361",
+    "title2": "",
+    "id": 203361,
+    "title": "Jacobi, Erwin R. an Becher, Dana; Korrespondenz, Zürich;\nFlorenz"
+  },
   { "corresp":"*B-3-362", "title2":"", "id":203362, "title":"" },
-  { "corresp":"*B-3-363", "title2":"", "id":203363, "title":"" },
+  {
+    "corresp": "*B-3-363",
+    "title2": "",
+    "id": 203363,
+    "title": "Januszewska, Gisela an Roda Roda, Elsbeth; Korrespondenz, Bad Gleichenberg"
+  },
   { "corresp":"*B-3-364", "title2":"", "id":203364, "title":"" },
-  { "corresp":"*B-3-365", "title2":"", "id":203365, "title":"" },
+  {
+    "corresp": "*B-3-365",
+    "title2": "",
+    "id": 203365,
+    "title": "Jenny, Beat an Becher, Dana; Korrespondenz, New Haven;\nCambridge"
+  },
   { "corresp":"*B-3-366", "title2":"", "id":203366, "title":"" },
-  { "corresp":"*B-3-367", "title2":"", "id":203367, "title":"" },
+  {
+    "corresp": "*B-3-367",
+    "title2": "",
+    "id": 203367,
+    "title": "Kelen, Emery an Becher, Dana; Korrespondenz, Salisbury;\nConnecticut"
+  },
   { "corresp":"*B-3-368", "title2":"", "id":203368, "title":"" },
-  { "corresp":"*B-3-369", "title2":"", "id":203369, "title":"" },
+  {
+    "corresp": "*B-3-369",
+    "title2": "",
+    "id": 203369,
+    "title": "Kelzenberg, Ute an Becher, Dana; Korrespondenz, Köln"
+  },
   { "corresp":"*B-3-370", "title2":"", "id":203370, "title":"" },
-  { "corresp":"*B-3-371", "title2":"", "id":203371, "title":"" },
+  {
+    "corresp": "*B-3-371",
+    "title2": "",
+    "id": 203371,
+    "title": "Kestler, Izabela M. Furtado an Becher, Dana; Korrespondenz, Freiburg i. Br."
+  },
   { "corresp":"*B-3-372", "title2":"", "id":203372, "title":"" },
-  { "corresp":"*B-3-373", "title2":"", "id":203373, "title":"" },
+  {
+    "corresp": "*B-3-373",
+    "title2": "",
+    "id": 203373,
+    "title": "Keyserling, Doris de an Becher, Dana; Korrespondenz, New York"
+  },
   { "corresp":"*B-3-374", "title2":"", "id":203374, "title":"" },
-  { "corresp":"*B-3-375", "title2":"", "id":203375, "title":"" },
+  {
+    "corresp": "*B-3-375",
+    "title2": "",
+    "id": 203375,
+    "title": "Kirsten, Wulf an Becher, Dana; Korrespondenz, Weimar"
+  },
   { "corresp":"*B-3-376", "title2":"", "id":203376, "title":"" },
-  { "corresp":"*B-3-377", "title2":"", "id":203377, "title":"" },
+  {
+    "corresp": "*B-3-377",
+    "title2": "",
+    "id": 203377,
+    "title": "Kluge, Monika an Becher, Dana; Korrespondenz, Leipzig"
+  },
   { "corresp":"*B-3-378", "title2":"", "id":203378, "title":"" },
-  { "corresp":"*B-3-379", "title2":"", "id":203379, "title":"" },
+  {
+    "corresp": "*B-3-379",
+    "title2": "",
+    "id": 203379,
+    "title": "Koepplin, Fritz an Becher, Elise; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-380", "title2":"", "id":203380, "title":"" },
-  { "corresp":"*B-3-381", "title2":"", "id":203381, "title":"" },
+  {
+    "corresp": "*B-3-381",
+    "title2": "",
+    "id": 203381,
+    "title": "Koralnik, Eva an Becher, Dana; Korrespondenz, Zürich"
+  },
   { "corresp":"*B-3-382", "title2":"", "id":203382, "title":"" },
-  { "corresp":"*B-3-383", "title2":"", "id":203383, "title":"" },
+  {
+    "corresp": "*B-3-383",
+    "title2": "",
+    "id": 203383,
+    "title": "Krause, Jürgen an Bach, Susanne; Korrespondenz, München"
+  },
   { "corresp":"*B-3-384", "title2":"", "id":203384, "title":"" },
-  { "corresp":"*B-3-385", "title2":"", "id":203385, "title":"" },
+  {
+    "corresp": "*B-3-385",
+    "title2": "",
+    "id": 203385,
+    "title": "Leichsenring, Paul an Becher, Dana; Korrespondenz, Bensheim"
+  },
   { "corresp":"*B-3-386", "title2":"", "id":203386, "title":"" },
-  { "corresp":"*B-3-387", "title2":"", "id":203387, "title":"" },
+  {
+    "corresp": "*B-3-387",
+    "title2": "",
+    "id": 203387,
+    "title": "Leinfellner, Elisabeth an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-388", "title2":"", "id":203388, "title":"" },
-  { "corresp":"*B-3-389", "title2":"", "id":203389, "title":"" },
+  {
+    "corresp": "*B-3-389",
+    "title2": "",
+    "id": 203389,
+    "title": "Lenos Verlag an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-390", "title2":"", "id":203390, "title":"" },
-  { "corresp":"*B-3-391", "title2":"", "id":203391, "title":"" },
-  { "corresp":"*B-3-392", "title2":"", "id":203392, "title":"" },
+  {
+    "corresp": "*B-3-391",
+    "title2": "",
+    "id": 203391,
+    "title": "Leskoschek, Axl und Marussja an Becher, Elise; Korrespondenz, Wien"
+  },
+  {
+    "corresp": "*B-3-392",
+    "title2": "",
+    "id": 203392,
+    "title": "Leskoschek, Axl und Marussja an Becher, Dana; Korrespondenz, Graz;\nZürich;\nSankt Stefan;\nWien"
+  },
   { "corresp":"*B-3-393", "title2":"", "id":203393, "title":"" },
-  { "corresp":"*B-3-394", "title2":"", "id":203394, "title":"" },
+  {
+    "corresp": "*B-3-394",
+    "title2": "",
+    "id": 203394,
+    "title": "Liepmann, Ruth an Becher, Dana; Korrespondenz, Zürich"
+  },
   { "corresp":"*B-3-395", "title2":"", "id":203395, "title":"" },
-  { "corresp":"*B-3-396", "title2":"", "id":203396, "title":"" },
+  {
+    "corresp": "*B-3-396",
+    "title2": "",
+    "id": 203396,
+    "title": "Lifezis, Hugo an Becher, Dana; Korrespondenz, Buenos Aires;\nBarcelona"
+  },
   { "corresp":"*B-3-397", "title2":"", "id":203397, "title":"" },
-  { "corresp":"*B-3-398", "title2":"", "id":203398, "title":"" },
-  { "corresp":"*B-3-399", "title2":"", "id":203399, "title":"" },
+  {
+    "corresp": "*B-3-398",
+    "title2": "",
+    "id": 203398,
+    "title": "Loeben, Renate von an Becher, Dana; Korrespondenz, München;\nPrien"
+  },
+  {
+    "corresp": "*B-3-399",
+    "title2": "",
+    "id": 203399,
+    "title": "Loeben, Renate von an Roda Roda, Elsbeth; Korrespondenz, München;\nPrien"
+  },
   { "corresp":"*B-3-400", "title2":"", "id":203400, "title":"" },
-  { "corresp":"*B-3-401", "title2":"", "id":203401, "title":"" },
+  {
+    "corresp": "*B-3-401",
+    "title2": "",
+    "id": 203401,
+    "title": "Loens, ? an Roda Roda, Alexander; Korrespondenz, Graz"
+  },
   { "corresp":"*B-3-402", "title2":"", "id":203402, "title":"" },
-  { "corresp":"*B-3-403", "title2":"", "id":203403, "title":"" },
+  {
+    "corresp": "*B-3-403",
+    "title2": "",
+    "id": 203403,
+    "title": "Luft, Friedrich an Becher, Dana; Korrespondenz, Berlin"
+  },
   { "corresp":"*B-3-404", "title2":"", "id":203404, "title":"" },
-  { "corresp":"*B-3-405", "title2":"", "id":203405, "title":"" },
-  { "corresp":"*B-3-406", "title2":"", "id":203406, "title":"" },
+  {
+    "corresp": "*B-3-405",
+    "title2": "",
+    "id": 203405,
+    "title": "Lustig-Prean, Karl von an Becher, Richard; Korrespondenz, São Paulo"
+  },
+  {
+    "corresp": "*B-3-406",
+    "title2": "",
+    "id": 203406,
+    "title": "Lustig-Prean, Karl von an Becher, Dana; Korrespondenz, São Paulo"
+  },
   { "corresp":"*B-3-407", "title2":"", "id":203407, "title":"" },
-  { "corresp":"*B-3-408", "title2":"", "id":203408, "title":"" },
+  {
+    "corresp": "*B-3-408",
+    "title2": "",
+    "id": 203408,
+    "title": "Madame an Mechnig, Elfriede; Korrespondenz, München"
+  },
   { "corresp":"*B-3-409", "title2":"", "id":203409, "title":"" },
-  { "corresp":"*B-3-410", "title2":"", "id":203410, "title":"" },
+  {
+    "corresp": "*B-3-410",
+    "title2": "",
+    "id": 203410,
+    "title": "Mautner, Benno I. an Becher, Dana; Korrespondenz, New York"
+  },
   { "corresp":"*B-3-411", "title2":"", "id":203411, "title":"" },
-  { "corresp":"*B-3-412", "title2":"", "id":203412, "title":"" },
+  {
+    "corresp": "*B-3-412",
+    "title2": "",
+    "id": 203412,
+    "title": "Mechnig, Elfriede an Becher, Dana; Korrespondenz, Berlin"
+  },
   { "corresp":"*B-3-413", "title2":"", "id":203413, "title":"" },
-  { "corresp":"*B-3-414", "title2":"", "id":203414, "title":"" },
+  {
+    "corresp": "*B-3-414",
+    "title2": "",
+    "id": 203414,
+    "title": "Michel, Robert an Witt, Traute van; Korrespondenz, München"
+  },
   { "corresp":"*B-3-415", "title2":"", "id":203415, "title":"" },
-  { "corresp":"*B-3-416", "title2":"", "id":203416, "title":"" },
+  {
+    "corresp": "*B-3-416",
+    "title2": "",
+    "id": 203416,
+    "title": "Miller, Henry an Becher, Dana; Korrespondenz, Lausanne;\nMontpellier"
+  },
   { "corresp":"*B-3-417", "title2":"", "id":203417, "title":"" },
-  { "corresp":"*B-3-418", "title2":"", "id":203418, "title":"" },
+  {
+    "corresp": "*B-3-418",
+    "title2": "",
+    "id": 203418,
+    "title": "Möckel, Birgit an Becher, Dana; Korrespondenz, Frankfurt"
+  },
   { "corresp":"*B-3-419", "title2":"", "id":203419, "title":"" },
-  { "corresp":"*B-3-420", "title2":"", "id":203420, "title":"" },
+  {
+    "corresp": "*B-3-420",
+    "title2": "",
+    "id": 203420,
+    "title": "Morris, Katherine an Becher, Dana; Korrespondenz, Greensboro;\nNorth Carolina"
+  },
   { "corresp":"*B-3-421", "title2":"", "id":203421, "title":"" },
-  { "corresp":"*B-3-422", "title2":"", "id":203422, "title":"" },
+  {
+    "corresp": "*B-3-422",
+    "title2": "",
+    "id": 203422,
+    "title": "Mucki an Becher, Dana; Korrespondenz, München;\nRanzo;\nKnightsbridge"
+  },
   { "corresp":"*B-3-423", "title2":"", "id":203423, "title":"" },
-  { "corresp":"*B-3-424", "title2":"", "id":203424, "title":"" },
+  {
+    "corresp": "*B-3-424",
+    "title2": "",
+    "id": 203424,
+    "title": "Mühsam, Joachim an Becher, Dana; Korrespondenz, Buenos Aires;\nKöln;\nParis"
+  },
   { "corresp":"*B-3-425", "title2":"", "id":203425, "title":"" },
-  { "corresp":"*B-3-426", "title2":"", "id":203426, "title":"" },
+  {
+    "corresp": "*B-3-426",
+    "title2": "",
+    "id": 203426,
+    "title": "Muschg, Walter an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-427", "title2":"", "id":203427, "title":"" },
-  { "corresp":"*B-3-428", "title2":"", "id":203428, "title":"" },
+  {
+    "corresp": "*B-3-428",
+    "title2": "",
+    "id": 203428,
+    "title": "National-Zeitung Basel an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-429", "title2":"", "id":203429, "title":"" },
-  { "corresp":"*B-3-430", "title2":"", "id":203430, "title":"" },
+  {
+    "corresp": "*B-3-430",
+    "title2": "",
+    "id": 203430,
+    "title": "Paul-Neff-Verlag an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-431", "title2":"", "id":203431, "title":"" },
-  { "corresp":"*B-3-432", "title2":"", "id":203432, "title":"" },
+  {
+    "corresp": "*B-3-432",
+    "title2": "",
+    "id": 203432,
+    "title": "Neumann, Robert an Becher, Dana; Korrespondenz, Kent;\nLocarno-Monti"
+  },
   { "corresp":"*B-3-433", "title2":"", "id":203433, "title":"" },
-  { "corresp":"*B-3-434", "title2":"", "id":203434, "title":"" },
+  {
+    "corresp": "*B-3-434",
+    "title2": "",
+    "id": 203434,
+    "title": "Nussbaum & Rothschild an Becher, Richard; Korrespondenz, Magdeburg"
+  },
   { "corresp":"*B-3-435", "title2":"", "id":203435, "title":"" },
-  { "corresp":"*B-3-436", "title2":"", "id":203436, "title":"" },
+  {
+    "corresp": "*B-3-436",
+    "title2": "",
+    "id": 203436,
+    "title": "Österreichischer Rundfunk an Becher, Dana; Korrespondenz, Wien;\nBasel"
+  },
   { "corresp":"*B-3-437", "title2":"", "id":203437, "title":"" },
-  { "corresp":"*B-3-438", "title2":"", "id":203438, "title":"" },
+  {
+    "corresp": "*B-3-438",
+    "title2": "",
+    "id": 203438,
+    "title": "Perl, ? an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-439", "title2":"", "id":203439, "title":"" },
-  { "corresp":"*B-3-440", "title2":"", "id":203440, "title":"" },
+  {
+    "corresp": "*B-3-440",
+    "title2": "",
+    "id": 203440,
+    "title": "Pfeifer, Tadeus an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-441", "title2":"", "id":203441, "title":"" },
-  { "corresp":"*B-3-442", "title2":"", "id":203442, "title":"" },
+  {
+    "corresp": "*B-3-442",
+    "title2": "",
+    "id": 203442,
+    "title": "Pfister, Katharina an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-443", "title2":"", "id":203443, "title":"" },
-  { "corresp":"*B-3-444", "title2":"", "id":203444, "title":"" },
+  {
+    "corresp": "*B-3-444",
+    "title2": "",
+    "id": 203444,
+    "title": "Pohl, Walter an Becher, Dana; Korrespondenz, Tunesien"
+  },
   { "corresp":"*B-3-445", "title2":"", "id":203445, "title":"" },
-  { "corresp":"*B-3-446", "title2":"", "id":203446, "title":"" },
+  {
+    "corresp": "*B-3-446",
+    "title2": "",
+    "id": 203446,
+    "title": "Preses, Maria an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-447", "title2":"", "id":203447, "title":"" },
-  { "corresp":"*B-3-448", "title2":"", "id":203448, "title":"" },
-  { "corresp":"*B-3-449", "title2":"", "id":203449, "title":"" },
+  {
+    "corresp": "*B-3-448",
+    "title2": "",
+    "id": 203448,
+    "title": "Raddatz, Fritz J. an Becher, Dana; Korrespondenz, Reinbek bei Hamburg;\nHamburg"
+  },
+  {
+    "corresp": "*B-3-449",
+    "title2": "",
+    "id": 203449,
+    "title": "Raddatz, Fritz J. an Seiler, Alexander; Korrespondenz, Reinbek bei Hamburg;\nHamburg"
+  },
   { "corresp":"*B-3-450", "title2":"", "id":203450, "title":"" },
-  { "corresp":"*B-3-451", "title2":"", "id":203451, "title":"" },
+  {
+    "corresp": "*B-3-451",
+    "title2": "",
+    "id": 203451,
+    "title": "Rehfuss, I.an Becher, Dana; Korrespondenz, München"
+  },
   { "corresp":"*B-3-452", "title2":"", "id":203452, "title":"" },
-  { "corresp":"*B-3-453", "title2":"", "id":203453, "title":"" },
+  {
+    "corresp": "*B-3-453",
+    "title2": "",
+    "id": 203453,
+    "title": "Rétay, Sándor von an Becher, Dana; Korrespondenz, Budapest"
+  },
   { "corresp":"*B-3-454", "title2":"", "id":203454, "title":"" },
-  { "corresp":"*B-3-455", "title2":"", "id":203455, "title":"" },
-  { "corresp":"*B-3-456", "title2":"", "id":203456, "title":"" },
-  { "corresp":"*B-3-457", "title2":"", "id":203457, "title":"" },
+  {
+    "corresp": "*B-3-455",
+    "title2": "",
+    "id": 203455,
+    "title": "Roda Roda, Alexander und Elsbeth an Becher, Richard und Elise; Korrespondenz, Bad Gastein;\nGraz;\nZürich;\nTarifville"
+  },
+  {
+    "corresp": "*B-3-456",
+    "title2": "",
+    "id": 203456,
+    "title": "Roda Roda, Alexander und Elsbeth an Becher, Dana; Korrespondenz, Woosterhouse;\nBudapest;\nBad Gleichenberg;\nNew York"
+  },
+  {
+    "corresp": "*B-3-457",
+    "title2": "",
+    "id": 203457,
+    "title": "Roda Roda, Elsbeth an Jäger, Helene; Korrespondenz, Wien;\nBerlin"
+  },
   { "corresp":"*B-3-458", "title2":"", "id":203458, "title":"" },
-  { "corresp":"*B-3-459", "title2":"", "id":203459, "title":"" },
-  { "corresp":"*B-3-460", "title2":"", "id":203460, "title":"" },
+  {
+    "corresp": "*B-3-459",
+    "title2": "",
+    "id": 203459,
+    "title": "Roda, Olga an Becher, Dana; Korrespondenz, Bad Gleichenberg;\nGraz"
+  },
+  {
+    "corresp": "*B-3-460",
+    "title2": "",
+    "id": 203460,
+    "title": "Roda, Olga an Roda Roda, Elsbeth; Korrespondenz, Bad Gleichenberg"
+  },
   { "corresp":"*B-3-461", "title2":"", "id":203461, "title":"" },
-  { "corresp":"*B-3-462", "title2":"", "id":203462, "title":"" },
+  {
+    "corresp": "*B-3-462",
+    "title2": "",
+    "id": 203462,
+    "title": "Rössler, Hermann an Becher, Dana; Korrespondenz, Montreal"
+  },
   { "corresp":"*B-3-463", "title2":"", "id":203463, "title":"" },
-  { "corresp":"*B-3-464", "title2":"", "id":203464, "title":"" },
-  { "corresp":"*B-3-465", "title2":"", "id":203465, "title":"" },
+  {
+    "corresp": "*B-3-464",
+    "title2": "",
+    "id": 203464,
+    "title": "Ledig-Rowohlt, Heinrich Maria an Becher, Dana; Korrespondenz, Reinbek bei Hamburg"
+  },
+  {
+    "corresp": "*B-3-465",
+    "title2": "",
+    "id": 203465,
+    "title": "Ledig-Rowohlt, Heinrich Maria an Universal Edition; Korrespondenz, Reinbek bei Hamburg"
+  },
   { "corresp":"*B-3-466", "title2":"", "id":203466, "title":"" },
-  { "corresp":"*B-3-467", "title2":"", "id":203467, "title":"" },
-  { "corresp":"*B-3-468", "title2":"", "id":203468, "title":"" },
+  {
+    "corresp": "*B-3-467",
+    "title2": "",
+    "id": 203467,
+    "title": "Rowohlt Verlag an Becher, Dana; Korrespondenz, Reinbek bei Hamburg"
+  },
+  {
+    "corresp": "*B-3-468",
+    "title2": "",
+    "id": 203468,
+    "title": "Rowohlt Verlag an Steinboeck, Rudolf; Korrespondenz, Hamburg"
+  },
   { "corresp":"*B-3-469", "title2":"", "id":203469, "title":"" },
-  { "corresp":"*B-3-470", "title2":"", "id":203470, "title":"" },
+  {
+    "corresp": "*B-3-470",
+    "title2": "",
+    "id": 203470,
+    "title": "Rüll, Thomas an Becher, Dana; Korrespondenz, Tozeur;\nNassandres"
+  },
   { "corresp":"*B-3-471", "title2":"", "id":203471, "title":"" },
-  { "corresp":"*B-3-472", "title2":"", "id":203472, "title":"" },
+  {
+    "corresp": "*B-3-472",
+    "title2": "",
+    "id": 203472,
+    "title": "Russell, ? an Becher, Elise; Korrespondenz, New York"
+  },
   { "corresp":"*B-3-473", "title2":"", "id":203473, "title":"" },
-  { "corresp":"*B-3-474", "title2":"", "id":203474, "title":"" },
+  {
+    "corresp": "*B-3-474",
+    "title2": "",
+    "id": 203474,
+    "title": "Sapper, Theodor an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-475", "title2":"", "id":203475, "title":"" },
-  { "corresp":"*B-3-476", "title2":"", "id":203476, "title":"" },
+  {
+    "corresp": "*B-3-476",
+    "title2": "",
+    "id": 203476,
+    "title": "Schiess, Charlotte an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-477", "title2":"", "id":203477, "title":"" },
-  { "corresp":"*B-3-478", "title2":"", "id":203478, "title":"" },
+  {
+    "corresp": "*B-3-478",
+    "title2": "",
+    "id": 203478,
+    "title": "Schlocker, Georges an Becher, Dana; Korrespondenz, London"
+  },
   { "corresp":"*B-3-479", "title2":"", "id":203479, "title":"" },
-  { "corresp":"*B-3-480", "title2":"", "id":203480, "title":"" },
+  {
+    "corresp": "*B-3-480",
+    "title2": "",
+    "id": 203480,
+    "title": "Schmalhausen, Lotte an Becher, Dana; Korrespondenz, Berlin"
+  },
   { "corresp":"*B-3-481", "title2":"", "id":203481, "title":"" },
-  { "corresp":"*B-3-482", "title2":"", "id":203482, "title":"" },
+  {
+    "corresp": "*B-3-482",
+    "title2": "",
+    "id": 203482,
+    "title": "Schneider, Hansjörg an Becher, Dana; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-483", "title2":"", "id":203483, "title":"" },
-  { "corresp":"*B-3-484", "title2":"", "id":203484, "title":"" },
+  {
+    "corresp": "*B-3-484",
+    "title2": "",
+    "id": 203484,
+    "title": "Schönherr, Ludwig an Becher, Dana; Korrespondenz, Bensheim"
+  },
   { "corresp":"*B-3-485", "title2":"", "id":203485, "title":"" },
-  { "corresp":"*B-3-486", "title2":"", "id":203486, "title":"" },
+  {
+    "corresp": "*B-3-486",
+    "title2": "",
+    "id": 203486,
+    "title": "Schroeder, Max an Ponger, Vera; Korrespondenz, Berlin"
+  },
   { "corresp":"*B-3-487", "title2":"", "id":203487, "title":"" },
-  { "corresp":"*B-3-488", "title2":"", "id":203488, "title":"" },
+  {
+    "corresp": "*B-3-488",
+    "title2": "",
+    "id": 203488,
+    "title": "Schumann, Thomas B. an Becher, Dana; Korrespondenz, Hürth"
+  },
   { "corresp":"*B-3-489", "title2":"", "id":203489, "title":"" },
-  { "corresp":"*B-3-490", "title2":"", "id":203490, "title":"" },
+  {
+    "corresp": "*B-3-490",
+    "title2": "",
+    "id": 203490,
+    "title": "Sepp, Anto an Becher, Dana; Korrespondenz, Rakvere"
+  },
   { "corresp":"*B-3-491", "title2":"", "id":203491, "title":"" },
-  { "corresp":"*B-3-492", "title2":"", "id":203492, "title":"" },
+  {
+    "corresp": "*B-3-492",
+    "title2": "",
+    "id": 203492,
+    "title": "Thomas Sessler Verlag an Fischer, E.; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-493", "title2":"", "id":203493, "title":"" },
-  { "corresp":"*B-3-494", "title2":"", "id":203494, "title":"" },
+  {
+    "corresp": "*B-3-494",
+    "title2": "",
+    "id": 203494,
+    "title": "Staiger, Amy an Becher, Dana.; Korrespondenz, Paris;\nCapri;\nMarbella"
+  },
   { "corresp":"*B-3-495", "title2":"", "id":203495, "title":"" },
-  { "corresp":"*B-3-496", "title2":"", "id":203496, "title":"" },
+  {
+    "corresp": "*B-3-496",
+    "title2": "",
+    "id": 203496,
+    "title": "Stapenhorst, Fritz und Isolde an Becher, Dana; Korrespondenz, Icking"
+  },
   { "corresp":"*B-3-497", "title2":"", "id":203497, "title":"" },
-  { "corresp":"*B-3-498", "title2":"", "id":203498, "title":"" },
+  {
+    "corresp": "*B-3-498",
+    "title2": "",
+    "id": 203498,
+    "title": "Steigmann, Maximilian an Becher, Dana.; Korrespondenz, Montevideo"
+  },
   { "corresp":"*B-3-499", "title2":"", "id":203499, "title":"" },
-  { "corresp":"*B-3-500", "title2":"", "id":203500, "title":"" },
+  {
+    "corresp": "*B-3-500",
+    "title2": "",
+    "id": 203500,
+    "title": "Stern, Marcella an Becher, Dana.; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-501", "title2":"", "id":203501, "title":"" },
-  { "corresp":"*B-3-502", "title2":"", "id":203502, "title":"" },
+  {
+    "corresp": "*B-3-502",
+    "title2": "",
+    "id": 203502,
+    "title": "Thiess, Frank an Becher, Richard; Korrespondenz, Berlin"
+  },
   { "corresp":"*B-3-503", "title2":"", "id":203503, "title":"" },
-  { "corresp":"*B-3-504", "title2":"", "id":203504, "title":"" },
+  {
+    "corresp": "*B-3-504",
+    "title2": "",
+    "id": 203504,
+    "title": "Tolnay, Paul an Becher, Dana; Korrespondenz, Budapest"
+  },
   { "corresp":"*B-3-505", "title2":"", "id":203505, "title":"" },
-  { "corresp":"*B-3-506", "title2":"", "id":203506, "title":"" },
+  {
+    "corresp": "*B-3-506",
+    "title2": "",
+    "id": 203506,
+    "title": "Troubetzky, Dorothy Ulrich an Becher, Elise; Korrespondenz, Hartford;\nConn."
+  },
   { "corresp":"*B-3-507", "title2":"", "id":203507, "title":"" },
-  { "corresp":"*B-3-508", "title2":"", "id":203508, "title":"" },
+  {
+    "corresp": "*B-3-508",
+    "title2": "",
+    "id": 203508,
+    "title": "Gerold-Tucholsky, Mary an Becher, Dana; Korrespondenz, Rottach-Egern"
+  },
   { "corresp":"*B-3-509", "title2":"", "id":203509, "title":"" },
-  { "corresp":"*B-3-510", "title2":"", "id":203510, "title":"" },
-  { "corresp":"*B-3-511", "title2":"", "id":203511, "title":"" },
+  {
+    "corresp": "*B-3-510",
+    "title2": "",
+    "id": 203510,
+    "title": "Ulrich, Arthur und Edith an Becher, Richard und Elise; Korrespondenz, Detroit;\nMich.;\nSan Juan"
+  },
+  {
+    "corresp": "*B-3-511",
+    "title2": "",
+    "id": 203511,
+    "title": "Ulrich, Arthur und Edith an Becher, Dana; Korrespondenz, Nizza"
+  },
   { "corresp":"*B-3-512", "title2":"", "id":203512, "title":"" },
-  { "corresp":"*B-3-513", "title2":"", "id":203513, "title":"" },
+  {
+    "corresp": "*B-3-513",
+    "title2": "",
+    "id": 203513,
+    "title": "Ulrich, Martin an Becher, Benno; Korrespondenz, Berlin"
+  },
   { "corresp":"*B-3-514", "title2":"", "id":203514, "title":"" },
-  { "corresp":"*B-3-515", "title2":"", "id":203515, "title":"" },
+  {
+    "corresp": "*B-3-515",
+    "title2": "",
+    "id": 203515,
+    "title": "Unger, Ilse an Becher, Dana; Korrespondenz, Bad Krozingen"
+  },
   { "corresp":"*B-3-516", "title2":"", "id":203516, "title":"" },
-  { "corresp":"*B-3-517", "title2":"", "id":203517, "title":"" },
+  {
+    "corresp": "*B-3-517",
+    "title2": "",
+    "id": 203517,
+    "title": "Universal Edition an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-518", "title2":"", "id":203518, "title":"" },
-  { "corresp":"*B-3-519", "title2":"", "id":203519, "title":"" },
+  {
+    "corresp": "*B-3-519",
+    "title2": "",
+    "id": 203519,
+    "title": "?. Ursl an Becher, Martin Roda; Korrespondenz, s.l."
+  },
   { "corresp":"*B-3-520", "title2":"", "id":203520, "title":"" },
-  { "corresp":"*B-3-521", "title2":"", "id":203521, "title":"" },
+  {
+    "corresp": "*B-3-521",
+    "title2": "",
+    "id": 203521,
+    "title": "Vansant, Jacqueline an Becher, Dana; Korrespondenz, Clinton;\nNew York"
+  },
   { "corresp":"*B-3-522", "title2":"", "id":203522, "title":"" },
-  { "corresp":"*B-3-523", "title2":"", "id":203523, "title":"" },
+  {
+    "corresp": "*B-3-523",
+    "title2": "",
+    "id": 203523,
+    "title": "Verena, Agnes an Becher, Dana; Korrespondenz, Mainz"
+  },
   { "corresp":"*B-3-524", "title2":"", "id":203524, "title":"" },
-  { "corresp":"*B-3-525", "title2":"", "id":203525, "title":"" },
+  {
+    "corresp": "*B-3-525",
+    "title2": "",
+    "id": 203525,
+    "title": "Viennese Theatre Club an Preses, Peter; Korrespondenz, Washington"
+  },
   { "corresp":"*B-3-526", "title2":"", "id":203526, "title":"" },
-  { "corresp":"*B-3-527", "title2":"", "id":203527, "title":"" },
+  {
+    "corresp": "*B-3-527",
+    "title2": "",
+    "id": 203527,
+    "title": "Vischherr, Albert an Becher, Dana; Korrespondenz, Zürich"
+  },
   { "corresp":"*B-3-528", "title2":"", "id":203528, "title":"" },
-  { "corresp":"*B-3-529", "title2":"", "id":203529, "title":"" },
+  {
+    "corresp": "*B-3-529",
+    "title2": "",
+    "id": 203529,
+    "title": "Vitale, Rosanna an Becher, Dana; Korrespondenz, Nürnberg"
+  },
   { "corresp":"*B-3-530", "title2":"", "id":203530, "title":"" },
-  { "corresp":"*B-3-531", "title2":"", "id":203531, "title":"" },
-  { "corresp":"*B-3-532", "title2":"", "id":203532, "title":"" },
+  {
+    "corresp": "*B-3-531",
+    "title2": "",
+    "id": 203531,
+    "title": "Völker, Klaus an Becher, Dana; Korrespondenz, Berlin"
+  },
+  {
+    "corresp": "*B-3-532",
+    "title2": "",
+    "id": 203532,
+    "title": "Völker, Klaus an Kurt Reiss Verlag; Korrespondenz, Basel"
+  },
   { "corresp":"*B-3-533", "title2":"", "id":203533, "title":"" },
-  { "corresp":"*B-3-534", "title2":"", "id":203534, "title":"" },
+  {
+    "corresp": "*B-3-534",
+    "title2": "",
+    "id": 203534,
+    "title": "Volksstimme an Rosenberg, Wolfgang; Korrespondenz, St. Gallen"
+  },
   { "corresp":"*B-3-535", "title2":"", "id":203535, "title":"" },
-  { "corresp":"*B-3-536", "title2":"", "id":203536, "title":"" },
+  {
+    "corresp": "*B-3-536",
+    "title2": "",
+    "id": 203536,
+    "title": "Wagner, Paul an Becher, Richard; Korrespondenz, München"
+  },
   { "corresp":"*B-3-537", "title2":"", "id":203537, "title":"" },
-  { "corresp":"*B-3-538", "title2":"", "id":203538, "title":"" },
+  {
+    "corresp": "*B-3-538",
+    "title2": "",
+    "id": 203538,
+    "title": "Walter, Hans-Albert an Becher, Dana; Korrespondenz, Hofheim\/Taunus"
+  },
   { "corresp":"*B-3-539", "title2":"", "id":203539, "title":"" },
-  { "corresp":"*B-3-540", "title2":"", "id":203540, "title":"" },
+  {
+    "corresp": "*B-3-540",
+    "title2": "",
+    "id": 203540,
+    "title": "Josef Weinberger Limited, Theatrical & Music Publishers an Becher, Dana; Korrespondenz, London"
+  },
   { "corresp":"*B-3-541", "title2":"", "id":203541, "title":"" },
-  { "corresp":"*B-3-542", "title2":"", "id":203542, "title":"" },
+  {
+    "corresp": "*B-3-542",
+    "title2": "",
+    "id": 203542,
+    "title": "?, Willi an Becher, Dana; Korrespondenz, s.l."
+  },
   { "corresp":"*B-3-543", "title2":"", "id":203543, "title":"" },
-  { "corresp":"*B-3-544", "title2":"", "id":203544, "title":"" },
+  {
+    "corresp": "*B-3-544",
+    "title2": "",
+    "id": 203544,
+    "title": "Wisten, Fritz an Becher, Martin Roda; Korrespondenz, Berlin"
+  },
   { "corresp":"*B-3-545", "title2":"", "id":203545, "title":"" },
-  { "corresp":"*B-3-546", "title2":"", "id":203546, "title":"" },
+  {
+    "corresp": "*B-3-546",
+    "title2": "",
+    "id": 203546,
+    "title": "Wittek, Grete an Becher, Dana; Korrespondenz, Graz"
+  },
   { "corresp":"*B-3-547", "title2":"", "id":203547, "title":"" },
-  { "corresp":"*B-3-548", "title2":"", "id":203548, "title":"" },
+  {
+    "corresp": "*B-3-548",
+    "title2": "",
+    "id": 203548,
+    "title": "Wotruba, Fritz und Lucy an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-549", "title2":"", "id":203549, "title":"" },
-  { "corresp":"*B-3-550", "title2":"", "id":203550, "title":"" },
+  {
+    "corresp": "*B-3-550",
+    "title2": "",
+    "id": 203550,
+    "title": "Zankl, Horst an Becher, Dana; Korrespondenz, Zürich"
+  },
   { "corresp":"*B-3-551", "title2":"", "id":203551, "title":"" },
-  { "corresp":"*B-3-552", "title2":"", "id":203552, "title":"" },
-  { "corresp":"*B-3-553", "title2":"", "id":203553, "title":"" },
+  {
+    "corresp": "*B-3-552",
+    "title2": "",
+    "id": 203552,
+    "title": "Zeppelin, Harro und Lisa von an Becher, Dana; Korrespondenz, Barcelona;\nShanghai;\nYokohama;\nTokio;\nManila;\nBuenos Aires;\nNew York;\nMexiko-Stadt;\nSurfers Paradise;\n Wien"
+  },
+  {
+    "corresp": "*B-3-553",
+    "title2": "",
+    "id": 203553,
+    "title": "Zeppelin, Harro und Lisa von an Roda Roda, Elsbeth; Korrespondenz, Buenos Aires"
+  },
   { "corresp":"*B-3-554", "title2":"", "id":203554, "title":"" },
-  { "corresp":"*B-3-555", "title2":"", "id":203555, "title":"" },
+  {
+    "corresp": "*B-3-555",
+    "title2": "",
+    "id": 203555,
+    "title": "Zeppelin, Marius von an Becher, Dana; Korrespondenz, Lower Hutt;\nNeuseeland"
+  },
   { "corresp":"*B-3-556", "title2":"", "id":203556, "title":"" },
-  { "corresp":"*B-3-557", "title2":"", "id":203557, "title":"" },
+  {
+    "corresp": "*B-3-557",
+    "title2": "",
+    "id": 203557,
+    "title": "Paul Zsolnay Verlag an Becher, Dana; Korrespondenz, Wien"
+  },
   { "corresp":"*B-3-558", "title2":"", "id":203558, "title":"" },
-  { "corresp":"*B-3-559", "title2":"", "id":203559, "title":"" },
+  {
+    "corresp": "*B-3-559",
+    "title2": "",
+    "id": 203559,
+    "title": "Zuckmayer, Carl und Alice an Becher, Dana; Korrespondenz, Saas Fee"
+  },
   {
     "corresp": "*B-4",
     "title2": "",
@@ -1469,13 +2309,48 @@
     "id": 20400,
     "title": "Briefkonvolute, 1930-1990"
   },
-  { "corresp":"*B-4-560", "title2":"", "id":204560, "title":"" },
-  { "corresp":"*B-4-561", "title2":"", "id":204561, "title":"" },
-  { "corresp":"*B-4-562", "title2":"", "id":204562, "title":"" },
-  { "corresp":"*B-4-563", "title2":"", "id":204563, "title":"" },
-  { "corresp":"*B-4-564", "title2":"", "id":204564, "title":"" },
-  { "corresp":"*B-4-565", "title2":"", "id":204565, "title":"" },
-  { "corresp":"*B-4-566", "title2":"", "id":204566, "title":"" },
+  {
+    "corresp": "*B-4-560",
+    "title2": "",
+    "id": 204560,
+    "title": "Badezimmer- und Küchenpost von Ulrich an Dana Becher"
+  },
+  {
+    "corresp": "*B-4-561",
+    "title2": "",
+    "id": 204561,
+    "title": "Flaschenpost: Briefwechsel zwischen Uwe Naumann\/Michel Töteberg und Dana Becher"
+  },
+  {
+    "corresp": "*B-4-562",
+    "title2": "",
+    "id": 204562,
+    "title": "Kondolenzschreiben Alexander Roda Roda"
+  },
+  {
+    "corresp": "*B-4-563",
+    "title2": "",
+    "id": 204563,
+    "title": "Kondolenzschreiben Elsbeth Roda Roda"
+  },
+  {
+    "corresp": "*B-4-564",
+    "title2": "",
+    "id": 204564,
+    "title": "Promotionsvorhaben von Torsten Lange, Osnabrück;\nEssen;\nBasel"
+  },
+  {
+    "corresp": "*B-4-565",
+    "title2": "",
+    "id": 204565,
+    "title": "Rückerstattungsgespräche zwischen Hans Gumpert und Richard und Elise Becher"
+  },
+  {
+    "corresp": "*B-4-566",
+    "title2": "",
+    "id": 204566,
+    "title": "Unbekannte Korrespondenzpartner; Korrespondenz, Basel; Berlin; Bozen; Florenz; Frankfurt am Main; London; Neapel; New York; Prag; Sofia; Wien"
+  },
   {
     "corresp": "*C",
     "title2": "",
