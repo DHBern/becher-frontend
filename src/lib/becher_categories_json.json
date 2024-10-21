@@ -144,165 +144,50 @@
     "id": 20100,
     "title": "Briefe an Ulrich Becher, 1912-1990"
   },
-  {
-    "corresp": "*B-1-001",
-    "title2": "",
-    "id": 201001,
-    "title": "Becher, Richard und Elise an Becher, Ulrich; Korrespondenz, Basel; London; Poços de Caldas; Prag; Rio de Janeiro; São Paulo; Zürich"
-  },
-  {
-    "corresp": "*B-1-002",
-    "title2": "",
-    "id": 201002,
-    "title": "Roda Becher, Dana an Becher, Ulrich; Korrespondenz, Brüssel; Genf; Graz; Rom; Wien; Zürich"
-  },
-  {
-    "corresp": "*B-1-003",
-    "title2": "",
-    "id": 201003,
-    "title": "Becher, Martin Roda an Becher, Ulrich; Korrespondenz, La Escala"
-  },
-  {
-    "corresp": "*B-1-004",
-    "title2": "",
-    "id": 201004,
-    "title": "Becher, Rolf an Becher, Ulrich; Korrespondenz, Samnaun;\nSt. Moritz; Piazzogna; Zürich; Zypern"
-  },
-  {
-    "corresp": "*B-1-005",
-    "title2": "",
-    "id": 201005,
-    "title": "Benziger Verlag an Becher, Ulrich; Korrespondenz, Zürich"
-  },
-  {
-    "corresp": "*B-1-006",
-    "title2": "",
-    "id": 201006,
-    "title": "Berliner Morgenpost an Becher, Ulrich; Korrespondenz, Berlin"
-  },
+  { "corresp":"*B-1-001", "title2":"", "id":201001, "title":"" },
+  { "corresp":"*B-1-002", "title2":"", "id":201002, "title":"" },
+  { "corresp":"*B-1-003", "title2":"", "id":201003, "title":"" },
+  { "corresp":"*B-1-004", "title2":"", "id":201004, "title":"" },
+  { "corresp":"*B-1-005", "title2":"", "id":201005, "title":"" },
+  { "corresp":"*B-1-006", "title2":"", "id":201006, "title":"" },
   { "corresp":"*B-1-007", "title2":"", "id":201007, "title":"" },
-  {
-    "corresp": "*B-1-008",
-    "title2": "",
-    "id": 201008,
-    "title": "Breicha, Otto an Becher, Ulrich; Korrespondenz, Wien"
-  },
+  { "corresp":"*B-1-008", "title2":"", "id":201008, "title":"" },
   { "corresp":"*B-1-009", "title2":"", "id":201009, "title":"" },
   { "corresp":"*B-1-010", "title2":"", "id":201010, "title":"" },
-  {
-    "corresp": "*B-1-011",
-    "title2": "",
-    "id": 201011,
-    "title": "Chronos Verlag an Becher, Ulrich; Korrespondenz, Hamburg"
-  },
+  { "corresp":"*B-1-011", "title2":"", "id":201011, "title":"" },
   { "corresp":"*B-1-012", "title2":"", "id":201012, "title":"" },
-  {
-    "corresp": "*B-1-013",
-    "title2": "",
-    "id": 201013,
-    "title": "Fulda, Jorge an Becher, Ulrich; Korrespondenz, Genf"
-  },
-  {
-    "corresp": "*B-1-014",
-    "title2": "",
-    "id": 201014,
-    "title": "Wilhelm Frick Verlag an Becher, Ulrich; Korrespondenz, Wien"
-  },
+  { "corresp":"*B-1-013", "title2":"", "id":201013, "title":"" },
+  { "corresp":"*B-1-014", "title2":"", "id":201014, "title":"" },
   { "corresp":"*B-1-015", "title2":"", "id":201015, "title":"" },
-  {
-    "corresp": "*B-1-016",
-    "title2": "",
-    "id": 201016,
-    "title": "Grosz, George an Becher, Ulrich; Korrespondenz, Bayside (New York); Huntington (New York)"
-  },
-  {
-    "corresp": "*B-1-017",
-    "title2": "",
-    "id": 201017,
-    "title": "Heider, Wolf an Becher, Ulrich und Dana; Korrespondenz, Paris"
-  },
-  {
-    "corresp": "*B-1-018",
-    "title2": "",
-    "id": 201018,
-    "title": "Hubacher, Helmut an Becher, Ulrich; Korrespondenz, Basel"
-  },
+  { "corresp":"*B-1-016", "title2":"", "id":201016, "title":"" },
+  { "corresp":"*B-1-017", "title2":"", "id":201017, "title":"" },
+  { "corresp":"*B-1-018", "title2":"", "id":201018, "title":"" },
   { "corresp":"*B-1-019", "title2":"", "id":201019, "title":"" },
   { "corresp":"*B-1-020", "title2":"", "id":201020, "title":"" },
   { "corresp":"*B-1-021", "title2":"", "id":201021, "title":"" },
-  {
-    "corresp": "*B-1-022",
-    "title2": "",
-    "id": 201022,
-    "title": "Krukowski, Elizabeth an Becher, Ulrich; Korrespondenz, Middletown;\nOhio"
-  },
+  { "corresp":"*B-1-022", "title2":"", "id":201022, "title":"" },
   { "corresp":"*B-1-023", "title2":"", "id":201023, "title":"" },
   { "corresp":"*B-1-024", "title2":"", "id":201024, "title":"" },
   { "corresp":"*B-1-025", "title2":"", "id":201025, "title":"" },
-  {
-    "corresp": "*B-1-026",
-    "title2": "",
-    "id": 201026,
-    "title": "Leselampe an Becher, Ulrich; Korrespondenz, Salzburg"
-  },
-  {
-    "corresp": "*B-1-027",
-    "title2": "",
-    "id": 201027,
-    "title": "Maerker, Christa an Becher, Ulrich; Korrespondenz, Basel"
-  },
+  { "corresp":"*B-1-026", "title2":"", "id":201026, "title":"" },
+  { "corresp":"*B-1-027", "title2":"", "id":201027, "title":"" },
   { "corresp":"*B-1-028", "title2":"", "id":201028, "title":"" },
   { "corresp":"*B-1-029", "title2":"", "id":201029, "title":"" },
-  {
-    "corresp": "*B-1-030",
-    "title2": "",
-    "id": 201030,
-    "title": "Moeller, Hans-Bernhard an Becher, Ulrich; Korrespondenz, Austin"
-  },
+  { "corresp":"*B-1-030", "title2":"", "id":201030, "title":"" },
   { "corresp":"*B-1-031", "title2":"", "id":201031, "title":"" },
   { "corresp":"*B-1-032", "title2":"", "id":201032, "title":"" },
-  {
-    "corresp": "*B-1-033",
-    "title2": "",
-    "id": 201033,
-    "title": "Roda Roda, Alexander an Becher, Ulrich und Dana; Korrespondenz, Graz; Wien"
-  },
-  {
-    "corresp": "*B-1-034",
-    "title2": "",
-    "id": 201034,
-    "title": "Roda Roda, Elsbeth an Becher, Ulrich; Korrespondenz, Graz; Rom"
-  },
-  {
-    "corresp": "*B-1-035",
-    "title2": "",
-    "id": 201035,
-    "title": "Rowohlt Verlag an Becher, Ulrich; Korrespondenz, Frankfurt am Main; Hamburg; Kampen\/Sylt; Reinbek bei Hamburg; St. Moritz; Wiesbaden"
-  },
+  { "corresp":"*B-1-033", "title2":"", "id":201033, "title":"" },
+  { "corresp":"*B-1-034", "title2":"", "id":201034, "title":"" },
+  { "corresp":"*B-1-035", "title2":"", "id":201035, "title":"" },
   { "corresp":"*B-1-036", "title2":"", "id":201036, "title":"" },
   { "corresp":"*B-1-037", "title2":"", "id":201037, "title":"" },
   { "corresp":"*B-1-038", "title2":"", "id":201038, "title":"" },
-  {
-    "corresp": "*B-1-039",
-    "title2": "",
-    "id": 201039,
-    "title": "Steckel, Leonard an Becher, Ulrich; Korrespondenz, München"
-  },
-  {
-    "corresp": "*B-1-040",
-    "title2": "",
-    "id": 201040,
-    "title": "Universal Edition AG Wien an Becher, Ulrich; Korrespondenz, Wien"
-  },
+  { "corresp":"*B-1-039", "title2":"", "id":201039, "title":"" },
+  { "corresp":"*B-1-040", "title2":"", "id":201040, "title":"" },
   { "corresp":"*B-1-041", "title2":"", "id":201041, "title":"" },
   { "corresp":"*B-1-042", "title2":"", "id":201042, "title":"" },
   { "corresp":"*B-1-043", "title2":"", "id":201043, "title":"" },
-  {
-    "corresp": "*B-1-044",
-    "title2": "",
-    "id": 201044,
-    "title": "Weismann, Willi an Becher, Ulrich; Korrespondenz, München"
-  },
+  { "corresp":"*B-1-044", "title2":"", "id":201044, "title":"" },
   { "corresp":"*B-1-045", "title2":"", "id":201045, "title":"" },
   { "corresp":"*B-1-046", "title2":"", "id":201046, "title":"" },
   {
@@ -533,54 +418,19 @@
   { "corresp":"*B-2-055", "title2":"", "id":202055, "title":"" },
   { "corresp":"*B-2-056", "title2":"", "id":202056, "title":"" },
   { "corresp":"*B-2-057", "title2":"", "id":202057, "title":"" },
-  {
-    "corresp": "*B-2-058",
-    "title2": "",
-    "id": 202058,
-    "title": "Becher, Ulrich an Becher, Richard und Elise; Korrespondenz"
-  },
-  {
-    "corresp": "*B-2-059",
-    "title2": "",
-    "id": 202059,
-    "title": "Becher, Ulrich an Becher, Dana; Korrespondenz, Bad Gastein; Basel; Berlin; Mailand; Manila; Montecatini; München; Paris; Prag;\nSalzburg; Triest; Venedig; Verona; Wien"
-  },
-  {
-    "corresp": "*B-2-060",
-    "title2": "",
-    "id": 202060,
-    "title": "Becher, Ulrich an Becher, Martin Roda; Korrespondenz, Baden b. Wien; Paris; [Toskana]"
-  },
-  {
-    "corresp": "*B-2-061",
-    "title2": "",
-    "id": 202061,
-    "title": "Becher, Ulrich an Becher, Rolf; Korrespondenz, Berlin"
-  },
+  { "corresp":"*B-2-058", "title2":"", "id":202058, "title":"" },
+  { "corresp":"*B-2-059", "title2":"", "id":202059, "title":"" },
+  { "corresp":"*B-2-060", "title2":"", "id":202060, "title":"" },
+  { "corresp":"*B-2-061", "title2":"", "id":202061, "title":"" },
   { "corresp":"*B-2-062", "title2":"", "id":202062, "title":"" },
   { "corresp":"*B-2-063", "title2":"", "id":202063, "title":"" },
   { "corresp":"*B-2-064", "title2":"", "id":202064, "title":"" },
-  {
-    "corresp": "*B-2-065",
-    "title2": "",
-    "id": 202065,
-    "title": "Becher, Ulrich an Benziger Verlag; Korrespondenz, o.O."
-  },
-  {
-    "corresp": "*B-2-066",
-    "title2": "",
-    "id": 202066,
-    "title": "Becher, Ulrich an Berblinger (?), Klaus; Korrespondenz, o.O."
-  },
+  { "corresp":"*B-2-065", "title2":"", "id":202065, "title":"" },
+  { "corresp":"*B-2-066", "title2":"", "id":202066, "title":"" },
   { "corresp":"*B-2-067", "title2":"", "id":202067, "title":"" },
   { "corresp":"*B-2-068", "title2":"", "id":202068, "title":"" },
   { "corresp":"*B-2-069", "title2":"", "id":202069, "title":"" },
-  {
-    "corresp": "*B-2-070",
-    "title2": "",
-    "id": 202070,
-    "title": "Becher, Ulrich an Breicha, Otto; Korrespondenz, o.O."
-  },
+  { "corresp":"*B-2-070", "title2":"", "id":202070, "title":"" },
   { "corresp":"*B-2-071", "title2":"", "id":202071, "title":"" },
   { "corresp":"*B-2-072", "title2":"", "id":202072, "title":"" },
   { "corresp":"*B-2-073", "title2":"", "id":202073, "title":"" },
@@ -588,12 +438,7 @@
   { "corresp":"*B-2-075", "title2":"", "id":202075, "title":"" },
   { "corresp":"*B-2-076", "title2":"", "id":202076, "title":"" },
   { "corresp":"*B-2-077", "title2":"", "id":202077, "title":"" },
-  {
-    "corresp": "*B-2-078",
-    "title2": "",
-    "id": 202078,
-    "title": "Becher, Ulrich an Chronos Verlag; Korrespondenz, Berlin"
-  },
+  { "corresp":"*B-2-078", "title2":"", "id":202078, "title":"" },
   { "corresp":"*B-2-079", "title2":"", "id":202079, "title":"" },
   { "corresp":"*B-2-080", "title2":"", "id":202080, "title":"" },
   { "corresp":"*B-2-081", "title2":"", "id":202081, "title":"" },
@@ -618,42 +463,22 @@
   { "corresp":"*B-2-100", "title2":"", "id":202100, "title":"" },
   { "corresp":"*B-2-101", "title2":"", "id":202101, "title":"" },
   { "corresp":"*B-2-102", "title2":"", "id":202102, "title":"" },
-  {
-    "corresp": "*B-2-103",
-    "title2": "",
-    "id": 202103,
-    "title": "Becher, Ulrich an Fritzsche, Walter; Korrespondenz, Basel"
-  },
-  {
-    "corresp": "*B-2-104",
-    "title2": "",
-    "id": 202104,
-    "title": "Becher, Ulrich an Fulda, Jorge; Korrespondenz, o.O."
-  },
+  { "corresp":"*B-2-103", "title2":"", "id":202103, "title":"" },
+  { "corresp":"*B-2-104", "title2":"", "id":202104, "title":"" },
   { "corresp":"*B-2-105", "title2":"", "id":202105, "title":"" },
   { "corresp":"*B-2-106", "title2":"", "id":202106, "title":"" },
   { "corresp":"*B-2-107", "title2":"", "id":202107, "title":"" },
   { "corresp":"*B-2-108", "title2":"", "id":202108, "title":"" },
   { "corresp":"*B-2-109", "title2":"", "id":202109, "title":"" },
   { "corresp":"*B-2-110", "title2":"", "id":202110, "title":"" },
-  {
-    "corresp": "*B-2-111",
-    "title2": "",
-    "id": 202111,
-    "title": "Becher, Ulrich an Grosz, George; Korrespondenz, [New York?]; Zürich"
-  },
+  { "corresp":"*B-2-111", "title2":"", "id":202111, "title":"" },
   { "corresp":"*B-2-112", "title2":"", "id":202112, "title":"" },
   { "corresp":"*B-2-113", "title2":"", "id":202113, "title":"" },
   { "corresp":"*B-2-114", "title2":"", "id":202114, "title":"" },
   { "corresp":"*B-2-115", "title2":"", "id":202115, "title":"" },
   { "corresp":"*B-2-116", "title2":"", "id":202116, "title":"" },
   { "corresp":"*B-2-117", "title2":"", "id":202117, "title":"" },
-  {
-    "corresp": "*B-2-118",
-    "title2": "",
-    "id": 202118,
-    "title": "Becher, Ulrich an Heinemann, (Herr); Korrespondenz, Berlin"
-  },
+  { "corresp":"*B-2-118", "title2":"", "id":202118, "title":"" },
   { "corresp":"*B-2-119", "title2":"", "id":202119, "title":"" },
   { "corresp":"*B-2-120", "title2":"", "id":202120, "title":"" },
   { "corresp":"*B-2-121", "title2":"", "id":202121, "title":"" },
@@ -667,12 +492,7 @@
   { "corresp":"*B-2-129", "title2":"", "id":202129, "title":"" },
   { "corresp":"*B-2-130", "title2":"", "id":202130, "title":"" },
   { "corresp":"*B-2-131", "title2":"", "id":202131, "title":"" },
-  {
-    "corresp": "*B-2-132",
-    "title2": "",
-    "id": 202132,
-    "title": "Becher, Ulrich an Huber Verlag; Korrespondenz, o.O."
-  },
+  { "corresp":"*B-2-132", "title2":"", "id":202132, "title":"" },
   { "corresp":"*B-2-133", "title2":"", "id":202133, "title":"" },
   { "corresp":"*B-2-134", "title2":"", "id":202134, "title":"" },
   { "corresp":"*B-2-135", "title2":"", "id":202135, "title":"" },
@@ -682,23 +502,13 @@
   { "corresp":"*B-2-139", "title2":"", "id":202139, "title":"" },
   { "corresp":"*B-2-140", "title2":"", "id":202140, "title":"" },
   { "corresp":"*B-2-141", "title2":"", "id":202141, "title":"" },
-  {
-    "corresp": "*B-2-142",
-    "title2": "",
-    "id": 202142,
-    "title": "Becher, Ulrich an Krukowski, Elizabeth; Korrespondenz, Basel"
-  },
+  { "corresp":"*B-2-142", "title2":"", "id":202142, "title":"" },
   { "corresp":"*B-2-143", "title2":"", "id":202143, "title":"" },
   { "corresp":"*B-2-144", "title2":"", "id":202144, "title":"" },
   { "corresp":"*B-2-145", "title2":"", "id":202145, "title":"" },
   { "corresp":"*B-2-146", "title2":"", "id":202146, "title":"" },
   { "corresp":"*B-2-147", "title2":"", "id":202147, "title":"" },
-  {
-    "corresp": "*B-2-148",
-    "title2": "",
-    "id": 202148,
-    "title": "Becher, Ulrich an Leskoschek, Axel; Korrespondenz, New York"
-  },
+  { "corresp":"*B-2-148", "title2":"", "id":202148, "title":"" },
   { "corresp":"*B-2-149", "title2":"", "id":202149, "title":"" },
   { "corresp":"*B-2-150", "title2":"", "id":202150, "title":"" },
   { "corresp":"*B-2-151", "title2":"", "id":202151, "title":"" },
@@ -707,12 +517,7 @@
   { "corresp":"*B-2-154", "title2":"", "id":202154, "title":"" },
   { "corresp":"*B-2-155", "title2":"", "id":202155, "title":"" },
   { "corresp":"*B-2-156", "title2":"", "id":202156, "title":"" },
-  {
-    "corresp": "*B-2-157",
-    "title2": "",
-    "id": 202157,
-    "title": "Becher, Ulrich an Maeder, Louis; Korrespondenz, Villars-sur-Ollon"
-  },
+  { "corresp":"*B-2-157", "title2":"", "id":202157, "title":"" },
   { "corresp":"*B-2-158", "title2":"", "id":202158, "title":"" },
   { "corresp":"*B-2-159", "title2":"", "id":202159, "title":"" },
   { "corresp":"*B-2-160", "title2":"", "id":202160, "title":"" },
@@ -727,12 +532,7 @@
   { "corresp":"*B-2-169", "title2":"", "id":202169, "title":"" },
   { "corresp":"*B-2-170", "title2":"", "id":202170, "title":"" },
   { "corresp":"*B-2-171", "title2":"", "id":202171, "title":"" },
-  {
-    "corresp": "*B-2-172",
-    "title2": "",
-    "id": 202172,
-    "title": "Becher, Ulrich an Moeller, Hans-Bernhard; Korrespondenz, Basel"
-  },
+  { "corresp":"*B-2-172", "title2":"", "id":202172, "title":"" },
   { "corresp":"*B-2-173", "title2":"", "id":202173, "title":"" },
   { "corresp":"*B-2-174", "title2":"", "id":202174, "title":"" },
   { "corresp":"*B-2-175", "title2":"", "id":202175, "title":"" },
@@ -757,26 +557,11 @@
   { "corresp":"*B-2-194", "title2":"", "id":202194, "title":"" },
   { "corresp":"*B-2-195", "title2":"", "id":202195, "title":"" },
   { "corresp":"*B-2-196", "title2":"", "id":202196, "title":"" },
-  {
-    "corresp": "*B-2-197",
-    "title2": "",
-    "id": 202197,
-    "title": "Becher, Ulrich an Roda Roda, Alexander; Korrespondenz, Berlin; Wien"
-  },
-  {
-    "corresp": "*B-2-198",
-    "title2": "",
-    "id": 202198,
-    "title": "Becher, Ulrich an Roda Roda, Elsbeth; Korrespondenz, München"
-  },
+  { "corresp":"*B-2-197", "title2":"", "id":202197, "title":"" },
+  { "corresp":"*B-2-198", "title2":"", "id":202198, "title":"" },
   { "corresp":"*B-2-199", "title2":"", "id":202199, "title":"" },
   { "corresp":"*B-2-200", "title2":"", "id":202200, "title":"" },
-  {
-    "corresp": "*B-2-201",
-    "title2": "",
-    "id": 202201,
-    "title": "Becher, Ulrich an Rowohlt Verlag; Korrespondenz, Basel"
-  },
+  { "corresp":"*B-2-201", "title2":"", "id":202201, "title":"" },
   { "corresp":"*B-2-202", "title2":"", "id":202202, "title":"" },
   { "corresp":"*B-2-203", "title2":"", "id":202203, "title":"" },
   { "corresp":"*B-2-204", "title2":"", "id":202204, "title":"" },
@@ -800,12 +585,7 @@
   { "corresp":"*B-2-222", "title2":"", "id":202222, "title":"" },
   { "corresp":"*B-2-223", "title2":"", "id":202223, "title":"" },
   { "corresp":"*B-2-224", "title2":"", "id":202224, "title":"" },
-  {
-    "corresp": "*B-2-225",
-    "title2": "",
-    "id": 202225,
-    "title": "Becher, Ulrich an Steckel, Leonard; Korrespondenz, Berlin"
-  },
+  { "corresp":"*B-2-225", "title2":"", "id":202225, "title":"" },
   { "corresp":"*B-2-226", "title2":"", "id":202226, "title":"" },
   { "corresp":"*B-2-227", "title2":"", "id":202227, "title":"" },
   { "corresp":"*B-2-228", "title2":"", "id":202228, "title":"" },
@@ -816,12 +596,7 @@
   { "corresp":"*B-2-233", "title2":"", "id":202233, "title":"" },
   { "corresp":"*B-2-234", "title2":"", "id":202234, "title":"" },
   { "corresp":"*B-2-235", "title2":"", "id":202235, "title":"" },
-  {
-    "corresp": "*B-2-236",
-    "title2": "",
-    "id": 202236,
-    "title": "Becher, Ulrich an Universal Edition AG Wien; Korrespondenz, Basel"
-  },
+  { "corresp":"*B-2-236", "title2":"", "id":202236, "title":"" },
   { "corresp":"*B-2-237", "title2":"", "id":202237, "title":"" },
   { "corresp":"*B-2-238", "title2":"", "id":202238, "title":"" },
   { "corresp":"*B-2-239", "title2":"", "id":202239, "title":"" },
@@ -833,12 +608,7 @@
   { "corresp":"*B-2-245", "title2":"", "id":202245, "title":"" },
   { "corresp":"*B-2-246", "title2":"", "id":202246, "title":"" },
   { "corresp":"*B-2-247", "title2":"", "id":202247, "title":"" },
-  {
-    "corresp": "*B-2-248",
-    "title2": "",
-    "id": 202248,
-    "title": "Becher, Ulrich an Weismann, Willi; Korrespondenz, Innsbruck"
-  },
+  { "corresp":"*B-2-248", "title2":"", "id":202248, "title":"" },
   { "corresp":"*B-2-249", "title2":"", "id":202249, "title":"" },
   { "corresp":"*B-2-250", "title2":"", "id":202250, "title":"" },
   { "corresp":"*B-2-251", "title2":"", "id":202251, "title":"" },
