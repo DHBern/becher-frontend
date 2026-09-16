@@ -267,8 +267,8 @@
 	</div>
 	<div class="col-start-1 sm:col-start-2 row-span-2 row-start-1">
 		<enhanced:img
-			class="relative float-right sm:w-[150px] lg:w-[222px]"
-			src="$lib/assets/nachexil-basel.png?w=222"
+			class="relative top-[-28px] float-right sm:w-[150px] lg:w-[222px]"
+			src="$lib/assets/becher.png?w=222"
 			alt="Ulrich Becher in Basel"
 		/>
 	</div>
