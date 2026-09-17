@@ -5,6 +5,9 @@
 	import { goto } from '$app/navigation';
 	import { base } from '$app/paths';
 	import { page } from '$app/stores';
+	import { slide } from 'svelte/transition';
+
+	let introExpanded = false;
 
 	/** @param {number} tab */
 	function goHomeTab(tab) {
@@ -25,7 +28,10 @@
 
 <ContentContainer>
 	<h2 class="h2">Context and Guidance</h2>
-	<div>
+	<div class="container relative">
+		{#if !introExpanded}
+			<div class="intro-fade pointer-events-none" aria-hidden="true"></div>
+		{/if}
 		<p>
 			The prototype application “Becher Digital” (BeD) was developed in 2024 by Jörn Hasenclever and
 			Sylvia Asmus (German Exile Archive 1933–1945, Frankfurt), Moritz Wagner and Ruedi Probst
@@ -43,25 +49,39 @@
 			statically-served resource that is not dependent on any running server-side application. All
 			application logic unfolds client-side and the maintenance footprint is kept minimal.
 		</p>
-		<p>
-			The development of the prototype involved work at the level of data (e.g. aligning the
-			RNAB-based archival structures), at a conceptual level, and finally at the level of software
-			development, re-using existing components wherever possible. These areas had to be balanced
-			against limited resources while also accommodating existing constraints that could not be
-			resolved within the scope of the collaboration. For instance, the lack of sufficiently
-			high-quality OCR data precluded a more in-depth testing of approaches of Natural Language
-			Processing (NLP) and Machine Learning (ML). Instead, the development concentrated on providing
-			varied access to the virtually integrated holdings for users and scholars: archival, semantic,
-			exploratory, map-based, chronological, narrative, and collaborative. These modes of access are
-			described in more detail below.
-		</p>
-		<p>
-			The approaches tested revealed considerable potential for research, and this impression was
-			clearly reinforced by feedback from literary scholars and researchers in exile studies who
-			were given the opportunity to test the prototype. Consequently, the participating institutions
-			and individuals developed a research plan for the more comprehensive implementation of a
-			research and archival portal and are seeking to secure the necessary funding.
-		</p>
+		{#if introExpanded}
+			<div transition:slide|local>
+				<p>
+					The development of the prototype involved work at the level of data (e.g. aligning the
+					RNAB-based archival structures), at a conceptual level, and finally at the level of
+					software development, re-using existing components wherever possible. These areas had to
+					be balanced against limited resources while also accommodating existing constraints that
+					could not be resolved within the scope of the collaboration. For instance, the lack of
+					sufficiently high-quality OCR data precluded a more in-depth testing of approaches of
+					Natural Language Processing (NLP) and Machine Learning (ML). Instead, the development
+					concentrated on providing varied access to the virtually integrated holdings for users and
+					scholars: archival, semantic, exploratory, map-based, chronological, narrative, and
+					collaborative. These modes of access are described in more detail below.
+				</p>
+				<p>
+					The approaches tested revealed considerable potential for research, and this impression
+					was clearly reinforced by feedback from literary scholars and researchers in exile studies
+					who were given the opportunity to test the prototype. Consequently, the participating
+					institutions and individuals developed a research plan for the more comprehensive
+					implementation of a research and archival portal and are seeking to secure the necessary
+					funding.
+				</p>
+			</div>
+		{/if}
+		<button
+			type="button"
+			class="btn variant-ghost-surface btn-sm mt-2 gap-2"
+			aria-expanded={introExpanded}
+			on:click={() => (introExpanded = !introExpanded)}
+		>
+			<span>{introExpanded ? 'Show less' : 'Read more'}</span>
+			<span class="transition-transform duration-200" class:rotate-180={introExpanded}>▾</span>
+		</button>
 	</div>
 	<h2 class="h2">Features</h2>
 	<Accordion>
@@ -315,3 +335,26 @@
 		</AccordionItem>
 	</Accordion>
 </ContentContainer>
+
+<style>
+	.intro-fade {
+		position: absolute;
+		left: 0;
+		right: 0;
+		bottom: 3rem;
+		height: 6rem;
+		background: linear-gradient(
+			to bottom,
+			rgb(var(--color-surface-50) / 0),
+			rgb(var(--color-surface-50) / 1)
+		);
+	}
+
+	:global(.dark) .intro-fade {
+		background: linear-gradient(
+			to bottom,
+			rgb(var(--color-surface-900) / 0),
+			rgb(var(--color-surface-900) / 1)
+		);
+	}
+</style>
