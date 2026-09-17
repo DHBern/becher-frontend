@@ -3,7 +3,7 @@
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import { guidance } from '$lib/stores.js';
 	import { goto } from '$app/navigation';
-	import { base } from '$app/paths';
+	import { base, resolveRoute } from '$app/paths';
 	import { page } from '$app/stores';
 	import { slide } from 'svelte/transition';
 
@@ -91,15 +91,21 @@
 				><p>
 					The portal of the DEA prioritises search over hierarchy for users, whereas the catalog
 					view of the SLA puts hierarchy first (compare
-					https://portal.dnb.de/opac/simpleSearch?cqlMode=true\&query=partOfTreasury%3D981903096https://portal.dnb.de/opac/simpleSearch?cqlMode=true\&query=partOfTreasury%3D981903096
-					and https://ead.nb.admin.ch/html/ubecher\_B.html). In the prototype implementation, both
-					access modes are purposefully integrated allowing for the overall collection to be
-					narrowed down at once by hierarchical selection and through the searching and filtering of
-					metadata. This enables, for instance, reducing the result set by the main units of the
-					RNAB schema and their subdivisions ("Works," "Correspondences," "Life Documents") in
-					combination with metadata filters such as correspondents, places of origin, languages, or
-					work authority data. A combined approach is also possible, allowing for example, to search
-					for letters in French within the category "Letters to Ulrich Becher". The eight found
+					<a
+						class="anchor"
+						href="https://portal.dnb.de/opac/simpleSearch?cqlMode=true\&query=partOfTreasury%3D981903096https://portal.dnb.de/opac/simpleSearch?cqlMode=true\&query=partOfTreasury%3D981903096"
+						target="_blank">DEA</a
+					>
+					and
+					<a class="anchor" href="https://ead.nb.admin.ch/html/ubecher\_B.html" target="_blank"
+						>SLA</a
+					> searches). In the prototype implementation, both access modes are purposefully integrated
+					allowing for the overall collection to be narrowed down at once by hierarchical selection and
+					through the searching and filtering of metadata. This enables, for instance, reducing the result
+					set by the main units of the RNAB schema and their subdivisions ("Works," "Correspondences,"
+					"Life Documents") in combination with metadata filters such as correspondents, places of origin,
+					languages, or work authority data. A combined approach is also possible, allowing for example,
+					to search for letters in French within the category "Letters to Ulrich Becher". The eight found
 					results may then furthermore be split by institution.
 				</p>
 
@@ -156,12 +162,13 @@
 					machine-written family letters we carried out experiments using basic methods of
 					similarity determination such as word embedding/Bag-of-Words, N-grams, as well as the
 					TF-IDF measure, applying common distance metrics such as Cosine similarity, Euclidean
-					distance, and the Jaccard coefficient (cf.
-					https://dhbern.github.io/becher-frontend/related-tests). Processing these materials using
-					more advanced machine learning methods such as the application of language models and
-					transformer approaches, revealed promising potential in this regard. With growing coverage
-					of full-text data, these approaches, as well as more recent ones than the ones available
-					in 2024, could be applied more comprehensively.
+					distance, and the Jaccard coefficient (cf. <a
+						class="anchor"
+						href={resolveRoute('/related-tests', {})}>related tests</a
+					>). Processing these materials using more advanced machine learning methods such as the
+					application of language models and transformer approaches, revealed promising potential in
+					this regard. With growing coverage of full-text data, these approaches, as well as more
+					recent ones than the ones available in 2024, could be applied more comprehensively.
 				</p>
 
 				<p>
@@ -218,16 +225,18 @@
 				<p>
 					As an additional way to explore and access the documents, the prototype makes use of an
 					interactive geo-visualisation. This component represents items that are linked with
-					geographical authority data on a map using geocoordinates derived from the GND (cf.
-					https://www.dnb.de/DE/Professionell/Metadatendienste/Datenbezug/LDS/lds_node.html#:~:text=GeoNames).
-					It offers common interactive features, including clustering depending on the zoom level,
-					filtering by document type and creation date, as well as linking map markers to object
-					views. The places of origin recorded in the metadata can be utilised directly in this way,
-					but given that only a fraction of the archival documents are provided with geographical
-					metadata, the currently implemented map component possesses limited value and validity.
-					This also applies to the weights of the represented documents that is the same for every
-					instance: a one-sided postcard does not differ from a literary text consisting of hundreds
-					of pages (apart from the visual form of the map marker).
+					geographical authority data on a map using geocoordinates derived from the GND (cf. <a
+						class="anchor"
+						href="https://www.dnb.de/DE/Professionell/Metadatendienste/Datenbezug/LDS/lds_node.html#:~:text=GeoNames"
+						target="_blank">GND Geonames</a
+					>). It offers common interactive features, including clustering depending on the zoom
+					level, filtering by document type and creation date, as well as linking map markers to
+					object views. The places of origin recorded in the metadata can be utilised directly in
+					this way, but given that only a fraction of the archival documents are provided with
+					geographical metadata, the currently implemented map component possesses limited value and
+					validity. This also applies to the weights of the represented documents that is the same
+					for every instance: a one-sided postcard does not differ from a literary text consisting
+					of hundreds of pages (apart from the visual form of the map marker).
 				</p>
 				<p>
 					Whereas the map component of the prototype is kept simple, with places represented as
