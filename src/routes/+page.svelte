@@ -259,17 +259,20 @@
 	dark
 >
 	<div class="z-10 col-span-full md:col-span-1 row-start-1">
-		<h1 class="h1 my-16">Ulrich Becher Digital</h1>
-		<p class="p lg:text-xl">
+		<h1 class="h1 my-16 text-shadow-lg bg-surface-900/60 sm:bg-inherit rounded-md">
+			Ulrich Becher Digital
+		</h1>
+		<p class="p lg:text-xl bg-surface-900/60 sm:bg-inherit rounded-md">
 			Virtuell zusammengeführte Teilnachlässe des Deutschen Exilarchivs 1933-1945 und des
 			Schweizerischen Literaturarchivs
 		</p>
 	</div>
 	<div class="col-start-1 sm:col-start-2 row-span-2 row-start-1">
 		<enhanced:img
-			class="relative top-[-28px] float-right sm:w-[150px] lg:w-[222px]"
-			src="$lib/assets/becher.png?w=222"
-			alt="Ulrich Becher in Basel"
+			class="relative lg:top-[-25px] xl:top-[-50px] float-right w-80 sm:w-[202px] lg:w-[320px] xl:w-[340px]"
+			src="$lib/assets/becher_breit.png"
+			alt="Dana und Ulrich Becher in Basel, ca. 1974 © Esther Pfirter-Merkle (1929-)"
+			title="Dana und Ulrich Becher in Basel, ca. 1974 © Esther Pfirter-Merkle (1929-)"
 		/>
 	</div>
 </ContentContainer>
