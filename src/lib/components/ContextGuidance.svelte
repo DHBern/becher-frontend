@@ -1,22 +1,18 @@
 <script>
-	import { Accordion, AccordionItem, getDrawerStore } from '@skeletonlabs/skeleton';
+	import { Accordion, AccordionItem } from '@skeletonlabs/skeleton';
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import { guidance } from '$lib/stores.js';
 	import { goto } from '$app/navigation';
 	import { base } from '$app/paths';
 	import { page } from '$app/stores';
 
-	const drawerStore = getDrawerStore();
-
 	/** @param {number} tab */
 	function goHomeTab(tab) {
-		drawerStore.close();
 		guidance.set({ type: 'tab', tab });
 		if ($page.url.pathname !== base + '/') goto(base + '/');
 	}
 
 	function goBestand() {
-		drawerStore.close();
 		// Only acts on the home page where the "Virtueller Bestand" section exists.
 		if ($page.url.pathname === base + '/') guidance.set({ type: 'bestand' });
 	}
