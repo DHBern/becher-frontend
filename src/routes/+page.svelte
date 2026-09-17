@@ -12,8 +12,8 @@
 		Tab
 	} from '@skeletonlabs/skeleton';
 	import MiniSearch from 'minisearch';
-	import { miniSearch } from '$lib/stores.js';
-	import { onMount } from 'svelte';
+	import { miniSearch, guidance } from '$lib/stores.js';
+	import { onMount, tick } from 'svelte';
 	import { page } from '$app/stores';
 	import { afterNavigate } from '$app/navigation';
 	import { slide } from 'svelte/transition';
@@ -110,7 +110,7 @@
 		}
 	});
 
-	/** @type {import('./$types').Snapshot<{searchtext: string | import('minisearch').Query, checkedNodes:string[], tabSet: 0|1|2, advancedToggle: boolean, advancedFields: { [key: string]: string; }}>} */
+	/** @type {import('./$types').Snapshot<{searchtext: string | import('minisearch').Query, checkedNodes:string[], tabSet: 0|1|2|3, advancedToggle: boolean, advancedFields: { [key: string]: string; }}>} */
 	export const snapshot = {
 		capture: () => {
 			return { searchtext, checkedNodes, advancedToggle, advancedFields, tabSet };
@@ -250,8 +250,35 @@
 	/** @type { "DEA"|"SLA"|false }*/
 	let holdingInstitutionToggle = false;
 
-	/** @type {0 | 1 | 2} */
+	/** @type {0 | 1 | 2 | 3} */
 	let tabSet = 0;
+
+	/** @type {'' | 'bestand' | 'tabs'} */
+	let highlight = '';
+
+	/** @param {'bestand' | 'tabs'} target */
+	function flashHighlight(target) {
+		highlight = target;
+		setTimeout(() => (highlight = ''), 5500);
+	}
+
+	// Applies a deep-link action requested from the Context & Guidance drawer.
+	async function applyGuidance(
+		/** @type {{type: 'bestand'} | {type: 'tab', tab: number} | null} */ g
+	) {
+		if (!g) return;
+		await tick();
+		if (g.type === 'tab') {
+			tabSet = /** @type {0 | 1 | 2 | 3} */ (g.tab);
+			document.querySelector('.tab-group')?.scrollIntoView(true);
+			flashHighlight('tabs');
+		} else if (g.type === 'bestand') {
+			document.getElementById('virtueller-bestand')?.scrollIntoView({ behavior: 'smooth' });
+			flashHighlight('bestand');
+		}
+		guidance.set(null);
+	}
+	$: applyGuidance($guidance);
 </script>
 
 <ContentContainer
@@ -276,8 +303,13 @@
 		/>
 	</div>
 </ContentContainer>
-<ContentContainer dark>
-	<h2 class="h2 mb-4">Virtueller Bestand</h2>
+<ContentContainer
+	dark
+	class={highlight === 'bestand'
+		? 'rounded-lg p-1 ring-4 ring-tertiary-500 transition-shadow duration-700 animate-pulse'
+		: 'rounded-lg p-1 ring-0 ring-tertiary-500/0 transition-shadow duration-700'}
+>
+	<h2 id="virtueller-bestand" class="h2 mb-4 scroll-mt-24">Virtueller Bestand</h2>
 
 	<div class="flex flex-col md:flex-row justify-between">
 		<RecursiveTreeView
@@ -417,7 +449,11 @@
 </ContentContainer>
 <ContentContainer>
 	<h3 class="h3">Zugänge</h3>
-	<TabGroup>
+	<TabGroup
+		class={highlight === 'tabs'
+			? 'rounded-lg p-1 ring-4 ring-tertiary-500 transition-shadow duration-700 animate-pulse'
+			: 'rounded-lg p-1 ring-0 ring-tertiary-500/0 transition-shadow duration-700'}
+	>
 		<Tab bind:group={tabSet} name="tab0" value={0}>Katalogisate</Tab>
 		<Tab bind:group={tabSet} name="tab1" value={1}>Karte</Tab>
 		<Tab bind:group={tabSet} name="tab2" value={2}>Chronologie</Tab>
