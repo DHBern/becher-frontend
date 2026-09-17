@@ -65,11 +65,8 @@
 	</div>
 	<h2 class="h2">Features</h2>
 	<Accordion>
-		<AccordionItem>
-			<svelte:fragment slot="summary">
-				<!-- svelte-ignore a11y-no-static-element-interactions -->
-				<span on:click={goBestand} on:keydown={(e) => onKey(e, goBestand)}>Archival access</span>
-			</svelte:fragment>
+		<AccordionItem on:click={goBestand} on:keydown={(e) => onKey(e, goBestand)}>
+			<svelte:fragment slot="summary">Archival access</svelte:fragment>
 			<svelte:fragment slot="content"
 				><p>
 					The portal of the DEA prioritises search over hierarchy for users, whereas the catalog
@@ -159,13 +156,8 @@
 				</p>
 			</svelte:fragment>
 		</AccordionItem>
-		<AccordionItem>
-			<svelte:fragment slot="summary">
-				<!-- svelte-ignore a11y-no-static-element-interactions -->
-				<span on:click={() => goHomeTab(3)} on:keydown={(e) => onKey(e, () => goHomeTab(3))}
-					>Exploratory access (visual similarity)</span
-				>
-			</svelte:fragment>
+		<AccordionItem on:click={() => goHomeTab(3)} on:keydown={(e) => onKey(e, () => goHomeTab(3))}>
+			<svelte:fragment slot="summary">Exploratory access (visual similarity)</svelte:fragment>
 			<svelte:fragment slot="content">
 				<p>
 					Archival sources are typically not heterogeneous in terms of formats, materiality, and
@@ -200,13 +192,8 @@
 				</p>
 			</svelte:fragment>
 		</AccordionItem>
-		<AccordionItem>
-			<svelte:fragment slot="summary">
-				<!-- svelte-ignore a11y-no-static-element-interactions -->
-				<span on:click={() => goHomeTab(1)} on:keydown={(e) => onKey(e, () => goHomeTab(1))}
-					>Map-based access</span
-				>
-			</svelte:fragment>
+		<AccordionItem on:click={() => goHomeTab(1)} on:keydown={(e) => onKey(e, () => goHomeTab(1))}>
+			<svelte:fragment slot="summary">Map-based access</svelte:fragment>
 			<svelte:fragment slot="content">
 				<p>
 					As an additional way to explore and access the documents, the prototype makes use of an
@@ -235,13 +222,8 @@
 				</p>
 			</svelte:fragment>
 		</AccordionItem>
-		<AccordionItem>
-			<svelte:fragment slot="summary">
-				<!-- svelte-ignore a11y-no-static-element-interactions -->
-				<span on:click={() => goHomeTab(2)} on:keydown={(e) => onKey(e, () => goHomeTab(2))}
-					>Chronological access</span
-				>
-			</svelte:fragment>
+		<AccordionItem on:click={() => goHomeTab(2)} on:keydown={(e) => onKey(e, () => goHomeTab(2))}>
+			<svelte:fragment slot="summary">Chronological access</svelte:fragment>
 			<svelte:fragment slot="content">
 				<p>
 					To give an impression of text production and correspondence activity over time, the
