@@ -269,7 +269,7 @@
 		await tick();
 		if (g.type === 'tab') {
 			tabSet = /** @type {0 | 1 | 2 | 3} */ (g.tab);
-			document.querySelector('.tab-group')?.scrollIntoView(true);
+			document.querySelector('.tab-group')?.scrollIntoView({ behavior: 'smooth' });
 			flashHighlight('tabs');
 		} else if (g.type === 'bestand') {
 			document.getElementById('virtueller-bestand')?.scrollIntoView({ behavior: 'smooth' });
