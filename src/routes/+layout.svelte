@@ -178,7 +178,7 @@
 	<!-- Page Route Content -->
 	<slot />
 	<svelte:fragment slot="pageFooter">
-		<div class="grid grid-cols-2 md:!grid-cols-6 gap-1 lg:ml-10 lg:mr-10">
+		<div class="grid grid-cols-2 md:!grid-cols-5 gap-1 lg:ml-10 lg:mr-10">
 			<a
 				href="https://www.nb.admin.ch/snl/de/home/ueber-uns/sla.html"
 				target="_blank"
@@ -202,20 +202,21 @@
 			<p class="h5 md:h6 lg:h5 text-black col-span-2 justify-self-start">
 				Ein Prototyp des Deutschen Exilarchivs (DEA) und des Schweizerischen Literarurarchivs (SLA)
 			</p>
-
-			<a
-				class="h5 anchor text-black col-span-2 md:col-span-1 justify-self-start md:justify-self-end"
-				href="{base}/impressum"
-			>
-				Impressum
-			</a>
-			<a
-				class="h5 anchor text-black col-span-2 md:col-span-1 justify-self-start md:justify-self-end"
-				href="{base}/#context"
-				on:click|preventDefault={openContextFromLink}
-			>
-				Context and Guidance
-			</a>
+			<div class="flex flex-col">
+				<a
+					class="h5 anchor text-black col-span-2 md:col-span-1 justify-self-start md:justify-self-end"
+					href="{base}/impressum"
+				>
+					Impressum
+				</a>
+				<a
+					class="h5 anchor text-black col-span-2 md:col-span-1 justify-self-start md:justify-self-end"
+					href="{base}/#context"
+					on:click|preventDefault={openContextFromLink}
+				>
+					Guide
+				</a>
+			</div>
 		</div>
 	</svelte:fragment>
 </AppShell>
