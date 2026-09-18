@@ -1,5 +1,5 @@
 <script>
-	import { Accordion, AccordionItem } from '@skeletonlabs/skeleton';
+	import { Accordion, AccordionItem, getDrawerStore } from '@skeletonlabs/skeleton';
 	import ContentContainer from '$lib/components/ContentContainer.svelte';
 	import { guidance } from '$lib/stores.js';
 	import { goto } from '$app/navigation';
@@ -24,10 +24,21 @@
 	function onKey(e, fn) {
 		if (e.key === 'Enter' || e.key === ' ') fn();
 	}
+	const drawerStore = getDrawerStore();
 </script>
 
 <ContentContainer>
-	<h2 class="h2">Context and Guidance</h2>
+	<div class="flex items-start justify-between">
+		<h2 class="h2">Context and Guidance</h2>
+		<button
+			type="button"
+			class="btn-icon variant-ghost-surface"
+			aria-label="Close drawer"
+			on:click={() => drawerStore.close()}
+		>
+			<i class="fa-solid fa-x"></i>
+		</button>
+	</div>
 	<div class="container relative">
 		{#if !introExpanded}
 			<div class="intro-fade pointer-events-none" aria-hidden="true"></div>
