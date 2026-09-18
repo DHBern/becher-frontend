@@ -84,7 +84,7 @@
 		</button>
 	</div>
 	<h2 class="h2">Features</h2>
-	<Accordion>
+	<Accordion regionControl="variant-ringed-tertiary">
 		<AccordionItem on:click={goBestand} on:keydown={(e) => onKey(e, goBestand)}>
 			<svelte:fragment slot="summary">Archival access</svelte:fragment>
 			<svelte:fragment slot="content"
@@ -290,7 +290,7 @@
 		and thus would require a different kind of architecture (possibly implemented as a hybrid setup
 		with a static page combined with dynamic modules).
 	</p>
-	<Accordion>
+	<Accordion regionControl="variant-ringed-tertiary">
 		<AccordionItem>
 			<svelte:fragment slot="summary">Collaborative access (citizen science)</svelte:fragment>
 			<svelte:fragment slot="content">
