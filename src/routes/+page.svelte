@@ -259,7 +259,6 @@
 	/** @param {'bestand' | 'tabs'} target */
 	function flashHighlight(target) {
 		highlight = target;
-		setTimeout(() => (highlight = ''), 5500);
 	}
 
 	// Applies a deep-link action requested from the Context & Guidance drawer.
@@ -306,7 +305,7 @@
 <ContentContainer
 	dark
 	class={highlight === 'bestand'
-		? 'rounded-lg p-1 ring-4 ring-tertiary-500 transition-shadow duration-700 animate-pulse'
+		? 'rounded-lg p-1 ring-4 ring-tertiary-500 transition-shadow duration-700 animate-[pulse_2s_cubic-bezier(0.4,0,0.6,1)_3]'
 		: 'rounded-lg p-1 ring-0 ring-tertiary-500/0 transition-shadow duration-700'}
 >
 	<h2 id="virtueller-bestand" class="h2 mb-4 scroll-mt-24">Virtueller Bestand</h2>
@@ -440,9 +439,11 @@
 			<p class="mt-5">
 				Es werden {filtereditems.length} Elemente angezeigt. {filtereditems.filter(
 					(i) => i.holding_institution === 'SLA'
-				).length} aus dem <span class="bg-primary-500 text-on-primary-token px-1">SLA</span>, {filtereditems.filter(
+				).length}
+				aus dem <span class="bg-primary-500 text-on-primary-token px-1">SLA</span>, {filtereditems.filter(
 					(i) => i.holding_institution === 'DEA'
-				).length} aus dem <span class="bg-tertiary-500 text-on-tertiary-token px-1">DEA</span>
+				).length}
+				aus dem <span class="bg-tertiary-500 text-on-tertiary-token px-1">DEA</span>
 			</p>
 		</div>
 	</div>
@@ -451,7 +452,7 @@
 	<h3 class="h3">Zugänge</h3>
 	<TabGroup
 		class={highlight === 'tabs'
-			? 'rounded-lg p-1 ring-4 ring-tertiary-500 transition-shadow duration-700 animate-pulse'
+			? 'rounded-lg p-1 ring-4 ring-tertiary-500 transition-shadow duration-700  animate-[pulse_2s_cubic-bezier(0.4,0,0.6,1)_3]'
 			: 'rounded-lg p-1 ring-0 ring-tertiary-500/0 transition-shadow duration-700'}
 	>
 		<Tab bind:group={tabSet} name="tab0" value={0}>Katalogisate</Tab>
