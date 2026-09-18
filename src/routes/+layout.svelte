@@ -16,7 +16,7 @@
 	import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
 	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
-	import { afterNavigate } from '$app/navigation';
+	import { afterNavigate, pushState } from '$app/navigation';
 	import { computePosition, autoUpdate, offset, shift, flip, arrow } from '@floating-ui/dom';
 	import { storePopup } from '@skeletonlabs/skeleton';
 	storePopup.set({ computePosition, autoUpdate, offset, shift, flip, arrow });
@@ -87,7 +87,50 @@
 			toastStore.trigger(t);
 		}
 	});
+
+	// Open the context drawer by pushing a real #context history entry (footer link).
+	function openContextFromLink() {
+		suppressHashOpen = true;
+		pushState(currentPath() + '#context', $page.state);
+		suppressHashOpen = false;
+		contentDrawerOpen('en');
+	}
+
+	function currentPath() {
+		return window.location.pathname + window.location.search;
+	}
+
+	// Open the drawer whenever the URL gains #context. Bound via <svelte:window> so it
+	// reacts to the footer link and Back/Forward. Suppressed while WE push.
+	let suppressHashOpen = false;
+	function openIfContext() {
+		if (!suppressHashOpen && window.location.hash === '#context' && !$drawerStore.open) {
+			contentDrawerOpen('en');
+		}
+	}
+	onMount(() => {
+		openIfContext();
+	});
+
+	// Track that the context drawer was open so the close reaction below only fires on a
+	// real open->closed transition, not on initial load.
+	let contextWasOpen = false;
+	$: if ($drawerStore.open && $drawerStore.id === 'content-en') {
+		contextWasOpen = true;
+	}
+
+	// When the context drawer closes while the URL still shows #context, move history forward
+	// to a hash-less URL. The drawer stays closed; Back returns to the #context entry and
+	// reopens it.
+	$: if (contextWasOpen && !$drawerStore.open && typeof window !== 'undefined' && window.location.hash === '#context') {
+		contextWasOpen = false;
+		suppressHashOpen = true;
+		pushState(currentPath(), $page.state);
+		suppressHashOpen = false;
+	}
 </script>
+
+<svelte:window on:hashchange={openIfContext} on:popstate={openIfContext} />
 
 <Drawer height="h-auto">
 	{#if $drawerStore.id === 'nav'}
@@ -124,8 +167,6 @@
 						class="list-nav-item h-full p-4 {classesActive(page.path)}">{page.slug}</a
 					>
 				{/each}
-				<button class="btn" on:click={() => contentDrawerOpen('en')}>Context and Guidance</button>
-				<button class="btn" on:click={() => contentDrawerOpen('de')}>Kontext und Anleitung</button>
 			</nav>
 			<svelte:fragment slot="trail">
 				<button class="md:!hidden btn-icon" on:click={drawerOpen}>
@@ -137,7 +178,7 @@
 	<!-- Page Route Content -->
 	<slot />
 	<svelte:fragment slot="pageFooter">
-		<div class="grid grid-cols-2 md:!grid-cols-5 gap-1 lg:ml-10 lg:mr-10">
+		<div class="grid grid-cols-2 md:!grid-cols-6 gap-1 lg:ml-10 lg:mr-10">
 			<a
 				href="https://www.nb.admin.ch/snl/de/home/ueber-uns/sla.html"
 				target="_blank"
@@ -167,6 +208,13 @@
 				href="{base}/impressum"
 			>
 				Impressum
+			</a>
+			<a
+				class="h5 anchor text-black col-span-2 md:col-span-1 justify-self-start md:justify-self-end"
+				href="{base}/#context"
+				on:click|preventDefault={openContextFromLink}
+			>
+				Context and Guidance
 			</a>
 		</div>
 	</svelte:fragment>
