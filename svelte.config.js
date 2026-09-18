@@ -19,7 +19,8 @@ const config = {
 			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
 		},
 		prerender: {
-			handleHttpError: 'warn' //remove this for production
+			handleHttpError: 'warn', //remove this for production
+			handleMissingId: 'ignore'
 		}
 	}
 };
