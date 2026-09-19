@@ -5,7 +5,7 @@
 <ContentContainer>
 	<h1 class="h1">Impressum</h1>
 	<p>
-		Ulrich Becher Digital ist ein gemeinsam entwickeltes und verantwortetes Kooperationsprojekt des
+		Becher Digital ist ein gemeinsam entwickeltes und verantwortetes Kooperationsprojekt des
 		Deutschen Exilarchivs 1933-1945 der Deutschen Nationalbibliothek und des Schweizerischen
 		Literaturarchivs der Schweizerischen Nationalbibliothek.
 	</p>

@@ -286,7 +286,7 @@
 >
 	<div class="z-10 col-span-full md:col-span-1 row-start-1">
 		<h1 class="h1 my-16 text-shadow-lg bg-surface-900/60 sm:bg-inherit rounded-md">
-			Ulrich Becher Digital
+			Becher Digital
 		</h1>
 		<p class="p lg:text-xl bg-surface-900/60 sm:bg-inherit rounded-md">
 			Virtuell zusammengeführte Teilnachlässe des Deutschen Exilarchivs 1933-1945 und des

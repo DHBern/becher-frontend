@@ -5,7 +5,7 @@
 <ContentContainer>
 	<h1 class="h1">Über das Projekt</h1>
 	<p>
-		Das binationale Kooperationsprojekt Ulrich Becher Digital soll den Zugang zum Nachlass des
+		Das binationale Kooperationsprojekt Becher Digital soll den Zugang zum Nachlass des
 		Exilschriftstellers Ulrich Becher vereinfachen und ist eine Initiative des 
 		<a class="anchor" href="https://exilarchiv.dnb.de/" target="_blank">Deutschen Exilarchivs 
 		1933-1945 der Deutschen Nationalbibliothek</a> und des <a class="anchor" 
@@ -65,7 +65,7 @@
 		Die virtuelle Zusammenführung beider Teilnachlässe basiert auf einer gemeinsamen Marktschau
 		(2022) zu bislang umgesetzten technischen Beispiellösungen. Als ein zentrales Ergebnis
 		kristallisierte sich heraus, dass im Rahmen eines Vorprojektes ein Prototyp realisiert werden
-		sollte, um das Potential von Ulrich Becher digital anschaulich darzustellen. Folgende
+		sollte, um das Potential von Becher digital anschaulich darzustellen. Folgende
 		Anforderungen sollten dabei im Fokus stehen.
 	</p>
 
@@ -93,7 +93,7 @@
 <ContentContainer>
 	<h1 class="h1">Impressum</h1>
 	<p>
-		Ulrich Becher Digital ist ein gemeinsam entwickeltes und verantwortetes Kooperationsprojekt des
+		Becher Digital ist ein gemeinsam entwickeltes und verantwortetes Kooperationsprojekt des
 		Deutschen Exilarchivs 1933-1945 der Deutschen Nationalbibliothek und des Schweizerischen
 		Literaturarchivs der Schweizerischen Nationalbibliothek.
 	</p>
