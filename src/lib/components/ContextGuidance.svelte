@@ -45,15 +45,15 @@
 		{/if}
 		<p>
 			The prototype application “Becher Digital” (BeD) was developed in 2024 by Jörn Hasenclever and
-			Sylvia Asmus (German Exile Archive 1933–1945, Frankfurt), Moritz Wagner and Ruedi Probst
+			Sylvia Asmus (German Exile Archive 1933–1945, Frankfurt), Moritz Wagner and Rudolf Probst
 			(Swiss Literary Archives, Bern), as well as Peter Dängeli and Sebastian Flick (Data Science
 			Lab, University of Bern), with support from Sukanya Nath (Data Science Lab, University of
 			Bern) on specific NLP/ML aspects. Taking the scattered archival holdings of Ulrich Becher at
 			the two institutions as a starting point, the collaboration set out to explore ways of
 			virtually combining the holdings and making them available in ways that facilitate analysis
 			and research across the entire literary estate. The resulting prototype primarily incorporates
-			documents from the two archival collections related to the novels Murmeljagd and Abseits vom
-			Rodeo, as well as family correspondence. While many gaps remain for the time being, the
+			documents from the two archival collections related to the novels <em>Murmeljagd</em> and <em>Abseits vom
+			Rodeo</em>, as well as family correspondence. While many gaps remain for the time being, the
 			prototype serves to test various aspects of the envisaged virtual integration and to provide a
 			model starting point for nuanced and efficient research into the life and work of Dana and
 			Ulrich Becher. From a technical point of view, the prototype was devised as a
@@ -134,7 +134,7 @@
 				<p>
 					Another data refinement concerns the assignment of GND work authority data to archival
 					units (GND Entity code Q249 wit). In the course of the prototype this was carried out for
-					materials associated with the works *Abseits vom Rodeo* and *Murmeljagd* as a proof of
+					materials associated with the works <em>Abseits vom Rodeo</em> and <em>Murmeljagd</em> as a proof of
 					concept that has shown to be highly valuable and will be applied to other works and result
 					in a considerable coverage of the materials. Work authority data allows to isolate
 					documents related to a given work from both archives, not limited to literary texts but
